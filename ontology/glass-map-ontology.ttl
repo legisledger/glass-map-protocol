@@ -1,0 +1,42 @@
+@prefix gm: <https://glassmap.org/ontology/> .
+@prefix schema: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# -- The Core Geometric Tier Class --
+gm:GeometricTier a rdfs:Class ;
+    rdfs:label "Geometric Tier" ;
+    rdfs:comment "A standardized population-based administrative boundary." ;
+    rdfs:subClassOf schema:AdministrativeArea .
+
+# -- The Micro-District (The Atom) --
+gm:MicroDistrict a rdfs:Class ;
+    rdfs:label "Micro-District" ;
+    rdfs:comment "A primary geometric tier targeting ~60,000 residents." ;
+    rdfs:subClassOf gm:GeometricTier .
+
+# -- The Regional Tier (The Subsystem) --
+gm:RegionalTier a rdfs:Class ;
+    rdfs:label "Regional Tier" ;
+    rdfs:comment "A secondary geometric tier targeting ~600,000 residents, composed of Micro-Districts." ;
+    rdfs:subClassOf gm:GeometricTier .
+
+# -- Properties to Connect the Dots --
+gm:hasZipCode a rdf:Property ;
+    rdfs:label "has ZIP Code" ;
+    rdfs:domain gm:MicroDistrict ;
+    rdfs:range xsd:string ;
+    rdfs:comment "The postal 'brick' used to build the Micro-District." .
+
+gm:sharesAquifer a rdf:Property ;
+    rdfs:label "shares aquifer" ;
+    rdfs:domain gm:GeometricTier ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Links a tier to a shared subterranean water resource." .
+
+gm:serviceProvider a rdf:Property ;
+    rdfs:label "service provider" ;
+    rdfs:domain gm:GeometricTier ;
+    rdfs:range schema:GovernmentOrganization ;
+    rdfs:comment "The entity (Borough, Township, or Region) delivering a service." .
