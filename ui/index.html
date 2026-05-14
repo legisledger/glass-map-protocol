@@ -32,11 +32,9 @@
         <aside class="pane repo-pane">
             <div class="pane-header">Protocols / Data</div>
             <div class="pane-content">
-                <ul class="file-list">
-                    <li class="file-item active">data/micro/08055.yml</li>
-                    <li class="file-item">data/micro/08088.yml</li>
-                    <li class="file-item">schemas/micro-district.json</li>
-                    <li class="file-item">ontology/glass-map.ttl</li>
+                <ul class="file-list" id="file-selector">
+                    <li class="file-item active" data-file="08055.yml">data/micro/08055.yml</li>
+                    <li class="file-item" data-file="19103.yml">data/micro/19103.yml</li>
                 </ul>
             </div>
         </aside>
@@ -99,6 +97,39 @@
         console.log("Glass Map Protocol UI Initialized.");
         // Tonight's Scripting Goal: Fetch 08055.yml and map to Service Cards.
 
+        // --- INTERACTIVE ROUTER ---
+        const fileSelector = document.getElementById('file-selector');
+        
+        fileSelector.addEventListener('click', async (e) => {
+            const target = e.target.closest('.file-item');
+            if (!target) return;
+        
+            // UI Feedback: Update active state
+            document.querySelectorAll('.file-item').forEach(el => el.classList.remove('active'));
+            target.classList.add('active');
+        
+            const fileName = target.getAttribute('data-file');
+            await loadProtocol(fileName);
+        });
+        
+        async function loadProtocol(fileName) {
+            try {
+                const response = await fetch(`../data/micro/${fileName}`);
+                const yamlText = await response.text();
+                const data = jsyaml.load(yamlText);
+        
+                // Update the Map with Gravity
+                // Note: For now, we are passing the data + our neighbors mock
+                // In the next step, we can move neighbor data into the YAML itself!
+                renderGlassMap(data, (data.id === '08055' ? neighbors : phillyNeighbors));
+                
+                // Update Pane 3: The Ledger
+                updateServiceLedger(data);
+            } catch (err) {
+                console.error("Failed to load protocol:", err);
+            }
+        }
+        
          /**
          * ADMINISTRATIVE GRAVITY ENGINE
          * Purpose: Accumulate neighboring population until the 60k threshold is reached.
@@ -248,6 +279,36 @@
         // TEST: Toggle between Medford Lakes and Philly
         // renderGlassMap(medfordLakes, neighbors); // Uncomment for Home
         renderGlassMap(phillyAnchor, phillyNeighbors); // Currently showing Philly
+
+        function updateServiceLedger(data) {
+            const ledgerContent = document.querySelector('.pane-3 .pane-content');
+            const auditConsole = document.querySelector('.audit-console');
+        
+            // Render Services
+            ledgerContent.innerHTML = data.services.map(s => `
+                <div class="service-card">
+                    <div class="service-card-header">
+                        <span class="service-type-${s.tier.toLowerCase().includes('micro') ? 'micro' : 'regional'}">
+                            ${s.service.toUpperCase()}
+                        </span>
+                        <span>${s.tier}</span>
+                    </div>
+                    <p>Provider: ${s.provider}</p>
+                    <p class="text-muted" style="font-size: 0.65rem; margin-top: 5px;">${s.logic}</p>
+                </div>
+            `).join('');
+        
+            // Render Hypotheses (Legis Ledger)
+            auditConsole.innerHTML = `
+                <div class="pane-header" style="background:none; padding:0 0 10px 0;">Legis Ledger Audit</div>
+                ${data.hypotheses.map(h => `
+                    <div class="hypothesis-entry">
+                        <div class="confidence-meter">P(${h.claim}) = ${h.probability}</div>
+                        <p style="font-size: 0.7rem;">${h.logic}</p>
+                    </div>
+                `).join('')}
+            `;
+        }
         
     </script>
 </body>
