@@ -1,0 +1,132 @@
+/* --- Global Theme: High-Density Monospace --- */
+:root {
+    --bg-dark: #0a0a0a;
+    --bg-panel: #141414;
+    --border-color: #2d2d2d;
+    --text-primary: #e0e0e0;
+    --text-muted: #888888;
+    --accent-blue: #3b82f6;
+    --accent-green: #10b981;
+    --accent-yellow: #f59e0b;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    font-family: 'SF Mono', 'Fira Code', 'Courier New', monospace;
+    overflow: hidden; /* Prevents the whole page from scrolling */
+}
+
+/* --- Layout Grid --- */
+.dashboard-container {
+    display: grid;
+    grid-template-columns: 250px 1fr 450px; /* Pane 1, Pane 2, Pane 3 */
+    height: 100vh;
+    gap: 1px;
+    background-color: var(--border-color); /* Creates the grid lines */
+}
+
+/* --- Common Pane Styling --- */
+.pane {
+    background-color: var(--bg-panel);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.pane-header {
+    padding: 12px;
+    background-color: #1a1a1a;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pane-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 15px;
+    font-size: 0.75rem;
+    line-height: 1.4;
+}
+
+/* --- Pane 1: Repository --- */
+.repo-pane { color: var(--accent-blue); }
+.file-list { list-style: none; padding: 0; }
+.file-item {
+    padding: 6px 8px;
+    margin-bottom: 4px;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+.file-item.active {
+    background: rgba(59, 130, 246, 0.1);
+    border-color: var(--accent-blue);
+}
+
+/* --- Pane 2: Map View --- */
+.map-pane { background-color: #000; position: relative; }
+.map-controls {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 100;
+}
+.map-btn {
+    background: #222;
+    color: #fff;
+    border: 1px solid #444;
+    padding: 4px 8px;
+    margin-right: 5px;
+    cursor: pointer;
+    font-size: 0.65rem;
+}
+.map-btn:hover { background: var(--accent-blue); }
+
+/* --- Pane 3: Service Ledger & Ledger Stack --- */
+.service-card {
+    border: 1px solid var(--border-color);
+    padding: 12px;
+    margin-bottom: 15px;
+    background: #1c1c1c;
+}
+.service-card-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 5px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+.service-type-micro { color: var(--accent-green); }
+.service-type-regional { color: var(--accent-yellow); }
+
+/* --- Sub-Pane: Legis Ledger Bayesian Console --- */
+.audit-console {
+    height: 35%; /* Fixed height at bottom of Pane 3 */
+    border-top: 2px solid var(--accent-blue);
+    background: #000;
+    padding: 12px;
+    overflow-y: auto;
+}
+.hypothesis-entry {
+    margin-bottom: 12px;
+    padding-left: 8px;
+    border-left: 2px solid var(--accent-yellow);
+}
+.confidence-meter {
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* --- Scrollbar Styling (The "Clean" Look) --- */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #333; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-blue); }
