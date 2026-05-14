@@ -3,11 +3,18 @@
  * Standard: 1789 1st Senate (1:60,000)
  */
 
-const PROTOCOL_STANDARD = 60000; // Locked Configuration
-
 console.log("Glass Map Protocol UI Initialized.");
 
-const mapCanvas = document.getElementById('map-canvas');
+const PROTOCOL_STANDARD = 60000; // Locked Configuration
+
+let mapCanvas;
+
+window.onload = () => {
+    // Assign it once the page is fully ready
+    mapCanvas = document.querySelector('.map-pane .pane-content');
+    loadProtocol('08055.yml');
+};
+
 const mapContainer = document.querySelector('.map-pane .pane-content');
 const fileSelector = document.getElementById('file-selector');
 
@@ -34,7 +41,7 @@ async function loadProtocol(fileName) {
         console.log("YAML Data Loaded:", data);
 
         // CLEAR THE PANE before rendering
-        mapCanvas.innerHTML = ""; 
+        if (mapCanvas) mapCanvas.innerHTML = ""; 
         
         // RENDER the new map
         renderGlassMap(data, data.neighbors || []);
@@ -96,13 +103,6 @@ const GravityEngine = {
 
 function renderGlassMap(anchorData, neighbors) {
     
-    const mapCanvas = document.querySelector('.map-pane .pane-content');
-    
-    if (!mapCanvas) {
-        console.error("Critical Failure: Map Pane not found in DOM.");
-        return;
-    }
-    
     // Run gravity engine...
     const result = GravityEngine.formCluster(anchorData, neighbors);
     
@@ -116,7 +116,7 @@ function renderGlassMap(anchorData, neighbors) {
             </g>`;
     }   
     
-    mapContainer.innerHTML = svgHtml;
+    if (mapCanvas) mapCanvas.innerHTML = svgHtml;
 }
 
 function updateServiceLedger(data) {
@@ -148,8 +148,3 @@ function updateServiceLedger(data) {
         `).join('')}
     `;
 }
-
-window.onload = () => {
-    console.log("DOM fully loaded. Initializing Protocol...");
-    loadProtocol('08055.yml');
-};
