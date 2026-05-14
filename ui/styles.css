@@ -57,16 +57,46 @@ body, html {
 
 /* --- Pane 1: Repository --- */
 .repo-pane { color: var(--accent-blue); }
-.file-list { list-style: none; padding: 0; }
-.file-item {
-    padding: 6px 8px;
-    margin-bottom: 4px;
-    border: 1px solid transparent;
-    cursor: pointer;
+
+/* --- Pane 1: Interactive File Selector --- */
+.file-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
-.file-item.active {
+
+.file-item {
+    padding: 10px 14px;
+    margin-bottom: 4px;
+    border-left: 3px solid transparent;
+    background: rgba(255, 255, 255, 0.03);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text-muted);
+    font-size: 0.7rem;
+    display: flex;
+    align-items: center;
+}
+
+.file-item:hover {
     background: rgba(59, 130, 246, 0.1);
-    border-color: var(--accent-blue);
+    color: var(--text-primary);
+}
+
+.file-item.active {
+    background: rgba(59, 130, 246, 0.15);
+    border-left: 3px solid var(--accent-blue);
+    color: var(--accent-blue);
+    font-weight: bold;
+}
+
+/* Add a small 'dot' icon for files */
+.file-item::before {
+    content: '•';
+    margin-right: 8px;
+    font-size: 1.2rem;
+    color: inherit;
+    opacity: 0.5;
 }
 
 /* --- Pane 2: Map View --- */
@@ -129,4 +159,18 @@ body, html {
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: #0a0a0a; }
 ::-webkit-scrollbar-thumb { background: #333; }
-::-webkit-scrollbar-thumb:hover { background: var(--accent-blue); }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-blue); 
+
+/* --- Protocol Verification Badge Styling --- */
+.verif-circle {
+    fill: var(--accent-green);
+    filter: drop-shadow(0 0 4px rgba(16, 185, 129, 0.4));
+}
+
+.verif-text {
+    fill: var(--accent-green);
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
