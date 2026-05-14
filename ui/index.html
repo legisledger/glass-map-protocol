@@ -198,7 +198,18 @@
         
         const result = GravityEngine.formCluster(medfordLakes, neighbors);
         console.log("FINAL CLUSTER:", result);    
-    
+
+        // Test Case: Philadelphia (Center City)
+        const phillyAnchor = { id: '19103', population: 24000, x: 50, y: 50 }; // High density
+        const phillyNeighbors = [
+            { id: '19102', population: 5000, x: 51, y: 50 }, 
+            { id: '19107', population: 15000, x: 52, y: 50 },
+            { id: '19146', population: 36000, x: 50, y: 52 }
+        ];
+        
+        // The engine pulls 19146 and is instantly "Stable"
+        const phillyCluster = GravityEngine.formCluster(phillyAnchor, phillyNeighbors);
+        
     </script>
 </body>
 </html>
