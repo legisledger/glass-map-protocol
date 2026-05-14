@@ -98,7 +98,7 @@
     <script>
         console.log("Glass Map Protocol UI Initialized.");
         // Tonight's Scripting Goal: Fetch 08055.yml and map to Service Cards.
-    
+
          /**
          * ADMINISTRATIVE GRAVITY ENGINE
          * Purpose: Accumulate neighboring population until the 60k threshold is reached.
@@ -169,6 +169,59 @@
         
         // The engine pulls 19146 and is instantly "Stable"
         const phillyCluster = GravityEngine.formCluster(phillyAnchor, phillyNeighbors);
+        
+        // NEW: Dynamic Gravity Renderer
+        const mapContainer = document.querySelector('.map-pane .pane-content');
+        
+        function renderGlassMap(anchorData, neighbors) {
+            // 1. Run the Administrative Gravity Engine
+            const result = GravityEngine.formCluster(anchorData, neighbors);
+            
+            // 2. Prepare the SVG Canvas
+            let svgHtml = `<svg viewBox="0 0 500 500" class="w-full h-full">`;
+        
+            // 3. Draw "Gravity Lines" first (so they sit behind the bricks)
+            result.member_zips.forEach(zipId => {
+                const zipData = [anchorData, ...neighbors].find(z => z.id === zipId);
+                if (zipId !== anchorData.id) {
+                    svgHtml += `<line x1="${anchorData.x * 20}" y1="${anchorData.y * 20}" 
+                                     x2="${zipData.x * 20}" y2="${zipData.y * 20}" 
+                                     stroke="#3b82f6" stroke-width="1" stroke-dasharray="4" opacity="0.5" />`;
+                }
+            });
+        
+            // 4. Draw the Zip Bricks
+            [anchorData, ...neighbors].forEach(item => {
+                const isMember = result.member_zips.includes(item.id);
+                const isAnchor = item.id === anchorData.id;
+        
+                svgHtml += `
+                    <g class="zip-brick" transform="translate(${item.x * 20}, ${item.y * 20})">
+                        <rect width="60" height="60" 
+                              fill="${isAnchor ? '#1e40af' : (isMember ? '#1e3a8a' : '#111')}" 
+                              stroke="${isMember ? '#3b82f6' : '#333'}" 
+                              stroke-width="${isAnchor ? '3' : '1'}" />
+                        <text x="5" y="20" fill="white" font-size="10" font-weight="bold">${item.id}</text>
+                        <text x="5" y="40" fill="${isMember ? '#60a5fa' : '#666'}" font-size="8">${item.population.toLocaleString()}</text>
+                    </g>`;
+            });
+        
+            // 5. Add the Progress Bar
+            const progress = Math.min((result.total_population / 60000) * 100, 100);
+            svgHtml += `
+                <rect x="50" y="460" width="400" height="8" fill="#222" rx="4" />
+                <rect x="50" y="460" width="${progress * 4}" height="8" fill="${result.is_stable ? '#10b981' : '#f59e0b'}" rx="4" />
+                <text x="50" y="450" fill="${result.is_stable ? '#10b981' : '#f59e0b'}" font-size="10" font-weight="bold">
+                    ${result.is_stable ? 'STABLE MICRO-DISTRICT' : 'UNDER-SCALED'} | ${result.total_population.toLocaleString()} / 60,000
+                </text>
+            </svg>`;
+        
+            mapContainer.innerHTML = svgHtml;
+        }
+        
+        // TEST: Toggle between Medford Lakes and Philly
+        // renderGlassMap(medfordLakes, neighbors); // Uncomment for Home
+        renderGlassMap(phillyAnchor, phillyNeighbors); // Currently showing Philly
         
     </script>
 </body>
