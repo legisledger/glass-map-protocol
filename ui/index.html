@@ -1,81 +1,103 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glass Map Protocol | Control Room</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .dashboard-container {
+            display: grid; 
+            grid-template-columns: 250px 1fr 450px; /* Force 3 columns */
+            grid-template-rows: 100vh; /* Force full height */
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden; /* Stops the main page from scrolling */
+            background-color: #2d2d2d; /* Grid line color */
+            gap: 1px; 
+        }
+      
+        .pane-content {
+            flex: 1;
+            overflow-y: auto; 
+            padding: 15px;
+        }
+    </style>
 </head>
 <body>
-  <!-- Main Container -->
-  <div class="grid grid-cols-12 h-screen bg-gray-900 text-gray-100 font-mono text-xs">
-    
-    <!-- PANE 1: THE REPOSITORY (2 Cols) -->
-    <aside class="col-span-2 border-r border-gray-700 p-4 overflow-y-auto bg-gray-800">
-      <h2 class="text-blue-400 font-bold mb-4 uppercase tracking-widest">/data/micro</h2>
-      <ul class="space-y-2">
-        <li class="bg-blue-900/30 p-2 border border-blue-500">08055.yml (Active)</li>
-        <li class="text-gray-500 p-2 hover:bg-gray-700 cursor-pointer">08088.yml</li>
-        <li class="text-gray-500 p-2 hover:bg-gray-700 cursor-pointer">08053.yml</li>
-      </ul>
-      <h2 class="text-purple-400 font-bold mt-8 mb-4 uppercase tracking-widest">/schemas</h2>
-      <p class="text-gray-400">micro-district.json</p>
-    </aside>
-  
-    <!-- PANE 2: THE GLASS MAP (6 Cols) -->
-    <main class="col-span-6 relative border-r border-gray-700 bg-black">
-      <div class="absolute top-4 left-4 z-10 space-y-2">
-        <button class="bg-gray-800 border border-gray-600 px-3 py-1 hover:bg-blue-600">Surface: Borders</button>
-        <button class="bg-gray-800 border border-gray-600 px-3 py-1 hover:bg-blue-600">Depth: Aquifer</button>
-      </div>
-      <!-- Placeholder for the interactive Map -->
-      <div class="flex items-center justify-center h-full opacity-50">
-        [Interactive Map View: 08055 Polygon & Shared Aquifer Shading]
-      </div>
-    </main>
-  
-    <!-- PANE 3: THE LEDGER (4 Cols) -->
-    <section class="col-span-4 flex flex-col overflow-hidden bg-gray-900">
-      
-      <!-- Top Half: Concrete Services -->
-      <div class="flex-1 overflow-y-auto p-4 border-b border-gray-700">
-        <h3 class="text-green-400 font-bold mb-4 uppercase">Active Service Ledger: 08055</h3>
+
+    <div class="dashboard-container">
         
-        <!-- Service Card: Trash -->
-        <div class="mb-4 border border-gray-600 p-3 bg-gray-800">
-          <div class="flex justify-between font-bold border-b border-gray-700 mb-2">
-            <span>SERVICE: WASTE_MGMT</span>
-            <span class="text-green-500">PROVIDER: BORO_DPW</span>
-          </div>
-          <p>Schedule: TUES/WED | TIER: MICRO</p>
-          <p class="text-gray-400 mt-1">Disposal: Burlington Co. Resource Recovery</p>
-        </div>
-  
-        <!-- Service Card: Aquifer -->
-        <div class="mb-4 border border-blue-900 p-3 bg-blue-900/10">
-          <div class="flex justify-between font-bold border-b border-blue-900 mb-2 text-blue-400">
-            <span>RESOURCE: K_COHANSEY_AQUIFER</span>
-            <span>STATUS: SHARED</span>
-          </div>
-          <p>Depth: Surficial | Health: 0.02ppm Nitrate</p>
-          <p class="text-gray-400 mt-1 italic">Note: High interaction with Medford Township pull rates.</p>
-        </div>
-      </div>
-  
-      <!-- Bottom Half: Legis Ledger Bayesian Audit -->
-      <div class="h-1/3 bg-black p-4 overflow-y-auto border-t-2 border-blue-600">
-        <h3 class="text-blue-500 font-bold mb-2 uppercase tracking-tighter">Legis Ledger: Processing Hypotheses</h3>
-        <div class="space-y-4">
-          <div class="text-xs">
-            <p class="text-yellow-500">[HYPOTHESIS_ID: 08055-W-01]</p>
-            <p>Efficiency Gain via Office Consolidation: <strong>82% Probability</strong></p>
-            <p class="text-gray-500">Source: /data/micro/08055.yml -> logic_string</p>
-          </div>
-          <div class="text-xs">
-            <p class="text-yellow-500">[HYPOTHESIS_ID: 08055-A-04]</p>
-            <p>Upstream Impact (Shamong Pull): <strong>Minimal Interference</strong></p>
-            <p class="text-gray-400 italic">Confidence Score: 0.94 (Bayesian Audit Complete)</p>
-          </div>
-        </div>
-      </div>
-      
-    </section>
-  </div>
+        <!-- PANE 1: REPOSITORY (Left Column) -->
+        <aside class="pane repo-pane">
+            <div class="pane-header">Protocols / Data</div>
+            <div class="pane-content">
+                <ul class="file-list">
+                    <li class="file-item active">data/micro/08055.yml</li>
+                    <li class="file-item">data/micro/08088.yml</li>
+                    <li class="file-item">schemas/micro-district.json</li>
+                    <li class="file-item">ontology/glass-map.ttl</li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- PANE 2: GLASS MAP (Center Column) -->
+        <main class="pane map-pane">
+            <div class="pane-header">Spatial View: Medford Lakes</div>
+            <div class="map-controls">
+                <button class="map-btn">Borders</button>
+                <button class="map-btn">Aquifer</button>
+            </div>
+            <div class="pane-content" style="display:flex; align-items:center; justify-content:center;">
+                <div style="color: #444; text-align: center;">
+                    [SVG MAP RENDERER]<br>
+                    <small>08055_Polygon_Active</small>
+                </div>
+            </div>
+        </main>
+
+        <!-- PANE 3: LEDGER (Right Column) -->
+        <section class="pane">
+            <div class="pane-header">Service Ledger & Logic</div>
+            
+            <!-- Service Cards Area -->
+            <div class="pane-content">
+                <div class="service-card">
+                    <div class="service-card-header">
+                        <span class="service-type-micro">SCHOOLS_K8</span>
+                        <span>08055_DISTRICT</span>
+                    </div>
+                    <p>Provider: Medford Lakes Public Schools</p>
+                    <p class="text-muted">Type: Local Atom</p>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-card-header">
+                        <span class="service-type-regional">AQUIFER_RESOURCE</span>
+                        <span>K_COHANSEY</span>
+                    </div>
+                    <p>Logic: Shared subterranean resource with Medford/Shamong.</p>
+                </div>
+                <!-- Add more cards here to test the vertical scroll of THIS pane only -->
+            </div>
+
+            <!-- Legis Ledger Bayesian Console (Bottom fixed section) -->
+            <div class="audit-console">
+                <div class="pane-header" style="background:none; padding:0 0 10px 0;">Legis Ledger Audit</div>
+                <div class="hypothesis-entry">
+                    <div class="confidence-meter">P(Efficiency | Consolidation) = 0.82</div>
+                    <p>Hypothesis: Admin shared-service overhead reduction.</p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- YAML Parser for evening work -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script>
+        console.log("Glass Map Protocol UI Initialized.");
+        // Tonight's Scripting Goal: Fetch 08055.yml and map to Service Cards.
+    </script>
 </body>
 </html>
