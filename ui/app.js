@@ -102,21 +102,95 @@ const GravityEngine = {
 };
 
 function renderGlassMap(anchorData, neighbors) {
+    if (!mapCanvas) return;
+    mapCanvas.innerHTML = ""; // Clear the deck
     
-    // Run gravity engine...
-    const result = GravityEngine.formCluster(anchorData, neighbors);
-    
-    // Add a checkmark if the cluster matches the Rulebook (cluster_schema.json)
+    let svgHtml = "";
+    const neighborsToDraw = neighbors || [];
+
+    // 1. TOPOLOGICAL POSITIONING
+    // Anchor always starts at the relative origin
+    anchorData.x = 0;
+    anchorData.y = 0;
+
+    // Orbit the neighbors dynamically
+    neighborsToDraw.forEach((zip, index) => {
+        const angle = (index / neighborsToDraw.length) * 2 * Math.PI;
+        // Radius of 1.5 units provides clean spacing for the bricks
+        const radius = 1.5; 
+        zip.x = Math.cos(angle) * radius;
+        zip.y = Math.sin(angle) * radius;
+    });
+
+    // 2. CALCULATE GRAVITY
+    const result = GravityEngine.formCluster(anchorData, neighborsToDraw);
+    const allPoints = [anchorData, ...neighborsToDraw];
+
+    // 3. SVG COORDINATE NORMALIZATION
+    // We scale the relative x,y (0, 1.5, etc) to screen pixels (300, 450, etc)
+    const scale = 120; 
+    const centerX = 300;
+    const centerY = 250;
+
+    svgHtml = `<svg viewBox="0 0 600 600" class="w-full h-full" style="background:#000;">`;
+
+    // 4. DRAW GRAVITY BONDS (Lines)
+    result.member_zips.forEach(zipId => {
+        const zipData = allPoints.find(z => z.id === zipId);
+        if (zipId !== anchorData.id) {
+            svgHtml += `
+                <line x1="${centerX}" y1="${centerY}" 
+                      x2="${zipData.x * scale + centerX}" y2="${zipData.y * scale + centerY}" 
+                      stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="4" opacity="0.6" />`;
+        }
+    });
+
+    // 5. DRAW ZIP BRICKS
+    allPoints.forEach(item => {
+        const isMember = result.member_zips.includes(item.id);
+        const isAnchor = item.id === anchorData.id;
+        const posX = item.x * scale + centerX - 30; // -30 to center the 60px rect
+        const posY = item.y * scale + centerY - 30;
+
+        svgHtml += `
+            <g class="zip-brick" style="cursor:pointer;" transform="translate(${posX}, ${posY})">
+                <rect width="60" height="60" rx="4"
+                      fill="${isAnchor ? '#1e40af' : (isMember ? '#1e3a8a' : '#111')}" 
+                      stroke="${isMember ? '#3b82f6' : '#333'}" 
+                      stroke-width="${isAnchor ? '3' : '1'}" />
+                <text x="30" y="25" fill="white" font-size="12" font-weight="bold" text-anchor="middle">${item.id}</text>
+                <text x="30" y="45" fill="${isMember ? '#60a5fa' : '#666'}" font-size="10" text-anchor="middle">
+                    ${(item.population / 1000).toFixed(1)}k
+                </text>
+            </g>`;
+    });
+
+    // 6. DRAW THE 1789 STANDARD PROGRESS BAR
+    const progress = Math.min((result.total_population / PROTOCOL_STANDARD) * 100, 100);
+    const barColor = result.is_stable ? '#10b981' : '#f59e0b';
+
+    svgHtml += `
+        <g transform="translate(50, 520)">
+            <text y="-15" fill="white" font-size="12" font-weight="bold" style="letter-spacing:0.05em;">
+                ${result.is_stable ? 'STABLE MICRO-DISTRICT' : 'UNDER-SCALED'} 
+                | ${result.total_population.toLocaleString()} / ${PROTOCOL_STANDARD.toLocaleString()}
+            </text>
+            <rect width="500" height="8" fill="#222" rx="4" />
+            <rect width="${progress * 5}" height="8" fill="${barColor}" rx="4" style="transition: width 0.5s ease;" />
+        </g>`;
+
+    // 7. THE PROTOCOL VERIFIED BADGE (1789 Standard)
     if (result.is_stable) {
         svgHtml += `
-            <g transform="translate(450, 435)">
-                <circle r="10" class="verif-circle" />
-                <path d="M-4 0 L-1 3 L5 -3" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" />
-                <text x="16" y="4" class="verif-text">PROTOCOL VERIFIED</text>
+            <g transform="translate(430, 485)">
+                <circle r="8" fill="#10b981" />
+                <path d="M-3 0 L-1 2 L4 -2" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" transform="translate(0,0)" />
+                <text x="15" y="4" fill="#10b981" font-size="9" font-weight="bold" style="letter-spacing:0.1em;">1789 STANDARD VERIFIED</text>
             </g>`;
-    }   
-    
-    if (mapCanvas) mapCanvas.innerHTML = svgHtml;
+    }
+
+    svgHtml += `</svg>`;
+    mapCanvas.innerHTML = svgHtml;
 }
 
 function updateServiceLedger(data) {
