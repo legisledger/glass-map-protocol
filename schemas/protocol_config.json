@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Glass Map Protocol Configuration",
+  "historical_basis": "1789 1st Senate Standard (Article the First)",
+  "standard": {
+    "population_mass_target": 60000,
+    "rationale": "Optimal scale for administrative efficiency and direct representation."
+  },
+  "constraints": {
+    "minimum_efficiency": 0.85,
+    "mass_tolerance": 0.08
+  }
+}
