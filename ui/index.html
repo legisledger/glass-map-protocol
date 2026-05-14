@@ -99,6 +99,66 @@
         console.log("Glass Map Protocol UI Initialized.");
         // Tonight's Scripting Goal: Fetch 08055.yml and map to Service Cards.
 
+        /**
+         * ADMINISTRATIVE GRAVITY ENGINE
+         * Purpose: Accumulate neighboring population until the 60k threshold is reached.
+         */
+        const GravityEngine = {
+            TARGET_MASS: 60000,
+            TOLERANCE: 5000,
+        
+            // The 'Pull' function
+            formCluster: function(anchorZip, availableZips) {
+                // 1. Start with the anchor
+                let cluster = [anchorZip];
+                let currentMass = anchorZip.population;
+        
+                // 2. Sort available neighbors by 'Gravity' (Inverse Square of Distance)
+                // We prioritize Zips that are physically closest to the anchor
+                let candidates = availableZips
+                    .filter(z => z.id !== anchorZip.id)
+                    .sort((a, b) => this.calculateGravity(anchorZip, a) - this.calculateGravity(anchorZip, b));
+        
+                // 3. Accumulate Mass
+                for (let zip of candidates) {
+                    if (currentMass < (this.TARGET_MASS - this.TOLERANCE)) {
+                        cluster.push(zip);
+                        currentMass += zip.population;
+                        console.log(`Pulling ${zip.id} into orbit. Current Mass: ${currentMass}`);
+                    } else {
+                        break;
+                    }
+                }
+        
+                return {
+                    cluster_id: `GM-${anchorZip.id}-STABLE`,
+                    anchor_zip: anchorZip.id,
+                    total_population: currentMass,
+                    member_zips: cluster.map(z => z.id),
+                    is_stable: currentMass >= (this.TARGET_MASS - this.TOLERANCE)
+                };
+            },
+        
+            calculateGravity: function(origin, target) {
+                // Administrative Gravity = Pop / Distance^2
+                // For simplicity in MVP: we just return pure distance (Lower is better)
+                const dx = origin.x - target.x;
+                const dy = origin.y - target.y;
+                return Math.sqrt(dx * dx + dy * dy);
+            }
+        };
+        
+        // Example Usage for Medford Lakes
+        const medfordLakes = { id: '08055', population: 29109, x: 10, y: 10 };
+        const neighbors = [
+            { id: '08088', population: 12000, x: 12, y: 11 }, // Shamong
+            { id: '08053', population: 20000, x: 8, y: 15 },  // Marlton
+            { id: '08060', population: 22000, x: 15, y: 20 }  // Mt Holly
+        ];
+        
+        const result = GravityEngine.formCluster(medfordLakes, neighbors);
+        console.log("FINAL CLUSTER:", result);
+        
         // Quick MVP Renderer for Column 2
         const mapContainer = document.querySelector('.map-pane .pane-content');
         
