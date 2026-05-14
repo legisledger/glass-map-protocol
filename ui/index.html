@@ -98,6 +98,46 @@
     <script>
         console.log("Glass Map Protocol UI Initialized.");
         // Tonight's Scripting Goal: Fetch 08055.yml and map to Service Cards.
+
+        // Quick MVP Renderer for Column 2
+        const mapContainer = document.querySelector('.map-pane .pane-content');
+        
+        function renderGlassMap(activeZip) {
+            // Mock Data for Medford Lakes Cluster
+            const cluster = [
+                { zip: '08055', pop: 29109, x: 200, y: 200, label: 'Medford Lakes' },
+                { zip: '08088', pop: 12000, x: 280, y: 150, label: 'Shamong' },
+                { zip: '08053', pop: 20000, x: 120, y: 250, label: 'Marlton/Evesham' }
+            ];
+        
+            const totalPop = cluster.reduce((sum, item) => sum + item.pop, 0);
+        
+            let svgHtml = `
+                <svg viewBox="0 0 400 400" class="w-full h-full">
+                    <!-- The 60k Target Boundary -->
+                    <circle cx="200" cy="200" r="150" fill="none" stroke="#3b82f6" stroke-dasharray="4" opacity="0.3" />
+                    
+                    ${cluster.map(item => `
+                        <g class="zip-brick" cursor="pointer">
+                            <rect x="${item.x}" y="${item.y}" width="70" height="70" 
+                                  fill="${item.zip === activeZip ? '#1e40af' : '#111'}" 
+                                  stroke="#3b82f6" stroke-width="1" />
+                            <text x="${item.x + 5}" y="${item.y + 25}" fill="white" font-size="10">${item.zip}</text>
+                            <text x="${item.x + 5}" y="${item.y + 45}" fill="#888" font-size="8">${item.pop.toLocaleString()}</text>
+                        </g>
+                    `).join('')}
+                    
+                    <!-- Population Progress Bar -->
+                    <rect x="50" y="370" width="300" height="10" fill="#222" />
+                    <rect x="50" y="370" width="${(totalPop / 60000) * 300}" height="10" fill="#10b981" />
+                    <text x="50" y="360" fill="#10b981" font-size="10">Cluster Population: ${totalPop.toLocaleString()} / 60,000</text>
+                </svg>
+            `;
+        
+            mapContainer.innerHTML = svgHtml;
+        }
+        
+        renderGlassMap('08055');
     </script>
 </body>
 </html>
