@@ -101,6 +101,11 @@
         
         // --- INTERACTIVE ROUTER ---
         const fileSelector = document.getElementById('file-selector');
+
+        // Initialize the dashboard on load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadProtocol('08055.yml');
+        });
         
         fileSelector.addEventListener('click', async (e) => {
             const target = e.target.closest('.file-item');
