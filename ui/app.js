@@ -1,3 +1,10 @@
+/**
+ * GLASS MAP PROTOCOL - CORE ENGINE
+ * Standard: 1789 1st Senate (1:60,000)
+ */
+
+const PROTOCOL_STANDARD = 60000; // Locked Configuration
+
 console.log("Glass Map Protocol UI Initialized.");
 
 // NEW: Dynamic Gravity Renderer
