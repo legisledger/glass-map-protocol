@@ -1,0 +1,47 @@
+id: "19103"
+name: "Philadelphia (Rittenhouse Square)"
+type: "Urban Atom"
+population: 24150 # Approximate Rittenhouse/Center City West pop
+coordinates:
+  x: 50
+  y: 50
+
+# Geometric Tiering Rules
+tier_rules:
+  target_mass: 60000
+  tolerance: 5000
+  clustering_logic: "High-Density Contiguous"
+
+# Services & Entanglements
+services:
+  - service: "Waste Management"
+    provider: "Philadelphia Streets Department"
+    tier: "Micro-Local"
+    logic: "High-density curbside collection. Efficiency is derived from low geographic friction (short routes, high volume)."
+
+  - service: "Education (K-12)"
+    provider: "School District of Philadelphia"
+    tier: "Systemic-Regional"
+    logic: "Centralized urban district. Administrative gravity is high due to massive student population but suffers from legacy bureaucratic friction."
+
+  - service: "Water & Sewage"
+    provider: "Philadelphia Water Department"
+    tier: "Infrastructure-Grid"
+    logic: "Surface water source (Schuylkill/Delaware Rivers). Unlike 08055, the entanglement is with a shared city-wide grid rather than a natural aquifer boundary."
+
+  - service: "Public Safety"
+    provider: "PPD 9th District"
+    tier: "Micro-Local"
+    logic: "Localized precinct patrolling. Service radius is < 2 miles, creating a high-frequency safety loop."
+
+# Administrative Gravity Hypotheses (For Legis Ledger)
+hypotheses:
+  - id: "19103-E-01"
+    claim: "Urban Density Efficiency"
+    probability: 0.94
+    logic: "Given the population density of 19103, waste collection costs per resident are hypothesized to be 40% lower than 08055."
+  
+  - id: "19103-S-02"
+    claim: "Centralized District Friction"
+    probability: 0.62
+    logic: "Large-scale urban school districts show a 12% increase in administrative overhead compared to the 08055 local-district model."
