@@ -174,46 +174,62 @@
         const mapContainer = document.querySelector('.map-pane .pane-content');
         
         function renderGlassMap(anchorData, neighbors) {
-            // 1. Run the Administrative Gravity Engine
             const result = GravityEngine.formCluster(anchorData, neighbors);
-            
-            // 2. Prepare the SVG Canvas
-            let svgHtml = `<svg viewBox="0 0 500 500" class="w-full h-full">`;
+            const allPoints = [anchorData, ...neighbors];
         
-            // 3. Draw "Gravity Lines" first (so they sit behind the bricks)
+            // FIND THE CENTER: This prevents the "Top Left Corner" huddle
+            const minX = Math.min(...allPoints.map(p => p.x));
+            const minY = Math.min(...allPoints.map(p => p.y));
+            
+            // SCALE: 80px per unit provides enough room for the bricks to breathe
+            const scale = 80; 
+            const offset = 50; // Padding from the edge
+        
+            let svgHtml = `<svg viewBox="0 0 600 600" class="w-full h-full">`;
+        
+            // DRAW LINES FIRST
             result.member_zips.forEach(zipId => {
-                const zipData = [anchorData, ...neighbors].find(z => z.id === zipId);
+                const zipData = allPoints.find(z => z.id === zipId);
                 if (zipId !== anchorData.id) {
-                    svgHtml += `<line x1="${anchorData.x * 20}" y1="${anchorData.y * 20}" 
-                                     x2="${zipData.x * 20}" y2="${zipData.y * 20}" 
-                                     stroke="#3b82f6" stroke-width="1" stroke-dasharray="4" opacity="0.5" />`;
+                    svgHtml += `<line x1="${(anchorData.x - minX) * scale + offset + 30}" 
+                                     y1="${(anchorData.y - minY) * scale + offset + 30}" 
+                                     x2="${(zipData.x - minX) * scale + offset + 30}" 
+                                     y2="${(zipData.y - minY) * scale + offset + 30}" 
+                                     stroke="#3b82f6" stroke-width="2" stroke-dasharray="4" opacity="0.6" />`;
                 }
             });
         
-            // 4. Draw the Zip Bricks
-            [anchorData, ...neighbors].forEach(item => {
+            // DRAW BRICKS
+            allPoints.forEach(item => {
                 const isMember = result.member_zips.includes(item.id);
                 const isAnchor = item.id === anchorData.id;
+                // Calculate relative position
+                const posX = (item.x - minX) * scale + offset;
+                const posY = (item.y - minY) * scale + offset;
         
                 svgHtml += `
-                    <g class="zip-brick" transform="translate(${item.x * 20}, ${item.y * 20})">
-                        <rect width="60" height="60" 
+                    <g class="zip-brick" transform="translate(${posX}, ${posY})">
+                        <rect width="60" height="60" rx="4"
                               fill="${isAnchor ? '#1e40af' : (isMember ? '#1e3a8a' : '#111')}" 
                               stroke="${isMember ? '#3b82f6' : '#333'}" 
                               stroke-width="${isAnchor ? '3' : '1'}" />
-                        <text x="5" y="20" fill="white" font-size="10" font-weight="bold">${item.id}</text>
-                        <text x="5" y="40" fill="${isMember ? '#60a5fa' : '#666'}" font-size="8">${item.population.toLocaleString()}</text>
+                        <text x="30" y="25" fill="white" font-size="12" font-weight="bold" text-anchor="middle">${item.id}</text>
+                        <text x="30" y="45" fill="${isMember ? '#60a5fa' : '#666'}" font-size="10" text-anchor="middle">
+                            ${(item.population / 1000).toFixed(1)}k
+                        </text>
                     </g>`;
             });
         
-            // 5. Add the Progress Bar
+            // UPDATED PROGRESS BAR (Fixed at the bottom)
             const progress = Math.min((result.total_population / 60000) * 100, 100);
             svgHtml += `
-                <rect x="50" y="460" width="400" height="8" fill="#222" rx="4" />
-                <rect x="50" y="460" width="${progress * 4}" height="8" fill="${result.is_stable ? '#10b981' : '#f59e0b'}" rx="4" />
-                <text x="50" y="450" fill="${result.is_stable ? '#10b981' : '#f59e0b'}" font-size="10" font-weight="bold">
-                    ${result.is_stable ? 'STABLE MICRO-DISTRICT' : 'UNDER-SCALED'} | ${result.total_population.toLocaleString()} / 60,000
-                </text>
+                <g transform="translate(50, 540)">
+                    <rect width="500" height="12" fill="#222" rx="6" />
+                    <rect width="${progress * 5}" height="12" fill="${result.is_stable ? '#10b981' : '#f59e0b'}" rx="6" />
+                    <text y="-10" fill="white" font-size="12" font-weight="bold">
+                        ${result.is_stable ? 'STABLE CLUSTER' : 'UNDER-SCALED'} | ${result.total_population.toLocaleString()} / 60,000
+                    </text>
+                </g>
             </svg>`;
         
             mapContainer.innerHTML = svgHtml;
