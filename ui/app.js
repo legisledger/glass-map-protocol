@@ -135,45 +135,26 @@ function renderGlassMap(anchorData, neighbors, computedCluster) {
     let svgHtml = "";
     const neighborsToDraw = neighbors || [];
 
-    // Use the engine's computed result directly
-    const result = computedCluster;
+    // 1. USE THE COMPUTED BACKEND CLUSTER DIRECTLY
+    const result = computedCluster; 
     
-    // Convert calculated relative offsets to map space scale
-    // Scale up the subtle differences for visual clarity on screen
+    // 2. SCALE SPATIAL COORDINATES FOR THE SCREEN
+    // Scale up the dynamic x/y offsets from the registry for visual clarity
     neighborsToDraw.forEach(zip => {
         zip.x = zip.x * 1.5; 
         zip.y = zip.y * 1.5;
     });
+
+    // Anchor is always at the screen center origin before scaling
+    anchorData.x = 0;
+    anchorData.y = 0;
 
     const allPoints = [anchorData, ...neighborsToDraw];
     const scale = 100; 
     const centerX = 300;
     const centerY = 250;
 
-    // 1. TOPOLOGICAL POSITIONING
-    // Anchor always starts at the relative origin
-    anchorData.x = 0;
-    anchorData.y = 0;
-
-    // Orbit the neighbors dynamically
-    neighborsToDraw.forEach((zip, index) => {
-        const angle = (index / neighborsToDraw.length) * 2 * Math.PI;
-        // Radius of 1.5 units provides clean spacing for the bricks
-        const radius = 1.5; 
-        zip.x = Math.cos(angle) * radius;
-        zip.y = Math.sin(angle) * radius;
-    });
-
-    // 2. CALCULATE GRAVITY
-    const result = GravityEngine.formCluster(anchorData, neighborsToDraw);
-    const allPoints = [anchorData, ...neighborsToDraw];
-
-    // 3. SVG COORDINATE NORMALIZATION
-    // We scale the relative x,y (0, 1.5, etc) to screen pixels (300, 450, etc)
-    const scale = 120; 
-    const centerX = 300;
-    const centerY = 250;
-
+    // 3. SVG COORDINATE SYSTEM DEFINITION
     svgHtml = `<svg viewBox="0 0 600 600" class="w-full h-full" style="background:#000;">`;
 
     // 4. DRAW GRAVITY BONDS (Lines)
