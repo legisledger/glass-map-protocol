@@ -30,86 +30,125 @@ fileSelector.addEventListener('click', async (e) => {
     await loadProtocol(fileName);
 });
 
-async function loadProtocol(fileName) {
-    console.log(`Attempting to load: ${fileName}`); // Debug line
+async function loadProtocol(zipId) {
+    console.log(`Analyzing Protocol for Zip: ${zipId}`);
     try {
-        const response = await fetch(`../data/micro/${fileName}`);
-        const yamlText = await response.text();
-        const data = jsyaml.load(yamlText);
+        // Fetch both datasets concurrently
+        const [registryResponse, localResponse] = await Promise.all([
+            fetch('../data/zip_registry.json'),
+            fetch(`../data/micro/${zipId === '08055' ? '08055.yml' : '19103.yml'}`) 
+            // Note: In local dev, you'll eventually rename your yml files directly to 08055.yml / 19103.yml
+        ]);
 
-        // Debugging the data structure
-        console.log("YAML Data Loaded:", data);
+        const masterRegistry = await registryResponse.json();
+        const yamlText = await localResponse.text();
+        const localData = jsyaml.load(yamlText);
 
-        // CLEAR THE PANE before rendering
-        if (mapCanvas) mapCanvas.innerHTML = ""; 
-        
-        // RENDER the new map
-        renderGlassMap(data, data.neighbors || []);
-        updateServiceLedger(data);
+        // Compute the dynamic cluster using Weighted Gravity
+        const clusterResult = GravityEngine.calculateCluster(zipId, masterRegistry);
+
+        // Intercept data and hand calculated neighbors to the renderer
+        renderGlassMap(localData, clusterResult.neighbors, clusterResult);
+        updateServiceLedger(localData);
 
     } catch (err) {
-        mapCanvas.innerHTML = `<p style="color:red; padding:20px;">Error loading ${fileName}: ${err.message}</p>`;
+        console.error("Protocol Analysis Failure:", err);
+        const mapCanvas = document.querySelector('.map-pane .pane-content');
+        if (mapCanvas) {
+            mapCanvas.innerHTML = `<p style="color:#ef4444; padding:20px;">Protocol Breach: ${err.message}</p>`;
+        }
     }
 }
 
  /**
  * ADMINISTRATIVE GRAVITY ENGINE
- * Purpose: Accumulate neighboring population until the maximum representative threshold is reached.
+ * Purpose: Accumulate neighboring population until the 1789 Standard is reached 
+ * balancing geographic distance and infrastructure alignment.
  */
 const GravityEngine = {
-    TARGET_MASS: PROTOCOL_STANDARD,
+    TARGET_MASS: PROTOCOL_STANDARD, // 60,000 (1789 Standard)
     TOLERANCE: 5000,
 
-    // The 'Pull' function
-    formCluster: function(anchorZip, availableZips) {
-        // 1. Start with the anchor
-        let cluster = [anchorZip];
-        let currentMass = anchorZip.population;
+    // NEW: Dynamic Multi-Constraint Cluster Calculation
+    calculateCluster: function(anchorId, masterRegistry) {
+        const anchor = masterRegistry.find(z => z.id === anchorId);
+        if (!anchor) return null;
 
-        // 2. Sort available neighbors by 'Gravity' (Inverse Square of Distance)
-        // We prioritize Zips that are physically closest to the anchor
-        let candidates = availableZips
-            .filter(z => z.id !== anchorZip.id)
-            .sort((a, b) => this.calculateGravity(anchorZip, a) - this.calculateGravity(anchorZip, b));
+        // 1. Calculate weighted distances to all other nodes
+        const candidates = masterRegistry
+            .filter(z => z.id !== anchorId)
+            .map(node => {
+                // Geometric Euclidean Distance
+                const dx = node.x - anchor.x;
+                const dy = node.y - anchor.y;
+                const rawDistance = Math.sqrt(dx * dx + dy * dy);
 
-        // 3. Accumulate Mass
-        for (let zip of candidates) {
-            if (currentMass < (this.TARGET_MASS - this.TOLERANCE)) {
-                cluster.push(zip);
-                currentMass += zip.population;
-                console.log(`Pulling ${zip.id} into orbit. Current Mass: ${currentMass}`);
-            } else {
-                break;
-            }
+                // Infrastructure Alignment Check
+                const sharesAquifer = anchor.infrastructure?.aquifer !== "None" && 
+                                      anchor.infrastructure?.aquifer === node.infrastructure?.aquifer;
+
+                // Weighted Distance: Reduce effective distance by 35% if they share infrastructure
+                const weightMultiplier = sharesAquifer ? 0.65 : 1.0;
+                const weightedDistance = rawDistance * weightMultiplier;
+
+                return { ...node, rawDistance, weightedDistance };
+            });
+
+        // 2. Sort candidates by closest weighted distance
+        candidates.sort((a, b) => a.weightedDistance - b.weightedDistance);
+
+        // 3. Accumulate mass until the 1789 Constitutional Standard is met
+        let totalPopulation = anchor.population;
+        const memberZips = [anchor.id];
+        const dynamicNeighbors = [];
+
+        for (const candidate of candidates) {
+            if (totalPopulation >= this.TARGET_MASS) break;
+            
+            totalPopulation += candidate.population;
+            memberZips.push(candidate.id);
+            dynamicNeighbors.push({
+                id: candidate.id,
+                population: candidate.population,
+                // Keep the relative geometric position for drawing
+                x: candidate.x - anchor.x,
+                y: candidate.y - anchor.y
+            });
         }
 
-        return {
-            cluster_id: `GM-${anchorZip.id}-STABLE`,
-            anchor_zip: anchorZip.id,
-            total_population: currentMass,
-            member_zips: cluster.map(z => z.id),
-            is_stable: currentMass >= (this.TARGET_MASS - this.TOLERANCE)
-        };
-    },
+        const isStable = totalPopulation >= (this.TARGET_MASS - this.TOLERANCE);
 
-    calculateGravity: function(origin, target) {
-        // Administrative Gravity = Pop / Distance^2
-        // For simplicity in MVP: we just return pure distance (Lower is better)
-        const dx = origin.x - target.x;
-        const dy = origin.y - target.y;
-        return Math.sqrt(dx * dx + dy * dy);
+        return {
+            anchor_id: anchorId,
+            total_population: totalPopulation,
+            member_zips: memberZips,
+            is_stable: isStable,
+            neighbors: dynamicNeighbors
+        };
     }
 };
 
-function renderGlassMap(anchorData, neighbors) {
+function renderGlassMap(anchorData, neighbors, computedCluster) {
     if (!mapCanvas) return;
-    mapCanvas.innerHTML = ""; // Clear the deck
-
-    const titleElement = document.getElementById('map-title');
-    if (titleElement) titleElement.innerText = data.name || data.id;
+    mapCanvas.innerHTML = ""; 
     
     let svgHtml = "";
     const neighborsToDraw = neighbors || [];
+
+    // Use the engine's computed result directly
+    const result = computedCluster;
+    
+    // Convert calculated relative offsets to map space scale
+    // Scale up the subtle differences for visual clarity on screen
+    neighborsToDraw.forEach(zip => {
+        zip.x = zip.x * 1.5; 
+        zip.y = zip.y * 1.5;
+    });
+
+    const allPoints = [anchorData, ...neighborsToDraw];
+    const scale = 100; 
+    const centerX = 300;
+    const centerY = 250;
 
     // 1. TOPOLOGICAL POSITIONING
     // Anchor always starts at the relative origin
