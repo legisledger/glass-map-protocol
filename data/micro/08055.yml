@@ -1,33 +1,30 @@
-# Project Glass Map: Micro-District 08055
 id: "gm:micro:08055"
 type: "gm:MicroDistrict"
-name: "Medford-Lakes-Pinelands"
+name: "Medford Lakes (Pinelands)"
 
-# Geometric Data
 population: 29109
+
 zip_codes:
   - "08055"
 
-# Shared Infrastructure (The "Aquifer Logic")
 infrastructure:
   aquifer:
     name: "Kirkwood-Cohansey"
-    status: "Shared"
     type: "Unconfined"
+    status: "Shared"
 
-# Service Entanglement Matrix
 services:
-  - service: "Waste Management (Trash)"
-    provider: "Borough of Medford Lakes"
-    tier: "Micro"
-    logic: "Last-mile collection is local; disposal is Regional (Burlington County)."
+  - service: "Waste Management"
+    tier: "Shared Contract"
+    provider: "Burlington County UA"
+    logic: "Aggregated municipal recycling lowers per-capita environmental tax overhead."
 
-  - service: "Education (K-8)"
-    provider: "Medford Lakes School District"
-    tier: "Micro"
-    logic: "Indivisible local atom."
+  - service: "Education K-8"
+    tier: "Local District"
+    provider: "Medford Lakes Schools"
+    logic: "Neigborhood scale walking districts maintained for primary development."
 
-  - service: "Education (9-12)"
-    provider: "Lenape Regional High School District"
-    tier: "Regional"
-    logic: "Shared with Medford Township and surrounding areas."
+  - service: "Education 9-12"
+    tier: "Regional District"
+    provider: "Lenape Regional HS District"
+    logic: "High-capital secondary educational assets shared across regional mass."
