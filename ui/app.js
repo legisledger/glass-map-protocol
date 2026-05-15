@@ -207,8 +207,20 @@ function updateServiceLedger(data) {
         return;
     }
 
+    let infraHtml = "";
+    if (data.infrastructure && data.infrastructure.aquifer) {
+        const aq = data.infrastructure.aquifer;
+        infraHtml = `
+            <div class="infra-card" style="margin-bottom:15px; border-bottom:1px solid #333; padding-bottom:10px;">
+                <div style="font-size:0.6rem; color:#888; text-transform:uppercase;">Infrastructure Anchor</div>
+                <div style="color:#10b981; font-weight:bold; font-size:0.8rem;">${aq.name} Aquifer</div>
+                <div style="font-size:0.65rem; color:#aaa;">Type: ${aq.type} | Status: ${aq.status}</div>
+            </div>
+        `;
+    }
+    
     // Render Services
-    ledgerContent.innerHTML = data.services.map(s => `
+    ledgerContent.innerHTML = infraHtml + data.services.map(s => `
         <div class="service-card" style="border-left: 2px solid #3b82f6; padding: 10px; margin-bottom: 10px; background: rgba(255,255,255,0.02);">
             <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
                 <span style="font-weight: bold; color: #60a5fa; font-size: 0.7rem;">${s.service.toUpperCase()}</span>
