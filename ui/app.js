@@ -31,28 +31,28 @@ fileSelector.addEventListener('click', async (e) => {
 });
 
 async function loadProtocol(zipId) {
-    console.log(`Analyzing Protocol for Zip: ${zipId}`);
+    // Ensure we handle either raw zips or full namespaces safely
+    const cleanZip = zipId.replace("gm:micro:", "");
+    console.log(`Analyzing Protocol for Zip: ${cleanZip}`);
+    
     try {
-        // Fetch both datasets concurrently
         const [registryResponse, localResponse] = await Promise.all([
             fetch('../data/zip_registry.json'),
-            fetch(`../data/micro/${zipId === '08055' ? '08055.yml' : '19103.yml'}`) 
-            // Note: In local dev, you'll eventually rename your yml files directly to 08055.yml / 19103.yml
+            fetch(`../data/micro/${cleanZip}.yml`)
         ]);
 
         const masterRegistry = await registryResponse.json();
         const yamlText = await localResponse.text();
         const localData = jsyaml.load(yamlText);
 
-        // Compute the dynamic cluster using Weighted Gravity
-        const clusterResult = GravityEngine.calculateCluster(zipId, masterRegistry);
-        
-        // SAFETY GUARD: If the engine returned null, throw a clear error
+        // We pass the cleanZip ("08055") to match the registry IDs
+        const clusterResult = GravityEngine.calculateCluster(cleanZip, masterRegistry);
+
         if (!clusterResult) {
-            throw new Error(`Zip ID ${zipId} could not be resolved in the Master Registry.`);
+            throw new Error(`Zip ID ${cleanZip} could not be resolved in the Master Registry.`);
         }
-        
-        // Intercept data and hand calculated neighbors to the renderer
+
+        // Render everything cleanly
         renderGlassMap(localData, clusterResult.neighbors, clusterResult);
         updateServiceLedger(localData);
 
@@ -60,7 +60,7 @@ async function loadProtocol(zipId) {
         console.error("Protocol Analysis Failure:", err);
         const mapCanvas = document.querySelector('.map-pane .pane-content');
         if (mapCanvas) {
-            mapCanvas.innerHTML = `<p style="color:#ef4444; padding:20px;">Protocol Breach: ${err.message}</p>`;
+            mapCanvas.innerHTML = `<p style="color:#ef4444; padding:20px; font-size:0.7rem;">Protocol Breach: ${err.message}</p>`;
         }
     }
 }
