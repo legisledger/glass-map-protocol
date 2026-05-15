@@ -170,8 +170,15 @@ function renderGlassMap(anchorData, neighbors, computedCluster) {
 
     // 4. DRAW GRAVITY BONDS (Lines)
     result.member_zips.forEach(zipId => {
-        const zipData = allPoints.find(z => z.id === zipId);
-        if (zipId !== anchorData.id) {
+        // Clean the incoming ID so it matches our registry style formatting
+        const cleanZipId = zipId.replace("gm:micro:", "");
+        const cleanAnchorId = anchorData.id.replace("gm:micro:", "");
+
+        // Find the coordinates in our compiled points list
+        const zipData = allPoints.find(z => z.id.replace("gm:micro:", "") === cleanZipId);
+        
+        // Only draw a bond line if it exists and isn't the central anchor itself
+        if (zipData && cleanZipId !== cleanAnchorId) {
             svgHtml += `
                 <line x1="${centerX}" y1="${centerY}" 
                       x2="${zipData.x * scale + centerX}" y2="${zipData.y * scale + centerY}" 
@@ -181,9 +188,14 @@ function renderGlassMap(anchorData, neighbors, computedCluster) {
 
     // 5. DRAW ZIP BRICKS
     allPoints.forEach(item => {
-        const isMember = result.member_zips.includes(item.id);
-        const isAnchor = item.id === anchorData.id;
-        const posX = item.x * scale + centerX - 30; // -30 to center the 60px rect
+        const cleanItemId = item.id.replace("gm:micro:", "");
+        const cleanAnchorId = anchorData.id.replace("gm:micro:", "");
+        
+        // Determine membership status safely using cleaned string matching
+        const isMember = result.member_zips.map(id => id.replace("gm:micro:", "")).includes(cleanItemId);
+        const isAnchor = cleanItemId === cleanAnchorId;
+        
+        const posX = item.x * scale + centerX - 30; 
         const posY = item.y * scale + centerY - 30;
 
         svgHtml += `
@@ -192,13 +204,13 @@ function renderGlassMap(anchorData, neighbors, computedCluster) {
                       fill="${isAnchor ? '#1e40af' : (isMember ? '#1e3a8a' : '#111')}" 
                       stroke="${isMember ? '#3b82f6' : '#333'}" 
                       stroke-width="${isAnchor ? '3' : '1'}" />
-                <text x="30" y="25" fill="white" font-size="12" font-weight="bold" text-anchor="middle">${item.id}</text>
+                <text x="30" y="25" fill="white" font-size="12" font-weight="bold" text-anchor="middle">${cleanItemId}</text>
                 <text x="30" y="45" fill="${isMember ? '#60a5fa' : '#666'}" font-size="10" text-anchor="middle">
                     ${(item.population / 1000).toFixed(1)}k
                 </text>
             </g>`;
     });
-
+    
     // 6. DRAW THE 1789 STANDARD PROGRESS BAR
     const progress = Math.min((result.total_population / PROTOCOL_STANDARD) * 100, 100);
     const barColor = result.is_stable ? '#10b981' : '#f59e0b';
