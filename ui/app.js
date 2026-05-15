@@ -194,31 +194,38 @@ function renderGlassMap(anchorData, neighbors) {
 }
 
 function updateServiceLedger(data) {
+    // We target Pane 3 specifically by its class
     const ledgerContent = document.querySelector('.pane-3 .pane-content');
     const auditConsole = document.querySelector('.audit-console');
 
+    // SAFETY GUARD: If the DOM isn't ready, exit early to prevent the crash
+    if (!ledgerContent || !data.services) {
+        console.warn("Ledger content or services data missing.");
+        return;
+    }
+
     // Render Services
     ledgerContent.innerHTML = data.services.map(s => `
-        <div class="service-card">
-            <div class="service-card-header">
-                <span class="service-type-${s.tier.toLowerCase().includes('micro') ? 'micro' : 'regional'}">
-                    ${s.service.toUpperCase()}
-                </span>
-                <span>${s.tier}</span>
+        <div class="service-card" style="border-left: 2px solid #3b82f6; padding: 10px; margin-bottom: 10px; background: rgba(255,255,255,0.02);">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+                <span style="font-weight: bold; color: #60a5fa; font-size: 0.7rem;">${s.service.toUpperCase()}</span>
+                <span style="font-size: 0.6rem; color: #888;">${s.tier}</span>
             </div>
-            <p>Provider: ${s.provider}</p>
-            <p class="text-muted" style="font-size: 0.65rem; margin-top: 5px;">${s.logic}</p>
+            <p style="margin: 0; font-size: 0.7rem;">Provider: ${s.provider}</p>
+            <p style="margin: 5px 0 0 0; font-size: 0.6rem; color: #aaa; line-height: 1.2;">${s.logic}</p>
         </div>
     `).join('');
 
-    // Render Hypotheses (Legis Ledger)
-    auditConsole.innerHTML = `
-        <div class="pane-header" style="background:none; padding:0 0 10px 0;">Legis Ledger Audit</div>
-        ${data.hypotheses.map(h => `
-            <div class="hypothesis-entry">
-                <div class="confidence-meter">P(${h.claim}) = ${h.probability}</div>
-                <p style="font-size: 0.7rem;">${h.logic}</p>
-            </div>
-        `).join('')}
-    `;
+    // Render Hypotheses (Legis Ledger) - Check if auditConsole exists first
+    if (auditConsole && data.hypotheses) {
+        auditConsole.innerHTML = `
+            <div style="font-size: 0.7rem; font-weight: bold; color: #888; margin-bottom: 10px; border-bottom: 1px solid #333; padding-bottom: 5px;">LEGIS LEDGER AUDIT</div>
+            ${data.hypotheses.map(h => `
+                <div style="margin-bottom: 8px;">
+                    <div style="font-size: 0.65rem; color: #10b981;">P(${h.claim}) = ${h.probability}</div>
+                    <p style="font-size: 0.6rem; color: #888; margin: 2px 0;">${h.logic}</p>
+                </div>
+            `).join('')}
+        `;
+    }
 }
