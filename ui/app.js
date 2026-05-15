@@ -104,6 +104,9 @@ const GravityEngine = {
 function renderGlassMap(anchorData, neighbors) {
     if (!mapCanvas) return;
     mapCanvas.innerHTML = ""; // Clear the deck
+
+    const titleElement = document.getElementById('map-title');
+    if (titleElement) titleElement.innerText = data.name || data.id;
     
     let svgHtml = "";
     const neighborsToDraw = neighbors || [];
