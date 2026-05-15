@@ -46,7 +46,12 @@ async function loadProtocol(zipId) {
 
         // Compute the dynamic cluster using Weighted Gravity
         const clusterResult = GravityEngine.calculateCluster(zipId, masterRegistry);
-
+        
+        // SAFETY GUARD: If the engine returned null, throw a clear error
+        if (!clusterResult) {
+            throw new Error(`Zip ID ${zipId} could not be resolved in the Master Registry.`);
+        }
+        
         // Intercept data and hand calculated neighbors to the renderer
         renderGlassMap(localData, clusterResult.neighbors, clusterResult);
         updateServiceLedger(localData);
