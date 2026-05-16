@@ -146,28 +146,59 @@ function renderGlassMap(anchorData, neighbors, computedCluster) {
     let svgHtml = "";
     const neighborsToDraw = neighbors || [];
 
+    // =========================================================================
     // 1. USE THE COMPUTED BACKEND CLUSTER DIRECTLY
+    // =========================================================================
     const result = computedCluster; 
-    
-    // 2. SCALE SPATIAL COORDINATES FOR THE SCREEN
-    // Scale up the dynamic x/y offsets from the registry for visual clarity
+
+    // =========================================================================
+    // 2. DYNAMIC AUTO-BOUNDING BOX CALCULATION (Pasted Insertion)
+    // =========================================================================
+    const padding = 70;  // Safe margin to keep bricks completely inside the view
+    const width = 600;   // ViewBox total width
+    const height = 500;  // ViewBox canvas height (leaves space for ledger/progress)
+
+    // Force Anchor to the geometric origin before scaling
+    anchorData.x = 0;
+    anchorData.y = 0;
+
+    // Scale up the dynamic backend offsets for visual clarity
     neighborsToDraw.forEach(zip => {
         zip.x = zip.x * 1.5; 
         zip.y = zip.y * 1.5;
     });
 
-    // Anchor is always at the screen center origin before scaling
-    anchorData.x = 0;
-    anchorData.y = 0;
-
     const allPoints = [anchorData, ...neighborsToDraw];
-    const scale = 100; 
-    const centerX = 300;
-    const centerY = 250;
 
+    // Find the exact mathematical boundaries of this specific ecosystem cluster
+    const xValues = allPoints.map(p => p.x);
+    const yValues = allPoints.map(p => p.y);
+    
+    const minX = Math.min(...xValues);
+    const maxX = Math.max(...xValues);
+    const minY = Math.min(...yValues);
+    const maxY = Math.max(...yValues);
+
+    // Compute the delta spread (prevent division by zero if single node)
+    const deltaX = (maxX - minX) || 1;
+    const deltaY = (maxY - minY) || 1;
+
+    // Calculate the absolute optimal scale to fit everything perfectly
+    const scaleX = (width - padding * 2) / deltaX;
+    const scaleY = (height - padding * 2) / deltaY;
+    
+    // Pick the restrictive scale so nothing gets clipped, but cap it at 120
+    const scale = Math.min(scaleX, scaleY, 120); 
+
+    // Dynamically calculate the center point to align the entire matrix perfectly
+    const centerX = width / 2 - ((minX + maxX) / 2) * scale;
+    const centerY = height / 2 - ((minY + maxY) / 2) * scale;
+
+    // =========================================================================
     // 3. SVG COORDINATE SYSTEM DEFINITION
-    svgHtml = `<svg viewBox="0 0 600 600" class="w-full h-full" style="background:#000;">`;
-
+    // =========================================================================
+    svgHtml = `<svg viewBox="0 0 ${width} 600" class="w-full h-full" style="background:#000;">`;
+    
     // 4. DRAW GRAVITY BONDS (Lines)
     result.member_zips.forEach(zipId => {
         // Clean the incoming ID so it matches our registry style formatting

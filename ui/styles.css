@@ -101,22 +101,35 @@ body, html {
 
 /* --- Pane 2: Map View --- */
 .map-pane { background-color: #000; position: relative; }
+
 .map-controls {
     position: absolute;
     top: 10px;
-    left: 10px;
+    right: 15px;      /* 1. FLIP FROM LEFT TO RIGHT */
+    left: auto;        /* 2. CLEAR THE DEFAULT LEFT ALIGNMENT */
     z-index: 100;
+    display: flex;     /* 3. ENSURE CONTROLS ROW UP HORIZONTALLY */
+    gap: 6px;
 }
+
 .map-btn {
-    background: #222;
-    color: #fff;
-    border: 1px solid #444;
+    background: #111;  /* Subtle theme tuning to match a sleek console */
+    color: #888;
+    border: 1px solid #333;
     padding: 4px 8px;
-    margin-right: 5px;
+    margin-right: 0;   /* Let flexbox gap handle spacing instead */
     cursor: pointer;
     font-size: 0.65rem;
+    text-transform: uppercase;
+    border-radius: 3px;
+    transition: all 0.2s ease;
 }
-.map-btn:hover { background: var(--accent-blue); }
+
+.map-btn:hover { 
+    background: var(--accent-blue); 
+    color: #fff;
+    border-color: var(--accent-blue);
+}
 
 /* --- Pane 3: Service Ledger & Ledger Stack --- */
 .service-card {
