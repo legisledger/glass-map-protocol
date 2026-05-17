@@ -1,0 +1,21 @@
+{
+  "name": "gmp-state-synthesis",
+  "version": "1.0.0",
+  "description": "Glass Map Protocol fluid equalization engine and verification pipeline",
+  "main": "tools/synthesize_registry.js",
+  "scripts": {
+    "synthesize": "node tools/synthesize_registry.js",
+    "test": "node test/pipeline.test.js"
+  },
+  "keywords": [
+    "systems-engineering",
+    "optimization",
+    "spatial-mesh"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "canvas": "^2.11.2"
+  }
+}
