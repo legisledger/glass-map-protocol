@@ -15,7 +15,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies": {
-    "canvas": "^2.11.2"
-  }
+  "devDependencies": {}
 }
