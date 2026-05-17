@@ -8,7 +8,7 @@ The project has officially achieved **Initial Operational Capability (IOC)** as 
 
 ## 🛰️ System Architecture & Framework
 
-The Glass Map Protocol decouples decentralized local administrative metrics from static geographical baselines. The client interface operates via a synchronous graphics engine driven by an asynchronous network data-ingestion pipeline.
+The architecture enables viewing micro districts, services, and infrastructure in a web browser using a 3 pane architecture: Pane 1 micro district selection (/data/micro/.yml), Pane 2 SVG Canvas Map based on creating 1789 standard maximum congressional districts balancing geographic distance and infrastructure alignment, and Pane 3 showing representative services for the given micro district. The SVG Canvas Map is generated from a core engine (ui/app.js), local data (/data/micro/.yml), and a spatial base (/data/micro/zip_registry.json).
 
 ```
                  [ Web Browser Viewport ]

@@ -1,0 +1,6802 @@
+[
+  {
+    "id": "CBG-AK-10000",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.9065,
+    "y": 70.2876,
+    "infraWeight": 0.07983238850865114,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10354",
+      "CBG-AK-10038",
+      "CBG-AK-10088",
+      "CBG-AK-10363",
+      "CBG-AK-10167"
+    ]
+  },
+  {
+    "id": "CBG-AK-10001",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -143.2611,
+    "y": 61.5672,
+    "infraWeight": 0.12188541775787182,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10362",
+      "CBG-AK-10376",
+      "CBG-AK-10393",
+      "CBG-AK-10067",
+      "CBG-AK-10020"
+    ]
+  },
+  {
+    "id": "CBG-AK-10002",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.252,
+    "y": 55.8346,
+    "infraWeight": 0.06522389056124751,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10065",
+      "CBG-AK-10328",
+      "CBG-AK-10091",
+      "CBG-AK-10029",
+      "CBG-AK-10157"
+    ]
+  },
+  {
+    "id": "CBG-AK-10003",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.23,
+    "y": 68.9767,
+    "infraWeight": 0.1724020861772344,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10216",
+      "CBG-AK-10160",
+      "CBG-AK-10279",
+      "CBG-AK-10090",
+      "CBG-AK-10213"
+    ]
+  },
+  {
+    "id": "CBG-AK-10004",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.0103,
+    "y": 63.7576,
+    "infraWeight": 0.2814093626671512,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10222",
+      "CBG-AK-10231",
+      "CBG-AK-10060",
+      "CBG-AK-10359",
+      "CBG-AK-10104"
+    ]
+  },
+  {
+    "id": "CBG-AK-10005",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.1411,
+    "y": 60.39,
+    "infraWeight": 0.5596510307882792,
+    "population": 927,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10310",
+      "CBG-AK-10013",
+      "CBG-AK-10277",
+      "CBG-AK-10043",
+      "CBG-AK-10141"
+    ]
+  },
+  {
+    "id": "CBG-AK-10006",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -141.0934,
+    "y": 63.7937,
+    "infraWeight": 0.10202216732831268,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10286",
+      "CBG-AK-10028",
+      "CBG-AK-10067",
+      "CBG-AK-10036",
+      "CBG-AK-10145"
+    ]
+  },
+  {
+    "id": "CBG-AK-10007",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.7996,
+    "y": 54.7851,
+    "infraWeight": 0.15485178271748729,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10235",
+      "CBG-AK-10096",
+      "CBG-AK-10247",
+      "CBG-AK-10251",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10008",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.4941,
+    "y": 69.6355,
+    "infraWeight": 0.08228293188390368,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10344",
+      "CBG-AK-10322",
+      "CBG-AK-10154",
+      "CBG-AK-10284",
+      "CBG-AK-10257"
+    ]
+  },
+  {
+    "id": "CBG-AK-10009",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.0509,
+    "y": 64.2151,
+    "infraWeight": 0.12616976375133693,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10075",
+      "CBG-AK-10164",
+      "CBG-AK-10168",
+      "CBG-AK-10129",
+      "CBG-AK-10115"
+    ]
+  },
+  {
+    "id": "CBG-AK-10010",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.9998,
+    "y": 68.9167,
+    "infraWeight": 0.15261696977503686,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10187",
+      "CBG-AK-10116",
+      "CBG-AK-10338",
+      "CBG-AK-10264",
+      "CBG-AK-10365"
+    ]
+  },
+  {
+    "id": "CBG-AK-10011",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.6364,
+    "y": 58.7061,
+    "infraWeight": 0.2009677668095779,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10250",
+      "CBG-AK-10052",
+      "CBG-AK-10370",
+      "CBG-AK-10280",
+      "CBG-AK-10366"
+    ]
+  },
+  {
+    "id": "CBG-AK-10012",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.2068,
+    "y": 66.233,
+    "infraWeight": 0.192648098949582,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10166",
+      "CBG-AK-10357",
+      "CBG-AK-10209",
+      "CBG-AK-10371",
+      "CBG-AK-10054"
+    ]
+  },
+  {
+    "id": "CBG-AK-10013",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.9886,
+    "y": 59.9046,
+    "infraWeight": 0.6140828446767019,
+    "population": 1039,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10358",
+      "CBG-AK-10277",
+      "CBG-AK-10141",
+      "CBG-AK-10005",
+      "CBG-AK-10047"
+    ]
+  },
+  {
+    "id": "CBG-AK-10014",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.7683,
+    "y": 60.6699,
+    "infraWeight": 0.06752803252855247,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10037",
+      "CBG-AK-10224",
+      "CBG-AK-10125",
+      "CBG-AK-10156",
+      "CBG-AK-10044"
+    ]
+  },
+  {
+    "id": "CBG-AK-10015",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.7613,
+    "y": 62.7431,
+    "infraWeight": 0.17977857459651972,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10158",
+      "CBG-AK-10379",
+      "CBG-AK-10072",
+      "CBG-AK-10232",
+      "CBG-AK-10221"
+    ]
+  },
+  {
+    "id": "CBG-AK-10016",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.0247,
+    "y": 64.7618,
+    "infraWeight": 0.06300837740871054,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10045",
+      "CBG-AK-10327",
+      "CBG-AK-10059",
+      "CBG-AK-10124",
+      "CBG-AK-10291"
+    ]
+  },
+  {
+    "id": "CBG-AK-10017",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.402,
+    "y": 58.3087,
+    "infraWeight": 0.0860402039127837,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10163",
+      "CBG-AK-10285",
+      "CBG-AK-10273",
+      "CBG-AK-10058",
+      "CBG-AK-10184"
+    ]
+  },
+  {
+    "id": "CBG-AK-10018",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.0028,
+    "y": 55.0292,
+    "infraWeight": 0.20144520445558003,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10239",
+      "CBG-AK-10082",
+      "CBG-AK-10133",
+      "CBG-AK-10289",
+      "CBG-AK-10095"
+    ]
+  },
+  {
+    "id": "CBG-AK-10019",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -134.3428,
+    "y": 60.9385,
+    "infraWeight": 0.07067347345381592,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10172",
+      "CBG-AK-10131",
+      "CBG-AK-10130",
+      "CBG-AK-10385",
+      "CBG-AK-10039"
+    ]
+  },
+  {
+    "id": "CBG-AK-10020",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.2607,
+    "y": 62.0711,
+    "infraWeight": 0.1451132245735241,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10151",
+      "CBG-AK-10294",
+      "CBG-AK-10001",
+      "CBG-AK-10218",
+      "CBG-AK-10393"
+    ]
+  },
+  {
+    "id": "CBG-AK-10021",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.8142,
+    "y": 67.2473,
+    "infraWeight": 0.06240781185828503,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10051",
+      "CBG-AK-10377",
+      "CBG-AK-10034",
+      "CBG-AK-10202",
+      "CBG-AK-10316"
+    ]
+  },
+  {
+    "id": "CBG-AK-10022",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.2978,
+    "y": 63.4207,
+    "infraWeight": 0.08152981032482917,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10382",
+      "CBG-AK-10087",
+      "CBG-AK-10262",
+      "CBG-AK-10369",
+      "CBG-AK-10299"
+    ]
+  },
+  {
+    "id": "CBG-AK-10023",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.4153,
+    "y": 70.9052,
+    "infraWeight": 0.07259079672672826,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10105",
+      "CBG-AK-10344",
+      "CBG-AK-10008",
+      "CBG-AK-10073",
+      "CBG-AK-10257"
+    ]
+  },
+  {
+    "id": "CBG-AK-10024",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.3835,
+    "y": 57.3184,
+    "infraWeight": 0.06208305563212157,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10313",
+      "CBG-AK-10026",
+      "CBG-AK-10350",
+      "CBG-AK-10346",
+      "CBG-AK-10244"
+    ]
+  },
+  {
+    "id": "CBG-AK-10025",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.8735,
+    "y": 67.9265,
+    "infraWeight": 0.11765596710356914,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10392",
+      "CBG-AK-10112",
+      "CBG-AK-10255",
+      "CBG-AK-10048",
+      "CBG-AK-10229"
+    ]
+  },
+  {
+    "id": "CBG-AK-10026",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.17,
+    "y": 56.5071,
+    "infraWeight": 0.062227995134200215,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10244",
+      "CBG-AK-10024",
+      "CBG-AK-10136",
+      "CBG-AK-10313",
+      "CBG-AK-10143"
+    ]
+  },
+  {
+    "id": "CBG-AK-10027",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.4708,
+    "y": 70.9526,
+    "infraWeight": 0.057612738201244365,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10388",
+      "CBG-AK-10387",
+      "CBG-AK-10305",
+      "CBG-AK-10189",
+      "CBG-AK-10291"
+    ]
+  },
+  {
+    "id": "CBG-AK-10028",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.3304,
+    "y": 64.1078,
+    "infraWeight": 0.09094521878996242,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10036",
+      "CBG-AK-10087",
+      "CBG-AK-10145",
+      "CBG-AK-10382",
+      "CBG-AK-10140"
+    ]
+  },
+  {
+    "id": "CBG-AK-10029",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.8358,
+    "y": 56.6905,
+    "infraWeight": 0.05959765679326896,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10170",
+      "CBG-AK-10328",
+      "CBG-AK-10326",
+      "CBG-AK-10355",
+      "CBG-AK-10065"
+    ]
+  },
+  {
+    "id": "CBG-AK-10030",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.4303,
+    "y": 60.868,
+    "infraWeight": 0.1165195769911879,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10256",
+      "CBG-AK-10035",
+      "CBG-AK-10269",
+      "CBG-AK-10210",
+      "CBG-AK-10271"
+    ]
+  },
+  {
+    "id": "CBG-AK-10031",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.1745,
+    "y": 58.8398,
+    "infraWeight": 0.09485714825702006,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10223",
+      "CBG-AK-10345",
+      "CBG-AK-10134",
+      "CBG-AK-10312",
+      "CBG-AK-10110"
+    ]
+  },
+  {
+    "id": "CBG-AK-10032",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.277,
+    "y": 59.3313,
+    "infraWeight": 0.34545332502466725,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10047",
+      "CBG-AK-10101",
+      "CBG-AK-10230",
+      "CBG-AK-10358",
+      "CBG-AK-10139"
+    ]
+  },
+  {
+    "id": "CBG-AK-10033",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.7647,
+    "y": 68.41,
+    "infraWeight": 0.0907380834735937,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10154",
+      "CBG-AK-10322",
+      "CBG-AK-10284",
+      "CBG-AK-10132",
+      "CBG-AK-10008"
+    ]
+  },
+  {
+    "id": "CBG-AK-10034",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.3121,
+    "y": 68.6929,
+    "infraWeight": 0.06018243397940606,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10377",
+      "CBG-AK-10316",
+      "CBG-AK-10021",
+      "CBG-AK-10051",
+      "CBG-AK-10202"
+    ]
+  },
+  {
+    "id": "CBG-AK-10035",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.2367,
+    "y": 59.7942,
+    "infraWeight": 0.1174894918980881,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10271",
+      "CBG-AK-10384",
+      "CBG-AK-10210",
+      "CBG-AK-10030",
+      "CBG-AK-10240"
+    ]
+  },
+  {
+    "id": "CBG-AK-10036",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.9771,
+    "y": 64.2574,
+    "infraWeight": 0.08892430482549321,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10028",
+      "CBG-AK-10087",
+      "CBG-AK-10145",
+      "CBG-AK-10382",
+      "CBG-AK-10369"
+    ]
+  },
+  {
+    "id": "CBG-AK-10037",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.4418,
+    "y": 59.5951,
+    "infraWeight": 0.06538039144034191,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10044",
+      "CBG-AK-10176",
+      "CBG-AK-10014",
+      "CBG-AK-10350",
+      "CBG-AK-10346"
+    ]
+  },
+  {
+    "id": "CBG-AK-10038",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.5743,
+    "y": 69.998,
+    "infraWeight": 0.07458050968697334,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10167",
+      "CBG-AK-10226",
+      "CBG-AK-10354",
+      "CBG-AK-10333",
+      "CBG-AK-10363"
+    ]
+  },
+  {
+    "id": "CBG-AK-10039",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.014,
+    "y": 59.5147,
+    "infraWeight": 0.0763968064224911,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10385",
+      "CBG-AK-10163",
+      "CBG-AK-10130",
+      "CBG-AK-10019",
+      "CBG-AK-10058"
+    ]
+  },
+  {
+    "id": "CBG-AK-10040",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.4346,
+    "y": 64.711,
+    "infraWeight": 0.09224929666435375,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10183",
+      "CBG-AK-10252",
+      "CBG-AK-10241",
+      "CBG-AK-10182",
+      "CBG-AK-10375"
+    ]
+  },
+  {
+    "id": "CBG-AK-10041",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -141.7669,
+    "y": 55.5367,
+    "infraWeight": 0.09981129257625959,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10238",
+      "CBG-AK-10149",
+      "CBG-AK-10341",
+      "CBG-AK-10266",
+      "CBG-AK-10212"
+    ]
+  },
+  {
+    "id": "CBG-AK-10042",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.0876,
+    "y": 69.991,
+    "infraWeight": 0.12022097166911709,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10301",
+      "CBG-AK-10356",
+      "CBG-AK-10368",
+      "CBG-AK-10198",
+      "CBG-AK-10353"
+    ]
+  },
+  {
+    "id": "CBG-AK-10043",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.638,
+    "y": 62.386,
+    "infraWeight": 0.6147639524187639,
+    "population": 1284,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10310",
+      "CBG-AK-10120",
+      "CBG-AK-10349",
+      "CBG-AK-10311",
+      "CBG-AK-10005"
+    ]
+  },
+  {
+    "id": "CBG-AK-10044",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.4256,
+    "y": 60.2719,
+    "infraWeight": 0.06280416042167047,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10037",
+      "CBG-AK-10176",
+      "CBG-AK-10014",
+      "CBG-AK-10346",
+      "CBG-AK-10350"
+    ]
+  },
+  {
+    "id": "CBG-AK-10045",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.3406,
+    "y": 63.7417,
+    "infraWeight": 0.061593198847025396,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10124",
+      "CBG-AK-10016",
+      "CBG-AK-10263",
+      "CBG-AK-10208",
+      "CBG-AK-10327"
+    ]
+  },
+  {
+    "id": "CBG-AK-10046",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.9853,
+    "y": 60.8072,
+    "infraWeight": 0.0734324486399656,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10343",
+      "CBG-AK-10391",
+      "CBG-AK-10156",
+      "CBG-AK-10014",
+      "CBG-AK-10125"
+    ]
+  },
+  {
+    "id": "CBG-AK-10047",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.0583,
+    "y": 58.933,
+    "infraWeight": 0.3388200403115122,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10032",
+      "CBG-AK-10101",
+      "CBG-AK-10358",
+      "CBG-AK-10290",
+      "CBG-AK-10230"
+    ]
+  },
+  {
+    "id": "CBG-AK-10048",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.2685,
+    "y": 69.1046,
+    "infraWeight": 0.1140831396534247,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10112",
+      "CBG-AK-10392",
+      "CBG-AK-10255",
+      "CBG-AK-10025",
+      "CBG-AK-10356"
+    ]
+  },
+  {
+    "id": "CBG-AK-10049",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.4113,
+    "y": 55.4227,
+    "infraWeight": 0.20993945683482057,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10253",
+      "CBG-AK-10386",
+      "CBG-AK-10374",
+      "CBG-AK-10290",
+      "CBG-AK-10097"
+    ]
+  },
+  {
+    "id": "CBG-AK-10050",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.8242,
+    "y": 58.3125,
+    "infraWeight": 0.08102035074705274,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10274",
+      "CBG-AK-10332",
+      "CBG-AK-10340",
+      "CBG-AK-10134",
+      "CBG-AK-10336"
+    ]
+  },
+  {
+    "id": "CBG-AK-10051",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.4906,
+    "y": 67.1473,
+    "infraWeight": 0.0632992044761281,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10021",
+      "CBG-AK-10377",
+      "CBG-AK-10034",
+      "CBG-AK-10202",
+      "CBG-AK-10378"
+    ]
+  },
+  {
+    "id": "CBG-AK-10052",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.6551,
+    "y": 58.3171,
+    "infraWeight": 0.22269498314347144,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10280",
+      "CBG-AK-10118",
+      "CBG-AK-10366",
+      "CBG-AK-10011",
+      "CBG-AK-10142"
+    ]
+  },
+  {
+    "id": "CBG-AK-10053",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.3711,
+    "y": 60.1787,
+    "infraWeight": 0.06193383130898304,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10217",
+      "CBG-AK-10355",
+      "CBG-AK-10165",
+      "CBG-AK-10326",
+      "CBG-AK-10131"
+    ]
+  },
+  {
+    "id": "CBG-AK-10054",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.115,
+    "y": 66.7218,
+    "infraWeight": 0.17102021667334888,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10357",
+      "CBG-AK-10012",
+      "CBG-AK-10166",
+      "CBG-AK-10121",
+      "CBG-AK-10161"
+    ]
+  },
+  {
+    "id": "CBG-AK-10055",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.8917,
+    "y": 51.8122,
+    "infraWeight": 0.11918399125947474,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10228",
+      "CBG-AK-10071",
+      "CBG-AK-10248",
+      "CBG-AK-10235",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10056",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -174.5993,
+    "y": 51.6723,
+    "infraWeight": 0.06459648134064135,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10195",
+      "CBG-AK-10169",
+      "CBG-AK-10109",
+      "CBG-AK-10077",
+      "CBG-AK-10148"
+    ]
+  },
+  {
+    "id": "CBG-AK-10057",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.303,
+    "y": 53.372,
+    "infraWeight": 0.16004988712019871,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10399",
+      "CBG-AK-10309",
+      "CBG-AK-10097",
+      "CBG-AK-10386",
+      "CBG-AK-10119"
+    ]
+  },
+  {
+    "id": "CBG-AK-10058",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.3684,
+    "y": 60.362,
+    "infraWeight": 0.08709801115476479,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10163",
+      "CBG-AK-10203",
+      "CBG-AK-10273",
+      "CBG-AK-10206",
+      "CBG-AK-10319"
+    ]
+  },
+  {
+    "id": "CBG-AK-10059",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.1364,
+    "y": 66.3322,
+    "infraWeight": 0.06517611115095853,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10188",
+      "CBG-AK-10291",
+      "CBG-AK-10351",
+      "CBG-AK-10373",
+      "CBG-AK-10327"
+    ]
+  },
+  {
+    "id": "CBG-AK-10060",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.5525,
+    "y": 63.7327,
+    "infraWeight": 0.2631414012310261,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10231",
+      "CBG-AK-10222",
+      "CBG-AK-10004",
+      "CBG-AK-10359",
+      "CBG-AK-10320"
+    ]
+  },
+  {
+    "id": "CBG-AK-10061",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.8275,
+    "y": 52.3701,
+    "infraWeight": 0.1056310506258825,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10171",
+      "CBG-AK-10323",
+      "CBG-AK-10303",
+      "CBG-AK-10321",
+      "CBG-AK-10228"
+    ]
+  },
+  {
+    "id": "CBG-AK-10062",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.7149,
+    "y": 53.3911,
+    "infraWeight": 0.14389447356241059,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10390",
+      "CBG-AK-10334",
+      "CBG-AK-10398",
+      "CBG-AK-10394",
+      "CBG-AK-10080"
+    ]
+  },
+  {
+    "id": "CBG-AK-10063",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.7758,
+    "y": 65.6663,
+    "infraWeight": 0.2538372505014507,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10275",
+      "CBG-AK-10215",
+      "CBG-AK-10190",
+      "CBG-AK-10127",
+      "CBG-AK-10178"
+    ]
+  },
+  {
+    "id": "CBG-AK-10064",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.9171,
+    "y": 62.5094,
+    "infraWeight": 0.2716304337314741,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10325",
+      "CBG-AK-10297",
+      "CBG-AK-10074",
+      "CBG-AK-10389",
+      "CBG-AK-10152"
+    ]
+  },
+  {
+    "id": "CBG-AK-10065",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.733,
+    "y": 55.2929,
+    "infraWeight": 0.0634565325149228,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10002",
+      "CBG-AK-10091",
+      "CBG-AK-10328",
+      "CBG-AK-10029",
+      "CBG-AK-10265"
+    ]
+  },
+  {
+    "id": "CBG-AK-10066",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.4637,
+    "y": 58.8888,
+    "infraWeight": 0.11248457751693541,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10135",
+      "CBG-AK-10376",
+      "CBG-AK-10137",
+      "CBG-AK-10362",
+      "CBG-AK-10206"
+    ]
+  },
+  {
+    "id": "CBG-AK-10067",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.8747,
+    "y": 63.1343,
+    "infraWeight": 0.11686706672896338,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10393",
+      "CBG-AK-10001",
+      "CBG-AK-10293",
+      "CBG-AK-10006",
+      "CBG-AK-10362"
+    ]
+  },
+  {
+    "id": "CBG-AK-10068",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.3452,
+    "y": 56.499,
+    "infraWeight": 0.12617301728537425,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10278",
+      "CBG-AK-10150",
+      "CBG-AK-10069",
+      "CBG-AK-10318",
+      "CBG-AK-10276"
+    ]
+  },
+  {
+    "id": "CBG-AK-10069",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.291,
+    "y": 57.3406,
+    "infraWeight": 0.1418281699864298,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10068",
+      "CBG-AK-10150",
+      "CBG-AK-10267",
+      "CBG-AK-10278",
+      "CBG-AK-10318"
+    ]
+  },
+  {
+    "id": "CBG-AK-10070",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.8735,
+    "y": 66.5763,
+    "infraWeight": 0.1573795831251199,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10270",
+      "CBG-AK-10155",
+      "CBG-AK-10296",
+      "CBG-AK-10085",
+      "CBG-AK-10254"
+    ]
+  },
+  {
+    "id": "CBG-AK-10071",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.948,
+    "y": 52.5791,
+    "infraWeight": 0.12569797081044679,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10248",
+      "CBG-AK-10228",
+      "CBG-AK-10055",
+      "CBG-AK-10235",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10072",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.8088,
+    "y": 64.3172,
+    "infraWeight": 0.18885485281465914,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10221",
+      "CBG-AK-10379",
+      "CBG-AK-10121",
+      "CBG-AK-10158",
+      "CBG-AK-10232"
+    ]
+  },
+  {
+    "id": "CBG-AK-10073",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.307,
+    "y": 68.5407,
+    "infraWeight": 0.07265090029492476,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10179",
+      "CBG-AK-10189",
+      "CBG-AK-10306",
+      "CBG-AK-10105",
+      "CBG-AK-10257"
+    ]
+  },
+  {
+    "id": "CBG-AK-10074",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.7296,
+    "y": 61.9236,
+    "infraWeight": 0.3546499547653999,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10342",
+      "CBG-AK-10152",
+      "CBG-AK-10297",
+      "CBG-AK-10139",
+      "CBG-AK-10064"
+    ]
+  },
+  {
+    "id": "CBG-AK-10075",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.4774,
+    "y": 64.0129,
+    "infraWeight": 0.13295382625871188,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10129",
+      "CBG-AK-10009",
+      "CBG-AK-10164",
+      "CBG-AK-10168",
+      "CBG-AK-10115"
+    ]
+  },
+  {
+    "id": "CBG-AK-10076",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.2144,
+    "y": 70.8233,
+    "infraWeight": 0.10447367413357155,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10368",
+      "CBG-AK-10356",
+      "CBG-AK-10301",
+      "CBG-AK-10048",
+      "CBG-AK-10042"
+    ]
+  },
+  {
+    "id": "CBG-AK-10077",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.5438,
+    "y": 51.5391,
+    "infraWeight": 0.07289702426826813,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10109",
+      "CBG-AK-10169",
+      "CBG-AK-10300",
+      "CBG-AK-10195",
+      "CBG-AK-10295"
+    ]
+  },
+  {
+    "id": "CBG-AK-10078",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.1972,
+    "y": 64.3552,
+    "infraWeight": 0.1513150355586269,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10146",
+      "CBG-AK-10155",
+      "CBG-AK-10194",
+      "CBG-AK-10151",
+      "CBG-AK-10293"
+    ]
+  },
+  {
+    "id": "CBG-AK-10079",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.9054,
+    "y": 60.3523,
+    "infraWeight": 0.20245002096970252,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10084",
+      "CBG-AK-10230",
+      "CBG-AK-10325",
+      "CBG-AK-10015",
+      "CBG-AK-10101"
+    ]
+  },
+  {
+    "id": "CBG-AK-10080",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.5739,
+    "y": 55.099,
+    "infraWeight": 0.15586931957408867,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10180",
+      "CBG-AK-10334",
+      "CBG-AK-10390",
+      "CBG-AK-10062",
+      "CBG-AK-10267"
+    ]
+  },
+  {
+    "id": "CBG-AK-10081",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.0083,
+    "y": 68.312,
+    "infraWeight": 0.1776942574869165,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10213",
+      "CBG-AK-10338",
+      "CBG-AK-10187",
+      "CBG-AK-10234",
+      "CBG-AK-10365"
+    ]
+  },
+  {
+    "id": "CBG-AK-10082",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.0105,
+    "y": 53.5336,
+    "infraWeight": 0.1684627209173181,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10018",
+      "CBG-AK-10133",
+      "CBG-AK-10239",
+      "CBG-AK-10193",
+      "CBG-AK-10227"
+    ]
+  },
+  {
+    "id": "CBG-AK-10083",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.2091,
+    "y": 51.9831,
+    "infraWeight": 0.05541103818167505,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10361",
+      "CBG-AK-10265",
+      "CBG-AK-10098",
+      "CBG-AK-10091",
+      "CBG-AK-10065"
+    ]
+  },
+  {
+    "id": "CBG-AK-10084",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.3824,
+    "y": 59.6767,
+    "infraWeight": 0.2467492651706865,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10230",
+      "CBG-AK-10101",
+      "CBG-AK-10079",
+      "CBG-AK-10139",
+      "CBG-AK-10032"
+    ]
+  },
+  {
+    "id": "CBG-AK-10085",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.483,
+    "y": 66.3786,
+    "infraWeight": 0.18302069428470003,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10144",
+      "CBG-AK-10296",
+      "CBG-AK-10254",
+      "CBG-AK-10070",
+      "CBG-AK-10270"
+    ]
+  },
+  {
+    "id": "CBG-AK-10086",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.7602,
+    "y": 51.2154,
+    "infraWeight": 0.0829395196629174,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10298",
+      "CBG-AK-10352",
+      "CBG-AK-10266",
+      "CBG-AK-10214",
+      "CBG-AK-10212"
+    ]
+  },
+  {
+    "id": "CBG-AK-10087",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.2641,
+    "y": 64.1134,
+    "infraWeight": 0.0854996471635456,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10382",
+      "CBG-AK-10036",
+      "CBG-AK-10369",
+      "CBG-AK-10028",
+      "CBG-AK-10022"
+    ]
+  },
+  {
+    "id": "CBG-AK-10088",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.182,
+    "y": 71.0013,
+    "infraWeight": 0.08460399213076508,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10237",
+      "CBG-AK-10000",
+      "CBG-AK-10354",
+      "CBG-AK-10243",
+      "CBG-AK-10200"
+    ]
+  },
+  {
+    "id": "CBG-AK-10089",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.0782,
+    "y": 65.4278,
+    "infraWeight": 0.07169553359143582,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10197",
+      "CBG-AK-10372",
+      "CBG-AK-10373",
+      "CBG-AK-10327",
+      "CBG-AK-10262"
+    ]
+  },
+  {
+    "id": "CBG-AK-10090",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.0026,
+    "y": 70.7867,
+    "infraWeight": 0.14258662041476813,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10113",
+      "CBG-AK-10249",
+      "CBG-AK-10329",
+      "CBG-AK-10174",
+      "CBG-AK-10003"
+    ]
+  },
+  {
+    "id": "CBG-AK-10091",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.8535,
+    "y": 53.5038,
+    "infraWeight": 0.06486884346815296,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10307",
+      "CBG-AK-10100",
+      "CBG-AK-10177",
+      "CBG-AK-10065",
+      "CBG-AK-10098"
+    ]
+  },
+  {
+    "id": "CBG-AK-10092",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.1952,
+    "y": 70.5931,
+    "infraWeight": 0.14052356680407094,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10272",
+      "CBG-AK-10174",
+      "CBG-AK-10160",
+      "CBG-AK-10187",
+      "CBG-AK-10081"
+    ]
+  },
+  {
+    "id": "CBG-AK-10093",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.1438,
+    "y": 57.2467,
+    "infraWeight": 0.06826941213033393,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10282",
+      "CBG-AK-10337",
+      "CBG-AK-10244",
+      "CBG-AK-10350",
+      "CBG-AK-10274"
+    ]
+  },
+  {
+    "id": "CBG-AK-10094",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.1726,
+    "y": 63.1774,
+    "infraWeight": 0.43044188001526645,
+    "population": 826,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10311",
+      "CBG-AK-10152",
+      "CBG-AK-10220",
+      "CBG-AK-10190",
+      "CBG-AK-10389"
+    ]
+  },
+  {
+    "id": "CBG-AK-10095",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.5513,
+    "y": 55.7529,
+    "infraWeight": 0.1914989576153032,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10118",
+      "CBG-AK-10007",
+      "CBG-AK-10366",
+      "CBG-AK-10142",
+      "CBG-AK-10289"
+    ]
+  },
+  {
+    "id": "CBG-AK-10096",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.7013,
+    "y": 55.5078,
+    "infraWeight": 0.1504550058760036,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10251",
+      "CBG-AK-10247",
+      "CBG-AK-10007",
+      "CBG-AK-10260",
+      "CBG-AK-10235"
+    ]
+  },
+  {
+    "id": "CBG-AK-10097",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.3006,
+    "y": 53.2723,
+    "infraWeight": 0.16309479321846432,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10227",
+      "CBG-AK-10057",
+      "CBG-AK-10386",
+      "CBG-AK-10309",
+      "CBG-AK-10399"
+    ]
+  },
+  {
+    "id": "CBG-AK-10098",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.2947,
+    "y": 51.3434,
+    "infraWeight": 0.061280650850273115,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10307",
+      "CBG-AK-10091",
+      "CBG-AK-10177",
+      "CBG-AK-10100",
+      "CBG-AK-10083"
+    ]
+  },
+  {
+    "id": "CBG-AK-10099",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.0615,
+    "y": 56.4908,
+    "infraWeight": 0.11957424739570151,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10135",
+      "CBG-AK-10341",
+      "CBG-AK-10330",
+      "CBG-AK-10321",
+      "CBG-AK-10149"
+    ]
+  },
+  {
+    "id": "CBG-AK-10100",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.2578,
+    "y": 53.1424,
+    "infraWeight": 0.06832889528280443,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10177",
+      "CBG-AK-10307",
+      "CBG-AK-10091",
+      "CBG-AK-10283",
+      "CBG-AK-10199"
+    ]
+  },
+  {
+    "id": "CBG-AK-10101",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.5996,
+    "y": 58.8876,
+    "infraWeight": 0.263481750983448,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10230",
+      "CBG-AK-10084",
+      "CBG-AK-10032",
+      "CBG-AK-10047",
+      "CBG-AK-10331"
+    ]
+  },
+  {
+    "id": "CBG-AK-10102",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.012,
+    "y": 61.562,
+    "infraWeight": 0.10380095838940448,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10269",
+      "CBG-AK-10182",
+      "CBG-AK-10345",
+      "CBG-AK-10256",
+      "CBG-AK-10030"
+    ]
+  },
+  {
+    "id": "CBG-AK-10103",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.2308,
+    "y": 70.6121,
+    "infraWeight": 0.10922420749903163,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10268",
+      "CBG-AK-10339",
+      "CBG-AK-10108",
+      "CBG-AK-10147",
+      "CBG-AK-10246"
+    ]
+  },
+  {
+    "id": "CBG-AK-10104",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.4417,
+    "y": 61.9358,
+    "infraWeight": 0.35800313993143695,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10159",
+      "CBG-AK-10359",
+      "CBG-AK-10231",
+      "CBG-AK-10004",
+      "CBG-AK-10060"
+    ]
+  },
+  {
+    "id": "CBG-AK-10105",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.6508,
+    "y": 69.9784,
+    "infraWeight": 0.07172884744027615,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10023",
+      "CBG-AK-10073",
+      "CBG-AK-10179",
+      "CBG-AK-10189",
+      "CBG-AK-10387"
+    ]
+  },
+  {
+    "id": "CBG-AK-10106",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.6692,
+    "y": 69.2132,
+    "infraWeight": 0.15886891219589452,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10207",
+      "CBG-AK-10329",
+      "CBG-AK-10249",
+      "CBG-AK-10003",
+      "CBG-AK-10144"
+    ]
+  },
+  {
+    "id": "CBG-AK-10107",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.7931,
+    "y": 69.7173,
+    "infraWeight": 0.1306084397418549,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10116",
+      "CBG-AK-10264",
+      "CBG-AK-10246",
+      "CBG-AK-10147",
+      "CBG-AK-10111"
+    ]
+  },
+  {
+    "id": "CBG-AK-10108",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.1401,
+    "y": 69.4155,
+    "infraWeight": 0.11059451062437574,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10200",
+      "CBG-AK-10308",
+      "CBG-AK-10103",
+      "CBG-AK-10268",
+      "CBG-AK-10339"
+    ]
+  },
+  {
+    "id": "CBG-AK-10109",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.099,
+    "y": 52.4396,
+    "infraWeight": 0.07267869888052365,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10169",
+      "CBG-AK-10077",
+      "CBG-AK-10195",
+      "CBG-AK-10300",
+      "CBG-AK-10295"
+    ]
+  },
+  {
+    "id": "CBG-AK-10110",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.8527,
+    "y": 56.7196,
+    "infraWeight": 0.09375197409138093,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10396",
+      "CBG-AK-10122",
+      "CBG-AK-10128",
+      "CBG-AK-10340",
+      "CBG-AK-10031"
+    ]
+  },
+  {
+    "id": "CBG-AK-10111",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.8922,
+    "y": 68.5199,
+    "infraWeight": 0.13275649146962598,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10161",
+      "CBG-AK-10107",
+      "CBG-AK-10367",
+      "CBG-AK-10308",
+      "CBG-AK-10116"
+    ]
+  },
+  {
+    "id": "CBG-AK-10112",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.7668,
+    "y": 68.6931,
+    "infraWeight": 0.11998062684328434,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10392",
+      "CBG-AK-10255",
+      "CBG-AK-10048",
+      "CBG-AK-10025",
+      "CBG-AK-10301"
+    ]
+  },
+  {
+    "id": "CBG-AK-10113",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.8468,
+    "y": 70.7879,
+    "infraWeight": 0.1427382900970039,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10174",
+      "CBG-AK-10090",
+      "CBG-AK-10160",
+      "CBG-AK-10216",
+      "CBG-AK-10249"
+    ]
+  },
+  {
+    "id": "CBG-AK-10114",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.0824,
+    "y": 56.0948,
+    "infraWeight": 0.07783955688023969,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10336",
+      "CBG-AK-10128",
+      "CBG-AK-10340",
+      "CBG-AK-10050",
+      "CBG-AK-10274"
+    ]
+  },
+  {
+    "id": "CBG-AK-10115",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.1357,
+    "y": 63.1104,
+    "infraWeight": 0.1179725248578947,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10168",
+      "CBG-AK-10164",
+      "CBG-AK-10009",
+      "CBG-AK-10252",
+      "CBG-AK-10256"
+    ]
+  },
+  {
+    "id": "CBG-AK-10116",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.943,
+    "y": 69.1502,
+    "infraWeight": 0.14245178571193456,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10264",
+      "CBG-AK-10010",
+      "CBG-AK-10107",
+      "CBG-AK-10161",
+      "CBG-AK-10187"
+    ]
+  },
+  {
+    "id": "CBG-AK-10117",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.9055,
+    "y": 55.52,
+    "infraWeight": 0.10259391044930281,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10122",
+      "CBG-AK-10396",
+      "CBG-AK-10110",
+      "CBG-AK-10318",
+      "CBG-AK-10068"
+    ]
+  },
+  {
+    "id": "CBG-AK-10118",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.6565,
+    "y": 57.4682,
+    "infraWeight": 0.2078642908855116,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10366",
+      "CBG-AK-10142",
+      "CBG-AK-10052",
+      "CBG-AK-10250",
+      "CBG-AK-10280"
+    ]
+  },
+  {
+    "id": "CBG-AK-10119",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.2232,
+    "y": 51.6922,
+    "infraWeight": 0.13694882563891386,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10175",
+      "CBG-AK-10309",
+      "CBG-AK-10057",
+      "CBG-AK-10399",
+      "CBG-AK-10097"
+    ]
+  },
+  {
+    "id": "CBG-AK-10120",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.6423,
+    "y": 62.9989,
+    "infraWeight": 0.5089071616359973,
+    "population": 865,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10043",
+      "CBG-AK-10349",
+      "CBG-AK-10310",
+      "CBG-AK-10311",
+      "CBG-AK-10190"
+    ]
+  },
+  {
+    "id": "CBG-AK-10121",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.6192,
+    "y": 65.5004,
+    "infraWeight": 0.17902294603327737,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10221",
+      "CBG-AK-10072",
+      "CBG-AK-10054",
+      "CBG-AK-10357",
+      "CBG-AK-10367"
+    ]
+  },
+  {
+    "id": "CBG-AK-10122",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.3502,
+    "y": 55.5969,
+    "infraWeight": 0.09426385983542886,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10396",
+      "CBG-AK-10110",
+      "CBG-AK-10117",
+      "CBG-AK-10128",
+      "CBG-AK-10201"
+    ]
+  },
+  {
+    "id": "CBG-AK-10123",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.163,
+    "y": 65.4684,
+    "infraWeight": 0.2770911640281329,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10383",
+      "CBG-AK-10349",
+      "CBG-AK-10178",
+      "CBG-AK-10279",
+      "CBG-AK-10120"
+    ]
+  },
+  {
+    "id": "CBG-AK-10124",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.2653,
+    "y": 62.9266,
+    "infraWeight": 0.06158461463517915,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10045",
+      "CBG-AK-10208",
+      "CBG-AK-10263",
+      "CBG-AK-10016",
+      "CBG-AK-10053"
+    ]
+  },
+  {
+    "id": "CBG-AK-10125",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.3205,
+    "y": 62.0422,
+    "infraWeight": 0.06890168070762959,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10156",
+      "CBG-AK-10224",
+      "CBG-AK-10204",
+      "CBG-AK-10258",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10126",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.0607,
+    "y": 67.6869,
+    "infraWeight": 0.08442415338457993,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10375",
+      "CBG-AK-10363",
+      "CBG-AK-10226",
+      "CBG-AK-10191",
+      "CBG-AK-10167"
+    ]
+  },
+  {
+    "id": "CBG-AK-10127",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.4651,
+    "y": 65.4664,
+    "infraWeight": 0.22322746279270697,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10209",
+      "CBG-AK-10215",
+      "CBG-AK-10261",
+      "CBG-AK-10166",
+      "CBG-AK-10012"
+    ]
+  },
+  {
+    "id": "CBG-AK-10128",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.4654,
+    "y": 55.9827,
+    "infraWeight": 0.08445255158723176,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10340",
+      "CBG-AK-10336",
+      "CBG-AK-10114",
+      "CBG-AK-10396",
+      "CBG-AK-10110"
+    ]
+  },
+  {
+    "id": "CBG-AK-10129",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.8914,
+    "y": 64.1153,
+    "infraWeight": 0.1395654847933072,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10075",
+      "CBG-AK-10009",
+      "CBG-AK-10164",
+      "CBG-AK-10168",
+      "CBG-AK-10232"
+    ]
+  },
+  {
+    "id": "CBG-AK-10130",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.934,
+    "y": 61.3095,
+    "infraWeight": 0.07641266313169419,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10172",
+      "CBG-AK-10019",
+      "CBG-AK-10385",
+      "CBG-AK-10039",
+      "CBG-AK-10203"
+    ]
+  },
+  {
+    "id": "CBG-AK-10131",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.4386,
+    "y": 60.7504,
+    "infraWeight": 0.06777404081938364,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10019",
+      "CBG-AK-10172",
+      "CBG-AK-10217",
+      "CBG-AK-10263",
+      "CBG-AK-10053"
+    ]
+  },
+  {
+    "id": "CBG-AK-10132",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.8294,
+    "y": 69.7129,
+    "infraWeight": 0.08764125178661955,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10322",
+      "CBG-AK-10154",
+      "CBG-AK-10344",
+      "CBG-AK-10033",
+      "CBG-AK-10008"
+    ]
+  },
+  {
+    "id": "CBG-AK-10133",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.6055,
+    "y": 53.2037,
+    "infraWeight": 0.1652022699896604,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10227",
+      "CBG-AK-10082",
+      "CBG-AK-10386",
+      "CBG-AK-10097",
+      "CBG-AK-10239"
+    ]
+  },
+  {
+    "id": "CBG-AK-10134",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.5582,
+    "y": 59.69,
+    "infraWeight": 0.08785712570352258,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10312",
+      "CBG-AK-10031",
+      "CBG-AK-10050",
+      "CBG-AK-10345",
+      "CBG-AK-10242"
+    ]
+  },
+  {
+    "id": "CBG-AK-10135",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -143.0053,
+    "y": 57.611,
+    "infraWeight": 0.1142574490916645,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10066",
+      "CBG-AK-10099",
+      "CBG-AK-10341",
+      "CBG-AK-10149",
+      "CBG-AK-10041"
+    ]
+  },
+  {
+    "id": "CBG-AK-10136",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.3634,
+    "y": 55.6103,
+    "infraWeight": 0.06123839432694722,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10143",
+      "CBG-AK-10244",
+      "CBG-AK-10026",
+      "CBG-AK-10024",
+      "CBG-AK-10313"
+    ]
+  },
+  {
+    "id": "CBG-AK-10137",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.4995,
+    "y": 59.6695,
+    "infraWeight": 0.1340093141844996,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10211",
+      "CBG-AK-10294",
+      "CBG-AK-10066",
+      "CBG-AK-10376",
+      "CBG-AK-10001"
+    ]
+  },
+  {
+    "id": "CBG-AK-10138",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.5111,
+    "y": 54.0411,
+    "infraWeight": 0.11989673878029154,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10315",
+      "CBG-AK-10276",
+      "CBG-AK-10219",
+      "CBG-AK-10278",
+      "CBG-AK-10181"
+    ]
+  },
+  {
+    "id": "CBG-AK-10139",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.966,
+    "y": 60.9709,
+    "infraWeight": 0.3396632143236224,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10342",
+      "CBG-AK-10074",
+      "CBG-AK-10230",
+      "CBG-AK-10152",
+      "CBG-AK-10325"
+    ]
+  },
+  {
+    "id": "CBG-AK-10140",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.6437,
+    "y": 62.749,
+    "infraWeight": 0.08829838664256652,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10299",
+      "CBG-AK-10203",
+      "CBG-AK-10087",
+      "CBG-AK-10022",
+      "CBG-AK-10028"
+    ]
+  },
+  {
+    "id": "CBG-AK-10141",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.2906,
+    "y": 60.8138,
+    "infraWeight": 0.804302952715408,
+    "population": 1468,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10277",
+      "CBG-AK-10358",
+      "CBG-AK-10013",
+      "CBG-AK-10220",
+      "CBG-AK-10311"
+    ]
+  },
+  {
+    "id": "CBG-AK-10142",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.0992,
+    "y": 57.3636,
+    "infraWeight": 0.19416392256604145,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10366",
+      "CBG-AK-10250",
+      "CBG-AK-10118",
+      "CBG-AK-10052",
+      "CBG-AK-10011"
+    ]
+  },
+  {
+    "id": "CBG-AK-10143",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.8618,
+    "y": 55.228,
+    "infraWeight": 0.062227231644976164,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10136",
+      "CBG-AK-10244",
+      "CBG-AK-10026",
+      "CBG-AK-10337",
+      "CBG-AK-10282"
+    ]
+  },
+  {
+    "id": "CBG-AK-10144",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.4596,
+    "y": 66.7955,
+    "infraWeight": 0.1905368915893147,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10085",
+      "CBG-AK-10296",
+      "CBG-AK-10383",
+      "CBG-AK-10254",
+      "CBG-AK-10270"
+    ]
+  },
+  {
+    "id": "CBG-AK-10145",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.3115,
+    "y": 65.1773,
+    "infraWeight": 0.0895958038682729,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10036",
+      "CBG-AK-10028",
+      "CBG-AK-10087",
+      "CBG-AK-10382",
+      "CBG-AK-10369"
+    ]
+  },
+  {
+    "id": "CBG-AK-10146",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.3315,
+    "y": 64.047,
+    "infraWeight": 0.1548915704225197,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10078",
+      "CBG-AK-10194",
+      "CBG-AK-10155",
+      "CBG-AK-10151",
+      "CBG-AK-10293"
+    ]
+  },
+  {
+    "id": "CBG-AK-10147",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.4345,
+    "y": 71.2029,
+    "infraWeight": 0.11479852138058673,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10246",
+      "CBG-AK-10107",
+      "CBG-AK-10103",
+      "CBG-AK-10268",
+      "CBG-AK-10264"
+    ]
+  },
+  {
+    "id": "CBG-AK-10148",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -178.4016,
+    "y": 52.8661,
+    "infraWeight": 0.057077811592608205,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10143",
+      "CBG-AK-10136",
+      "CBG-AK-10244",
+      "CBG-AK-10026",
+      "CBG-AK-10056"
+    ]
+  },
+  {
+    "id": "CBG-AK-10149",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.1684,
+    "y": 55.4168,
+    "infraWeight": 0.10194403537603795,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10041",
+      "CBG-AK-10238",
+      "CBG-AK-10341",
+      "CBG-AK-10330",
+      "CBG-AK-10266"
+    ]
+  },
+  {
+    "id": "CBG-AK-10150",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.6341,
+    "y": 57.8008,
+    "infraWeight": 0.12869861180308492,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10318",
+      "CBG-AK-10068",
+      "CBG-AK-10069",
+      "CBG-AK-10240",
+      "CBG-AK-10384"
+    ]
+  },
+  {
+    "id": "CBG-AK-10151",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.4431,
+    "y": 62.3161,
+    "infraWeight": 0.16328390427807898,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10020",
+      "CBG-AK-10194",
+      "CBG-AK-10218",
+      "CBG-AK-10146",
+      "CBG-AK-10294"
+    ]
+  },
+  {
+    "id": "CBG-AK-10152",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.2262,
+    "y": 62.373,
+    "infraWeight": 0.38696273579523216,
+    "population": 772,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10074",
+      "CBG-AK-10297",
+      "CBG-AK-10220",
+      "CBG-AK-10342",
+      "CBG-AK-10094"
+    ]
+  },
+  {
+    "id": "CBG-AK-10153",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.0583,
+    "y": 62.7303,
+    "infraWeight": 0.08084562254857533,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10241",
+      "CBG-AK-10324",
+      "CBG-AK-10242",
+      "CBG-AK-10185",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10154",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.1239,
+    "y": 68.7552,
+    "infraWeight": 0.08691179991396944,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10322",
+      "CBG-AK-10284",
+      "CBG-AK-10033",
+      "CBG-AK-10008",
+      "CBG-AK-10132"
+    ]
+  },
+  {
+    "id": "CBG-AK-10155",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.8101,
+    "y": 65.4813,
+    "infraWeight": 0.15278902882166326,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10078",
+      "CBG-AK-10146",
+      "CBG-AK-10070",
+      "CBG-AK-10254",
+      "CBG-AK-10194"
+    ]
+  },
+  {
+    "id": "CBG-AK-10156",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.0985,
+    "y": 62.196,
+    "infraWeight": 0.0695909297381261,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10204",
+      "CBG-AK-10125",
+      "CBG-AK-10224",
+      "CBG-AK-10258",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10157",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.6442,
+    "y": 56.8097,
+    "infraWeight": 0.07337932622207707,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10002",
+      "CBG-AK-10039",
+      "CBG-AK-10385",
+      "CBG-AK-10017",
+      "CBG-AK-10163"
+    ]
+  },
+  {
+    "id": "CBG-AK-10158",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -162.0579,
+    "y": 63.6265,
+    "infraWeight": 0.16946262257945158,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10015",
+      "CBG-AK-10232",
+      "CBG-AK-10072",
+      "CBG-AK-10221",
+      "CBG-AK-10379"
+    ]
+  },
+  {
+    "id": "CBG-AK-10159",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.8958,
+    "y": 61.6341,
+    "infraWeight": 0.3201596040673148,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10104",
+      "CBG-AK-10359",
+      "CBG-AK-10231",
+      "CBG-AK-10060",
+      "CBG-AK-10004"
+    ]
+  },
+  {
+    "id": "CBG-AK-10160",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.5461,
+    "y": 69.6986,
+    "infraWeight": 0.15835679388350665,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10216",
+      "CBG-AK-10113",
+      "CBG-AK-10174",
+      "CBG-AK-10003",
+      "CBG-AK-10213"
+    ]
+  },
+  {
+    "id": "CBG-AK-10161",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.0124,
+    "y": 67.7222,
+    "infraWeight": 0.14833129558414043,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10367",
+      "CBG-AK-10111",
+      "CBG-AK-10054",
+      "CBG-AK-10116",
+      "CBG-AK-10357"
+    ]
+  },
+  {
+    "id": "CBG-AK-10162",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.8323,
+    "y": 66.9772,
+    "infraWeight": 0.0711177861665019,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10335",
+      "CBG-AK-10205",
+      "CBG-AK-10281",
+      "CBG-AK-10191",
+      "CBG-AK-10395"
+    ]
+  },
+  {
+    "id": "CBG-AK-10163",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.6964,
+    "y": 59.2889,
+    "infraWeight": 0.08340136544753565,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10017",
+      "CBG-AK-10058",
+      "CBG-AK-10039",
+      "CBG-AK-10273",
+      "CBG-AK-10385"
+    ]
+  },
+  {
+    "id": "CBG-AK-10164",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.9307,
+    "y": 63.3743,
+    "infraWeight": 0.12958717396541247,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10168",
+      "CBG-AK-10075",
+      "CBG-AK-10009",
+      "CBG-AK-10115",
+      "CBG-AK-10129"
+    ]
+  },
+  {
+    "id": "CBG-AK-10165",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.1658,
+    "y": 58.7616,
+    "infraWeight": 0.06372161681341693,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10355",
+      "CBG-AK-10217",
+      "CBG-AK-10326",
+      "CBG-AK-10328",
+      "CBG-AK-10053"
+    ]
+  },
+  {
+    "id": "CBG-AK-10166",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.0775,
+    "y": 66.1116,
+    "infraWeight": 0.1971313535491306,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10012",
+      "CBG-AK-10209",
+      "CBG-AK-10357",
+      "CBG-AK-10371",
+      "CBG-AK-10127"
+    ]
+  },
+  {
+    "id": "CBG-AK-10167",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.9222,
+    "y": 69.45,
+    "infraWeight": 0.07431947646405258,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10038",
+      "CBG-AK-10226",
+      "CBG-AK-10363",
+      "CBG-AK-10395",
+      "CBG-AK-10333"
+    ]
+  },
+  {
+    "id": "CBG-AK-10168",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.1655,
+    "y": 63.3135,
+    "infraWeight": 0.1271843696414647,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10164",
+      "CBG-AK-10009",
+      "CBG-AK-10075",
+      "CBG-AK-10115",
+      "CBG-AK-10129"
+    ]
+  },
+  {
+    "id": "CBG-AK-10169",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.4716,
+    "y": 52.3024,
+    "infraWeight": 0.07131565263623002,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10109",
+      "CBG-AK-10195",
+      "CBG-AK-10077",
+      "CBG-AK-10056",
+      "CBG-AK-10300"
+    ]
+  },
+  {
+    "id": "CBG-AK-10170",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.4319,
+    "y": 57.0305,
+    "infraWeight": 0.05881393226761831,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10029",
+      "CBG-AK-10328",
+      "CBG-AK-10326",
+      "CBG-AK-10355",
+      "CBG-AK-10165"
+    ]
+  },
+  {
+    "id": "CBG-AK-10171",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.4863,
+    "y": 52.5214,
+    "infraWeight": 0.10449839944193014,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10061",
+      "CBG-AK-10323",
+      "CBG-AK-10303",
+      "CBG-AK-10321",
+      "CBG-AK-10330"
+    ]
+  },
+  {
+    "id": "CBG-AK-10172",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -134.5931,
+    "y": 61.6096,
+    "infraWeight": 0.07151781453085676,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10019",
+      "CBG-AK-10130",
+      "CBG-AK-10131",
+      "CBG-AK-10263",
+      "CBG-AK-10385"
+    ]
+  },
+  {
+    "id": "CBG-AK-10173",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.9789,
+    "y": 65.1218,
+    "infraWeight": 0.06066182885611932,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10202",
+      "CBG-AK-10259",
+      "CBG-AK-10378",
+      "CBG-AK-10287",
+      "CBG-AK-10360"
+    ]
+  },
+  {
+    "id": "CBG-AK-10174",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.5826,
+    "y": 71.1651,
+    "infraWeight": 0.13718619625104497,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10113",
+      "CBG-AK-10160",
+      "CBG-AK-10090",
+      "CBG-AK-10092",
+      "CBG-AK-10216"
+    ]
+  },
+  {
+    "id": "CBG-AK-10175",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.2511,
+    "y": 51.4238,
+    "infraWeight": 0.1337005414464372,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10119",
+      "CBG-AK-10309",
+      "CBG-AK-10057",
+      "CBG-AK-10399",
+      "CBG-AK-10097"
+    ]
+  },
+  {
+    "id": "CBG-AK-10176",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.4694,
+    "y": 58.9276,
+    "infraWeight": 0.062432206539287174,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10346",
+      "CBG-AK-10350",
+      "CBG-AK-10313",
+      "CBG-AK-10037",
+      "CBG-AK-10044"
+    ]
+  },
+  {
+    "id": "CBG-AK-10177",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.3292,
+    "y": 52.7306,
+    "infraWeight": 0.06802460454907615,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10100",
+      "CBG-AK-10307",
+      "CBG-AK-10283",
+      "CBG-AK-10091",
+      "CBG-AK-10199"
+    ]
+  },
+  {
+    "id": "CBG-AK-10178",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.0894,
+    "y": 66.1648,
+    "infraWeight": 0.253825485564653,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10279",
+      "CBG-AK-10190",
+      "CBG-AK-10063",
+      "CBG-AK-10275",
+      "CBG-AK-10213"
+    ]
+  },
+  {
+    "id": "CBG-AK-10179",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.5275,
+    "y": 68.7372,
+    "infraWeight": 0.06994970021814248,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10189",
+      "CBG-AK-10073",
+      "CBG-AK-10306",
+      "CBG-AK-10105",
+      "CBG-AK-10387"
+    ]
+  },
+  {
+    "id": "CBG-AK-10180",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.538,
+    "y": 54.1201,
+    "infraWeight": 0.13639637027698542,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10219",
+      "CBG-AK-10080",
+      "CBG-AK-10276",
+      "CBG-AK-10315",
+      "CBG-AK-10062"
+    ]
+  },
+  {
+    "id": "CBG-AK-10181",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.7591,
+    "y": 52.9007,
+    "infraWeight": 0.1056436127556607,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10192",
+      "CBG-AK-10138",
+      "CBG-AK-10315",
+      "CBG-AK-10219",
+      "CBG-AK-10276"
+    ]
+  },
+  {
+    "id": "CBG-AK-10182",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.1493,
+    "y": 61.9087,
+    "infraWeight": 0.09616307718808839,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10183",
+      "CBG-AK-10102",
+      "CBG-AK-10242",
+      "CBG-AK-10324",
+      "CBG-AK-10345"
+    ]
+  },
+  {
+    "id": "CBG-AK-10183",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.386,
+    "y": 63.0116,
+    "infraWeight": 0.09420776357597013,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10182",
+      "CBG-AK-10242",
+      "CBG-AK-10324",
+      "CBG-AK-10040",
+      "CBG-AK-10252"
+    ]
+  },
+  {
+    "id": "CBG-AK-10184",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.9436,
+    "y": 56.8846,
+    "infraWeight": 0.09220587417545542,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10380",
+      "CBG-AK-10285",
+      "CBG-AK-10017",
+      "CBG-AK-10273",
+      "CBG-AK-10041"
+    ]
+  },
+  {
+    "id": "CBG-AK-10185",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.708,
+    "y": 64.1573,
+    "infraWeight": 0.07367988769203572,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10258",
+      "CBG-AK-10225",
+      "CBG-AK-10335",
+      "CBG-AK-10205",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10186",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.1233,
+    "y": 57.9692,
+    "infraWeight": 0.16401206366999924,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10370",
+      "CBG-AK-10250",
+      "CBG-AK-10011",
+      "CBG-AK-10314",
+      "CBG-AK-10142"
+    ]
+  },
+  {
+    "id": "CBG-AK-10187",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.1656,
+    "y": 68.8908,
+    "infraWeight": 0.1592895393335773,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10338",
+      "CBG-AK-10010",
+      "CBG-AK-10272",
+      "CBG-AK-10081",
+      "CBG-AK-10365"
+    ]
+  },
+  {
+    "id": "CBG-AK-10188",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.1995,
+    "y": 66.7591,
+    "infraWeight": 0.06506108043150247,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10059",
+      "CBG-AK-10291",
+      "CBG-AK-10351",
+      "CBG-AK-10373",
+      "CBG-AK-10327"
+    ]
+  },
+  {
+    "id": "CBG-AK-10189",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.1346,
+    "y": 69.2025,
+    "infraWeight": 0.06823926360177894,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10179",
+      "CBG-AK-10073",
+      "CBG-AK-10387",
+      "CBG-AK-10105",
+      "CBG-AK-10306"
+    ]
+  },
+  {
+    "id": "CBG-AK-10190",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.514,
+    "y": 64.5319,
+    "infraWeight": 0.34211833821856447,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10094",
+      "CBG-AK-10349",
+      "CBG-AK-10178",
+      "CBG-AK-10063",
+      "CBG-AK-10311"
+    ]
+  },
+  {
+    "id": "CBG-AK-10191",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.39,
+    "y": 67.6092,
+    "infraWeight": 0.07532033693011732,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10395",
+      "CBG-AK-10226",
+      "CBG-AK-10281",
+      "CBG-AK-10162",
+      "CBG-AK-10205"
+    ]
+  },
+  {
+    "id": "CBG-AK-10192",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.6372,
+    "y": 52.3345,
+    "infraWeight": 0.10914093294060154,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10181",
+      "CBG-AK-10219",
+      "CBG-AK-10138",
+      "CBG-AK-10315",
+      "CBG-AK-10276"
+    ]
+  },
+  {
+    "id": "CBG-AK-10193",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.6491,
+    "y": 53.3287,
+    "infraWeight": 0.1520374506048052,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10236",
+      "CBG-AK-10235",
+      "CBG-AK-10007",
+      "CBG-AK-10082",
+      "CBG-AK-10095"
+    ]
+  },
+  {
+    "id": "CBG-AK-10194",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.2058,
+    "y": 63.3304,
+    "infraWeight": 0.1736551359587961,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10146",
+      "CBG-AK-10151",
+      "CBG-AK-10078",
+      "CBG-AK-10320",
+      "CBG-AK-10218"
+    ]
+  },
+  {
+    "id": "CBG-AK-10195",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.2204,
+    "y": 51.7735,
+    "infraWeight": 0.0683675967266796,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10169",
+      "CBG-AK-10109",
+      "CBG-AK-10056",
+      "CBG-AK-10077",
+      "CBG-AK-10300"
+    ]
+  },
+  {
+    "id": "CBG-AK-10196",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.8445,
+    "y": 65.8671,
+    "infraWeight": 0.11384350467278304,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10292",
+      "CBG-AK-10245",
+      "CBG-AK-10009",
+      "CBG-AK-10075",
+      "CBG-AK-10129"
+    ]
+  },
+  {
+    "id": "CBG-AK-10197",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.868,
+    "y": 65.7707,
+    "infraWeight": 0.07415770742797174,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10089",
+      "CBG-AK-10372",
+      "CBG-AK-10262",
+      "CBG-AK-10306",
+      "CBG-AK-10373"
+    ]
+  },
+  {
+    "id": "CBG-AK-10198",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.1515,
+    "y": 71.2687,
+    "infraWeight": 0.11657612773553704,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10353",
+      "CBG-AK-10042",
+      "CBG-AK-10301",
+      "CBG-AK-10368",
+      "CBG-AK-10356"
+    ]
+  },
+  {
+    "id": "CBG-AK-10199",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.9655,
+    "y": 51.3875,
+    "infraWeight": 0.07078754511729664,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10283",
+      "CBG-AK-10214",
+      "CBG-AK-10177",
+      "CBG-AK-10100",
+      "CBG-AK-10307"
+    ]
+  },
+  {
+    "id": "CBG-AK-10200",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.39,
+    "y": 69.2427,
+    "infraWeight": 0.10390088299785179,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10108",
+      "CBG-AK-10243",
+      "CBG-AK-10237",
+      "CBG-AK-10308",
+      "CBG-AK-10339"
+    ]
+  },
+  {
+    "id": "CBG-AK-10201",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.5473,
+    "y": 53.3237,
+    "infraWeight": 0.0877710705183234,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10295",
+      "CBG-AK-10122",
+      "CBG-AK-10300",
+      "CBG-AK-10117",
+      "CBG-AK-10396"
+    ]
+  },
+  {
+    "id": "CBG-AK-10202",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.9918,
+    "y": 65.1653,
+    "infraWeight": 0.06061337911479843,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10173",
+      "CBG-AK-10259",
+      "CBG-AK-10378",
+      "CBG-AK-10287",
+      "CBG-AK-10021"
+    ]
+  },
+  {
+    "id": "CBG-AK-10203",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.956,
+    "y": 61.7279,
+    "infraWeight": 0.08515871671335999,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10299",
+      "CBG-AK-10140",
+      "CBG-AK-10058",
+      "CBG-AK-10022",
+      "CBG-AK-10130"
+    ]
+  },
+  {
+    "id": "CBG-AK-10204",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.0411,
+    "y": 62.3219,
+    "infraWeight": 0.06975706870183147,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10156",
+      "CBG-AK-10125",
+      "CBG-AK-10258",
+      "CBG-AK-10224",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10205",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.3325,
+    "y": 66.1455,
+    "infraWeight": 0.0735732926778253,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10335",
+      "CBG-AK-10281",
+      "CBG-AK-10162",
+      "CBG-AK-10191",
+      "CBG-AK-10185"
+    ]
+  },
+  {
+    "id": "CBG-AK-10206",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.1604,
+    "y": 59.5357,
+    "infraWeight": 0.0967153744392313,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10273",
+      "CBG-AK-10319",
+      "CBG-AK-10285",
+      "CBG-AK-10058",
+      "CBG-AK-10017"
+    ]
+  },
+  {
+    "id": "CBG-AK-10207",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.3509,
+    "y": 69.8076,
+    "infraWeight": 0.14273956580943525,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10106",
+      "CBG-AK-10329",
+      "CBG-AK-10353",
+      "CBG-AK-10296",
+      "CBG-AK-10198"
+    ]
+  },
+  {
+    "id": "CBG-AK-10208",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.0181,
+    "y": 62.0998,
+    "infraWeight": 0.058686123660807776,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10124",
+      "CBG-AK-10045",
+      "CBG-AK-10053",
+      "CBG-AK-10263",
+      "CBG-AK-10016"
+    ]
+  },
+  {
+    "id": "CBG-AK-10209",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.5707,
+    "y": 66.1371,
+    "infraWeight": 0.20565907084358342,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10166",
+      "CBG-AK-10371",
+      "CBG-AK-10012",
+      "CBG-AK-10127",
+      "CBG-AK-10357"
+    ]
+  },
+  {
+    "id": "CBG-AK-10210",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.1516,
+    "y": 59.8682,
+    "infraWeight": 0.12840695175948302,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10384",
+      "CBG-AK-10271",
+      "CBG-AK-10035",
+      "CBG-AK-10030",
+      "CBG-AK-10240"
+    ]
+  },
+  {
+    "id": "CBG-AK-10211",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.6438,
+    "y": 59.7589,
+    "infraWeight": 0.14925752499697223,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10294",
+      "CBG-AK-10137",
+      "CBG-AK-10314",
+      "CBG-AK-10218",
+      "CBG-AK-10186"
+    ]
+  },
+  {
+    "id": "CBG-AK-10212",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.6675,
+    "y": 54.5441,
+    "infraWeight": 0.09121502692147708,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10266",
+      "CBG-AK-10352",
+      "CBG-AK-10298",
+      "CBG-AK-10238",
+      "CBG-AK-10381"
+    ]
+  },
+  {
+    "id": "CBG-AK-10213",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.8449,
+    "y": 68.0215,
+    "infraWeight": 0.19087016267044415,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10081",
+      "CBG-AK-10216",
+      "CBG-AK-10160",
+      "CBG-AK-10279",
+      "CBG-AK-10003"
+    ]
+  },
+  {
+    "id": "CBG-AK-10214",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.6955,
+    "y": 51.2416,
+    "infraWeight": 0.07270474595887855,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10199",
+      "CBG-AK-10283",
+      "CBG-AK-10177",
+      "CBG-AK-10086",
+      "CBG-AK-10100"
+    ]
+  },
+  {
+    "id": "CBG-AK-10215",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.1611,
+    "y": 64.83,
+    "infraWeight": 0.24787705253072037,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10261",
+      "CBG-AK-10127",
+      "CBG-AK-10348",
+      "CBG-AK-10389",
+      "CBG-AK-10209"
+    ]
+  },
+  {
+    "id": "CBG-AK-10216",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.7968,
+    "y": 69.1242,
+    "infraWeight": 0.1696023130503246,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10003",
+      "CBG-AK-10160",
+      "CBG-AK-10213",
+      "CBG-AK-10113",
+      "CBG-AK-10279"
+    ]
+  },
+  {
+    "id": "CBG-AK-10217",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.3646,
+    "y": 59.5086,
+    "infraWeight": 0.0644594132983805,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10165",
+      "CBG-AK-10355",
+      "CBG-AK-10053",
+      "CBG-AK-10326",
+      "CBG-AK-10131"
+    ]
+  },
+  {
+    "id": "CBG-AK-10218",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.1221,
+    "y": 61.1785,
+    "infraWeight": 0.17766531845402686,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10294",
+      "CBG-AK-10151",
+      "CBG-AK-10314",
+      "CBG-AK-10211",
+      "CBG-AK-10020"
+    ]
+  },
+  {
+    "id": "CBG-AK-10219",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -162.4714,
+    "y": 53.2985,
+    "infraWeight": 0.12257338062055118,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10315",
+      "CBG-AK-10180",
+      "CBG-AK-10138",
+      "CBG-AK-10276",
+      "CBG-AK-10192"
+    ]
+  },
+  {
+    "id": "CBG-AK-10220",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.2684,
+    "y": 61.8417,
+    "infraWeight": 0.5369957141441158,
+    "population": 976,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10311",
+      "CBG-AK-10152",
+      "CBG-AK-10094",
+      "CBG-AK-10141",
+      "CBG-AK-10074"
+    ]
+  },
+  {
+    "id": "CBG-AK-10221",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.9296,
+    "y": 64.7782,
+    "infraWeight": 0.18156061466698387,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10072",
+      "CBG-AK-10121",
+      "CBG-AK-10379",
+      "CBG-AK-10232",
+      "CBG-AK-10158"
+    ]
+  },
+  {
+    "id": "CBG-AK-10222",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.8751,
+    "y": 64.0348,
+    "infraWeight": 0.2677565683457146,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10004",
+      "CBG-AK-10060",
+      "CBG-AK-10231",
+      "CBG-AK-10359",
+      "CBG-AK-10383"
+    ]
+  },
+  {
+    "id": "CBG-AK-10223",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.0789,
+    "y": 58.733,
+    "infraWeight": 0.1016724652318246,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10031",
+      "CBG-AK-10397",
+      "CBG-AK-10345",
+      "CBG-AK-10240",
+      "CBG-AK-10269"
+    ]
+  },
+  {
+    "id": "CBG-AK-10224",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.6472,
+    "y": 62.0406,
+    "infraWeight": 0.06788375018254889,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10125",
+      "CBG-AK-10156",
+      "CBG-AK-10204",
+      "CBG-AK-10258",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10225",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.6816,
+    "y": 64.3071,
+    "infraWeight": 0.06716574821748553,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10317",
+      "CBG-AK-10378",
+      "CBG-AK-10287",
+      "CBG-AK-10258",
+      "CBG-AK-10185"
+    ]
+  },
+  {
+    "id": "CBG-AK-10226",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.8541,
+    "y": 68.731,
+    "infraWeight": 0.07565921842792288,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10167",
+      "CBG-AK-10363",
+      "CBG-AK-10395",
+      "CBG-AK-10191",
+      "CBG-AK-10038"
+    ]
+  },
+  {
+    "id": "CBG-AK-10227",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.3729,
+    "y": 53.1506,
+    "infraWeight": 0.16352489466765294,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10133",
+      "CBG-AK-10097",
+      "CBG-AK-10386",
+      "CBG-AK-10057",
+      "CBG-AK-10309"
+    ]
+  },
+  {
+    "id": "CBG-AK-10228",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.7126,
+    "y": 52.1181,
+    "infraWeight": 0.12054796529629724,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10055",
+      "CBG-AK-10071",
+      "CBG-AK-10248",
+      "CBG-AK-10235",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10229",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -143.5383,
+    "y": 66.8863,
+    "infraWeight": 0.11221009050106774,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10025",
+      "CBG-AK-10293",
+      "CBG-AK-10392",
+      "CBG-AK-10048",
+      "CBG-AK-10255"
+    ]
+  },
+  {
+    "id": "CBG-AK-10230",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.7567,
+    "y": 59.8098,
+    "infraWeight": 0.27553712274766046,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10084",
+      "CBG-AK-10101",
+      "CBG-AK-10139",
+      "CBG-AK-10032",
+      "CBG-AK-10342"
+    ]
+  },
+  {
+    "id": "CBG-AK-10231",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.8437,
+    "y": 63.4742,
+    "infraWeight": 0.28208297606990296,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10004",
+      "CBG-AK-10359",
+      "CBG-AK-10060",
+      "CBG-AK-10222",
+      "CBG-AK-10104"
+    ]
+  },
+  {
+    "id": "CBG-AK-10232",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -162.3935,
+    "y": 64.7322,
+    "infraWeight": 0.1569818827776061,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10158",
+      "CBG-AK-10221",
+      "CBG-AK-10129",
+      "CBG-AK-10072",
+      "CBG-AK-10121"
+    ]
+  },
+  {
+    "id": "CBG-AK-10233",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.8382,
+    "y": 58.0052,
+    "infraWeight": 0.28498141848467856,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10288",
+      "CBG-AK-10289",
+      "CBG-AK-10304",
+      "CBG-AK-10280",
+      "CBG-AK-10052"
+    ]
+  },
+  {
+    "id": "CBG-AK-10234",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.9465,
+    "y": 67.2742,
+    "infraWeight": 0.19036328232974165,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10365",
+      "CBG-AK-10371",
+      "CBG-AK-10338",
+      "CBG-AK-10209",
+      "CBG-AK-10081"
+    ]
+  },
+  {
+    "id": "CBG-AK-10235",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.389,
+    "y": 53.7717,
+    "infraWeight": 0.13987131782481915,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10007",
+      "CBG-AK-10248",
+      "CBG-AK-10071",
+      "CBG-AK-10260",
+      "CBG-AK-10247"
+    ]
+  },
+  {
+    "id": "CBG-AK-10236",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.5994,
+    "y": 52.6502,
+    "infraWeight": 0.14285666696780763,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10193",
+      "CBG-AK-10235",
+      "CBG-AK-10082",
+      "CBG-AK-10071",
+      "CBG-AK-10248"
+    ]
+  },
+  {
+    "id": "CBG-AK-10237",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -167.0107,
+    "y": 69.7612,
+    "infraWeight": 0.09340260580719317,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10243",
+      "CBG-AK-10200",
+      "CBG-AK-10088",
+      "CBG-AK-10375",
+      "CBG-AK-10108"
+    ]
+  },
+  {
+    "id": "CBG-AK-10238",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -141.7914,
+    "y": 55.1931,
+    "infraWeight": 0.09900638920836866,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10041",
+      "CBG-AK-10149",
+      "CBG-AK-10266",
+      "CBG-AK-10341",
+      "CBG-AK-10212"
+    ]
+  },
+  {
+    "id": "CBG-AK-10239",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.6723,
+    "y": 55.3769,
+    "infraWeight": 0.21510090057250605,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10018",
+      "CBG-AK-10082",
+      "CBG-AK-10374",
+      "CBG-AK-10133",
+      "CBG-AK-10386"
+    ]
+  },
+  {
+    "id": "CBG-AK-10240",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.3659,
+    "y": 58.5381,
+    "infraWeight": 0.11435745005981929,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10397",
+      "CBG-AK-10271",
+      "CBG-AK-10384",
+      "CBG-AK-10318",
+      "CBG-AK-10035"
+    ]
+  },
+  {
+    "id": "CBG-AK-10241",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.6476,
+    "y": 63.5118,
+    "infraWeight": 0.08229021221270509,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10153",
+      "CBG-AK-10324",
+      "CBG-AK-10242",
+      "CBG-AK-10185",
+      "CBG-AK-10183"
+    ]
+  },
+  {
+    "id": "CBG-AK-10242",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.4608,
+    "y": 61.8682,
+    "infraWeight": 0.08871868473558914,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10324",
+      "CBG-AK-10182",
+      "CBG-AK-10183",
+      "CBG-AK-10312",
+      "CBG-AK-10153"
+    ]
+  },
+  {
+    "id": "CBG-AK-10243",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.7977,
+    "y": 70.5664,
+    "infraWeight": 0.09632181250682358,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10200",
+      "CBG-AK-10237",
+      "CBG-AK-10339",
+      "CBG-AK-10108",
+      "CBG-AK-10088"
+    ]
+  },
+  {
+    "id": "CBG-AK-10244",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.5775,
+    "y": 56.035,
+    "infraWeight": 0.06347770036586317,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10026",
+      "CBG-AK-10143",
+      "CBG-AK-10136",
+      "CBG-AK-10282",
+      "CBG-AK-10337"
+    ]
+  },
+  {
+    "id": "CBG-AK-10245",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.8002,
+    "y": 66.2371,
+    "infraWeight": 0.10562893299266823,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10196",
+      "CBG-AK-10292",
+      "CBG-AK-10375",
+      "CBG-AK-10252",
+      "CBG-AK-10009"
+    ]
+  },
+  {
+    "id": "CBG-AK-10246",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.8666,
+    "y": 71.2266,
+    "infraWeight": 0.11744130643621083,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10147",
+      "CBG-AK-10107",
+      "CBG-AK-10264",
+      "CBG-AK-10116",
+      "CBG-AK-10103"
+    ]
+  },
+  {
+    "id": "CBG-AK-10247",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.2501,
+    "y": 54.9666,
+    "infraWeight": 0.1406565171649942,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10260",
+      "CBG-AK-10096",
+      "CBG-AK-10251",
+      "CBG-AK-10007",
+      "CBG-AK-10235"
+    ]
+  },
+  {
+    "id": "CBG-AK-10248",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.8149,
+    "y": 52.7345,
+    "infraWeight": 0.1261349365489044,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10071",
+      "CBG-AK-10228",
+      "CBG-AK-10055",
+      "CBG-AK-10235",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10249",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.0723,
+    "y": 71.3248,
+    "infraWeight": 0.13450972031883143,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10329",
+      "CBG-AK-10090",
+      "CBG-AK-10113",
+      "CBG-AK-10174",
+      "CBG-AK-10106"
+    ]
+  },
+  {
+    "id": "CBG-AK-10250",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.6968,
+    "y": 57.6519,
+    "infraWeight": 0.18986663661781655,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10142",
+      "CBG-AK-10366",
+      "CBG-AK-10118",
+      "CBG-AK-10011",
+      "CBG-AK-10052"
+    ]
+  },
+  {
+    "id": "CBG-AK-10251",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.5764,
+    "y": 55.8405,
+    "infraWeight": 0.15216939858839518,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10096",
+      "CBG-AK-10247",
+      "CBG-AK-10007",
+      "CBG-AK-10260",
+      "CBG-AK-10250"
+    ]
+  },
+  {
+    "id": "CBG-AK-10252",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -167.615,
+    "y": 63.89,
+    "infraWeight": 0.10483250027017423,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10115",
+      "CBG-AK-10183",
+      "CBG-AK-10040",
+      "CBG-AK-10102",
+      "CBG-AK-10245"
+    ]
+  },
+  {
+    "id": "CBG-AK-10253",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.1408,
+    "y": 55.7519,
+    "infraWeight": 0.21120410983567645,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10049",
+      "CBG-AK-10290",
+      "CBG-AK-10386",
+      "CBG-AK-10331",
+      "CBG-AK-10374"
+    ]
+  },
+  {
+    "id": "CBG-AK-10254",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.886,
+    "y": 65.2499,
+    "infraWeight": 0.18924067797357172,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10085",
+      "CBG-AK-10070",
+      "CBG-AK-10320",
+      "CBG-AK-10155",
+      "CBG-AK-10144"
+    ]
+  },
+  {
+    "id": "CBG-AK-10255",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.0427,
+    "y": 68.205,
+    "infraWeight": 0.12522576625563614,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10392",
+      "CBG-AK-10112",
+      "CBG-AK-10048",
+      "CBG-AK-10025",
+      "CBG-AK-10301"
+    ]
+  },
+  {
+    "id": "CBG-AK-10256",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.3095,
+    "y": 61.336,
+    "infraWeight": 0.1176893583199501,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10030",
+      "CBG-AK-10035",
+      "CBG-AK-10269",
+      "CBG-AK-10102",
+      "CBG-AK-10115"
+    ]
+  },
+  {
+    "id": "CBG-AK-10257",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.806,
+    "y": 68.6879,
+    "infraWeight": 0.08147253888983337,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10284",
+      "CBG-AK-10008",
+      "CBG-AK-10322",
+      "CBG-AK-10154",
+      "CBG-AK-10364"
+    ]
+  },
+  {
+    "id": "CBG-AK-10258",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.0941,
+    "y": 62.8163,
+    "infraWeight": 0.06948607362896385,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10204",
+      "CBG-AK-10156",
+      "CBG-AK-10125",
+      "CBG-AK-10224",
+      "CBG-AK-10391"
+    ]
+  },
+  {
+    "id": "CBG-AK-10259",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -178.2126,
+    "y": 64.9523,
+    "infraWeight": 0.06016523444779535,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10173",
+      "CBG-AK-10202",
+      "CBG-AK-10378",
+      "CBG-AK-10287",
+      "CBG-AK-10360"
+    ]
+  },
+  {
+    "id": "CBG-AK-10260",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.1669,
+    "y": 54.2707,
+    "infraWeight": 0.1340118569473505,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10247",
+      "CBG-AK-10235",
+      "CBG-AK-10096",
+      "CBG-AK-10251",
+      "CBG-AK-10248"
+    ]
+  },
+  {
+    "id": "CBG-AK-10261",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.2729,
+    "y": 64.7166,
+    "infraWeight": 0.24777678866545755,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10215",
+      "CBG-AK-10348",
+      "CBG-AK-10127",
+      "CBG-AK-10389",
+      "CBG-AK-10209"
+    ]
+  },
+  {
+    "id": "CBG-AK-10262",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.3074,
+    "y": 64.1398,
+    "infraWeight": 0.07700659632743845,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10372",
+      "CBG-AK-10022",
+      "CBG-AK-10369",
+      "CBG-AK-10382",
+      "CBG-AK-10197"
+    ]
+  },
+  {
+    "id": "CBG-AK-10263",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.809,
+    "y": 62.6958,
+    "infraWeight": 0.06578654588145577,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10124",
+      "CBG-AK-10045",
+      "CBG-AK-10131",
+      "CBG-AK-10172",
+      "CBG-AK-10016"
+    ]
+  },
+  {
+    "id": "CBG-AK-10264",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.5155,
+    "y": 69.9883,
+    "infraWeight": 0.13618432464362573,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10116",
+      "CBG-AK-10010",
+      "CBG-AK-10107",
+      "CBG-AK-10187",
+      "CBG-AK-10246"
+    ]
+  },
+  {
+    "id": "CBG-AK-10265",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.2344,
+    "y": 54.1222,
+    "infraWeight": 0.05690038534772553,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10361",
+      "CBG-AK-10083",
+      "CBG-AK-10029",
+      "CBG-AK-10065",
+      "CBG-AK-10170"
+    ]
+  },
+  {
+    "id": "CBG-AK-10266",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -141.1856,
+    "y": 54.2305,
+    "infraWeight": 0.09302982941499502,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10298",
+      "CBG-AK-10212",
+      "CBG-AK-10238",
+      "CBG-AK-10352",
+      "CBG-AK-10041"
+    ]
+  },
+  {
+    "id": "CBG-AK-10267",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.759,
+    "y": 56.7589,
+    "infraWeight": 0.15790841789356008,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10069",
+      "CBG-AK-10080",
+      "CBG-AK-10278",
+      "CBG-AK-10276",
+      "CBG-AK-10068"
+    ]
+  },
+  {
+    "id": "CBG-AK-10268",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.336,
+    "y": 70.9923,
+    "infraWeight": 0.1064989302406526,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10103",
+      "CBG-AK-10339",
+      "CBG-AK-10108",
+      "CBG-AK-10147",
+      "CBG-AK-10246"
+    ]
+  },
+  {
+    "id": "CBG-AK-10269",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -167.6151,
+    "y": 60.4845,
+    "infraWeight": 0.10656914070022429,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10345",
+      "CBG-AK-10102",
+      "CBG-AK-10030",
+      "CBG-AK-10035",
+      "CBG-AK-10256"
+    ]
+  },
+  {
+    "id": "CBG-AK-10270",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.377,
+    "y": 67.9496,
+    "infraWeight": 0.14858783179158586,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10296",
+      "CBG-AK-10070",
+      "CBG-AK-10085",
+      "CBG-AK-10255",
+      "CBG-AK-10144"
+    ]
+  },
+  {
+    "id": "CBG-AK-10271",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.7909,
+    "y": 59.3527,
+    "infraWeight": 0.1210509885967287,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10384",
+      "CBG-AK-10035",
+      "CBG-AK-10210",
+      "CBG-AK-10240",
+      "CBG-AK-10397"
+    ]
+  },
+  {
+    "id": "CBG-AK-10272",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.4924,
+    "y": 69.9514,
+    "infraWeight": 0.14779413253515286,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10092",
+      "CBG-AK-10187",
+      "CBG-AK-10081",
+      "CBG-AK-10010",
+      "CBG-AK-10160"
+    ]
+  },
+  {
+    "id": "CBG-AK-10273",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.6749,
+    "y": 59.0611,
+    "infraWeight": 0.09343352925280272,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10206",
+      "CBG-AK-10285",
+      "CBG-AK-10017",
+      "CBG-AK-10319",
+      "CBG-AK-10058"
+    ]
+  },
+  {
+    "id": "CBG-AK-10274",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.2344,
+    "y": 58.0693,
+    "infraWeight": 0.07520754043584896,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10332",
+      "CBG-AK-10050",
+      "CBG-AK-10343",
+      "CBG-AK-10093",
+      "CBG-AK-10336"
+    ]
+  },
+  {
+    "id": "CBG-AK-10275",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.0503,
+    "y": 66.0053,
+    "infraWeight": 0.2367278029201545,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10063",
+      "CBG-AK-10127",
+      "CBG-AK-10371",
+      "CBG-AK-10209",
+      "CBG-AK-10234"
+    ]
+  },
+  {
+    "id": "CBG-AK-10276",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.1087,
+    "y": 54.6383,
+    "infraWeight": 0.12685727348203102,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10315",
+      "CBG-AK-10138",
+      "CBG-AK-10278",
+      "CBG-AK-10219",
+      "CBG-AK-10180"
+    ]
+  },
+  {
+    "id": "CBG-AK-10277",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.0657,
+    "y": 60.794,
+    "infraWeight": 0.8820060421272982,
+    "population": 1748,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10141",
+      "CBG-AK-10013",
+      "CBG-AK-10358",
+      "CBG-AK-10220",
+      "CBG-AK-10310"
+    ]
+  },
+  {
+    "id": "CBG-AK-10278",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.6452,
+    "y": 55.5579,
+    "infraWeight": 0.12782014871027175,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10276",
+      "CBG-AK-10068",
+      "CBG-AK-10138",
+      "CBG-AK-10315",
+      "CBG-AK-10069"
+    ]
+  },
+  {
+    "id": "CBG-AK-10279",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.2228,
+    "y": 67.4353,
+    "infraWeight": 0.20945625895574768,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10178",
+      "CBG-AK-10003",
+      "CBG-AK-10213",
+      "CBG-AK-10216",
+      "CBG-AK-10123"
+    ]
+  },
+  {
+    "id": "CBG-AK-10280",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.901,
+    "y": 58.7429,
+    "infraWeight": 0.2377044280542873,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10052",
+      "CBG-AK-10011",
+      "CBG-AK-10118",
+      "CBG-AK-10366",
+      "CBG-AK-10142"
+    ]
+  },
+  {
+    "id": "CBG-AK-10281",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.8122,
+    "y": 66.1893,
+    "infraWeight": 0.07539214032289124,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10205",
+      "CBG-AK-10335",
+      "CBG-AK-10162",
+      "CBG-AK-10191",
+      "CBG-AK-10185"
+    ]
+  },
+  {
+    "id": "CBG-AK-10282",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.4112,
+    "y": 56.7031,
+    "infraWeight": 0.06713151783319424,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10337",
+      "CBG-AK-10093",
+      "CBG-AK-10244",
+      "CBG-AK-10026",
+      "CBG-AK-10350"
+    ]
+  },
+  {
+    "id": "CBG-AK-10283",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.5632,
+    "y": 51.6873,
+    "infraWeight": 0.070096492639568,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10199",
+      "CBG-AK-10214",
+      "CBG-AK-10177",
+      "CBG-AK-10100",
+      "CBG-AK-10307"
+    ]
+  },
+  {
+    "id": "CBG-AK-10284",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.6541,
+    "y": 68.5054,
+    "infraWeight": 0.0853869545453963,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10154",
+      "CBG-AK-10322",
+      "CBG-AK-10257",
+      "CBG-AK-10033",
+      "CBG-AK-10008"
+    ]
+  },
+  {
+    "id": "CBG-AK-10285",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.7324,
+    "y": 58.3525,
+    "infraWeight": 0.09306000811678675,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10273",
+      "CBG-AK-10206",
+      "CBG-AK-10017",
+      "CBG-AK-10184",
+      "CBG-AK-10380"
+    ]
+  },
+  {
+    "id": "CBG-AK-10286",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.9636,
+    "y": 62.0261,
+    "infraWeight": 0.10259333711397962,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10319",
+      "CBG-AK-10362",
+      "CBG-AK-10006",
+      "CBG-AK-10376",
+      "CBG-AK-10067"
+    ]
+  },
+  {
+    "id": "CBG-AK-10287",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.9586,
+    "y": 63.5825,
+    "infraWeight": 0.06379677985831862,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10317",
+      "CBG-AK-10378",
+      "CBG-AK-10225",
+      "CBG-AK-10173",
+      "CBG-AK-10259"
+    ]
+  },
+  {
+    "id": "CBG-AK-10288",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.5819,
+    "y": 58.1312,
+    "infraWeight": 0.28092825000666194,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10233",
+      "CBG-AK-10289",
+      "CBG-AK-10304",
+      "CBG-AK-10280",
+      "CBG-AK-10052"
+    ]
+  },
+  {
+    "id": "CBG-AK-10289",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -152.0572,
+    "y": 57.335,
+    "infraWeight": 0.26422102501504013,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10233",
+      "CBG-AK-10288",
+      "CBG-AK-10304",
+      "CBG-AK-10095",
+      "CBG-AK-10118"
+    ]
+  },
+  {
+    "id": "CBG-AK-10290",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -156.1488,
+    "y": 57.4205,
+    "infraWeight": 0.28983726872848303,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10374",
+      "CBG-AK-10047",
+      "CBG-AK-10253",
+      "CBG-AK-10049",
+      "CBG-AK-10032"
+    ]
+  },
+  {
+    "id": "CBG-AK-10291",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.765,
+    "y": 66.6832,
+    "infraWeight": 0.06394401775696949,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10188",
+      "CBG-AK-10059",
+      "CBG-AK-10351",
+      "CBG-AK-10373",
+      "CBG-AK-10327"
+    ]
+  },
+  {
+    "id": "CBG-AK-10292",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.4824,
+    "y": 66.3157,
+    "infraWeight": 0.11518889648013966,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10196",
+      "CBG-AK-10245",
+      "CBG-AK-10009",
+      "CBG-AK-10308",
+      "CBG-AK-10075"
+    ]
+  },
+  {
+    "id": "CBG-AK-10293",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.148,
+    "y": 64.4957,
+    "infraWeight": 0.12604715404693342,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10393",
+      "CBG-AK-10067",
+      "CBG-AK-10078",
+      "CBG-AK-10146",
+      "CBG-AK-10229"
+    ]
+  },
+  {
+    "id": "CBG-AK-10294",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.4592,
+    "y": 60.5512,
+    "infraWeight": 0.16414965614223867,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10314",
+      "CBG-AK-10218",
+      "CBG-AK-10211",
+      "CBG-AK-10151",
+      "CBG-AK-10020"
+    ]
+  },
+  {
+    "id": "CBG-AK-10295",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -169.9007,
+    "y": 53.836,
+    "infraWeight": 0.08310668895307811,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10201",
+      "CBG-AK-10128",
+      "CBG-AK-10122",
+      "CBG-AK-10300",
+      "CBG-AK-10109"
+    ]
+  },
+  {
+    "id": "CBG-AK-10296",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.1095,
+    "y": 67.4894,
+    "infraWeight": 0.16194388806548723,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10270",
+      "CBG-AK-10085",
+      "CBG-AK-10144",
+      "CBG-AK-10070",
+      "CBG-AK-10254"
+    ]
+  },
+  {
+    "id": "CBG-AK-10297",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.2166,
+    "y": 62.7595,
+    "infraWeight": 0.3036806791573797,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10064",
+      "CBG-AK-10074",
+      "CBG-AK-10152",
+      "CBG-AK-10389",
+      "CBG-AK-10325"
+    ]
+  },
+  {
+    "id": "CBG-AK-10298",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -141.1542,
+    "y": 53.6635,
+    "infraWeight": 0.09133126735297833,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10266",
+      "CBG-AK-10212",
+      "CBG-AK-10352",
+      "CBG-AK-10238",
+      "CBG-AK-10041"
+    ]
+  },
+  {
+    "id": "CBG-AK-10299",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -138.3917,
+    "y": 62.7696,
+    "infraWeight": 0.08700387877675862,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10140",
+      "CBG-AK-10203",
+      "CBG-AK-10022",
+      "CBG-AK-10087",
+      "CBG-AK-10036"
+    ]
+  },
+  {
+    "id": "CBG-AK-10300",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.2327,
+    "y": 51.4958,
+    "infraWeight": 0.07702473217200045,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10077",
+      "CBG-AK-10109",
+      "CBG-AK-10295",
+      "CBG-AK-10169",
+      "CBG-AK-10201"
+    ]
+  },
+  {
+    "id": "CBG-AK-10301",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.495,
+    "y": 69.9811,
+    "infraWeight": 0.11660186439369119,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10042",
+      "CBG-AK-10356",
+      "CBG-AK-10368",
+      "CBG-AK-10112",
+      "CBG-AK-10048"
+    ]
+  },
+  {
+    "id": "CBG-AK-10302",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.7109,
+    "y": 51.3903,
+    "infraWeight": 0.11860452498804724,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10398",
+      "CBG-AK-10394",
+      "CBG-AK-10062",
+      "CBG-AK-10219",
+      "CBG-AK-10390"
+    ]
+  },
+  {
+    "id": "CBG-AK-10303",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.1339,
+    "y": 53.5119,
+    "infraWeight": 0.11346495419256877,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10061",
+      "CBG-AK-10171",
+      "CBG-AK-10321",
+      "CBG-AK-10323",
+      "CBG-AK-10260"
+    ]
+  },
+  {
+    "id": "CBG-AK-10304",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.1146,
+    "y": 57.9231,
+    "infraWeight": 0.3219105623158018,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10289",
+      "CBG-AK-10233",
+      "CBG-AK-10288",
+      "CBG-AK-10374",
+      "CBG-AK-10005"
+    ]
+  },
+  {
+    "id": "CBG-AK-10305",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.7861,
+    "y": 67.5282,
+    "infraWeight": 0.05862939990339154,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10291",
+      "CBG-AK-10188",
+      "CBG-AK-10388",
+      "CBG-AK-10059",
+      "CBG-AK-10016"
+    ]
+  },
+  {
+    "id": "CBG-AK-10306",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.4137,
+    "y": 67.4076,
+    "infraWeight": 0.0710701875576189,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10179",
+      "CBG-AK-10073",
+      "CBG-AK-10373",
+      "CBG-AK-10197",
+      "CBG-AK-10351"
+    ]
+  },
+  {
+    "id": "CBG-AK-10307",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -134.7177,
+    "y": 53.0591,
+    "infraWeight": 0.06671680024178506,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10100",
+      "CBG-AK-10177",
+      "CBG-AK-10091",
+      "CBG-AK-10098",
+      "CBG-AK-10283"
+    ]
+  },
+  {
+    "id": "CBG-AK-10308",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.8203,
+    "y": 68.192,
+    "infraWeight": 0.11952138005733935,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10108",
+      "CBG-AK-10200",
+      "CBG-AK-10111",
+      "CBG-AK-10103",
+      "CBG-AK-10292"
+    ]
+  },
+  {
+    "id": "CBG-AK-10309",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.7096,
+    "y": 53.118,
+    "infraWeight": 0.15384145506745334,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10399",
+      "CBG-AK-10057",
+      "CBG-AK-10097",
+      "CBG-AK-10119",
+      "CBG-AK-10175"
+    ]
+  },
+  {
+    "id": "CBG-AK-10310",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -153.7025,
+    "y": 62.0229,
+    "infraWeight": 0.7024155369652766,
+    "population": 1355,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10043",
+      "CBG-AK-10120",
+      "CBG-AK-10005",
+      "CBG-AK-10349",
+      "CBG-AK-10277"
+    ]
+  },
+  {
+    "id": "CBG-AK-10311",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.6234,
+    "y": 62.5682,
+    "infraWeight": 0.5628319436353526,
+    "population": 927,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10094",
+      "CBG-AK-10220",
+      "CBG-AK-10152",
+      "CBG-AK-10141",
+      "CBG-AK-10277"
+    ]
+  },
+  {
+    "id": "CBG-AK-10312",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.7897,
+    "y": 60.1765,
+    "infraWeight": 0.08688971763695715,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10134",
+      "CBG-AK-10242",
+      "CBG-AK-10324",
+      "CBG-AK-10031",
+      "CBG-AK-10050"
+    ]
+  },
+  {
+    "id": "CBG-AK-10313",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.2974,
+    "y": 57.7309,
+    "infraWeight": 0.06247640248773828,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10024",
+      "CBG-AK-10350",
+      "CBG-AK-10346",
+      "CBG-AK-10176",
+      "CBG-AK-10026"
+    ]
+  },
+  {
+    "id": "CBG-AK-10314",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -146.8553,
+    "y": 59.8758,
+    "infraWeight": 0.16975297012091722,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10294",
+      "CBG-AK-10211",
+      "CBG-AK-10218",
+      "CBG-AK-10370",
+      "CBG-AK-10186"
+    ]
+  },
+  {
+    "id": "CBG-AK-10315",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -163.2304,
+    "y": 54.0146,
+    "infraWeight": 0.12184245519983544,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10138",
+      "CBG-AK-10276",
+      "CBG-AK-10219",
+      "CBG-AK-10278",
+      "CBG-AK-10180"
+    ]
+  },
+  {
+    "id": "CBG-AK-10316",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -178.703,
+    "y": 68.7552,
+    "infraWeight": 0.05710199176201409,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10034",
+      "CBG-AK-10377",
+      "CBG-AK-10021",
+      "CBG-AK-10051",
+      "CBG-AK-10202"
+    ]
+  },
+  {
+    "id": "CBG-AK-10317",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.9793,
+    "y": 63.5163,
+    "infraWeight": 0.06657432780029332,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10225",
+      "CBG-AK-10287",
+      "CBG-AK-10258",
+      "CBG-AK-10378",
+      "CBG-AK-10224"
+    ]
+  },
+  {
+    "id": "CBG-AK-10318",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.5788,
+    "y": 57.6667,
+    "infraWeight": 0.11911169339645694,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10150",
+      "CBG-AK-10240",
+      "CBG-AK-10397",
+      "CBG-AK-10384",
+      "CBG-AK-10068"
+    ]
+  },
+  {
+    "id": "CBG-AK-10319",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.3664,
+    "y": 60.5174,
+    "infraWeight": 0.09856441009192406,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10206",
+      "CBG-AK-10273",
+      "CBG-AK-10286",
+      "CBG-AK-10058",
+      "CBG-AK-10376"
+    ]
+  },
+  {
+    "id": "CBG-AK-10320",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.7816,
+    "y": 63.4905,
+    "infraWeight": 0.20863875483074565,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10194",
+      "CBG-AK-10254",
+      "CBG-AK-10060",
+      "CBG-AK-10359",
+      "CBG-AK-10231"
+    ]
+  },
+  {
+    "id": "CBG-AK-10321",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -144.0425,
+    "y": 54.6321,
+    "infraWeight": 0.11154297240678895,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10330",
+      "CBG-AK-10341",
+      "CBG-AK-10303",
+      "CBG-AK-10099",
+      "CBG-AK-10149"
+    ]
+  },
+  {
+    "id": "CBG-AK-10322",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.0483,
+    "y": 68.962,
+    "infraWeight": 0.08609961900994696,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10154",
+      "CBG-AK-10284",
+      "CBG-AK-10008",
+      "CBG-AK-10033",
+      "CBG-AK-10132"
+    ]
+  },
+  {
+    "id": "CBG-AK-10323",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.2674,
+    "y": 51.9306,
+    "infraWeight": 0.10572792482602096,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10061",
+      "CBG-AK-10171",
+      "CBG-AK-10303",
+      "CBG-AK-10228",
+      "CBG-AK-10055"
+    ]
+  },
+  {
+    "id": "CBG-AK-10324",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.8002,
+    "y": 62.0683,
+    "infraWeight": 0.08693148773438578,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10242",
+      "CBG-AK-10153",
+      "CBG-AK-10182",
+      "CBG-AK-10241",
+      "CBG-AK-10183"
+    ]
+  },
+  {
+    "id": "CBG-AK-10325",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.3123,
+    "y": 62.0382,
+    "infraWeight": 0.2582758553916716,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10064",
+      "CBG-AK-10297",
+      "CBG-AK-10074",
+      "CBG-AK-10139",
+      "CBG-AK-10342"
+    ]
+  },
+  {
+    "id": "CBG-AK-10326",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.3406,
+    "y": 58.5227,
+    "infraWeight": 0.061507945067220585,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10355",
+      "CBG-AK-10165",
+      "CBG-AK-10328",
+      "CBG-AK-10217",
+      "CBG-AK-10053"
+    ]
+  },
+  {
+    "id": "CBG-AK-10327",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.584,
+    "y": 65.0996,
+    "infraWeight": 0.0671907994457514,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10059",
+      "CBG-AK-10373",
+      "CBG-AK-10089",
+      "CBG-AK-10016",
+      "CBG-AK-10188"
+    ]
+  },
+  {
+    "id": "CBG-AK-10328",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.0781,
+    "y": 57.456,
+    "infraWeight": 0.06300007869754987,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10326",
+      "CBG-AK-10165",
+      "CBG-AK-10355",
+      "CBG-AK-10029",
+      "CBG-AK-10170"
+    ]
+  },
+  {
+    "id": "CBG-AK-10329",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -152.6211,
+    "y": 70.9025,
+    "infraWeight": 0.1387164594087511,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10249",
+      "CBG-AK-10090",
+      "CBG-AK-10106",
+      "CBG-AK-10113",
+      "CBG-AK-10003"
+    ]
+  },
+  {
+    "id": "CBG-AK-10330",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -143.3446,
+    "y": 55.0944,
+    "infraWeight": 0.10859003035962395,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10341",
+      "CBG-AK-10321",
+      "CBG-AK-10149",
+      "CBG-AK-10238",
+      "CBG-AK-10099"
+    ]
+  },
+  {
+    "id": "CBG-AK-10331",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.5443,
+    "y": 57.2441,
+    "infraWeight": 0.22486212815846224,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10101",
+      "CBG-AK-10253",
+      "CBG-AK-10047",
+      "CBG-AK-10334",
+      "CBG-AK-10290"
+    ]
+  },
+  {
+    "id": "CBG-AK-10332",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.9343,
+    "y": 59.2901,
+    "infraWeight": 0.07701030043333176,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10343",
+      "CBG-AK-10274",
+      "CBG-AK-10050",
+      "CBG-AK-10046",
+      "CBG-AK-10312"
+    ]
+  },
+  {
+    "id": "CBG-AK-10333",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.8414,
+    "y": 70.7296,
+    "infraWeight": 0.06952824008077248,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10038",
+      "CBG-AK-10167",
+      "CBG-AK-10226",
+      "CBG-AK-10395",
+      "CBG-AK-10354"
+    ]
+  },
+  {
+    "id": "CBG-AK-10334",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.1535,
+    "y": 54.9241,
+    "infraWeight": 0.16963759265022274,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10390",
+      "CBG-AK-10080",
+      "CBG-AK-10062",
+      "CBG-AK-10399",
+      "CBG-AK-10253"
+    ]
+  },
+  {
+    "id": "CBG-AK-10335",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.5056,
+    "y": 66.1268,
+    "infraWeight": 0.07298982940273506,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10205",
+      "CBG-AK-10281",
+      "CBG-AK-10162",
+      "CBG-AK-10191",
+      "CBG-AK-10185"
+    ]
+  },
+  {
+    "id": "CBG-AK-10336",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -171.745,
+    "y": 56.3707,
+    "infraWeight": 0.07949376857795303,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10114",
+      "CBG-AK-10340",
+      "CBG-AK-10128",
+      "CBG-AK-10050",
+      "CBG-AK-10274"
+    ]
+  },
+  {
+    "id": "CBG-AK-10337",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -175.287,
+    "y": 56.5328,
+    "infraWeight": 0.06738433675771181,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10282",
+      "CBG-AK-10093",
+      "CBG-AK-10244",
+      "CBG-AK-10026",
+      "CBG-AK-10143"
+    ]
+  },
+  {
+    "id": "CBG-AK-10338",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.2013,
+    "y": 68.0725,
+    "infraWeight": 0.17237562672378395,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10365",
+      "CBG-AK-10187",
+      "CBG-AK-10234",
+      "CBG-AK-10010",
+      "CBG-AK-10081"
+    ]
+  },
+  {
+    "id": "CBG-AK-10339",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -164.5181,
+    "y": 71.3045,
+    "infraWeight": 0.09917649449449986,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10268",
+      "CBG-AK-10103",
+      "CBG-AK-10243",
+      "CBG-AK-10108",
+      "CBG-AK-10200"
+    ]
+  },
+  {
+    "id": "CBG-AK-10340",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.6793,
+    "y": 56.9096,
+    "infraWeight": 0.08475490676590353,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10128",
+      "CBG-AK-10336",
+      "CBG-AK-10114",
+      "CBG-AK-10050",
+      "CBG-AK-10110"
+    ]
+  },
+  {
+    "id": "CBG-AK-10341",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.9357,
+    "y": 55.4273,
+    "infraWeight": 0.1069912109702663,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10330",
+      "CBG-AK-10149",
+      "CBG-AK-10238",
+      "CBG-AK-10041",
+      "CBG-AK-10321"
+    ]
+  },
+  {
+    "id": "CBG-AK-10342",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.6439,
+    "y": 61.3171,
+    "infraWeight": 0.3676555170253659,
+    "population": 676,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10139",
+      "CBG-AK-10074",
+      "CBG-AK-10152",
+      "CBG-AK-10220",
+      "CBG-AK-10297"
+    ]
+  },
+  {
+    "id": "CBG-AK-10343",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -172.983,
+    "y": 59.8996,
+    "infraWeight": 0.07703873990987041,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10332",
+      "CBG-AK-10046",
+      "CBG-AK-10274",
+      "CBG-AK-10050",
+      "CBG-AK-10312"
+    ]
+  },
+  {
+    "id": "CBG-AK-10344",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.6697,
+    "y": 70.3043,
+    "infraWeight": 0.0814631282754272,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10008",
+      "CBG-AK-10132",
+      "CBG-AK-10322",
+      "CBG-AK-10154",
+      "CBG-AK-10284"
+    ]
+  },
+  {
+    "id": "CBG-AK-10345",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.5592,
+    "y": 60.2869,
+    "infraWeight": 0.0997976476978836,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10269",
+      "CBG-AK-10102",
+      "CBG-AK-10031",
+      "CBG-AK-10223",
+      "CBG-AK-10182"
+    ]
+  },
+  {
+    "id": "CBG-AK-10346",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -177.771,
+    "y": 58.5444,
+    "infraWeight": 0.0615563672951862,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10176",
+      "CBG-AK-10313",
+      "CBG-AK-10350",
+      "CBG-AK-10024",
+      "CBG-AK-10037"
+    ]
+  },
+  {
+    "id": "CBG-AK-10347",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.8319,
+    "y": 70.5809,
+    "infraWeight": 0.09392799889480853,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10132",
+      "CBG-AK-10076",
+      "CBG-AK-10048",
+      "CBG-AK-10033",
+      "CBG-AK-10356"
+    ]
+  },
+  {
+    "id": "CBG-AK-10348",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.0389,
+    "y": 64.1126,
+    "infraWeight": 0.27367932868895667,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10389",
+      "CBG-AK-10261",
+      "CBG-AK-10215",
+      "CBG-AK-10297",
+      "CBG-AK-10127"
+    ]
+  },
+  {
+    "id": "CBG-AK-10349",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -154.1408,
+    "y": 63.7001,
+    "infraWeight": 0.4343454752111739,
+    "population": 711,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10120",
+      "CBG-AK-10043",
+      "CBG-AK-10190",
+      "CBG-AK-10310",
+      "CBG-AK-10311"
+    ]
+  },
+  {
+    "id": "CBG-AK-10350",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.7317,
+    "y": 58.2802,
+    "infraWeight": 0.06418476102985401,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10313",
+      "CBG-AK-10176",
+      "CBG-AK-10346",
+      "CBG-AK-10024",
+      "CBG-AK-10037"
+    ]
+  },
+  {
+    "id": "CBG-AK-10351",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -133.7695,
+    "y": 66.7939,
+    "infraWeight": 0.0666296793828578,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10188",
+      "CBG-AK-10373",
+      "CBG-AK-10059",
+      "CBG-AK-10291",
+      "CBG-AK-10327"
+    ]
+  },
+  {
+    "id": "CBG-AK-10352",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.8103,
+    "y": 54.0951,
+    "infraWeight": 0.08614813384437242,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10381",
+      "CBG-AK-10212",
+      "CBG-AK-10266",
+      "CBG-AK-10298",
+      "CBG-AK-10238"
+    ]
+  },
+  {
+    "id": "CBG-AK-10353",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -148.2637,
+    "y": 71.2955,
+    "infraWeight": 0.11691784930690656,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10198",
+      "CBG-AK-10042",
+      "CBG-AK-10301",
+      "CBG-AK-10368",
+      "CBG-AK-10207"
+    ]
+  },
+  {
+    "id": "CBG-AK-10354",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.4629,
+    "y": 70.8652,
+    "infraWeight": 0.07667586088933118,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10000",
+      "CBG-AK-10038",
+      "CBG-AK-10167",
+      "CBG-AK-10363",
+      "CBG-AK-10088"
+    ]
+  },
+  {
+    "id": "CBG-AK-10355",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -131.8562,
+    "y": 58.7804,
+    "infraWeight": 0.06290499635410081,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10165",
+      "CBG-AK-10326",
+      "CBG-AK-10217",
+      "CBG-AK-10328",
+      "CBG-AK-10053"
+    ]
+  },
+  {
+    "id": "CBG-AK-10356",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.8907,
+    "y": 70.2624,
+    "infraWeight": 0.11124203433695944,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10301",
+      "CBG-AK-10368",
+      "CBG-AK-10076",
+      "CBG-AK-10042",
+      "CBG-AK-10048"
+    ]
+  },
+  {
+    "id": "CBG-AK-10357",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.6677,
+    "y": 66.5127,
+    "infraWeight": 0.1805715138294229,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10054",
+      "CBG-AK-10012",
+      "CBG-AK-10166",
+      "CBG-AK-10209",
+      "CBG-AK-10371"
+    ]
+  },
+  {
+    "id": "CBG-AK-10358",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.7899,
+    "y": 60.1536,
+    "infraWeight": 0.5624324429466847,
+    "population": 931,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10141",
+      "CBG-AK-10013",
+      "CBG-AK-10277",
+      "CBG-AK-10032",
+      "CBG-AK-10220"
+    ]
+  },
+  {
+    "id": "CBG-AK-10359",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -150.7791,
+    "y": 63.1356,
+    "infraWeight": 0.28768634959459155,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10231",
+      "CBG-AK-10060",
+      "CBG-AK-10004",
+      "CBG-AK-10222",
+      "CBG-AK-10104"
+    ]
+  },
+  {
+    "id": "CBG-AK-10360",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -178.6881,
+    "y": 62.8074,
+    "infraWeight": 0.0595901292121027,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10287",
+      "CBG-AK-10259",
+      "CBG-AK-10173",
+      "CBG-AK-10202",
+      "CBG-AK-10317"
+    ]
+  },
+  {
+    "id": "CBG-AK-10361",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -130.6172,
+    "y": 53.1509,
+    "infraWeight": 0.05705543754888124,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10265",
+      "CBG-AK-10083",
+      "CBG-AK-10065",
+      "CBG-AK-10098",
+      "CBG-AK-10091"
+    ]
+  },
+  {
+    "id": "CBG-AK-10362",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.4954,
+    "y": 61.2465,
+    "infraWeight": 0.1147769767871801,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10376",
+      "CBG-AK-10001",
+      "CBG-AK-10286",
+      "CBG-AK-10393",
+      "CBG-AK-10067"
+    ]
+  },
+  {
+    "id": "CBG-AK-10363",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -170.8268,
+    "y": 68.6439,
+    "infraWeight": 0.0795723771668468,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10226",
+      "CBG-AK-10126",
+      "CBG-AK-10167",
+      "CBG-AK-10038",
+      "CBG-AK-10191"
+    ]
+  },
+  {
+    "id": "CBG-AK-10364",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.4033,
+    "y": 67.2828,
+    "infraWeight": 0.08668107746776395,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10284",
+      "CBG-AK-10257",
+      "CBG-AK-10154",
+      "CBG-AK-10033",
+      "CBG-AK-10322"
+    ]
+  },
+  {
+    "id": "CBG-AK-10365",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.2571,
+    "y": 67.3644,
+    "infraWeight": 0.18485469572501678,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10234",
+      "CBG-AK-10338",
+      "CBG-AK-10371",
+      "CBG-AK-10209",
+      "CBG-AK-10012"
+    ]
+  },
+  {
+    "id": "CBG-AK-10366",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -149.3091,
+    "y": 57.4793,
+    "infraWeight": 0.20033601546485563,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10142",
+      "CBG-AK-10118",
+      "CBG-AK-10250",
+      "CBG-AK-10052",
+      "CBG-AK-10280"
+    ]
+  },
+  {
+    "id": "CBG-AK-10367",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.5168,
+    "y": 66.6542,
+    "infraWeight": 0.15328865701141614,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10161",
+      "CBG-AK-10054",
+      "CBG-AK-10121",
+      "CBG-AK-10357",
+      "CBG-AK-10111"
+    ]
+  },
+  {
+    "id": "CBG-AK-10368",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.9294,
+    "y": 71.023,
+    "infraWeight": 0.10701975015305085,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10076",
+      "CBG-AK-10356",
+      "CBG-AK-10301",
+      "CBG-AK-10042",
+      "CBG-AK-10048"
+    ]
+  },
+  {
+    "id": "CBG-AK-10369",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.4879,
+    "y": 64.6393,
+    "infraWeight": 0.08150876917308579,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10382",
+      "CBG-AK-10087",
+      "CBG-AK-10022",
+      "CBG-AK-10372",
+      "CBG-AK-10262"
+    ]
+  },
+  {
+    "id": "CBG-AK-10370",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -147.4897,
+    "y": 58.3031,
+    "infraWeight": 0.17287786521623835,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10186",
+      "CBG-AK-10011",
+      "CBG-AK-10250",
+      "CBG-AK-10314",
+      "CBG-AK-10142"
+    ]
+  },
+  {
+    "id": "CBG-AK-10371",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -158.4162,
+    "y": 66.672,
+    "infraWeight": 0.1967526045851623,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10209",
+      "CBG-AK-10365",
+      "CBG-AK-10234",
+      "CBG-AK-10166",
+      "CBG-AK-10012"
+    ]
+  },
+  {
+    "id": "CBG-AK-10372",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -136.2757,
+    "y": 64.9969,
+    "infraWeight": 0.07629041618996224,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10262",
+      "CBG-AK-10197",
+      "CBG-AK-10369",
+      "CBG-AK-10089",
+      "CBG-AK-10382"
+    ]
+  },
+  {
+    "id": "CBG-AK-10373",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -134.2659,
+    "y": 66.4638,
+    "infraWeight": 0.06834033907537355,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10351",
+      "CBG-AK-10188",
+      "CBG-AK-10059",
+      "CBG-AK-10089",
+      "CBG-AK-10306"
+    ]
+  },
+  {
+    "id": "CBG-AK-10374",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.3318,
+    "y": 56.8821,
+    "infraWeight": 0.27433486166796894,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10290",
+      "CBG-AK-10049",
+      "CBG-AK-10253",
+      "CBG-AK-10239",
+      "CBG-AK-10304"
+    ]
+  },
+  {
+    "id": "CBG-AK-10375",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.8524,
+    "y": 67.558,
+    "infraWeight": 0.09033307811714261,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10126",
+      "CBG-AK-10363",
+      "CBG-AK-10245",
+      "CBG-AK-10237",
+      "CBG-AK-10040"
+    ]
+  },
+  {
+    "id": "CBG-AK-10376",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -142.5364,
+    "y": 60.6523,
+    "infraWeight": 0.11499259883942246,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10362",
+      "CBG-AK-10001",
+      "CBG-AK-10066",
+      "CBG-AK-10286",
+      "CBG-AK-10319"
+    ]
+  },
+  {
+    "id": "CBG-AK-10377",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.4738,
+    "y": 67.9893,
+    "infraWeight": 0.06272767983311887,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10021",
+      "CBG-AK-10051",
+      "CBG-AK-10034",
+      "CBG-AK-10316",
+      "CBG-AK-10162"
+    ]
+  },
+  {
+    "id": "CBG-AK-10378",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -176.5581,
+    "y": 64.6375,
+    "infraWeight": 0.06452128231414779,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10225",
+      "CBG-AK-10287",
+      "CBG-AK-10317",
+      "CBG-AK-10173",
+      "CBG-AK-10202"
+    ]
+  },
+  {
+    "id": "CBG-AK-10379",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.2796,
+    "y": 63.7198,
+    "infraWeight": 0.20795775739090303,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10072",
+      "CBG-AK-10221",
+      "CBG-AK-10015",
+      "CBG-AK-10158",
+      "CBG-AK-10121"
+    ]
+  },
+  {
+    "id": "CBG-AK-10380",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -140.534,
+    "y": 56.4803,
+    "infraWeight": 0.0947593951155879,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10184",
+      "CBG-AK-10041",
+      "CBG-AK-10238",
+      "CBG-AK-10212",
+      "CBG-AK-10149"
+    ]
+  },
+  {
+    "id": "CBG-AK-10381",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -139.2021,
+    "y": 54.4468,
+    "infraWeight": 0.0842002202167265,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10352",
+      "CBG-AK-10212",
+      "CBG-AK-10266",
+      "CBG-AK-10298",
+      "CBG-AK-10380"
+    ]
+  },
+  {
+    "id": "CBG-AK-10382",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -137.8692,
+    "y": 64.4366,
+    "infraWeight": 0.08337870541143619,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10369",
+      "CBG-AK-10087",
+      "CBG-AK-10036",
+      "CBG-AK-10022",
+      "CBG-AK-10028"
+    ]
+  },
+  {
+    "id": "CBG-AK-10383",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -151.7502,
+    "y": 65.5552,
+    "infraWeight": 0.24528566786533512,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10123",
+      "CBG-AK-10222",
+      "CBG-AK-10144",
+      "CBG-AK-10004",
+      "CBG-AK-10060"
+    ]
+  },
+  {
+    "id": "CBG-AK-10384",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -165.6897,
+    "y": 59.3598,
+    "infraWeight": 0.12204451774572901,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10271",
+      "CBG-AK-10035",
+      "CBG-AK-10210",
+      "CBG-AK-10240",
+      "CBG-AK-10397"
+    ]
+  },
+  {
+    "id": "CBG-AK-10385",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -135.6499,
+    "y": 59.5445,
+    "infraWeight": 0.07502208599009522,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10039",
+      "CBG-AK-10130",
+      "CBG-AK-10019",
+      "CBG-AK-10163",
+      "CBG-AK-10172"
+    ]
+  },
+  {
+    "id": "CBG-AK-10386",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -155.9094,
+    "y": 54.2009,
+    "infraWeight": 0.18272369271734243,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10097",
+      "CBG-AK-10227",
+      "CBG-AK-10049",
+      "CBG-AK-10057",
+      "CBG-AK-10133"
+    ]
+  },
+  {
+    "id": "CBG-AK-10387",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -134.5958,
+    "y": 70.7737,
+    "infraWeight": 0.06491013459680496,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10189",
+      "CBG-AK-10105",
+      "CBG-AK-10179",
+      "CBG-AK-10388",
+      "CBG-AK-10073"
+    ]
+  },
+  {
+    "id": "CBG-AK-10388",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -132.4366,
+    "y": 69.4643,
+    "infraWeight": 0.06099684182722181,
+    "population": 600,
+    "microDistrictId": "AK-MD-4",
+    "neighbors": [
+      "CBG-AK-10027",
+      "CBG-AK-10387",
+      "CBG-AK-10305",
+      "CBG-AK-10189",
+      "CBG-AK-10291"
+    ]
+  },
+  {
+    "id": "CBG-AK-10389",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.897,
+    "y": 63.8068,
+    "infraWeight": 0.28955769354835875,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10348",
+      "CBG-AK-10261",
+      "CBG-AK-10215",
+      "CBG-AK-10297",
+      "CBG-AK-10152"
+    ]
+  },
+  {
+    "id": "CBG-AK-10390",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -159.4293,
+    "y": 53.667,
+    "infraWeight": 0.1494368298826504,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10062",
+      "CBG-AK-10334",
+      "CBG-AK-10399",
+      "CBG-AK-10309",
+      "CBG-AK-10080"
+    ]
+  },
+  {
+    "id": "CBG-AK-10391",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -174.305,
+    "y": 62.1293,
+    "infraWeight": 0.07225823408356673,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10204",
+      "CBG-AK-10156",
+      "CBG-AK-10125",
+      "CBG-AK-10258",
+      "CBG-AK-10224"
+    ]
+  },
+  {
+    "id": "CBG-AK-10392",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -145.808,
+    "y": 68.283,
+    "infraWeight": 0.122849114949675,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10255",
+      "CBG-AK-10112",
+      "CBG-AK-10048",
+      "CBG-AK-10025",
+      "CBG-AK-10301"
+    ]
+  },
+  {
+    "id": "CBG-AK-10393",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -143.2607,
+    "y": 62.9361,
+    "infraWeight": 0.12073726810675532,
+    "population": 600,
+    "microDistrictId": "AK-MD-3",
+    "neighbors": [
+      "CBG-AK-10067",
+      "CBG-AK-10001",
+      "CBG-AK-10293",
+      "CBG-AK-10362",
+      "CBG-AK-10020"
+    ]
+  },
+  {
+    "id": "CBG-AK-10394",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -161.0443,
+    "y": 52.0538,
+    "infraWeight": 0.12217700637152172,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10302",
+      "CBG-AK-10398",
+      "CBG-AK-10062",
+      "CBG-AK-10219",
+      "CBG-AK-10180"
+    ]
+  },
+  {
+    "id": "CBG-AK-10395",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -173.0236,
+    "y": 68.4224,
+    "infraWeight": 0.07214388275948762,
+    "population": 600,
+    "microDistrictId": "AK-MD-2",
+    "neighbors": [
+      "CBG-AK-10191",
+      "CBG-AK-10226",
+      "CBG-AK-10167",
+      "CBG-AK-10162",
+      "CBG-AK-10038"
+    ]
+  },
+  {
+    "id": "CBG-AK-10396",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -168.7309,
+    "y": 56.1974,
+    "infraWeight": 0.09344607828056849,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10110",
+      "CBG-AK-10122",
+      "CBG-AK-10128",
+      "CBG-AK-10117",
+      "CBG-AK-10340"
+    ]
+  },
+  {
+    "id": "CBG-AK-10397",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -166.625,
+    "y": 58.2512,
+    "infraWeight": 0.11163950179415141,
+    "population": 600,
+    "microDistrictId": "AK-MD-7",
+    "neighbors": [
+      "CBG-AK-10240",
+      "CBG-AK-10318",
+      "CBG-AK-10271",
+      "CBG-AK-10384",
+      "CBG-AK-10223"
+    ]
+  },
+  {
+    "id": "CBG-AK-10398",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -160.3035,
+    "y": 51.7827,
+    "infraWeight": 0.12397004191140171,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10302",
+      "CBG-AK-10394",
+      "CBG-AK-10062",
+      "CBG-AK-10390",
+      "CBG-AK-10180"
+    ]
+  },
+  {
+    "id": "CBG-AK-10399",
+    "parentZip": "90210",
+    "state": "AK",
+    "x": -157.7365,
+    "y": 53.4334,
+    "infraWeight": 0.1584481610056942,
+    "population": 600,
+    "microDistrictId": "AK-MD-1",
+    "neighbors": [
+      "CBG-AK-10309",
+      "CBG-AK-10057",
+      "CBG-AK-10097",
+      "CBG-AK-10390",
+      "CBG-AK-10119"
+    ]
+  }
+]

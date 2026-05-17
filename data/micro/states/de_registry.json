@@ -1,0 +1,8927 @@
+[
+  {
+    "id": "CBG-DE-10000",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4568,
+    "y": 38.6695,
+    "infraWeight": 1.0155446384397362,
+    "population": 1670,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10065",
+      "CBG-DE-10406",
+      "CBG-DE-10448",
+      "CBG-DE-10397",
+      "CBG-DE-10458"
+    ]
+  },
+  {
+    "id": "CBG-DE-10001",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6262,
+    "y": 39.2749,
+    "infraWeight": 1.2050884896847878,
+    "population": 2507,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10429",
+      "CBG-DE-10464",
+      "CBG-DE-10187",
+      "CBG-DE-10171",
+      "CBG-DE-10169"
+    ]
+  },
+  {
+    "id": "CBG-DE-10002",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6001,
+    "y": 39.5572,
+    "infraWeight": 1.0342309410174413,
+    "population": 1764,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10245",
+      "CBG-DE-10215",
+      "CBG-DE-10513",
+      "CBG-DE-10396",
+      "CBG-DE-10130"
+    ]
+  },
+  {
+    "id": "CBG-DE-10003",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6487,
+    "y": 39.4128,
+    "infraWeight": 1.1086896271329958,
+    "population": 2073,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10142",
+      "CBG-DE-10160",
+      "CBG-DE-10226",
+      "CBG-DE-10511",
+      "CBG-DE-10421"
+    ]
+  },
+  {
+    "id": "CBG-DE-10004",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1209,
+    "y": 38.6071,
+    "infraWeight": 0.9288818640168764,
+    "population": 1876,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10131",
+      "CBG-DE-10363",
+      "CBG-DE-10357",
+      "CBG-DE-10022",
+      "CBG-DE-10111"
+    ]
+  },
+  {
+    "id": "CBG-DE-10005",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5952,
+    "y": 38.6315,
+    "infraWeight": 0.9721611836866408,
+    "population": 1596,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10284",
+      "CBG-DE-10353",
+      "CBG-DE-10350",
+      "CBG-DE-10272",
+      "CBG-DE-10242"
+    ]
+  },
+  {
+    "id": "CBG-DE-10006",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1656,
+    "y": 38.5174,
+    "infraWeight": 0.8945944031949434,
+    "population": 1449,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10368",
+      "CBG-DE-10118",
+      "CBG-DE-10101",
+      "CBG-DE-10411",
+      "CBG-DE-10062"
+    ]
+  },
+  {
+    "id": "CBG-DE-10007",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7748,
+    "y": 38.9817,
+    "infraWeight": 1.077811992023194,
+    "population": 1971,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10475",
+      "CBG-DE-10271",
+      "CBG-DE-10399",
+      "CBG-DE-10122",
+      "CBG-DE-10096"
+    ]
+  },
+  {
+    "id": "CBG-DE-10008",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6762,
+    "y": 39.4869,
+    "infraWeight": 1.0504216000680962,
+    "population": 1717,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10228",
+      "CBG-DE-10312",
+      "CBG-DE-10470",
+      "CBG-DE-10032",
+      "CBG-DE-10078"
+    ]
+  },
+  {
+    "id": "CBG-DE-10009",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5722,
+    "y": 39.6686,
+    "infraWeight": 0.9704678442282196,
+    "population": 2012,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10024",
+      "CBG-DE-10385",
+      "CBG-DE-10362",
+      "CBG-DE-10436",
+      "CBG-DE-10213"
+    ]
+  },
+  {
+    "id": "CBG-DE-10010",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1437,
+    "y": 39.3356,
+    "infraWeight": 1.1238816724431058,
+    "population": 2203,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10344",
+      "CBG-DE-10520",
+      "CBG-DE-10158",
+      "CBG-DE-10099",
+      "CBG-DE-10018"
+    ]
+  },
+  {
+    "id": "CBG-DE-10011",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3701,
+    "y": 38.5375,
+    "infraWeight": 0.9320017751122353,
+    "population": 1562,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10262",
+      "CBG-DE-10322",
+      "CBG-DE-10198",
+      "CBG-DE-10358",
+      "CBG-DE-10401"
+    ]
+  },
+  {
+    "id": "CBG-DE-10012",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4871,
+    "y": 39.5773,
+    "infraWeight": 1.0433883500738457,
+    "population": 2244,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10315",
+      "CBG-DE-10278",
+      "CBG-DE-10395",
+      "CBG-DE-10135",
+      "CBG-DE-10337"
+    ]
+  },
+  {
+    "id": "CBG-DE-10013",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5522,
+    "y": 38.7773,
+    "infraWeight": 1.0782762307663951,
+    "population": 2255,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10314",
+      "CBG-DE-10486",
+      "CBG-DE-10345",
+      "CBG-DE-10064",
+      "CBG-DE-10117"
+    ]
+  },
+  {
+    "id": "CBG-DE-10014",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2305,
+    "y": 38.9062,
+    "infraWeight": 1.150199060951512,
+    "population": 2276,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10303",
+      "CBG-DE-10033",
+      "CBG-DE-10067",
+      "CBG-DE-10419",
+      "CBG-DE-10113"
+    ]
+  },
+  {
+    "id": "CBG-DE-10015",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0514,
+    "y": 38.9824,
+    "infraWeight": 1.0700991305257375,
+    "population": 2260,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10463",
+      "CBG-DE-10073",
+      "CBG-DE-10387",
+      "CBG-DE-10285",
+      "CBG-DE-10133"
+    ]
+  },
+  {
+    "id": "CBG-DE-10016",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5073,
+    "y": 39.2922,
+    "infraWeight": 1.2800894934091582,
+    "population": 2479,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10178",
+      "CBG-DE-10204",
+      "CBG-DE-10388",
+      "CBG-DE-10126",
+      "CBG-DE-10214"
+    ]
+  },
+  {
+    "id": "CBG-DE-10017",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1973,
+    "y": 38.8003,
+    "infraWeight": 1.0640218782059985,
+    "population": 1921,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10305",
+      "CBG-DE-10295",
+      "CBG-DE-10196",
+      "CBG-DE-10419",
+      "CBG-DE-10378"
+    ]
+  },
+  {
+    "id": "CBG-DE-10018",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1836,
+    "y": 39.3299,
+    "infraWeight": 1.154610875691043,
+    "population": 2470,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10099",
+      "CBG-DE-10112",
+      "CBG-DE-10519",
+      "CBG-DE-10010",
+      "CBG-DE-10471"
+    ]
+  },
+  {
+    "id": "CBG-DE-10019",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2492,
+    "y": 38.6746,
+    "infraWeight": 0.9999458355301089,
+    "population": 1869,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10255",
+      "CBG-DE-10465",
+      "CBG-DE-10301",
+      "CBG-DE-10441",
+      "CBG-DE-10093"
+    ]
+  },
+  {
+    "id": "CBG-DE-10020",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.622,
+    "y": 38.4797,
+    "infraWeight": 0.8846413064943203,
+    "population": 1742,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10037",
+      "CBG-DE-10206",
+      "CBG-DE-10076",
+      "CBG-DE-10417",
+      "CBG-DE-10485"
+    ]
+  },
+  {
+    "id": "CBG-DE-10021",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2827,
+    "y": 39.5968,
+    "infraWeight": 1.0191578391340572,
+    "population": 2074,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10123",
+      "CBG-DE-10381",
+      "CBG-DE-10134",
+      "CBG-DE-10435",
+      "CBG-DE-10389"
+    ]
+  },
+  {
+    "id": "CBG-DE-10022",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.077,
+    "y": 38.588,
+    "infraWeight": 0.907143197176765,
+    "population": 1559,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10159",
+      "CBG-DE-10131",
+      "CBG-DE-10004",
+      "CBG-DE-10363",
+      "CBG-DE-10432"
+    ]
+  },
+  {
+    "id": "CBG-DE-10023",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7028,
+    "y": 38.7478,
+    "infraWeight": 1.0078753927477941,
+    "population": 1782,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10507",
+      "CBG-DE-10132",
+      "CBG-DE-10310",
+      "CBG-DE-10497",
+      "CBG-DE-10034"
+    ]
+  },
+  {
+    "id": "CBG-DE-10024",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5732,
+    "y": 39.6529,
+    "infraWeight": 0.9798644066403488,
+    "population": 1616,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10362",
+      "CBG-DE-10385",
+      "CBG-DE-10009",
+      "CBG-DE-10213",
+      "CBG-DE-10468"
+    ]
+  },
+  {
+    "id": "CBG-DE-10025",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6774,
+    "y": 38.8684,
+    "infraWeight": 1.0880618397165365,
+    "population": 2178,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10514",
+      "CBG-DE-10060",
+      "CBG-DE-10512",
+      "CBG-DE-10180",
+      "CBG-DE-10287"
+    ]
+  },
+  {
+    "id": "CBG-DE-10026",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3705,
+    "y": 39.2084,
+    "infraWeight": 1.3892963355683947,
+    "population": 2717,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10267",
+      "CBG-DE-10382",
+      "CBG-DE-10071",
+      "CBG-DE-10207",
+      "CBG-DE-10294"
+    ]
+  },
+  {
+    "id": "CBG-DE-10027",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1678,
+    "y": 39.4627,
+    "infraWeight": 1.067671861614742,
+    "population": 1991,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10106",
+      "CBG-DE-10038",
+      "CBG-DE-10084",
+      "CBG-DE-10427",
+      "CBG-DE-10103"
+    ]
+  },
+  {
+    "id": "CBG-DE-10028",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.486,
+    "y": 38.5368,
+    "infraWeight": 0.9305672691470617,
+    "population": 1551,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10329",
+      "CBG-DE-10157",
+      "CBG-DE-10412",
+      "CBG-DE-10333",
+      "CBG-DE-10485"
+    ]
+  },
+  {
+    "id": "CBG-DE-10029",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4433,
+    "y": 39.4271,
+    "infraWeight": 1.168971123286866,
+    "population": 2317,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10185",
+      "CBG-DE-10280",
+      "CBG-DE-10188",
+      "CBG-DE-10108",
+      "CBG-DE-10437"
+    ]
+  },
+  {
+    "id": "CBG-DE-10030",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7358,
+    "y": 39.2291,
+    "infraWeight": 1.1295159546289169,
+    "population": 2102,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10246",
+      "CBG-DE-10243",
+      "CBG-DE-10408",
+      "CBG-DE-10048",
+      "CBG-DE-10193"
+    ]
+  },
+  {
+    "id": "CBG-DE-10031",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3672,
+    "y": 38.754,
+    "infraWeight": 1.0757444628914516,
+    "population": 2012,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10459",
+      "CBG-DE-10218",
+      "CBG-DE-10221",
+      "CBG-DE-10189",
+      "CBG-DE-10107"
+    ]
+  },
+  {
+    "id": "CBG-DE-10032",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6543,
+    "y": 39.5172,
+    "infraWeight": 1.041309858345466,
+    "population": 2090,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10396",
+      "CBG-DE-10470",
+      "CBG-DE-10008",
+      "CBG-DE-10228",
+      "CBG-DE-10513"
+    ]
+  },
+  {
+    "id": "CBG-DE-10033",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2524,
+    "y": 38.8849,
+    "infraWeight": 1.1461125867320197,
+    "population": 2127,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10014",
+      "CBG-DE-10419",
+      "CBG-DE-10303",
+      "CBG-DE-10067",
+      "CBG-DE-10200"
+    ]
+  },
+  {
+    "id": "CBG-DE-10034",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7154,
+    "y": 38.7923,
+    "infraWeight": 1.02681962103066,
+    "population": 2113,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10132",
+      "CBG-DE-10497",
+      "CBG-DE-10287",
+      "CBG-DE-10023",
+      "CBG-DE-10507"
+    ]
+  },
+  {
+    "id": "CBG-DE-10035",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5846,
+    "y": 38.8499,
+    "infraWeight": 1.1206361945502437,
+    "population": 2305,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10137",
+      "CBG-DE-10422",
+      "CBG-DE-10088",
+      "CBG-DE-10064",
+      "CBG-DE-10180"
+    ]
+  },
+  {
+    "id": "CBG-DE-10036",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2062,
+    "y": 39.0233,
+    "infraWeight": 1.2048313697187043,
+    "population": 2262,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10042",
+      "CBG-DE-10176",
+      "CBG-DE-10191",
+      "CBG-DE-10316",
+      "CBG-DE-10210"
+    ]
+  },
+  {
+    "id": "CBG-DE-10037",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.64,
+    "y": 38.4765,
+    "infraWeight": 0.8802146280463692,
+    "population": 1754,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10020",
+      "CBG-DE-10206",
+      "CBG-DE-10417",
+      "CBG-DE-10076",
+      "CBG-DE-10450"
+    ]
+  },
+  {
+    "id": "CBG-DE-10038",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.144,
+    "y": 39.4646,
+    "infraWeight": 1.0552324972949203,
+    "population": 2003,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10084",
+      "CBG-DE-10027",
+      "CBG-DE-10248",
+      "CBG-DE-10106",
+      "CBG-DE-10365"
+    ]
+  },
+  {
+    "id": "CBG-DE-10039",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5469,
+    "y": 39.4494,
+    "infraWeight": 1.1276142549765542,
+    "population": 2224,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10174",
+      "CBG-DE-10167",
+      "CBG-DE-10061",
+      "CBG-DE-10336",
+      "CBG-DE-10052"
+    ]
+  },
+  {
+    "id": "CBG-DE-10040",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7482,
+    "y": 39.4208,
+    "infraWeight": 1.0492221578451826,
+    "population": 1793,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10403",
+      "CBG-DE-10511",
+      "CBG-DE-10351",
+      "CBG-DE-10078",
+      "CBG-DE-10479"
+    ]
+  },
+  {
+    "id": "CBG-DE-10041",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.633,
+    "y": 38.9356,
+    "infraWeight": 1.1542446242763555,
+    "population": 1999,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10376",
+      "CBG-DE-10369",
+      "CBG-DE-10148",
+      "CBG-DE-10060",
+      "CBG-DE-10180"
+    ]
+  },
+  {
+    "id": "CBG-DE-10042",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2256,
+    "y": 39.0322,
+    "infraWeight": 1.2257219842148994,
+    "population": 2006,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10036",
+      "CBG-DE-10176",
+      "CBG-DE-10423",
+      "CBG-DE-10191",
+      "CBG-DE-10225"
+    ]
+  },
+  {
+    "id": "CBG-DE-10043",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4275,
+    "y": 39.7579,
+    "infraWeight": 0.929966654867228,
+    "population": 1776,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10074",
+      "CBG-DE-10260",
+      "CBG-DE-10205",
+      "CBG-DE-10098",
+      "CBG-DE-10332"
+    ]
+  },
+  {
+    "id": "CBG-DE-10044",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1288,
+    "y": 38.4653,
+    "infraWeight": 0.8625577760978059,
+    "population": 1585,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10457",
+      "CBG-DE-10372",
+      "CBG-DE-10062",
+      "CBG-DE-10411",
+      "CBG-DE-10253"
+    ]
+  },
+  {
+    "id": "CBG-DE-10045",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6632,
+    "y": 39.1195,
+    "infraWeight": 1.2041114273126574,
+    "population": 2305,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10480",
+      "CBG-DE-10489",
+      "CBG-DE-10308",
+      "CBG-DE-10125",
+      "CBG-DE-10331"
+    ]
+  },
+  {
+    "id": "CBG-DE-10046",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3353,
+    "y": 38.6713,
+    "infraWeight": 1.0128516549708255,
+    "population": 1688,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10208",
+      "CBG-DE-10087",
+      "CBG-DE-10459",
+      "CBG-DE-10145",
+      "CBG-DE-10307"
+    ]
+  },
+  {
+    "id": "CBG-DE-10047",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7279,
+    "y": 39.6945,
+    "infraWeight": 0.9199647590717669,
+    "population": 1762,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10219",
+      "CBG-DE-10229",
+      "CBG-DE-10257",
+      "CBG-DE-10433",
+      "CBG-DE-10163"
+    ]
+  },
+  {
+    "id": "CBG-DE-10048",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7456,
+    "y": 39.2738,
+    "infraWeight": 1.110050929663551,
+    "population": 2190,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10193",
+      "CBG-DE-10375",
+      "CBG-DE-10057",
+      "CBG-DE-10246",
+      "CBG-DE-10243"
+    ]
+  },
+  {
+    "id": "CBG-DE-10049",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2831,
+    "y": 38.7538,
+    "infraWeight": 1.0607439845100437,
+    "population": 2084,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10492",
+      "CBG-DE-10145",
+      "CBG-DE-10189",
+      "CBG-DE-10221",
+      "CBG-DE-10494"
+    ]
+  },
+  {
+    "id": "CBG-DE-10050",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5882,
+    "y": 39.7241,
+    "infraWeight": 0.9355207223640436,
+    "population": 1728,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10235",
+      "CBG-DE-10452",
+      "CBG-DE-10224",
+      "CBG-DE-10476",
+      "CBG-DE-10436"
+    ]
+  },
+  {
+    "id": "CBG-DE-10051",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0757,
+    "y": 39.2708,
+    "infraWeight": 1.0985217794706625,
+    "population": 1965,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10490",
+      "CBG-DE-10158",
+      "CBG-DE-10466",
+      "CBG-DE-10168",
+      "CBG-DE-10233"
+    ]
+  },
+  {
+    "id": "CBG-DE-10052",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5387,
+    "y": 39.4828,
+    "infraWeight": 1.1041926974093217,
+    "population": 2244,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10336",
+      "CBG-DE-10506",
+      "CBG-DE-10269",
+      "CBG-DE-10167",
+      "CBG-DE-10203"
+    ]
+  },
+  {
+    "id": "CBG-DE-10053",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4098,
+    "y": 39.468,
+    "infraWeight": 1.1336767772068723,
+    "population": 1841,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10474",
+      "CBG-DE-10185",
+      "CBG-DE-10188",
+      "CBG-DE-10437",
+      "CBG-DE-10162"
+    ]
+  },
+  {
+    "id": "CBG-DE-10054",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5449,
+    "y": 39.5968,
+    "infraWeight": 1.0210760139262245,
+    "population": 1691,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10395",
+      "CBG-DE-10130",
+      "CBG-DE-10213",
+      "CBG-DE-10468",
+      "CBG-DE-10278"
+    ]
+  },
+  {
+    "id": "CBG-DE-10055",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3029,
+    "y": 38.8158,
+    "infraWeight": 1.111910395084136,
+    "population": 2267,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10494",
+      "CBG-DE-10221",
+      "CBG-DE-10492",
+      "CBG-DE-10049",
+      "CBG-DE-10439"
+    ]
+  },
+  {
+    "id": "CBG-DE-10056",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3981,
+    "y": 38.9601,
+    "infraWeight": 1.2646601179250012,
+    "population": 2161,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10129",
+      "CBG-DE-10283",
+      "CBG-DE-10209",
+      "CBG-DE-10499",
+      "CBG-DE-10256"
+    ]
+  },
+  {
+    "id": "CBG-DE-10057",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7446,
+    "y": 39.3064,
+    "infraWeight": 1.1000482567708647,
+    "population": 1945,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10375",
+      "CBG-DE-10473",
+      "CBG-DE-10048",
+      "CBG-DE-10193",
+      "CBG-DE-10342"
+    ]
+  },
+  {
+    "id": "CBG-DE-10058",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5888,
+    "y": 38.5532,
+    "infraWeight": 0.928404410899213,
+    "population": 1777,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10190",
+      "CBG-DE-10242",
+      "CBG-DE-10417",
+      "CBG-DE-10076",
+      "CBG-DE-10485"
+    ]
+  },
+  {
+    "id": "CBG-DE-10059",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3531,
+    "y": 39.6749,
+    "infraWeight": 0.9778546611194457,
+    "population": 1763,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10092",
+      "CBG-DE-10090",
+      "CBG-DE-10478",
+      "CBG-DE-10231",
+      "CBG-DE-10445"
+    ]
+  },
+  {
+    "id": "CBG-DE-10060",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6393,
+    "y": 38.8978,
+    "infraWeight": 1.126767575760761,
+    "population": 2123,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10180",
+      "CBG-DE-10376",
+      "CBG-DE-10041",
+      "CBG-DE-10025",
+      "CBG-DE-10369"
+    ]
+  },
+  {
+    "id": "CBG-DE-10061",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5633,
+    "y": 39.4314,
+    "infraWeight": 1.1356842101206668,
+    "population": 2351,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10174",
+      "CBG-DE-10039",
+      "CBG-DE-10167",
+      "CBG-DE-10336",
+      "CBG-DE-10052"
+    ]
+  },
+  {
+    "id": "CBG-DE-10062",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1564,
+    "y": 38.4721,
+    "infraWeight": 0.8709494089306687,
+    "population": 1427,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10457",
+      "CBG-DE-10044",
+      "CBG-DE-10368",
+      "CBG-DE-10372",
+      "CBG-DE-10006"
+    ]
+  },
+  {
+    "id": "CBG-DE-10063",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6282,
+    "y": 39.3371,
+    "infraWeight": 1.1680744998350847,
+    "population": 1897,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10160",
+      "CBG-DE-10421",
+      "CBG-DE-10169",
+      "CBG-DE-10429",
+      "CBG-DE-10226"
+    ]
+  },
+  {
+    "id": "CBG-DE-10064",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.518,
+    "y": 38.8362,
+    "infraWeight": 1.1326613002886166,
+    "population": 1863,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10422",
+      "CBG-DE-10314",
+      "CBG-DE-10323",
+      "CBG-DE-10249",
+      "CBG-DE-10088"
+    ]
+  },
+  {
+    "id": "CBG-DE-10065",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4537,
+    "y": 38.6708,
+    "infraWeight": 1.016612050196619,
+    "population": 1915,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10000",
+      "CBG-DE-10406",
+      "CBG-DE-10448",
+      "CBG-DE-10397",
+      "CBG-DE-10458"
+    ]
+  },
+  {
+    "id": "CBG-DE-10066",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3758,
+    "y": 39.0913,
+    "infraWeight": 1.4034298336529003,
+    "population": 2934,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10493",
+      "CBG-DE-10443",
+      "CBG-DE-10343",
+      "CBG-DE-10291",
+      "CBG-DE-10380"
+    ]
+  },
+  {
+    "id": "CBG-DE-10067",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2386,
+    "y": 38.9487,
+    "infraWeight": 1.18442560793151,
+    "population": 2301,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10303",
+      "CBG-DE-10113",
+      "CBG-DE-10014",
+      "CBG-DE-10210",
+      "CBG-DE-10191"
+    ]
+  },
+  {
+    "id": "CBG-DE-10068",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3147,
+    "y": 39.4244,
+    "infraWeight": 1.1554585785485583,
+    "population": 2028,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10477",
+      "CBG-DE-10516",
+      "CBG-DE-10469",
+      "CBG-DE-10102",
+      "CBG-DE-10495"
+    ]
+  },
+  {
+    "id": "CBG-DE-10069",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2499,
+    "y": 39.5434,
+    "infraWeight": 1.0469273904489056,
+    "population": 2031,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10491",
+      "CBG-DE-10410",
+      "CBG-DE-10281",
+      "CBG-DE-10079",
+      "CBG-DE-10389"
+    ]
+  },
+  {
+    "id": "CBG-DE-10070",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7798,
+    "y": 39.8013,
+    "infraWeight": 0.857591023914368,
+    "population": 1585,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10097",
+      "CBG-DE-10086",
+      "CBG-DE-10370",
+      "CBG-DE-10309",
+      "CBG-DE-10177"
+    ]
+  },
+  {
+    "id": "CBG-DE-10071",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.416,
+    "y": 39.1954,
+    "infraWeight": 1.4279586671954507,
+    "population": 2419,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10026",
+      "CBG-DE-10146",
+      "CBG-DE-10267",
+      "CBG-DE-10382",
+      "CBG-DE-10214"
+    ]
+  },
+  {
+    "id": "CBG-DE-10072",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7714,
+    "y": 38.8964,
+    "infraWeight": 1.0479034525027893,
+    "population": 2270,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10096",
+      "CBG-DE-10201",
+      "CBG-DE-10247",
+      "CBG-DE-10514",
+      "CBG-DE-10512"
+    ]
+  },
+  {
+    "id": "CBG-DE-10073",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0868,
+    "y": 38.9355,
+    "infraWeight": 1.0771296993690385,
+    "population": 2198,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10387",
+      "CBG-DE-10463",
+      "CBG-DE-10285",
+      "CBG-DE-10500",
+      "CBG-DE-10015"
+    ]
+  },
+  {
+    "id": "CBG-DE-10074",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3994,
+    "y": 39.756,
+    "infraWeight": 0.9308986525302352,
+    "population": 1961,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10098",
+      "CBG-DE-10260",
+      "CBG-DE-10043",
+      "CBG-DE-10442",
+      "CBG-DE-10332"
+    ]
+  },
+  {
+    "id": "CBG-DE-10075",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6448,
+    "y": 38.7927,
+    "infraWeight": 1.057434447087011,
+    "population": 2165,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10287",
+      "CBG-DE-10497",
+      "CBG-DE-10507",
+      "CBG-DE-10034",
+      "CBG-DE-10023"
+    ]
+  },
+  {
+    "id": "CBG-DE-10076",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5995,
+    "y": 38.507,
+    "infraWeight": 0.9019290121873271,
+    "population": 1776,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10206",
+      "CBG-DE-10417",
+      "CBG-DE-10020",
+      "CBG-DE-10485",
+      "CBG-DE-10058"
+    ]
+  },
+  {
+    "id": "CBG-DE-10077",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3992,
+    "y": 38.8892,
+    "infraWeight": 1.1937331870519663,
+    "population": 2195,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10141",
+      "CBG-DE-10444",
+      "CBG-DE-10354",
+      "CBG-DE-10398",
+      "CBG-DE-10499"
+    ]
+  },
+  {
+    "id": "CBG-DE-10078",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7162,
+    "y": 39.4703,
+    "infraWeight": 1.0411258841528501,
+    "population": 1935,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10312",
+      "CBG-DE-10511",
+      "CBG-DE-10228",
+      "CBG-DE-10008",
+      "CBG-DE-10258"
+    ]
+  },
+  {
+    "id": "CBG-DE-10079",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2246,
+    "y": 39.5729,
+    "infraWeight": 1.0204928758675356,
+    "population": 1823,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10410",
+      "CBG-DE-10491",
+      "CBG-DE-10389",
+      "CBG-DE-10373",
+      "CBG-DE-10281"
+    ]
+  },
+  {
+    "id": "CBG-DE-10080",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5695,
+    "y": 38.6617,
+    "infraWeight": 0.9958631905679172,
+    "population": 1793,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10244",
+      "CBG-DE-10005",
+      "CBG-DE-10304",
+      "CBG-DE-10284",
+      "CBG-DE-10486"
+    ]
+  },
+  {
+    "id": "CBG-DE-10081",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4088,
+    "y": 39.8068,
+    "infraWeight": 0.9026175979909303,
+    "population": 1712,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10332",
+      "CBG-DE-10327",
+      "CBG-DE-10260",
+      "CBG-DE-10391",
+      "CBG-DE-10074"
+    ]
+  },
+  {
+    "id": "CBG-DE-10082",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1236,
+    "y": 39.0586,
+    "infraWeight": 1.1471384719064612,
+    "population": 2215,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10133",
+      "CBG-DE-10234",
+      "CBG-DE-10316",
+      "CBG-DE-10176",
+      "CBG-DE-10238"
+    ]
+  },
+  {
+    "id": "CBG-DE-10083",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0807,
+    "y": 39.7856,
+    "infraWeight": 0.869909682795279,
+    "population": 1771,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10181",
+      "CBG-DE-10182",
+      "CBG-DE-10127",
+      "CBG-DE-10143",
+      "CBG-DE-10503"
+    ]
+  },
+  {
+    "id": "CBG-DE-10084",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1399,
+    "y": 39.4457,
+    "infraWeight": 1.0637587880036385,
+    "population": 1789,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10038",
+      "CBG-DE-10248",
+      "CBG-DE-10027",
+      "CBG-DE-10105",
+      "CBG-DE-10365"
+    ]
+  },
+  {
+    "id": "CBG-DE-10085",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1172,
+    "y": 39.6309,
+    "infraWeight": 0.9542617572952984,
+    "population": 1780,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10237",
+      "CBG-DE-10194",
+      "CBG-DE-10451",
+      "CBG-DE-10338",
+      "CBG-DE-10523"
+    ]
+  },
+  {
+    "id": "CBG-DE-10086",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7619,
+    "y": 39.8043,
+    "infraWeight": 0.8604711826507452,
+    "population": 1562,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10070",
+      "CBG-DE-10097",
+      "CBG-DE-10370",
+      "CBG-DE-10309",
+      "CBG-DE-10177"
+    ]
+  },
+  {
+    "id": "CBG-DE-10087",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2974,
+    "y": 38.6344,
+    "infraWeight": 0.9837116848205336,
+    "population": 2019,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10152",
+      "CBG-DE-10255",
+      "CBG-DE-10046",
+      "CBG-DE-10441",
+      "CBG-DE-10019"
+    ]
+  },
+  {
+    "id": "CBG-DE-10088",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5464,
+    "y": 38.8828,
+    "infraWeight": 1.1613336410048254,
+    "population": 2183,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10137",
+      "CBG-DE-10422",
+      "CBG-DE-10293",
+      "CBG-DE-10035",
+      "CBG-DE-10420"
+    ]
+  },
+  {
+    "id": "CBG-DE-10089",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1751,
+    "y": 38.5714,
+    "infraWeight": 0.9241052568268949,
+    "population": 1957,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10101",
+      "CBG-DE-10367",
+      "CBG-DE-10111",
+      "CBG-DE-10363",
+      "CBG-DE-10118"
+    ]
+  },
+  {
+    "id": "CBG-DE-10090",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3433,
+    "y": 39.6546,
+    "infraWeight": 0.9900070688614555,
+    "population": 1679,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10478",
+      "CBG-DE-10059",
+      "CBG-DE-10445",
+      "CBG-DE-10335",
+      "CBG-DE-10092"
+    ]
+  },
+  {
+    "id": "CBG-DE-10091",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1058,
+    "y": 39.5203,
+    "infraWeight": 1.0075635856823553,
+    "population": 2000,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10409",
+      "CBG-DE-10482",
+      "CBG-DE-10103",
+      "CBG-DE-10502",
+      "CBG-DE-10317"
+    ]
+  },
+  {
+    "id": "CBG-DE-10092",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3595,
+    "y": 39.6952,
+    "infraWeight": 0.9656294501173328,
+    "population": 1860,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10059",
+      "CBG-DE-10231",
+      "CBG-DE-10090",
+      "CBG-DE-10478",
+      "CBG-DE-10442"
+    ]
+  },
+  {
+    "id": "CBG-DE-10093",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2329,
+    "y": 38.6169,
+    "infraWeight": 0.9616159628481691,
+    "population": 1541,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10441",
+      "CBG-DE-10165",
+      "CBG-DE-10501",
+      "CBG-DE-10508",
+      "CBG-DE-10465"
+    ]
+  },
+  {
+    "id": "CBG-DE-10094",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2894,
+    "y": 38.5594,
+    "infraWeight": 0.937667224755898,
+    "population": 2002,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10306",
+      "CBG-DE-10401",
+      "CBG-DE-10415",
+      "CBG-DE-10152",
+      "CBG-DE-10339"
+    ]
+  },
+  {
+    "id": "CBG-DE-10095",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7168,
+    "y": 39.5857,
+    "infraWeight": 0.979115935301531,
+    "population": 2053,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10510",
+      "CBG-DE-10433",
+      "CBG-DE-10276",
+      "CBG-DE-10360",
+      "CBG-DE-10347"
+    ]
+  },
+  {
+    "id": "CBG-DE-10096",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7559,
+    "y": 38.929,
+    "infraWeight": 1.071166552090901,
+    "population": 2255,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10072",
+      "CBG-DE-10201",
+      "CBG-DE-10418",
+      "CBG-DE-10261",
+      "CBG-DE-10007"
+    ]
+  },
+  {
+    "id": "CBG-DE-10097",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7808,
+    "y": 39.8076,
+    "infraWeight": 0.8547052355223898,
+    "population": 1643,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10070",
+      "CBG-DE-10086",
+      "CBG-DE-10370",
+      "CBG-DE-10309",
+      "CBG-DE-10177"
+    ]
+  },
+  {
+    "id": "CBG-DE-10098",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3849,
+    "y": 39.7554,
+    "infraWeight": 0.9309076540031337,
+    "population": 1855,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10074",
+      "CBG-DE-10442",
+      "CBG-DE-10260",
+      "CBG-DE-10043",
+      "CBG-DE-10332"
+    ]
+  },
+  {
+    "id": "CBG-DE-10099",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1725,
+    "y": 39.3094,
+    "infraWeight": 1.157348213429985,
+    "population": 2040,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10018",
+      "CBG-DE-10515",
+      "CBG-DE-10010",
+      "CBG-DE-10112",
+      "CBG-DE-10227"
+    ]
+  },
+  {
+    "id": "CBG-DE-10100",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1609,
+    "y": 38.8708,
+    "infraWeight": 1.0897619671064458,
+    "population": 2247,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10311",
+      "CBG-DE-10303",
+      "CBG-DE-10014",
+      "CBG-DE-10017",
+      "CBG-DE-10419"
+    ]
+  },
+  {
+    "id": "CBG-DE-10101",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1671,
+    "y": 38.5536,
+    "infraWeight": 0.9130921730462054,
+    "population": 1663,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10089",
+      "CBG-DE-10118",
+      "CBG-DE-10111",
+      "CBG-DE-10006",
+      "CBG-DE-10432"
+    ]
+  },
+  {
+    "id": "CBG-DE-10102",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2738,
+    "y": 39.4435,
+    "infraWeight": 1.1262867707192956,
+    "population": 1907,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10495",
+      "CBG-DE-10516",
+      "CBG-DE-10068",
+      "CBG-DE-10477",
+      "CBG-DE-10259"
+    ]
+  },
+  {
+    "id": "CBG-DE-10103",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1546,
+    "y": 39.5119,
+    "infraWeight": 1.0329917300756934,
+    "population": 1825,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10409",
+      "CBG-DE-10289",
+      "CBG-DE-10502",
+      "CBG-DE-10106",
+      "CBG-DE-10038"
+    ]
+  },
+  {
+    "id": "CBG-DE-10104",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0997,
+    "y": 38.7635,
+    "infraWeight": 1.0017654346711093,
+    "population": 1783,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10428",
+      "CBG-DE-10455",
+      "CBG-DE-10313",
+      "CBG-DE-10254",
+      "CBG-DE-10405"
+    ]
+  },
+  {
+    "id": "CBG-DE-10105",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1107,
+    "y": 39.4279,
+    "infraWeight": 1.057639893994313,
+    "population": 1814,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10248",
+      "CBG-DE-10365",
+      "CBG-DE-10084",
+      "CBG-DE-10265",
+      "CBG-DE-10038"
+    ]
+  },
+  {
+    "id": "CBG-DE-10106",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1829,
+    "y": 39.4751,
+    "infraWeight": 1.0670429314222578,
+    "population": 2042,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10027",
+      "CBG-DE-10038",
+      "CBG-DE-10259",
+      "CBG-DE-10103",
+      "CBG-DE-10427"
+    ]
+  },
+  {
+    "id": "CBG-DE-10107",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3832,
+    "y": 38.8022,
+    "infraWeight": 1.115562879413382,
+    "population": 2413,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10439",
+      "CBG-DE-10398",
+      "CBG-DE-10031",
+      "CBG-DE-10364",
+      "CBG-DE-10221"
+    ]
+  },
+  {
+    "id": "CBG-DE-10108",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.399,
+    "y": 39.4229,
+    "infraWeight": 1.1731634716235584,
+    "population": 2462,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10437",
+      "CBG-DE-10188",
+      "CBG-DE-10232",
+      "CBG-DE-10185",
+      "CBG-DE-10394"
+    ]
+  },
+  {
+    "id": "CBG-DE-10109",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7491,
+    "y": 38.6881,
+    "infraWeight": 0.9591824805370882,
+    "population": 1660,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10186",
+      "CBG-DE-10299",
+      "CBG-DE-10449",
+      "CBG-DE-10310",
+      "CBG-DE-10110"
+    ]
+  },
+  {
+    "id": "CBG-DE-10110",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7659,
+    "y": 38.7232,
+    "infraWeight": 0.9700839549037893,
+    "population": 1641,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10449",
+      "CBG-DE-10310",
+      "CBG-DE-10186",
+      "CBG-DE-10109",
+      "CBG-DE-10299"
+    ]
+  },
+  {
+    "id": "CBG-DE-10111",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1317,
+    "y": 38.5543,
+    "infraWeight": 0.9053670600875313,
+    "population": 1825,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10432",
+      "CBG-DE-10363",
+      "CBG-DE-10118",
+      "CBG-DE-10101",
+      "CBG-DE-10131"
+    ]
+  },
+  {
+    "id": "CBG-DE-10112",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.218,
+    "y": 39.3343,
+    "infraWeight": 1.175560116780618,
+    "population": 2144,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10519",
+      "CBG-DE-10018",
+      "CBG-DE-10252",
+      "CBG-DE-10195",
+      "CBG-DE-10099"
+    ]
+  },
+  {
+    "id": "CBG-DE-10113",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1987,
+    "y": 38.954,
+    "infraWeight": 1.1615080435931506,
+    "population": 1963,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10210",
+      "CBG-DE-10191",
+      "CBG-DE-10371",
+      "CBG-DE-10067",
+      "CBG-DE-10303"
+    ]
+  },
+  {
+    "id": "CBG-DE-10114",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0623,
+    "y": 39.4915,
+    "infraWeight": 1.001919611404125,
+    "population": 2096,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10482",
+      "CBG-DE-10091",
+      "CBG-DE-10365",
+      "CBG-DE-10317",
+      "CBG-DE-10248"
+    ]
+  },
+  {
+    "id": "CBG-DE-10115",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4,
+    "y": 39.3372,
+    "infraWeight": 1.257262039035134,
+    "population": 2697,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10384",
+      "CBG-DE-10393",
+      "CBG-DE-10217",
+      "CBG-DE-10268",
+      "CBG-DE-10232"
+    ]
+  },
+  {
+    "id": "CBG-DE-10116",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4918,
+    "y": 39.522,
+    "infraWeight": 1.083805543546194,
+    "population": 2254,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10147",
+      "CBG-DE-10467",
+      "CBG-DE-10278",
+      "CBG-DE-10269",
+      "CBG-DE-10337"
+    ]
+  },
+  {
+    "id": "CBG-DE-10117",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4796,
+    "y": 38.7753,
+    "infraWeight": 1.0911389235390798,
+    "population": 2290,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10524",
+      "CBG-DE-10345",
+      "CBG-DE-10364",
+      "CBG-DE-10440",
+      "CBG-DE-10314"
+    ]
+  },
+  {
+    "id": "CBG-DE-10118",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1452,
+    "y": 38.5277,
+    "infraWeight": 0.8954114497998409,
+    "population": 1828,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10006",
+      "CBG-DE-10411",
+      "CBG-DE-10432",
+      "CBG-DE-10111",
+      "CBG-DE-10101"
+    ]
+  },
+  {
+    "id": "CBG-DE-10119",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4216,
+    "y": 39.6021,
+    "infraWeight": 1.0294677153319363,
+    "population": 2058,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10286",
+      "CBG-DE-10135",
+      "CBG-DE-10184",
+      "CBG-DE-10315",
+      "CBG-DE-10337"
+    ]
+  },
+  {
+    "id": "CBG-DE-10120",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5663,
+    "y": 39.7715,
+    "infraWeight": 0.9126148347557222,
+    "population": 1837,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10235",
+      "CBG-DE-10282",
+      "CBG-DE-10050",
+      "CBG-DE-10452",
+      "CBG-DE-10288"
+    ]
+  },
+  {
+    "id": "CBG-DE-10121",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3002,
+    "y": 39.2874,
+    "infraWeight": 1.2654227194662142,
+    "population": 2364,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10236",
+      "CBG-DE-10124",
+      "CBG-DE-10252",
+      "CBG-DE-10294",
+      "CBG-DE-10273"
+    ]
+  },
+  {
+    "id": "CBG-DE-10122",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7276,
+    "y": 39.0014,
+    "infraWeight": 1.1189563181988398,
+    "population": 1966,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10399",
+      "CBG-DE-10261",
+      "CBG-DE-10418",
+      "CBG-DE-10475",
+      "CBG-DE-10271"
+    ]
+  },
+  {
+    "id": "CBG-DE-10123",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2843,
+    "y": 39.5768,
+    "infraWeight": 1.032893055901535,
+    "population": 1677,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10021",
+      "CBG-DE-10389",
+      "CBG-DE-10381",
+      "CBG-DE-10321",
+      "CBG-DE-10491"
+    ]
+  },
+  {
+    "id": "CBG-DE-10124",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2952,
+    "y": 39.242,
+    "infraWeight": 1.2962810757333887,
+    "population": 2232,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10290",
+      "CBG-DE-10121",
+      "CBG-DE-10273",
+      "CBG-DE-10294",
+      "CBG-DE-10236"
+    ]
+  },
+  {
+    "id": "CBG-DE-10125",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6165,
+    "y": 39.1668,
+    "infraWeight": 1.251169670114154,
+    "population": 2353,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10489",
+      "CBG-DE-10331",
+      "CBG-DE-10447",
+      "CBG-DE-10045",
+      "CBG-DE-10171"
+    ]
+  },
+  {
+    "id": "CBG-DE-10126",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5132,
+    "y": 39.2517,
+    "infraWeight": 1.312989256603846,
+    "population": 2342,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10178",
+      "CBG-DE-10016",
+      "CBG-DE-10153",
+      "CBG-DE-10214",
+      "CBG-DE-10388"
+    ]
+  },
+  {
+    "id": "CBG-DE-10127",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1272,
+    "y": 39.7617,
+    "infraWeight": 0.8917043141715404,
+    "population": 1612,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10404",
+      "CBG-DE-10182",
+      "CBG-DE-10292",
+      "CBG-DE-10503",
+      "CBG-DE-10250"
+    ]
+  },
+  {
+    "id": "CBG-DE-10128",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2024,
+    "y": 39.1397,
+    "infraWeight": 1.2330800136280484,
+    "population": 2283,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10414",
+      "CBG-DE-10140",
+      "CBG-DE-10138",
+      "CBG-DE-10430",
+      "CBG-DE-10472"
+    ]
+  },
+  {
+    "id": "CBG-DE-10129",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3889,
+    "y": 38.9692,
+    "infraWeight": 1.2730021365871553,
+    "population": 2123,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10056",
+      "CBG-DE-10283",
+      "CBG-DE-10209",
+      "CBG-DE-10499",
+      "CBG-DE-10509"
+    ]
+  },
+  {
+    "id": "CBG-DE-10130",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5852,
+    "y": 39.6004,
+    "infraWeight": 1.0102077195564347,
+    "population": 1892,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10468",
+      "CBG-DE-10213",
+      "CBG-DE-10054",
+      "CBG-DE-10175",
+      "CBG-DE-10002"
+    ]
+  },
+  {
+    "id": "CBG-DE-10131",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1012,
+    "y": 38.5861,
+    "infraWeight": 0.9130406220113731,
+    "population": 1969,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10022",
+      "CBG-DE-10004",
+      "CBG-DE-10363",
+      "CBG-DE-10159",
+      "CBG-DE-10111"
+    ]
+  },
+  {
+    "id": "CBG-DE-10132",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7197,
+    "y": 38.7883,
+    "infraWeight": 1.0227273163980815,
+    "population": 1722,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10034",
+      "CBG-DE-10497",
+      "CBG-DE-10023",
+      "CBG-DE-10287",
+      "CBG-DE-10507"
+    ]
+  },
+  {
+    "id": "CBG-DE-10133",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1108,
+    "y": 39.0129,
+    "infraWeight": 1.1234582607724382,
+    "population": 1898,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10316",
+      "CBG-DE-10082",
+      "CBG-DE-10285",
+      "CBG-DE-10500",
+      "CBG-DE-10015"
+    ]
+  },
+  {
+    "id": "CBG-DE-10134",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2902,
+    "y": 39.6265,
+    "infraWeight": 1.0010843664424736,
+    "population": 1679,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10435",
+      "CBG-DE-10381",
+      "CBG-DE-10361",
+      "CBG-DE-10021",
+      "CBG-DE-10445"
+    ]
+  },
+  {
+    "id": "CBG-DE-10135",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4478,
+    "y": 39.5604,
+    "infraWeight": 1.059004128565474,
+    "population": 1969,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10337",
+      "CBG-DE-10315",
+      "CBG-DE-10184",
+      "CBG-DE-10147",
+      "CBG-DE-10012"
+    ]
+  },
+  {
+    "id": "CBG-DE-10136",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4864,
+    "y": 38.9483,
+    "infraWeight": 1.2417341226496739,
+    "population": 2654,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10222",
+      "CBG-DE-10481",
+      "CBG-DE-10325",
+      "CBG-DE-10256",
+      "CBG-DE-10270"
+    ]
+  },
+  {
+    "id": "CBG-DE-10137",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5708,
+    "y": 38.8887,
+    "infraWeight": 1.1556616924921348,
+    "population": 2089,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10088",
+      "CBG-DE-10293",
+      "CBG-DE-10420",
+      "CBG-DE-10216",
+      "CBG-DE-10035"
+    ]
+  },
+  {
+    "id": "CBG-DE-10138",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2281,
+    "y": 39.1014,
+    "infraWeight": 1.2545874655911962,
+    "population": 2129,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10225",
+      "CBG-DE-10414",
+      "CBG-DE-10128",
+      "CBG-DE-10423",
+      "CBG-DE-10472"
+    ]
+  },
+  {
+    "id": "CBG-DE-10139",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7766,
+    "y": 39.6278,
+    "infraWeight": 0.9369638146143656,
+    "population": 1804,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10276",
+      "CBG-DE-10257",
+      "CBG-DE-10433",
+      "CBG-DE-10510",
+      "CBG-DE-10095"
+    ]
+  },
+  {
+    "id": "CBG-DE-10140",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2239,
+    "y": 39.1616,
+    "infraWeight": 1.254553369472618,
+    "population": 2636,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10128",
+      "CBG-DE-10430",
+      "CBG-DE-10414",
+      "CBG-DE-10472",
+      "CBG-DE-10138"
+    ]
+  },
+  {
+    "id": "CBG-DE-10141",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4055,
+    "y": 38.8936,
+    "infraWeight": 1.198308345409242,
+    "population": 2509,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10077",
+      "CBG-DE-10354",
+      "CBG-DE-10444",
+      "CBG-DE-10413",
+      "CBG-DE-10398"
+    ]
+  },
+  {
+    "id": "CBG-DE-10142",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6362,
+    "y": 39.4574,
+    "infraWeight": 1.086525675354852,
+    "population": 2330,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10003",
+      "CBG-DE-10008",
+      "CBG-DE-10228",
+      "CBG-DE-10032",
+      "CBG-DE-10312"
+    ]
+  },
+  {
+    "id": "CBG-DE-10143",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0711,
+    "y": 39.7333,
+    "infraWeight": 0.891044774503458,
+    "population": 1641,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10083",
+      "CBG-DE-10241",
+      "CBG-DE-10127",
+      "CBG-DE-10404",
+      "CBG-DE-10181"
+    ]
+  },
+  {
+    "id": "CBG-DE-10144",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6845,
+    "y": 38.6087,
+    "infraWeight": 0.9383890714694775,
+    "population": 1886,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10521",
+      "CBG-DE-10192",
+      "CBG-DE-10359",
+      "CBG-DE-10239",
+      "CBG-DE-10400"
+    ]
+  },
+  {
+    "id": "CBG-DE-10145",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2921,
+    "y": 38.7223,
+    "infraWeight": 1.04073751427808,
+    "population": 1835,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10049",
+      "CBG-DE-10189",
+      "CBG-DE-10208",
+      "CBG-DE-10492",
+      "CBG-DE-10255"
+    ]
+  },
+  {
+    "id": "CBG-DE-10146",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4304,
+    "y": 39.2411,
+    "infraWeight": 1.3676721427156058,
+    "population": 2221,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10214",
+      "CBG-DE-10071",
+      "CBG-DE-10267",
+      "CBG-DE-10388",
+      "CBG-DE-10026"
+    ]
+  },
+  {
+    "id": "CBG-DE-10147",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4714,
+    "y": 39.5327,
+    "infraWeight": 1.0781666759412958,
+    "population": 2138,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10116",
+      "CBG-DE-10337",
+      "CBG-DE-10135",
+      "CBG-DE-10315",
+      "CBG-DE-10278"
+    ]
+  },
+  {
+    "id": "CBG-DE-10148",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6388,
+    "y": 38.9733,
+    "infraWeight": 1.1726849744615415,
+    "population": 2187,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10202",
+      "CBG-DE-10041",
+      "CBG-DE-10376",
+      "CBG-DE-10369",
+      "CBG-DE-10277"
+    ]
+  },
+  {
+    "id": "CBG-DE-10149",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2871,
+    "y": 39.0045,
+    "infraWeight": 1.2577686071544414,
+    "population": 2192,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10352",
+      "CBG-DE-10386",
+      "CBG-DE-10230",
+      "CBG-DE-10291",
+      "CBG-DE-10042"
+    ]
+  },
+  {
+    "id": "CBG-DE-10150",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6416,
+    "y": 39.6283,
+    "infraWeight": 0.9790158089569997,
+    "population": 1733,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10349",
+      "CBG-DE-10240",
+      "CBG-DE-10175",
+      "CBG-DE-10347",
+      "CBG-DE-10199"
+    ]
+  },
+  {
+    "id": "CBG-DE-10151",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.334,
+    "y": 39.8314,
+    "infraWeight": 0.8867199606009845,
+    "population": 1681,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10154",
+      "CBG-DE-10264",
+      "CBG-DE-10392",
+      "CBG-DE-10391",
+      "CBG-DE-10327"
+    ]
+  },
+  {
+    "id": "CBG-DE-10152",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2923,
+    "y": 38.6044,
+    "infraWeight": 0.9645238051228014,
+    "population": 1834,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10087",
+      "CBG-DE-10306",
+      "CBG-DE-10094",
+      "CBG-DE-10441",
+      "CBG-DE-10093"
+    ]
+  },
+  {
+    "id": "CBG-DE-10153",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5414,
+    "y": 39.1998,
+    "infraWeight": 1.3223693654991866,
+    "population": 2743,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10330",
+      "CBG-DE-10447",
+      "CBG-DE-10498",
+      "CBG-DE-10126",
+      "CBG-DE-10496"
+    ]
+  },
+  {
+    "id": "CBG-DE-10154",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3245,
+    "y": 39.839,
+    "infraWeight": 0.8821709726704553,
+    "population": 1691,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10151",
+      "CBG-DE-10264",
+      "CBG-DE-10392",
+      "CBG-DE-10223",
+      "CBG-DE-10391"
+    ]
+  },
+  {
+    "id": "CBG-DE-10155",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2398,
+    "y": 39.3962,
+    "infraWeight": 1.146402493370473,
+    "population": 2326,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10195",
+      "CBG-DE-10263",
+      "CBG-DE-10454",
+      "CBG-DE-10495",
+      "CBG-DE-10519"
+    ]
+  },
+  {
+    "id": "CBG-DE-10156",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7768,
+    "y": 38.4947,
+    "infraWeight": 0.8609201581597077,
+    "population": 1529,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10326",
+      "CBG-DE-10431",
+      "CBG-DE-10377",
+      "CBG-DE-10461",
+      "CBG-DE-10400"
+    ]
+  },
+  {
+    "id": "CBG-DE-10157",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5022,
+    "y": 38.593,
+    "infraWeight": 0.9625927059620397,
+    "population": 1791,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10333",
+      "CBG-DE-10028",
+      "CBG-DE-10220",
+      "CBG-DE-10406",
+      "CBG-DE-10448"
+    ]
+  },
+  {
+    "id": "CBG-DE-10158",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1095,
+    "y": 39.3212,
+    "infraWeight": 1.1062262865944443,
+    "population": 1893,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10010",
+      "CBG-DE-10274",
+      "CBG-DE-10344",
+      "CBG-DE-10520",
+      "CBG-DE-10051"
+    ]
+  },
+  {
+    "id": "CBG-DE-10159",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0731,
+    "y": 38.5687,
+    "infraWeight": 0.8971008366653648,
+    "population": 1799,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10022",
+      "CBG-DE-10131",
+      "CBG-DE-10363",
+      "CBG-DE-10432",
+      "CBG-DE-10111"
+    ]
+  },
+  {
+    "id": "CBG-DE-10160",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6509,
+    "y": 39.3495,
+    "infraWeight": 1.145653073043525,
+    "population": 1943,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10063",
+      "CBG-DE-10169",
+      "CBG-DE-10421",
+      "CBG-DE-10226",
+      "CBG-DE-10429"
+    ]
+  },
+  {
+    "id": "CBG-DE-10161",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2759,
+    "y": 39.7233,
+    "infraWeight": 0.9400369504680723,
+    "population": 1713,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10407",
+      "CBG-DE-10426",
+      "CBG-DE-10438",
+      "CBG-DE-10505",
+      "CBG-DE-10425"
+    ]
+  },
+  {
+    "id": "CBG-DE-10162",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4481,
+    "y": 39.4795,
+    "infraWeight": 1.1229244998316896,
+    "population": 2333,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10474",
+      "CBG-DE-10053",
+      "CBG-DE-10185",
+      "CBG-DE-10029",
+      "CBG-DE-10147"
+    ]
+  },
+  {
+    "id": "CBG-DE-10163",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6468,
+    "y": 39.7063,
+    "infraWeight": 0.9340974490378118,
+    "population": 1858,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10416",
+      "CBG-DE-10224",
+      "CBG-DE-10436",
+      "CBG-DE-10229",
+      "CBG-DE-10219"
+    ]
+  },
+  {
+    "id": "CBG-DE-10164",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4314,
+    "y": 39.0039,
+    "infraWeight": 1.3139203895860496,
+    "population": 2523,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10374",
+      "CBG-DE-10509",
+      "CBG-DE-10209",
+      "CBG-DE-10256",
+      "CBG-DE-10270"
+    ]
+  },
+  {
+    "id": "CBG-DE-10165",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2239,
+    "y": 38.6044,
+    "infraWeight": 0.9525923628116493,
+    "population": 1900,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10501",
+      "CBG-DE-10093",
+      "CBG-DE-10441",
+      "CBG-DE-10508",
+      "CBG-DE-10367"
+    ]
+  },
+  {
+    "id": "CBG-DE-10166",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3881,
+    "y": 39.5358,
+    "infraWeight": 1.077589855928098,
+    "population": 2181,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10184",
+      "CBG-DE-10298",
+      "CBG-DE-10135",
+      "CBG-DE-10337",
+      "CBG-DE-10474"
+    ]
+  },
+  {
+    "id": "CBG-DE-10167",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5362,
+    "y": 39.452,
+    "infraWeight": 1.1289551055123197,
+    "population": 1894,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10039",
+      "CBG-DE-10174",
+      "CBG-DE-10424",
+      "CBG-DE-10052",
+      "CBG-DE-10061"
+    ]
+  },
+  {
+    "id": "CBG-DE-10168",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.144,
+    "y": 39.2249,
+    "infraWeight": 1.1662286182900388,
+    "population": 2001,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10466",
+      "CBG-DE-10456",
+      "CBG-DE-10430",
+      "CBG-DE-10490",
+      "CBG-DE-10515"
+    ]
+  },
+  {
+    "id": "CBG-DE-10169",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6565,
+    "y": 39.3128,
+    "infraWeight": 1.1619173508087997,
+    "population": 2510,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10429",
+      "CBG-DE-10160",
+      "CBG-DE-10063",
+      "CBG-DE-10342",
+      "CBG-DE-10001"
+    ]
+  },
+  {
+    "id": "CBG-DE-10170",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7673,
+    "y": 39.5138,
+    "infraWeight": 0.995056743955688,
+    "population": 1801,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10258",
+      "CBG-DE-10510",
+      "CBG-DE-10078",
+      "CBG-DE-10312",
+      "CBG-DE-10403"
+    ]
+  },
+  {
+    "id": "CBG-DE-10171",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6298,
+    "y": 39.2325,
+    "infraWeight": 1.2210871403133416,
+    "population": 2059,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10187",
+      "CBG-DE-10001",
+      "CBG-DE-10464",
+      "CBG-DE-10429",
+      "CBG-DE-10125"
+    ]
+  },
+  {
+    "id": "CBG-DE-10172",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1692,
+    "y": 39.8022,
+    "infraWeight": 0.8808146010466263,
+    "population": 1471,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10250",
+      "CBG-DE-10503",
+      "CBG-DE-10292",
+      "CBG-DE-10182",
+      "CBG-DE-10127"
+    ]
+  },
+  {
+    "id": "CBG-DE-10173",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3199,
+    "y": 39.1344,
+    "infraWeight": 1.364243692864441,
+    "population": 2482,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10197",
+      "CBG-DE-10522",
+      "CBG-DE-10207",
+      "CBG-DE-10472",
+      "CBG-DE-10343"
+    ]
+  },
+  {
+    "id": "CBG-DE-10174",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.549,
+    "y": 39.4471,
+    "infraWeight": 1.128675341966634,
+    "population": 1978,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10039",
+      "CBG-DE-10167",
+      "CBG-DE-10061",
+      "CBG-DE-10336",
+      "CBG-DE-10052"
+    ]
+  },
+  {
+    "id": "CBG-DE-10175",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6093,
+    "y": 39.6336,
+    "infraWeight": 0.9839446895070029,
+    "population": 1971,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10240",
+      "CBG-DE-10349",
+      "CBG-DE-10199",
+      "CBG-DE-10468",
+      "CBG-DE-10150"
+    ]
+  },
+  {
+    "id": "CBG-DE-10176",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1905,
+    "y": 39.049,
+    "infraWeight": 1.2022567863096125,
+    "population": 2582,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10036",
+      "CBG-DE-10042",
+      "CBG-DE-10316",
+      "CBG-DE-10138",
+      "CBG-DE-10191"
+    ]
+  },
+  {
+    "id": "CBG-DE-10177",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6758,
+    "y": 39.8136,
+    "infraWeight": 0.8739870005534363,
+    "population": 1407,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10309",
+      "CBG-DE-10402",
+      "CBG-DE-10288",
+      "CBG-DE-10086",
+      "CBG-DE-10370"
+    ]
+  },
+  {
+    "id": "CBG-DE-10178",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4999,
+    "y": 39.2769,
+    "infraWeight": 1.2989367814903252,
+    "population": 2715,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10016",
+      "CBG-DE-10126",
+      "CBG-DE-10204",
+      "CBG-DE-10388",
+      "CBG-DE-10214"
+    ]
+  },
+  {
+    "id": "CBG-DE-10179",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2989,
+    "y": 39.0811,
+    "infraWeight": 1.3205584485437072,
+    "population": 2648,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10522",
+      "CBG-DE-10423",
+      "CBG-DE-10291",
+      "CBG-DE-10225",
+      "CBG-DE-10230"
+    ]
+  },
+  {
+    "id": "CBG-DE-10180",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6368,
+    "y": 38.8969,
+    "infraWeight": 1.1275413158115193,
+    "population": 1851,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10060",
+      "CBG-DE-10376",
+      "CBG-DE-10041",
+      "CBG-DE-10369",
+      "CBG-DE-10025"
+    ]
+  },
+  {
+    "id": "CBG-DE-10181",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0518,
+    "y": 39.8033,
+    "infraWeight": 0.8553444807041068,
+    "population": 1690,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10083",
+      "CBG-DE-10182",
+      "CBG-DE-10143",
+      "CBG-DE-10503",
+      "CBG-DE-10127"
+    ]
+  },
+  {
+    "id": "CBG-DE-10182",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1199,
+    "y": 39.7891,
+    "infraWeight": 0.8771576074351543,
+    "population": 1824,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10503",
+      "CBG-DE-10127",
+      "CBG-DE-10083",
+      "CBG-DE-10292",
+      "CBG-DE-10172"
+    ]
+  },
+  {
+    "id": "CBG-DE-10183",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1694,
+    "y": 39.7088,
+    "infraWeight": 0.9278962658280495,
+    "population": 1546,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10404",
+      "CBG-DE-10251",
+      "CBG-DE-10292",
+      "CBG-DE-10483",
+      "CBG-DE-10383"
+    ]
+  },
+  {
+    "id": "CBG-DE-10184",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4153,
+    "y": 39.5532,
+    "infraWeight": 1.0651448060453201,
+    "population": 2094,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10166",
+      "CBG-DE-10135",
+      "CBG-DE-10337",
+      "CBG-DE-10298",
+      "CBG-DE-10119"
+    ]
+  },
+  {
+    "id": "CBG-DE-10185",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4243,
+    "y": 39.4416,
+    "infraWeight": 1.1568420260219268,
+    "population": 1898,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10188",
+      "CBG-DE-10029",
+      "CBG-DE-10437",
+      "CBG-DE-10053",
+      "CBG-DE-10474"
+    ]
+  },
+  {
+    "id": "CBG-DE-10186",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7424,
+    "y": 38.7034,
+    "infraWeight": 0.9693115272164433,
+    "population": 1909,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10449",
+      "CBG-DE-10310",
+      "CBG-DE-10109",
+      "CBG-DE-10110",
+      "CBG-DE-10299"
+    ]
+  },
+  {
+    "id": "CBG-DE-10187",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.638,
+    "y": 39.2348,
+    "infraWeight": 1.2127290317764414,
+    "population": 2455,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10171",
+      "CBG-DE-10001",
+      "CBG-DE-10464",
+      "CBG-DE-10429",
+      "CBG-DE-10125"
+    ]
+  },
+  {
+    "id": "CBG-DE-10188",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4016,
+    "y": 39.4378,
+    "infraWeight": 1.159843179681568,
+    "population": 2062,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10437",
+      "CBG-DE-10108",
+      "CBG-DE-10185",
+      "CBG-DE-10053",
+      "CBG-DE-10474"
+    ]
+  },
+  {
+    "id": "CBG-DE-10189",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3333,
+    "y": 38.7457,
+    "infraWeight": 1.0650490645066206,
+    "population": 1809,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10221",
+      "CBG-DE-10031",
+      "CBG-DE-10459",
+      "CBG-DE-10145",
+      "CBG-DE-10049"
+    ]
+  },
+  {
+    "id": "CBG-DE-10190",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5785,
+    "y": 38.568,
+    "infraWeight": 0.938265576601638,
+    "population": 1746,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10058",
+      "CBG-DE-10242",
+      "CBG-DE-10220",
+      "CBG-DE-10333",
+      "CBG-DE-10485"
+    ]
+  },
+  {
+    "id": "CBG-DE-10191",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1986,
+    "y": 38.984,
+    "infraWeight": 1.1785218821710508,
+    "population": 2518,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10210",
+      "CBG-DE-10113",
+      "CBG-DE-10036",
+      "CBG-DE-10371",
+      "CBG-DE-10316"
+    ]
+  },
+  {
+    "id": "CBG-DE-10192",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6686,
+    "y": 38.594,
+    "infraWeight": 0.9345941115466305,
+    "population": 1686,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10359",
+      "CBG-DE-10144",
+      "CBG-DE-10239",
+      "CBG-DE-10521",
+      "CBG-DE-10450"
+    ]
+  },
+  {
+    "id": "CBG-DE-10193",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7619,
+    "y": 39.2759,
+    "infraWeight": 1.0971157425923974,
+    "population": 2321,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10375",
+      "CBG-DE-10048",
+      "CBG-DE-10057",
+      "CBG-DE-10246",
+      "CBG-DE-10243"
+    ]
+  },
+  {
+    "id": "CBG-DE-10194",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0965,
+    "y": 39.6387,
+    "infraWeight": 0.9436728651538621,
+    "population": 1872,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10237",
+      "CBG-DE-10085",
+      "CBG-DE-10338",
+      "CBG-DE-10451",
+      "CBG-DE-10241"
+    ]
+  },
+  {
+    "id": "CBG-DE-10195",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2347,
+    "y": 39.3745,
+    "infraWeight": 1.1589882668454219,
+    "population": 2202,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10155",
+      "CBG-DE-10519",
+      "CBG-DE-10263",
+      "CBG-DE-10112",
+      "CBG-DE-10454"
+    ]
+  },
+  {
+    "id": "CBG-DE-10196",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2071,
+    "y": 38.7366,
+    "infraWeight": 1.0274069402268402,
+    "population": 1805,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10301",
+      "CBG-DE-10295",
+      "CBG-DE-10017",
+      "CBG-DE-10492",
+      "CBG-DE-10305"
+    ]
+  },
+  {
+    "id": "CBG-DE-10197",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3121,
+    "y": 39.1398,
+    "infraWeight": 1.3552012800354365,
+    "population": 2427,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10173",
+      "CBG-DE-10522",
+      "CBG-DE-10207",
+      "CBG-DE-10472",
+      "CBG-DE-10179"
+    ]
+  },
+  {
+    "id": "CBG-DE-10198",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3954,
+    "y": 38.5912,
+    "infraWeight": 0.9650449670670606,
+    "population": 1789,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10358",
+      "CBG-DE-10307",
+      "CBG-DE-10011",
+      "CBG-DE-10262",
+      "CBG-DE-10329"
+    ]
+  },
+  {
+    "id": "CBG-DE-10199",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6101,
+    "y": 39.6521,
+    "infraWeight": 0.9727648033693759,
+    "population": 1704,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10240",
+      "CBG-DE-10175",
+      "CBG-DE-10385",
+      "CBG-DE-10362",
+      "CBG-DE-10349"
+    ]
+  },
+  {
+    "id": "CBG-DE-10200",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2946,
+    "y": 38.9371,
+    "infraWeight": 1.2075429769491914,
+    "population": 2283,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10067",
+      "CBG-DE-10033",
+      "CBG-DE-10149",
+      "CBG-DE-10014",
+      "CBG-DE-10303"
+    ]
+  },
+  {
+    "id": "CBG-DE-10201",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7304,
+    "y": 38.8912,
+    "infraWeight": 1.0700121431338792,
+    "population": 2282,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10072",
+      "CBG-DE-10096",
+      "CBG-DE-10512",
+      "CBG-DE-10514",
+      "CBG-DE-10025"
+    ]
+  },
+  {
+    "id": "CBG-DE-10202",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6354,
+    "y": 38.9984,
+    "infraWeight": 1.1889873839628586,
+    "population": 2099,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10148",
+      "CBG-DE-10041",
+      "CBG-DE-10434",
+      "CBG-DE-10277",
+      "CBG-DE-10376"
+    ]
+  },
+  {
+    "id": "CBG-DE-10203",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5667,
+    "y": 39.4966,
+    "infraWeight": 1.0858024269630557,
+    "population": 2322,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10506",
+      "CBG-DE-10446",
+      "CBG-DE-10336",
+      "CBG-DE-10052",
+      "CBG-DE-10039"
+    ]
+  },
+  {
+    "id": "CBG-DE-10204",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4932,
+    "y": 39.3111,
+    "infraWeight": 1.269095703628084,
+    "population": 2510,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10016",
+      "CBG-DE-10388",
+      "CBG-DE-10178",
+      "CBG-DE-10126",
+      "CBG-DE-10384"
+    ]
+  },
+  {
+    "id": "CBG-DE-10205",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4494,
+    "y": 39.7249,
+    "infraWeight": 0.9489685492698161,
+    "population": 1753,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10487",
+      "CBG-DE-10043",
+      "CBG-DE-10334",
+      "CBG-DE-10211",
+      "CBG-DE-10074"
+    ]
+  },
+  {
+    "id": "CBG-DE-10206",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6217,
+    "y": 38.5036,
+    "infraWeight": 0.896722569159495,
+    "population": 1636,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10417",
+      "CBG-DE-10076",
+      "CBG-DE-10020",
+      "CBG-DE-10037",
+      "CBG-DE-10450"
+    ]
+  },
+  {
+    "id": "CBG-DE-10207",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3444,
+    "y": 39.1589,
+    "infraWeight": 1.3944396228372817,
+    "population": 2841,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10382",
+      "CBG-DE-10343",
+      "CBG-DE-10173",
+      "CBG-DE-10197",
+      "CBG-DE-10026"
+    ]
+  },
+  {
+    "id": "CBG-DE-10208",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3292,
+    "y": 38.6924,
+    "infraWeight": 1.0264142430974,
+    "population": 2020,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10046",
+      "CBG-DE-10145",
+      "CBG-DE-10459",
+      "CBG-DE-10189",
+      "CBG-DE-10087"
+    ]
+  },
+  {
+    "id": "CBG-DE-10209",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4019,
+    "y": 38.9913,
+    "infraWeight": 1.2990764192687967,
+    "population": 2627,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10509",
+      "CBG-DE-10129",
+      "CBG-DE-10374",
+      "CBG-DE-10056",
+      "CBG-DE-10164"
+    ]
+  },
+  {
+    "id": "CBG-DE-10210",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1901,
+    "y": 38.9642,
+    "infraWeight": 1.161388588983639,
+    "population": 2514,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10113",
+      "CBG-DE-10191",
+      "CBG-DE-10371",
+      "CBG-DE-10067",
+      "CBG-DE-10316"
+    ]
+  },
+  {
+    "id": "CBG-DE-10211",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4272,
+    "y": 39.6731,
+    "infraWeight": 0.98154339247007,
+    "population": 2106,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10334",
+      "CBG-DE-10487",
+      "CBG-DE-10286",
+      "CBG-DE-10205",
+      "CBG-DE-10092"
+    ]
+  },
+  {
+    "id": "CBG-DE-10212",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6619,
+    "y": 38.6981,
+    "infraWeight": 0.9942194194409949,
+    "population": 2029,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10304",
+      "CBG-DE-10297",
+      "CBG-DE-10507",
+      "CBG-DE-10023",
+      "CBG-DE-10310"
+    ]
+  },
+  {
+    "id": "CBG-DE-10213",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5732,
+    "y": 39.6306,
+    "infraWeight": 0.9936779282470423,
+    "population": 1622,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10468",
+      "CBG-DE-10024",
+      "CBG-DE-10362",
+      "CBG-DE-10385",
+      "CBG-DE-10130"
+    ]
+  },
+  {
+    "id": "CBG-DE-10214",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4555,
+    "y": 39.2369,
+    "infraWeight": 1.3649444525483854,
+    "population": 2477,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10146",
+      "CBG-DE-10071",
+      "CBG-DE-10126",
+      "CBG-DE-10178",
+      "CBG-DE-10388"
+    ]
+  },
+  {
+    "id": "CBG-DE-10215",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6256,
+    "y": 39.5666,
+    "infraWeight": 1.020703675391785,
+    "population": 2128,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10245",
+      "CBG-DE-10360",
+      "CBG-DE-10002",
+      "CBG-DE-10347",
+      "CBG-DE-10396"
+    ]
+  },
+  {
+    "id": "CBG-DE-10216",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5785,
+    "y": 38.9272,
+    "infraWeight": 1.1810826197556568,
+    "population": 2121,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10420",
+      "CBG-DE-10277",
+      "CBG-DE-10369",
+      "CBG-DE-10293",
+      "CBG-DE-10137"
+    ]
+  },
+  {
+    "id": "CBG-DE-10217",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4286,
+    "y": 39.3705,
+    "infraWeight": 1.2237466638955752,
+    "population": 2477,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10384",
+      "CBG-DE-10393",
+      "CBG-DE-10268",
+      "CBG-DE-10115",
+      "CBG-DE-10280"
+    ]
+  },
+  {
+    "id": "CBG-DE-10218",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3862,
+    "y": 38.7262,
+    "infraWeight": 1.056256294711139,
+    "population": 2047,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10459",
+      "CBG-DE-10458",
+      "CBG-DE-10031",
+      "CBG-DE-10397",
+      "CBG-DE-10189"
+    ]
+  },
+  {
+    "id": "CBG-DE-10219",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6939,
+    "y": 39.6743,
+    "infraWeight": 0.9395358630906143,
+    "population": 1665,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10229",
+      "CBG-DE-10047",
+      "CBG-DE-10163",
+      "CBG-DE-10150",
+      "CBG-DE-10416"
+    ]
+  },
+  {
+    "id": "CBG-DE-10220",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5703,
+    "y": 38.5984,
+    "infraWeight": 0.9570867554965319,
+    "population": 1825,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10242",
+      "CBG-DE-10190",
+      "CBG-DE-10005",
+      "CBG-DE-10333",
+      "CBG-DE-10284"
+    ]
+  },
+  {
+    "id": "CBG-DE-10221",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3341,
+    "y": 38.7648,
+    "infraWeight": 1.0794904008283894,
+    "population": 2013,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10189",
+      "CBG-DE-10031",
+      "CBG-DE-10459",
+      "CBG-DE-10049",
+      "CBG-DE-10145"
+    ]
+  },
+  {
+    "id": "CBG-DE-10222",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4923,
+    "y": 38.9535,
+    "infraWeight": 1.2446859533679449,
+    "population": 2015,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10136",
+      "CBG-DE-10481",
+      "CBG-DE-10325",
+      "CBG-DE-10270",
+      "CBG-DE-10256"
+    ]
+  },
+  {
+    "id": "CBG-DE-10223",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2782,
+    "y": 39.7954,
+    "infraWeight": 0.9006800369910021,
+    "population": 1592,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10425",
+      "CBG-DE-10264",
+      "CBG-DE-10505",
+      "CBG-DE-10426",
+      "CBG-DE-10379"
+    ]
+  },
+  {
+    "id": "CBG-DE-10224",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6115,
+    "y": 39.7202,
+    "infraWeight": 0.9336398940872213,
+    "population": 1555,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10416",
+      "CBG-DE-10050",
+      "CBG-DE-10436",
+      "CBG-DE-10235",
+      "CBG-DE-10163"
+    ]
+  },
+  {
+    "id": "CBG-DE-10225",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2474,
+    "y": 39.0836,
+    "infraWeight": 1.2689994073169801,
+    "population": 2503,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10423",
+      "CBG-DE-10138",
+      "CBG-DE-10179",
+      "CBG-DE-10414",
+      "CBG-DE-10042"
+    ]
+  },
+  {
+    "id": "CBG-DE-10226",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5959,
+    "y": 39.3655,
+    "infraWeight": 1.1693414640613151,
+    "population": 1976,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10421",
+      "CBG-DE-10063",
+      "CBG-DE-10160",
+      "CBG-DE-10003",
+      "CBG-DE-10061"
+    ]
+  },
+  {
+    "id": "CBG-DE-10227",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2069,
+    "y": 39.2663,
+    "infraWeight": 1.205651622537274,
+    "population": 2410,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10273",
+      "CBG-DE-10515",
+      "CBG-DE-10099",
+      "CBG-DE-10430",
+      "CBG-DE-10252"
+    ]
+  },
+  {
+    "id": "CBG-DE-10228",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6885,
+    "y": 39.4913,
+    "infraWeight": 1.0424301990183458,
+    "population": 1917,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10008",
+      "CBG-DE-10312",
+      "CBG-DE-10470",
+      "CBG-DE-10078",
+      "CBG-DE-10032"
+    ]
+  },
+  {
+    "id": "CBG-DE-10229",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6797,
+    "y": 39.6695,
+    "infraWeight": 0.9459002760966954,
+    "population": 1740,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10219",
+      "CBG-DE-10163",
+      "CBG-DE-10047",
+      "CBG-DE-10150",
+      "CBG-DE-10349"
+    ]
+  },
+  {
+    "id": "CBG-DE-10230",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3324,
+    "y": 39.0367,
+    "infraWeight": 1.3174409563801248,
+    "population": 2204,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10291",
+      "CBG-DE-10386",
+      "CBG-DE-10352",
+      "CBG-DE-10149",
+      "CBG-DE-10179"
+    ]
+  },
+  {
+    "id": "CBG-DE-10231",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.356,
+    "y": 39.7167,
+    "infraWeight": 0.9522703364218356,
+    "population": 1549,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10092",
+      "CBG-DE-10442",
+      "CBG-DE-10059",
+      "CBG-DE-10098",
+      "CBG-DE-10074"
+    ]
+  },
+  {
+    "id": "CBG-DE-10232",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3708,
+    "y": 39.413,
+    "infraWeight": 1.1789682806331225,
+    "population": 2410,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10394",
+      "CBG-DE-10108",
+      "CBG-DE-10437",
+      "CBG-DE-10188",
+      "CBG-DE-10393"
+    ]
+  },
+  {
+    "id": "CBG-DE-10233",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0623,
+    "y": 39.1878,
+    "infraWeight": 1.1037454119749497,
+    "population": 2331,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10490",
+      "CBG-DE-10456",
+      "CBG-DE-10238",
+      "CBG-DE-10051",
+      "CBG-DE-10168"
+    ]
+  },
+  {
+    "id": "CBG-DE-10234",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1109,
+    "y": 39.1102,
+    "infraWeight": 1.1451823769979312,
+    "population": 1966,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10238",
+      "CBG-DE-10082",
+      "CBG-DE-10456",
+      "CBG-DE-10233",
+      "CBG-DE-10414"
+    ]
+  },
+  {
+    "id": "CBG-DE-10235",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5784,
+    "y": 39.7367,
+    "infraWeight": 0.9300588577947667,
+    "population": 1666,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10050",
+      "CBG-DE-10452",
+      "CBG-DE-10476",
+      "CBG-DE-10120",
+      "CBG-DE-10224"
+    ]
+  },
+  {
+    "id": "CBG-DE-10236",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.32,
+    "y": 39.3027,
+    "infraWeight": 1.2647038318135657,
+    "population": 2700,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10121",
+      "CBG-DE-10294",
+      "CBG-DE-10124",
+      "CBG-DE-10252",
+      "CBG-DE-10273"
+    ]
+  },
+  {
+    "id": "CBG-DE-10237",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1121,
+    "y": 39.6369,
+    "infraWeight": 0.9495267852744562,
+    "population": 1752,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10085",
+      "CBG-DE-10194",
+      "CBG-DE-10451",
+      "CBG-DE-10338",
+      "CBG-DE-10523"
+    ]
+  },
+  {
+    "id": "CBG-DE-10238",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1306,
+    "y": 39.1429,
+    "infraWeight": 1.164419597325793,
+    "population": 1992,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10234",
+      "CBG-DE-10456",
+      "CBG-DE-10128",
+      "CBG-DE-10414",
+      "CBG-DE-10233"
+    ]
+  },
+  {
+    "id": "CBG-DE-10239",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6569,
+    "y": 38.5741,
+    "infraWeight": 0.9267445188070196,
+    "population": 1703,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10359",
+      "CBG-DE-10450",
+      "CBG-DE-10192",
+      "CBG-DE-10144",
+      "CBG-DE-10521"
+    ]
+  },
+  {
+    "id": "CBG-DE-10240",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6182,
+    "y": 39.6398,
+    "infraWeight": 0.9781433002077187,
+    "population": 2120,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10175",
+      "CBG-DE-10349",
+      "CBG-DE-10199",
+      "CBG-DE-10150",
+      "CBG-DE-10468"
+    ]
+  },
+  {
+    "id": "CBG-DE-10241",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0532,
+    "y": 39.6803,
+    "infraWeight": 0.9100426363653779,
+    "population": 1554,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10338",
+      "CBG-DE-10143",
+      "CBG-DE-10194",
+      "CBG-DE-10237",
+      "CBG-DE-10085"
+    ]
+  },
+  {
+    "id": "CBG-DE-10242",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.591,
+    "y": 38.5962,
+    "infraWeight": 0.9522548282778013,
+    "population": 1762,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10220",
+      "CBG-DE-10190",
+      "CBG-DE-10350",
+      "CBG-DE-10005",
+      "CBG-DE-10353"
+    ]
+  },
+  {
+    "id": "CBG-DE-10243",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7612,
+    "y": 39.2327,
+    "infraWeight": 1.1082659186009594,
+    "population": 1902,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10246",
+      "CBG-DE-10030",
+      "CBG-DE-10193",
+      "CBG-DE-10048",
+      "CBG-DE-10408"
+    ]
+  },
+  {
+    "id": "CBG-DE-10244",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5362,
+    "y": 38.6662,
+    "infraWeight": 1.0046996001307698,
+    "population": 2047,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10080",
+      "CBG-DE-10448",
+      "CBG-DE-10406",
+      "CBG-DE-10005",
+      "CBG-DE-10486"
+    ]
+  },
+  {
+    "id": "CBG-DE-10245",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6153,
+    "y": 39.5539,
+    "infraWeight": 1.0318557990493968,
+    "population": 2122,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10002",
+      "CBG-DE-10215",
+      "CBG-DE-10513",
+      "CBG-DE-10396",
+      "CBG-DE-10360"
+    ]
+  },
+  {
+    "id": "CBG-DE-10246",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7467,
+    "y": 39.239,
+    "infraWeight": 1.1184612195779242,
+    "population": 2194,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10030",
+      "CBG-DE-10243",
+      "CBG-DE-10048",
+      "CBG-DE-10193",
+      "CBG-DE-10408"
+    ]
+  },
+  {
+    "id": "CBG-DE-10247",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7755,
+    "y": 38.8428,
+    "infraWeight": 1.0221269332643532,
+    "population": 2125,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10072",
+      "CBG-DE-10201",
+      "CBG-DE-10514",
+      "CBG-DE-10132",
+      "CBG-DE-10034"
+    ]
+  },
+  {
+    "id": "CBG-DE-10248",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1152,
+    "y": 39.4465,
+    "infraWeight": 1.0504893874589467,
+    "population": 2022,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10365",
+      "CBG-DE-10105",
+      "CBG-DE-10084",
+      "CBG-DE-10038",
+      "CBG-DE-10482"
+    ]
+  },
+  {
+    "id": "CBG-DE-10249",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4644,
+    "y": 38.836,
+    "infraWeight": 1.1429897245636012,
+    "population": 2201,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10323",
+      "CBG-DE-10440",
+      "CBG-DE-10413",
+      "CBG-DE-10364",
+      "CBG-DE-10064"
+    ]
+  },
+  {
+    "id": "CBG-DE-10250",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.173,
+    "y": 39.7834,
+    "infraWeight": 0.8906893884468585,
+    "population": 1498,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10172",
+      "CBG-DE-10292",
+      "CBG-DE-10503",
+      "CBG-DE-10127",
+      "CBG-DE-10182"
+    ]
+  },
+  {
+    "id": "CBG-DE-10251",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2033,
+    "y": 39.6774,
+    "infraWeight": 0.9527792275849755,
+    "population": 1625,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10483",
+      "CBG-DE-10383",
+      "CBG-DE-10183",
+      "CBG-DE-10324",
+      "CBG-DE-10523"
+    ]
+  },
+  {
+    "id": "CBG-DE-10252",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2488,
+    "y": 39.3156,
+    "infraWeight": 1.2088767031831384,
+    "population": 2031,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10112",
+      "CBG-DE-10273",
+      "CBG-DE-10121",
+      "CBG-DE-10195",
+      "CBG-DE-10227"
+    ]
+  },
+  {
+    "id": "CBG-DE-10253",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0989,
+    "y": 38.5003,
+    "infraWeight": 0.8722458766750402,
+    "population": 1452,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10411",
+      "CBG-DE-10372",
+      "CBG-DE-10044",
+      "CBG-DE-10118",
+      "CBG-DE-10457"
+    ]
+  },
+  {
+    "id": "CBG-DE-10254",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1255,
+    "y": 38.7658,
+    "infraWeight": 1.0139501974547283,
+    "population": 1899,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10378",
+      "CBG-DE-10428",
+      "CBG-DE-10313",
+      "CBG-DE-10104",
+      "CBG-DE-10295"
+    ]
+  },
+  {
+    "id": "CBG-DE-10255",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2629,
+    "y": 38.6704,
+    "infraWeight": 1.0003340106013139,
+    "population": 1842,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10019",
+      "CBG-DE-10087",
+      "CBG-DE-10465",
+      "CBG-DE-10145",
+      "CBG-DE-10441"
+    ]
+  },
+  {
+    "id": "CBG-DE-10256",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4396,
+    "y": 38.9683,
+    "infraWeight": 1.2733777006570999,
+    "population": 2606,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10325",
+      "CBG-DE-10164",
+      "CBG-DE-10509",
+      "CBG-DE-10481",
+      "CBG-DE-10056"
+    ]
+  },
+  {
+    "id": "CBG-DE-10257",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7881,
+    "y": 39.6438,
+    "infraWeight": 0.9255416260078652,
+    "population": 1637,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10139",
+      "CBG-DE-10276",
+      "CBG-DE-10433",
+      "CBG-DE-10047",
+      "CBG-DE-10510"
+    ]
+  },
+  {
+    "id": "CBG-DE-10258",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7319,
+    "y": 39.5149,
+    "infraWeight": 1.0103749664831088,
+    "population": 1644,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10170",
+      "CBG-DE-10078",
+      "CBG-DE-10470",
+      "CBG-DE-10228",
+      "CBG-DE-10312"
+    ]
+  },
+  {
+    "id": "CBG-DE-10259",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2169,
+    "y": 39.4454,
+    "infraWeight": 1.10134862794938,
+    "population": 2272,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10427",
+      "CBG-DE-10263",
+      "CBG-DE-10454",
+      "CBG-DE-10106",
+      "CBG-DE-10495"
+    ]
+  },
+  {
+    "id": "CBG-DE-10260",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4039,
+    "y": 39.7784,
+    "infraWeight": 0.918223944341838,
+    "population": 1604,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10332",
+      "CBG-DE-10074",
+      "CBG-DE-10081",
+      "CBG-DE-10098",
+      "CBG-DE-10043"
+    ]
+  },
+  {
+    "id": "CBG-DE-10261",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7186,
+    "y": 38.9703,
+    "infraWeight": 1.1135776662797845,
+    "population": 2396,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10418",
+      "CBG-DE-10399",
+      "CBG-DE-10122",
+      "CBG-DE-10475",
+      "CBG-DE-10096"
+    ]
+  },
+  {
+    "id": "CBG-DE-10262",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3598,
+    "y": 38.5355,
+    "infraWeight": 0.9303394124991705,
+    "population": 1747,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10011",
+      "CBG-DE-10322",
+      "CBG-DE-10401",
+      "CBG-DE-10198",
+      "CBG-DE-10358"
+    ]
+  },
+  {
+    "id": "CBG-DE-10263",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2217,
+    "y": 39.4137,
+    "infraWeight": 1.125049323383046,
+    "population": 2278,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10454",
+      "CBG-DE-10155",
+      "CBG-DE-10427",
+      "CBG-DE-10259",
+      "CBG-DE-10195"
+    ]
+  },
+  {
+    "id": "CBG-DE-10264",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2982,
+    "y": 39.8126,
+    "infraWeight": 0.8936912064863621,
+    "population": 1539,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10223",
+      "CBG-DE-10154",
+      "CBG-DE-10151",
+      "CBG-DE-10425",
+      "CBG-DE-10505"
+    ]
+  },
+  {
+    "id": "CBG-DE-10265",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1356,
+    "y": 39.4024,
+    "infraWeight": 1.0848138643261154,
+    "population": 2070,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10488",
+      "CBG-DE-10105",
+      "CBG-DE-10471",
+      "CBG-DE-10504",
+      "CBG-DE-10520"
+    ]
+  },
+  {
+    "id": "CBG-DE-10266",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7682,
+    "y": 39.3555,
+    "infraWeight": 1.0654031124263017,
+    "population": 2039,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10351",
+      "CBG-DE-10473",
+      "CBG-DE-10479",
+      "CBG-DE-10057",
+      "CBG-DE-10375"
+    ]
+  },
+  {
+    "id": "CBG-DE-10267",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3736,
+    "y": 39.2237,
+    "infraWeight": 1.3751520579096577,
+    "population": 2383,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10026",
+      "CBG-DE-10382",
+      "CBG-DE-10294",
+      "CBG-DE-10071",
+      "CBG-DE-10146"
+    ]
+  },
+  {
+    "id": "CBG-DE-10268",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4629,
+    "y": 39.3792,
+    "infraWeight": 1.2112860951371647,
+    "population": 2435,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10280",
+      "CBG-DE-10217",
+      "CBG-DE-10384",
+      "CBG-DE-10029",
+      "CBG-DE-10393"
+    ]
+  },
+  {
+    "id": "CBG-DE-10269",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5104,
+    "y": 39.4827,
+    "infraWeight": 1.1112205597774918,
+    "population": 2129,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10467",
+      "CBG-DE-10424",
+      "CBG-DE-10052",
+      "CBG-DE-10167",
+      "CBG-DE-10116"
+    ]
+  },
+  {
+    "id": "CBG-DE-10270",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4777,
+    "y": 39.0042,
+    "infraWeight": 1.3013562370912755,
+    "population": 2206,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10481",
+      "CBG-DE-10390",
+      "CBG-DE-10164",
+      "CBG-DE-10275",
+      "CBG-DE-10374"
+    ]
+  },
+  {
+    "id": "CBG-DE-10271",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7723,
+    "y": 39.0056,
+    "infraWeight": 1.0869603436769486,
+    "population": 1941,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10475",
+      "CBG-DE-10007",
+      "CBG-DE-10399",
+      "CBG-DE-10122",
+      "CBG-DE-10261"
+    ]
+  },
+  {
+    "id": "CBG-DE-10272",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.621,
+    "y": 38.6223,
+    "infraWeight": 0.961282215074878,
+    "population": 1692,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10353",
+      "CBG-DE-10350",
+      "CBG-DE-10356",
+      "CBG-DE-10284",
+      "CBG-DE-10005"
+    ]
+  },
+  {
+    "id": "CBG-DE-10273",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2443,
+    "y": 39.2645,
+    "infraWeight": 1.2381192050185925,
+    "population": 2072,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10227",
+      "CBG-DE-10252",
+      "CBG-DE-10124",
+      "CBG-DE-10290",
+      "CBG-DE-10121"
+    ]
+  },
+  {
+    "id": "CBG-DE-10274",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0828,
+    "y": 39.3571,
+    "infraWeight": 1.0734706824100961,
+    "population": 1987,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10348",
+      "CBG-DE-10158",
+      "CBG-DE-10520",
+      "CBG-DE-10344",
+      "CBG-DE-10488"
+    ]
+  },
+  {
+    "id": "CBG-DE-10275",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4533,
+    "y": 39.0456,
+    "infraWeight": 1.3572527812531059,
+    "population": 2436,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10390",
+      "CBG-DE-10380",
+      "CBG-DE-10374",
+      "CBG-DE-10164",
+      "CBG-DE-10270"
+    ]
+  },
+  {
+    "id": "CBG-DE-10276",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7708,
+    "y": 39.6131,
+    "infraWeight": 0.9459802178307272,
+    "population": 1716,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10433",
+      "CBG-DE-10139",
+      "CBG-DE-10257",
+      "CBG-DE-10510",
+      "CBG-DE-10095"
+    ]
+  },
+  {
+    "id": "CBG-DE-10277",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5849,
+    "y": 38.9427,
+    "infraWeight": 1.1887996941336514,
+    "population": 1966,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10216",
+      "CBG-DE-10420",
+      "CBG-DE-10369",
+      "CBG-DE-10376",
+      "CBG-DE-10293"
+    ]
+  },
+  {
+    "id": "CBG-DE-10278",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.501,
+    "y": 39.5634,
+    "infraWeight": 1.0515975718470292,
+    "population": 2045,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10012",
+      "CBG-DE-10395",
+      "CBG-DE-10315",
+      "CBG-DE-10116",
+      "CBG-DE-10147"
+    ]
+  },
+  {
+    "id": "CBG-DE-10279",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2335,
+    "y": 39.8296,
+    "infraWeight": 0.8775820368644346,
+    "population": 1663,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10462",
+      "CBG-DE-10379",
+      "CBG-DE-10223",
+      "CBG-DE-10425",
+      "CBG-DE-10264"
+    ]
+  },
+  {
+    "id": "CBG-DE-10280",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4604,
+    "y": 39.4039,
+    "infraWeight": 1.188395835735537,
+    "population": 2202,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10268",
+      "CBG-DE-10029",
+      "CBG-DE-10217",
+      "CBG-DE-10185",
+      "CBG-DE-10384"
+    ]
+  },
+  {
+    "id": "CBG-DE-10281",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2137,
+    "y": 39.5386,
+    "infraWeight": 1.0389191554583792,
+    "population": 2007,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10453",
+      "CBG-DE-10079",
+      "CBG-DE-10069",
+      "CBG-DE-10491",
+      "CBG-DE-10410"
+    ]
+  },
+  {
+    "id": "CBG-DE-10282",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5306,
+    "y": 39.7962,
+    "infraWeight": 0.9032237282013649,
+    "population": 1586,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10484",
+      "CBG-DE-10120",
+      "CBG-DE-10302",
+      "CBG-DE-10235",
+      "CBG-DE-10452"
+    ]
+  },
+  {
+    "id": "CBG-DE-10283",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.373,
+    "y": 38.9568,
+    "infraWeight": 1.2565613713983952,
+    "population": 2376,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10129",
+      "CBG-DE-10499",
+      "CBG-DE-10056",
+      "CBG-DE-10209",
+      "CBG-DE-10354"
+    ]
+  },
+  {
+    "id": "CBG-DE-10284",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6061,
+    "y": 38.6314,
+    "infraWeight": 0.969822541093662,
+    "population": 1610,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10005",
+      "CBG-DE-10272",
+      "CBG-DE-10353",
+      "CBG-DE-10350",
+      "CBG-DE-10356"
+    ]
+  },
+  {
+    "id": "CBG-DE-10285",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1135,
+    "y": 38.9589,
+    "infraWeight": 1.1049158785581885,
+    "population": 1890,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10500",
+      "CBG-DE-10073",
+      "CBG-DE-10387",
+      "CBG-DE-10463",
+      "CBG-DE-10371"
+    ]
+  },
+  {
+    "id": "CBG-DE-10286",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.428,
+    "y": 39.6227,
+    "infraWeight": 1.014997868246193,
+    "population": 2135,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10119",
+      "CBG-DE-10211",
+      "CBG-DE-10135",
+      "CBG-DE-10315",
+      "CBG-DE-10334"
+    ]
+  },
+  {
+    "id": "CBG-DE-10287",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6812,
+    "y": 38.8122,
+    "infraWeight": 1.0535155175021846,
+    "population": 1918,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10497",
+      "CBG-DE-10034",
+      "CBG-DE-10075",
+      "CBG-DE-10514",
+      "CBG-DE-10132"
+    ]
+  },
+  {
+    "id": "CBG-DE-10288",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6172,
+    "y": 39.8077,
+    "infraWeight": 0.8866603711733557,
+    "population": 1860,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10402",
+      "CBG-DE-10177",
+      "CBG-DE-10120",
+      "CBG-DE-10235",
+      "CBG-DE-10282"
+    ]
+  },
+  {
+    "id": "CBG-DE-10289",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1541,
+    "y": 39.5391,
+    "infraWeight": 1.0171142071984662,
+    "population": 1991,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10502",
+      "CBG-DE-10409",
+      "CBG-DE-10103",
+      "CBG-DE-10091",
+      "CBG-DE-10453"
+    ]
+  },
+  {
+    "id": "CBG-DE-10290",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2785,
+    "y": 39.2177,
+    "infraWeight": 1.295326980864999,
+    "population": 2746,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10124",
+      "CBG-DE-10273",
+      "CBG-DE-10121",
+      "CBG-DE-10140",
+      "CBG-DE-10472"
+    ]
+  },
+  {
+    "id": "CBG-DE-10291",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3342,
+    "y": 39.0438,
+    "infraWeight": 1.3252306550270483,
+    "population": 2617,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10230",
+      "CBG-DE-10386",
+      "CBG-DE-10352",
+      "CBG-DE-10179",
+      "CBG-DE-10493"
+    ]
+  },
+  {
+    "id": "CBG-DE-10292",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1605,
+    "y": 39.7673,
+    "infraWeight": 0.8961947770801979,
+    "population": 1487,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10250",
+      "CBG-DE-10127",
+      "CBG-DE-10172",
+      "CBG-DE-10404",
+      "CBG-DE-10503"
+    ]
+  },
+  {
+    "id": "CBG-DE-10293",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.549,
+    "y": 38.9144,
+    "infraWeight": 1.1859629404090988,
+    "population": 1985,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10420",
+      "CBG-DE-10088",
+      "CBG-DE-10216",
+      "CBG-DE-10137",
+      "CBG-DE-10277"
+    ]
+  },
+  {
+    "id": "CBG-DE-10294",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3546,
+    "y": 39.263,
+    "infraWeight": 1.3223280601966048,
+    "population": 2387,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10267",
+      "CBG-DE-10236",
+      "CBG-DE-10026",
+      "CBG-DE-10121",
+      "CBG-DE-10124"
+    ]
+  },
+  {
+    "id": "CBG-DE-10295",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1556,
+    "y": 38.7516,
+    "infraWeight": 1.0181003876268089,
+    "population": 1688,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10254",
+      "CBG-DE-10378",
+      "CBG-DE-10428",
+      "CBG-DE-10196",
+      "CBG-DE-10313"
+    ]
+  },
+  {
+    "id": "CBG-DE-10296",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5691,
+    "y": 39.0674,
+    "infraWeight": 1.2829255189974715,
+    "population": 2598,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10328",
+      "CBG-DE-10434",
+      "CBG-DE-10319",
+      "CBG-DE-10331",
+      "CBG-DE-10355"
+    ]
+  },
+  {
+    "id": "CBG-DE-10297",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7081,
+    "y": 38.6624,
+    "infraWeight": 0.959890136120062,
+    "population": 1724,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10109",
+      "CBG-DE-10400",
+      "CBG-DE-10299",
+      "CBG-DE-10521",
+      "CBG-DE-10186"
+    ]
+  },
+  {
+    "id": "CBG-DE-10298",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3695,
+    "y": 39.5625,
+    "infraWeight": 1.0560263287949228,
+    "population": 1910,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10166",
+      "CBG-DE-10184",
+      "CBG-DE-10321",
+      "CBG-DE-10119",
+      "CBG-DE-10335"
+    ]
+  },
+  {
+    "id": "CBG-DE-10299",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7563,
+    "y": 38.6728,
+    "infraWeight": 0.9491201250727667,
+    "population": 1912,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10109",
+      "CBG-DE-10186",
+      "CBG-DE-10449",
+      "CBG-DE-10297",
+      "CBG-DE-10310"
+    ]
+  },
+  {
+    "id": "CBG-DE-10300",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2431,
+    "y": 38.4941,
+    "infraWeight": 0.895930000098038,
+    "population": 1887,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10340",
+      "CBG-DE-10339",
+      "CBG-DE-10415",
+      "CBG-DE-10517",
+      "CBG-DE-10368"
+    ]
+  },
+  {
+    "id": "CBG-DE-10301",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2184,
+    "y": 38.7137,
+    "infraWeight": 1.0165530745180171,
+    "population": 1820,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10196",
+      "CBG-DE-10019",
+      "CBG-DE-10255",
+      "CBG-DE-10465",
+      "CBG-DE-10492"
+    ]
+  },
+  {
+    "id": "CBG-DE-10302",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4846,
+    "y": 39.7746,
+    "infraWeight": 0.9185318715289417,
+    "population": 1817,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10484",
+      "CBG-DE-10282",
+      "CBG-DE-10043",
+      "CBG-DE-10205",
+      "CBG-DE-10260"
+    ]
+  },
+  {
+    "id": "CBG-DE-10303",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2238,
+    "y": 38.9168,
+    "infraWeight": 1.1536969606160556,
+    "population": 2160,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10014",
+      "CBG-DE-10067",
+      "CBG-DE-10033",
+      "CBG-DE-10113",
+      "CBG-DE-10210"
+    ]
+  },
+  {
+    "id": "CBG-DE-10304",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6044,
+    "y": 38.6892,
+    "infraWeight": 1.005233225200496,
+    "population": 1784,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10486",
+      "CBG-DE-10080",
+      "CBG-DE-10284",
+      "CBG-DE-10212",
+      "CBG-DE-10005"
+    ]
+  },
+  {
+    "id": "CBG-DE-10305",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2345,
+    "y": 38.7976,
+    "infraWeight": 1.0766559553547819,
+    "population": 2193,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10017",
+      "CBG-DE-10492",
+      "CBG-DE-10494",
+      "CBG-DE-10419",
+      "CBG-DE-10049"
+    ]
+  },
+  {
+    "id": "CBG-DE-10306",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2845,
+    "y": 38.5725,
+    "infraWeight": 0.9445641404049291,
+    "population": 2047,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10094",
+      "CBG-DE-10152",
+      "CBG-DE-10401",
+      "CBG-DE-10415",
+      "CBG-DE-10501"
+    ]
+  },
+  {
+    "id": "CBG-DE-10307",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3911,
+    "y": 38.6285,
+    "infraWeight": 0.9886420657706018,
+    "population": 2004,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10358",
+      "CBG-DE-10198",
+      "CBG-DE-10046",
+      "CBG-DE-10065",
+      "CBG-DE-10000"
+    ]
+  },
+  {
+    "id": "CBG-DE-10308",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.723,
+    "y": 39.1195,
+    "infraWeight": 1.1491710387220997,
+    "population": 1996,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10480",
+      "CBG-DE-10320",
+      "CBG-DE-10045",
+      "CBG-DE-10408",
+      "CBG-DE-10489"
+    ]
+  },
+  {
+    "id": "CBG-DE-10309",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7136,
+    "y": 39.8282,
+    "infraWeight": 0.8600522952462223,
+    "population": 1466,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10177",
+      "CBG-DE-10086",
+      "CBG-DE-10097",
+      "CBG-DE-10070",
+      "CBG-DE-10370"
+    ]
+  },
+  {
+    "id": "CBG-DE-10310",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7356,
+    "y": 38.7182,
+    "infraWeight": 0.979389139204618,
+    "population": 2064,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10186",
+      "CBG-DE-10449",
+      "CBG-DE-10110",
+      "CBG-DE-10109",
+      "CBG-DE-10023"
+    ]
+  },
+  {
+    "id": "CBG-DE-10311",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1229,
+    "y": 38.8633,
+    "infraWeight": 1.0649357029743325,
+    "population": 2178,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10100",
+      "CBG-DE-10387",
+      "CBG-DE-10073",
+      "CBG-DE-10378",
+      "CBG-DE-10313"
+    ]
+  },
+  {
+    "id": "CBG-DE-10312",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7012,
+    "y": 39.4745,
+    "infraWeight": 1.0460656712483294,
+    "population": 1694,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10078",
+      "CBG-DE-10228",
+      "CBG-DE-10008",
+      "CBG-DE-10511",
+      "CBG-DE-10470"
+    ]
+  },
+  {
+    "id": "CBG-DE-10313",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1073,
+    "y": 38.7811,
+    "infraWeight": 1.0141902532849352,
+    "population": 1893,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10104",
+      "CBG-DE-10378",
+      "CBG-DE-10254",
+      "CBG-DE-10428",
+      "CBG-DE-10455"
+    ]
+  },
+  {
+    "id": "CBG-DE-10314",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.529,
+    "y": 38.8069,
+    "infraWeight": 1.106533022606362,
+    "population": 2215,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10064",
+      "CBG-DE-10013",
+      "CBG-DE-10422",
+      "CBG-DE-10345",
+      "CBG-DE-10117"
+    ]
+  },
+  {
+    "id": "CBG-DE-10315",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4746,
+    "y": 39.5742,
+    "infraWeight": 1.0468863483545496,
+    "population": 2265,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10012",
+      "CBG-DE-10278",
+      "CBG-DE-10135",
+      "CBG-DE-10337",
+      "CBG-DE-10147"
+    ]
+  },
+  {
+    "id": "CBG-DE-10316",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1562,
+    "y": 39.0036,
+    "infraWeight": 1.1554119078254914,
+    "population": 1887,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10133",
+      "CBG-DE-10191",
+      "CBG-DE-10371",
+      "CBG-DE-10210",
+      "CBG-DE-10036"
+    ]
+  },
+  {
+    "id": "CBG-DE-10317",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0616,
+    "y": 39.5466,
+    "infraWeight": 0.9756610545604928,
+    "population": 1750,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10091",
+      "CBG-DE-10114",
+      "CBG-DE-10482",
+      "CBG-DE-10409",
+      "CBG-DE-10451"
+    ]
+  },
+  {
+    "id": "CBG-DE-10318",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1173,
+    "y": 38.6611,
+    "infraWeight": 0.9552929437188055,
+    "population": 1793,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10357",
+      "CBG-DE-10004",
+      "CBG-DE-10366",
+      "CBG-DE-10131",
+      "CBG-DE-10022"
+    ]
+  },
+  {
+    "id": "CBG-DE-10319",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5163,
+    "y": 39.0772,
+    "infraWeight": 1.340735993364341,
+    "population": 2770,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10296",
+      "CBG-DE-10390",
+      "CBG-DE-10355",
+      "CBG-DE-10328",
+      "CBG-DE-10496"
+    ]
+  },
+  {
+    "id": "CBG-DE-10320",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7755,
+    "y": 39.127,
+    "infraWeight": 1.1052345064331395,
+    "population": 1982,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10308",
+      "CBG-DE-10480",
+      "CBG-DE-10408",
+      "CBG-DE-10243",
+      "CBG-DE-10030"
+    ]
+  },
+  {
+    "id": "CBG-DE-10321",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3188,
+    "y": 39.5555,
+    "infraWeight": 1.0544584021333254,
+    "population": 1758,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10123",
+      "CBG-DE-10298",
+      "CBG-DE-10021",
+      "CBG-DE-10335",
+      "CBG-DE-10069"
+    ]
+  },
+  {
+    "id": "CBG-DE-10322",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3974,
+    "y": 38.5063,
+    "infraWeight": 0.9151779454854034,
+    "population": 1850,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10011",
+      "CBG-DE-10262",
+      "CBG-DE-10329",
+      "CBG-DE-10198",
+      "CBG-DE-10358"
+    ]
+  },
+  {
+    "id": "CBG-DE-10323",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4816,
+    "y": 38.8495,
+    "infraWeight": 1.1519791267190433,
+    "population": 2427,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10249",
+      "CBG-DE-10064",
+      "CBG-DE-10413",
+      "CBG-DE-10440",
+      "CBG-DE-10422"
+    ]
+  },
+  {
+    "id": "CBG-DE-10324",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2247,
+    "y": 39.6206,
+    "infraWeight": 0.9909825263486342,
+    "population": 1634,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10373",
+      "CBG-DE-10483",
+      "CBG-DE-10389",
+      "CBG-DE-10410",
+      "CBG-DE-10079"
+    ]
+  },
+  {
+    "id": "CBG-DE-10325",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4435,
+    "y": 38.9581,
+    "infraWeight": 1.2621149657128006,
+    "population": 2437,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10256",
+      "CBG-DE-10481",
+      "CBG-DE-10136",
+      "CBG-DE-10056",
+      "CBG-DE-10164"
+    ]
+  },
+  {
+    "id": "CBG-DE-10326",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7882,
+    "y": 38.5878,
+    "infraWeight": 0.8989746021207295,
+    "population": 1589,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10377",
+      "CBG-DE-10461",
+      "CBG-DE-10400",
+      "CBG-DE-10431",
+      "CBG-DE-10299"
+    ]
+  },
+  {
+    "id": "CBG-DE-10327",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3867,
+    "y": 39.8217,
+    "infraWeight": 0.8942336701662571,
+    "population": 1845,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10391",
+      "CBG-DE-10081",
+      "CBG-DE-10332",
+      "CBG-DE-10260",
+      "CBG-DE-10392"
+    ]
+  },
+  {
+    "id": "CBG-DE-10328",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5689,
+    "y": 39.0448,
+    "infraWeight": 1.2706151275460975,
+    "population": 2719,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10296",
+      "CBG-DE-10434",
+      "CBG-DE-10319",
+      "CBG-DE-10202",
+      "CBG-DE-10390"
+    ]
+  },
+  {
+    "id": "CBG-DE-10329",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4491,
+    "y": 38.5378,
+    "infraWeight": 0.9328390340169658,
+    "population": 1522,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10028",
+      "CBG-DE-10322",
+      "CBG-DE-10412",
+      "CBG-DE-10198",
+      "CBG-DE-10157"
+    ]
+  },
+  {
+    "id": "CBG-DE-10330",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5532,
+    "y": 39.2052,
+    "infraWeight": 1.3074860757726852,
+    "population": 2189,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10153",
+      "CBG-DE-10447",
+      "CBG-DE-10126",
+      "CBG-DE-10498",
+      "CBG-DE-10331"
+    ]
+  },
+  {
+    "id": "CBG-DE-10331",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5951,
+    "y": 39.1562,
+    "infraWeight": 1.2747683683285866,
+    "population": 2722,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10125",
+      "CBG-DE-10489",
+      "CBG-DE-10447",
+      "CBG-DE-10330",
+      "CBG-DE-10153"
+    ]
+  },
+  {
+    "id": "CBG-DE-10332",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4045,
+    "y": 39.7951,
+    "infraWeight": 0.9089289610196134,
+    "population": 1737,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10081",
+      "CBG-DE-10260",
+      "CBG-DE-10391",
+      "CBG-DE-10327",
+      "CBG-DE-10074"
+    ]
+  },
+  {
+    "id": "CBG-DE-10333",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5319,
+    "y": 38.5792,
+    "infraWeight": 0.9511925248087857,
+    "population": 1700,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10157",
+      "CBG-DE-10220",
+      "CBG-DE-10190",
+      "CBG-DE-10242",
+      "CBG-DE-10028"
+    ]
+  },
+  {
+    "id": "CBG-DE-10334",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4245,
+    "y": 39.691,
+    "infraWeight": 0.9702075541760242,
+    "population": 1927,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10487",
+      "CBG-DE-10211",
+      "CBG-DE-10205",
+      "CBG-DE-10092",
+      "CBG-DE-10043"
+    ]
+  },
+  {
+    "id": "CBG-DE-10335",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3302,
+    "y": 39.6241,
+    "infraWeight": 1.008587308008118,
+    "population": 1840,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10445",
+      "CBG-DE-10478",
+      "CBG-DE-10090",
+      "CBG-DE-10134",
+      "CBG-DE-10381"
+    ]
+  },
+  {
+    "id": "CBG-DE-10336",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5635,
+    "y": 39.4751,
+    "infraWeight": 1.1025781301586641,
+    "population": 2005,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10203",
+      "CBG-DE-10052",
+      "CBG-DE-10506",
+      "CBG-DE-10039",
+      "CBG-DE-10174"
+    ]
+  },
+  {
+    "id": "CBG-DE-10337",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4532,
+    "y": 39.5493,
+    "infraWeight": 1.0669987217354155,
+    "population": 1978,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10135",
+      "CBG-DE-10147",
+      "CBG-DE-10315",
+      "CBG-DE-10184",
+      "CBG-DE-10012"
+    ]
+  },
+  {
+    "id": "CBG-DE-10338",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0825,
+    "y": 39.6595,
+    "infraWeight": 0.9289663011792488,
+    "population": 1871,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10194",
+      "CBG-DE-10241",
+      "CBG-DE-10237",
+      "CBG-DE-10085",
+      "CBG-DE-10451"
+    ]
+  },
+  {
+    "id": "CBG-DE-10339",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2747,
+    "y": 38.4981,
+    "infraWeight": 0.9020949386016424,
+    "population": 1735,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10415",
+      "CBG-DE-10517",
+      "CBG-DE-10300",
+      "CBG-DE-10401",
+      "CBG-DE-10340"
+    ]
+  },
+  {
+    "id": "CBG-DE-10340",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2171,
+    "y": 38.4862,
+    "infraWeight": 0.8881299121068965,
+    "population": 1901,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10300",
+      "CBG-DE-10368",
+      "CBG-DE-10339",
+      "CBG-DE-10006",
+      "CBG-DE-10062"
+    ]
+  },
+  {
+    "id": "CBG-DE-10341",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.479,
+    "y": 39.157,
+    "infraWeight": 1.4132411744958673,
+    "population": 3000,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10496",
+      "CBG-DE-10498",
+      "CBG-DE-10355",
+      "CBG-DE-10460",
+      "CBG-DE-10346"
+    ]
+  },
+  {
+    "id": "CBG-DE-10342",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6958,
+    "y": 39.3053,
+    "infraWeight": 1.136290744176757,
+    "population": 1937,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10169",
+      "CBG-DE-10057",
+      "CBG-DE-10473",
+      "CBG-DE-10048",
+      "CBG-DE-10160"
+    ]
+  },
+  {
+    "id": "CBG-DE-10343",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3734,
+    "y": 39.1499,
+    "infraWeight": 1.4345234491974386,
+    "population": 2823,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10207",
+      "CBG-DE-10382",
+      "CBG-DE-10173",
+      "CBG-DE-10026",
+      "CBG-DE-10066"
+    ]
+  },
+  {
+    "id": "CBG-DE-10344",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1375,
+    "y": 39.3596,
+    "infraWeight": 1.1079952559229154,
+    "population": 1909,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10520",
+      "CBG-DE-10488",
+      "CBG-DE-10010",
+      "CBG-DE-10471",
+      "CBG-DE-10504"
+    ]
+  },
+  {
+    "id": "CBG-DE-10345",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4895,
+    "y": 38.769,
+    "infraWeight": 1.0849125059713673,
+    "population": 2065,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10117",
+      "CBG-DE-10524",
+      "CBG-DE-10314",
+      "CBG-DE-10364",
+      "CBG-DE-10440"
+    ]
+  },
+  {
+    "id": "CBG-DE-10346",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4494,
+    "y": 39.1002,
+    "infraWeight": 1.4227572632188417,
+    "population": 2448,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10460",
+      "CBG-DE-10380",
+      "CBG-DE-10443",
+      "CBG-DE-10275",
+      "CBG-DE-10341"
+    ]
+  },
+  {
+    "id": "CBG-DE-10347",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6456,
+    "y": 39.5908,
+    "infraWeight": 0.9999091331704345,
+    "population": 1729,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10360",
+      "CBG-DE-10215",
+      "CBG-DE-10150",
+      "CBG-DE-10349",
+      "CBG-DE-10245"
+    ]
+  },
+  {
+    "id": "CBG-DE-10348",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0556,
+    "y": 39.3727,
+    "infraWeight": 1.0499563823903906,
+    "population": 1815,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10274",
+      "CBG-DE-10520",
+      "CBG-DE-10158",
+      "CBG-DE-10105",
+      "CBG-DE-10344"
+    ]
+  },
+  {
+    "id": "CBG-DE-10349",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6267,
+    "y": 39.6306,
+    "infraWeight": 0.9815091670084473,
+    "population": 1714,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10240",
+      "CBG-DE-10150",
+      "CBG-DE-10175",
+      "CBG-DE-10199",
+      "CBG-DE-10468"
+    ]
+  },
+  {
+    "id": "CBG-DE-10350",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6172,
+    "y": 38.6166,
+    "infraWeight": 0.9588333904911043,
+    "population": 1681,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10353",
+      "CBG-DE-10272",
+      "CBG-DE-10356",
+      "CBG-DE-10284",
+      "CBG-DE-10005"
+    ]
+  },
+  {
+    "id": "CBG-DE-10351",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7601,
+    "y": 39.3775,
+    "infraWeight": 1.0616175951471143,
+    "population": 2268,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10266",
+      "CBG-DE-10479",
+      "CBG-DE-10040",
+      "CBG-DE-10473",
+      "CBG-DE-10403"
+    ]
+  },
+  {
+    "id": "CBG-DE-10352",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3072,
+    "y": 39.0188,
+    "infraWeight": 1.2837285785612127,
+    "population": 2382,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10386",
+      "CBG-DE-10149",
+      "CBG-DE-10230",
+      "CBG-DE-10291",
+      "CBG-DE-10179"
+    ]
+  },
+  {
+    "id": "CBG-DE-10353",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6187,
+    "y": 38.6192,
+    "infraWeight": 0.960020634881761,
+    "population": 1840,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10350",
+      "CBG-DE-10272",
+      "CBG-DE-10356",
+      "CBG-DE-10284",
+      "CBG-DE-10005"
+    ]
+  },
+  {
+    "id": "CBG-DE-10354",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3907,
+    "y": 38.9108,
+    "infraWeight": 1.2137437025276832,
+    "population": 2521,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10141",
+      "CBG-DE-10077",
+      "CBG-DE-10499",
+      "CBG-DE-10444",
+      "CBG-DE-10283"
+    ]
+  },
+  {
+    "id": "CBG-DE-10355",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5077,
+    "y": 39.1374,
+    "infraWeight": 1.3771563598419636,
+    "population": 2447,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10496",
+      "CBG-DE-10498",
+      "CBG-DE-10341",
+      "CBG-DE-10447",
+      "CBG-DE-10319"
+    ]
+  },
+  {
+    "id": "CBG-DE-10356",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6338,
+    "y": 38.6228,
+    "infraWeight": 0.9586314968456232,
+    "population": 2013,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10272",
+      "CBG-DE-10353",
+      "CBG-DE-10350",
+      "CBG-DE-10284",
+      "CBG-DE-10005"
+    ]
+  },
+  {
+    "id": "CBG-DE-10357",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1414,
+    "y": 38.6429,
+    "infraWeight": 0.953241343762131,
+    "population": 1772,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10318",
+      "CBG-DE-10366",
+      "CBG-DE-10004",
+      "CBG-DE-10131",
+      "CBG-DE-10367"
+    ]
+  },
+  {
+    "id": "CBG-DE-10358",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.39,
+    "y": 38.595,
+    "infraWeight": 0.9672892366821106,
+    "population": 1619,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10198",
+      "CBG-DE-10307",
+      "CBG-DE-10011",
+      "CBG-DE-10262",
+      "CBG-DE-10329"
+    ]
+  },
+  {
+    "id": "CBG-DE-10359",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6671,
+    "y": 38.5757,
+    "infraWeight": 0.9253087051755946,
+    "population": 1619,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10239",
+      "CBG-DE-10192",
+      "CBG-DE-10450",
+      "CBG-DE-10144",
+      "CBG-DE-10431"
+    ]
+  },
+  {
+    "id": "CBG-DE-10360",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6479,
+    "y": 39.5698,
+    "infraWeight": 1.011722533965065,
+    "population": 1751,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10347",
+      "CBG-DE-10215",
+      "CBG-DE-10245",
+      "CBG-DE-10396",
+      "CBG-DE-10002"
+    ]
+  },
+  {
+    "id": "CBG-DE-10361",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2769,
+    "y": 39.6453,
+    "infraWeight": 0.9868473894627919,
+    "population": 1620,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10435",
+      "CBG-DE-10134",
+      "CBG-DE-10381",
+      "CBG-DE-10438",
+      "CBG-DE-10021"
+    ]
+  },
+  {
+    "id": "CBG-DE-10362",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5834,
+    "y": 39.6548,
+    "infraWeight": 0.9767706586611558,
+    "population": 1854,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10385",
+      "CBG-DE-10024",
+      "CBG-DE-10009",
+      "CBG-DE-10213",
+      "CBG-DE-10199"
+    ]
+  },
+  {
+    "id": "CBG-DE-10363",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1273,
+    "y": 38.5696,
+    "infraWeight": 0.9118627695282999,
+    "population": 1843,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10111",
+      "CBG-DE-10432",
+      "CBG-DE-10131",
+      "CBG-DE-10004",
+      "CBG-DE-10101"
+    ]
+  },
+  {
+    "id": "CBG-DE-10364",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4332,
+    "y": 38.7927,
+    "infraWeight": 1.1090188583363978,
+    "population": 2008,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10440",
+      "CBG-DE-10524",
+      "CBG-DE-10117",
+      "CBG-DE-10107",
+      "CBG-DE-10249"
+    ]
+  },
+  {
+    "id": "CBG-DE-10365",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1018,
+    "y": 39.4537,
+    "infraWeight": 1.0398928845859494,
+    "population": 1951,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10248",
+      "CBG-DE-10105",
+      "CBG-DE-10482",
+      "CBG-DE-10084",
+      "CBG-DE-10038"
+    ]
+  },
+  {
+    "id": "CBG-DE-10366",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1812,
+    "y": 38.6436,
+    "infraWeight": 0.9647188619437551,
+    "population": 2055,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10465",
+      "CBG-DE-10508",
+      "CBG-DE-10357",
+      "CBG-DE-10367",
+      "CBG-DE-10165"
+    ]
+  },
+  {
+    "id": "CBG-DE-10367",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1892,
+    "y": 38.589,
+    "infraWeight": 0.9366003981315363,
+    "population": 2026,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10089",
+      "CBG-DE-10165",
+      "CBG-DE-10101",
+      "CBG-DE-10501",
+      "CBG-DE-10508"
+    ]
+  },
+  {
+    "id": "CBG-DE-10368",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1766,
+    "y": 38.5059,
+    "infraWeight": 0.8910449605100041,
+    "population": 1612,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10006",
+      "CBG-DE-10118",
+      "CBG-DE-10062",
+      "CBG-DE-10340",
+      "CBG-DE-10101"
+    ]
+  },
+  {
+    "id": "CBG-DE-10369",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5987,
+    "y": 38.9264,
+    "infraWeight": 1.1690745384562726,
+    "population": 1920,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10216",
+      "CBG-DE-10376",
+      "CBG-DE-10277",
+      "CBG-DE-10420",
+      "CBG-DE-10041"
+    ]
+  },
+  {
+    "id": "CBG-DE-10370",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7681,
+    "y": 39.7819,
+    "infraWeight": 0.8688777957840065,
+    "population": 1449,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10070",
+      "CBG-DE-10086",
+      "CBG-DE-10097",
+      "CBG-DE-10309",
+      "CBG-DE-10047"
+    ]
+  },
+  {
+    "id": "CBG-DE-10371",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1639,
+    "y": 38.9541,
+    "infraWeight": 1.137652329764243,
+    "population": 1928,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10210",
+      "CBG-DE-10113",
+      "CBG-DE-10191",
+      "CBG-DE-10500",
+      "CBG-DE-10316"
+    ]
+  },
+  {
+    "id": "CBG-DE-10372",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1153,
+    "y": 38.4692,
+    "infraWeight": 0.8616687397050342,
+    "population": 1859,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10044",
+      "CBG-DE-10457",
+      "CBG-DE-10253",
+      "CBG-DE-10411",
+      "CBG-DE-10062"
+    ]
+  },
+  {
+    "id": "CBG-DE-10373",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2119,
+    "y": 39.6012,
+    "infraWeight": 0.999347654118967,
+    "population": 1876,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10324",
+      "CBG-DE-10079",
+      "CBG-DE-10410",
+      "CBG-DE-10389",
+      "CBG-DE-10491"
+    ]
+  },
+  {
+    "id": "CBG-DE-10374",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4266,
+    "y": 39.0087,
+    "infraWeight": 1.319823910640659,
+    "population": 2525,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10164",
+      "CBG-DE-10509",
+      "CBG-DE-10209",
+      "CBG-DE-10256",
+      "CBG-DE-10275"
+    ]
+  },
+  {
+    "id": "CBG-DE-10375",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.768,
+    "y": 39.291,
+    "infraWeight": 1.0881210106630805,
+    "population": 2107,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10193",
+      "CBG-DE-10057",
+      "CBG-DE-10048",
+      "CBG-DE-10473",
+      "CBG-DE-10246"
+    ]
+  },
+  {
+    "id": "CBG-DE-10376",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6188,
+    "y": 38.9239,
+    "infraWeight": 1.1554906608247206,
+    "population": 2481,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10041",
+      "CBG-DE-10369",
+      "CBG-DE-10180",
+      "CBG-DE-10060",
+      "CBG-DE-10277"
+    ]
+  },
+  {
+    "id": "CBG-DE-10377",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7655,
+    "y": 38.6002,
+    "infraWeight": 0.9114247826878686,
+    "population": 1535,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10461",
+      "CBG-DE-10326",
+      "CBG-DE-10400",
+      "CBG-DE-10431",
+      "CBG-DE-10299"
+    ]
+  },
+  {
+    "id": "CBG-DE-10378",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1301,
+    "y": 38.7815,
+    "infraWeight": 1.0244371833518084,
+    "population": 2182,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10254",
+      "CBG-DE-10313",
+      "CBG-DE-10428",
+      "CBG-DE-10104",
+      "CBG-DE-10295"
+    ]
+  },
+  {
+    "id": "CBG-DE-10379",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.234,
+    "y": 39.8188,
+    "infraWeight": 0.8830420244613303,
+    "population": 1799,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10279",
+      "CBG-DE-10462",
+      "CBG-DE-10223",
+      "CBG-DE-10425",
+      "CBG-DE-10264"
+    ]
+  },
+  {
+    "id": "CBG-DE-10380",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4433,
+    "y": 39.076,
+    "infraWeight": 1.3976329048485774,
+    "population": 2852,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10346",
+      "CBG-DE-10460",
+      "CBG-DE-10275",
+      "CBG-DE-10443",
+      "CBG-DE-10390"
+    ]
+  },
+  {
+    "id": "CBG-DE-10381",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2776,
+    "y": 39.6163,
+    "infraWeight": 1.0053379128756097,
+    "population": 2169,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10435",
+      "CBG-DE-10134",
+      "CBG-DE-10021",
+      "CBG-DE-10361",
+      "CBG-DE-10123"
+    ]
+  },
+  {
+    "id": "CBG-DE-10382",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3625,
+    "y": 39.1823,
+    "infraWeight": 1.4050574821734565,
+    "population": 2369,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10026",
+      "CBG-DE-10207",
+      "CBG-DE-10343",
+      "CBG-DE-10267",
+      "CBG-DE-10071"
+    ]
+  },
+  {
+    "id": "CBG-DE-10383",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2328,
+    "y": 39.6852,
+    "infraWeight": 0.9546040611834827,
+    "population": 1579,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10483",
+      "CBG-DE-10251",
+      "CBG-DE-10407",
+      "CBG-DE-10438",
+      "CBG-DE-10161"
+    ]
+  },
+  {
+    "id": "CBG-DE-10384",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4351,
+    "y": 39.3521,
+    "infraWeight": 1.241958636058093,
+    "population": 2550,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10217",
+      "CBG-DE-10115",
+      "CBG-DE-10268",
+      "CBG-DE-10393",
+      "CBG-DE-10280"
+    ]
+  },
+  {
+    "id": "CBG-DE-10385",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5856,
+    "y": 39.6586,
+    "infraWeight": 0.9740337670113096,
+    "population": 1704,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10362",
+      "CBG-DE-10024",
+      "CBG-DE-10009",
+      "CBG-DE-10199",
+      "CBG-DE-10213"
+    ]
+  },
+  {
+    "id": "CBG-DE-10386",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3133,
+    "y": 39.0141,
+    "infraWeight": 1.2841735739006275,
+    "population": 2699,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10352",
+      "CBG-DE-10149",
+      "CBG-DE-10230",
+      "CBG-DE-10291",
+      "CBG-DE-10179"
+    ]
+  },
+  {
+    "id": "CBG-DE-10387",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0857,
+    "y": 38.9286,
+    "infraWeight": 1.07358534152443,
+    "population": 1720,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10073",
+      "CBG-DE-10463",
+      "CBG-DE-10285",
+      "CBG-DE-10500",
+      "CBG-DE-10015"
+    ]
+  },
+  {
+    "id": "CBG-DE-10388",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.47,
+    "y": 39.2951,
+    "infraWeight": 1.2946643347922704,
+    "population": 2493,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10204",
+      "CBG-DE-10178",
+      "CBG-DE-10016",
+      "CBG-DE-10214",
+      "CBG-DE-10126"
+    ]
+  },
+  {
+    "id": "CBG-DE-10389",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2498,
+    "y": 39.5845,
+    "infraWeight": 1.019827013907758,
+    "population": 1651,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10410",
+      "CBG-DE-10491",
+      "CBG-DE-10079",
+      "CBG-DE-10021",
+      "CBG-DE-10123"
+    ]
+  },
+  {
+    "id": "CBG-DE-10390",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4804,
+    "y": 39.0298,
+    "infraWeight": 1.3267278172399255,
+    "population": 2158,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10270",
+      "CBG-DE-10275",
+      "CBG-DE-10481",
+      "CBG-DE-10164",
+      "CBG-DE-10374"
+    ]
+  },
+  {
+    "id": "CBG-DE-10391",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.379,
+    "y": 39.8044,
+    "infraWeight": 0.9032822874019133,
+    "population": 1630,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10327",
+      "CBG-DE-10332",
+      "CBG-DE-10081",
+      "CBG-DE-10392",
+      "CBG-DE-10260"
+    ]
+  },
+  {
+    "id": "CBG-DE-10392",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3506,
+    "y": 39.7911,
+    "infraWeight": 0.9092512599102802,
+    "population": 1560,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10391",
+      "CBG-DE-10442",
+      "CBG-DE-10151",
+      "CBG-DE-10327",
+      "CBG-DE-10098"
+    ]
+  },
+  {
+    "id": "CBG-DE-10393",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3976,
+    "y": 39.38,
+    "infraWeight": 1.213679613575167,
+    "population": 2483,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10217",
+      "CBG-DE-10232",
+      "CBG-DE-10115",
+      "CBG-DE-10108",
+      "CBG-DE-10384"
+    ]
+  },
+  {
+    "id": "CBG-DE-10394",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3648,
+    "y": 39.4148,
+    "infraWeight": 1.1763152372876682,
+    "population": 2063,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10232",
+      "CBG-DE-10108",
+      "CBG-DE-10437",
+      "CBG-DE-10469",
+      "CBG-DE-10188"
+    ]
+  },
+  {
+    "id": "CBG-DE-10395",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5209,
+    "y": 39.5827,
+    "infraWeight": 1.034867955076423,
+    "population": 1720,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10278",
+      "CBG-DE-10054",
+      "CBG-DE-10012",
+      "CBG-DE-10315",
+      "CBG-DE-10130"
+    ]
+  },
+  {
+    "id": "CBG-DE-10396",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6333,
+    "y": 39.5308,
+    "infraWeight": 1.040621057649881,
+    "population": 1682,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10513",
+      "CBG-DE-10032",
+      "CBG-DE-10245",
+      "CBG-DE-10215",
+      "CBG-DE-10360"
+    ]
+  },
+  {
+    "id": "CBG-DE-10397",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.427,
+    "y": 38.7126,
+    "infraWeight": 1.0471611808171044,
+    "population": 1935,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10458",
+      "CBG-DE-10218",
+      "CBG-DE-10065",
+      "CBG-DE-10000",
+      "CBG-DE-10459"
+    ]
+  },
+  {
+    "id": "CBG-DE-10398",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4018,
+    "y": 38.8453,
+    "infraWeight": 1.153696991636994,
+    "population": 2219,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10444",
+      "CBG-DE-10439",
+      "CBG-DE-10077",
+      "CBG-DE-10107",
+      "CBG-DE-10141"
+    ]
+  },
+  {
+    "id": "CBG-DE-10399",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7388,
+    "y": 38.9853,
+    "infraWeight": 1.104881432791974,
+    "population": 2031,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10122",
+      "CBG-DE-10261",
+      "CBG-DE-10475",
+      "CBG-DE-10418",
+      "CBG-DE-10007"
+    ]
+  },
+  {
+    "id": "CBG-DE-10400",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7289,
+    "y": 38.6182,
+    "infraWeight": 0.9309512780862456,
+    "population": 1665,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10461",
+      "CBG-DE-10377",
+      "CBG-DE-10144",
+      "CBG-DE-10297",
+      "CBG-DE-10521"
+    ]
+  },
+  {
+    "id": "CBG-DE-10401",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3037,
+    "y": 38.5271,
+    "infraWeight": 0.9211081001687927,
+    "population": 1518,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10415",
+      "CBG-DE-10094",
+      "CBG-DE-10339",
+      "CBG-DE-10517",
+      "CBG-DE-10306"
+    ]
+  },
+  {
+    "id": "CBG-DE-10402",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6224,
+    "y": 39.812,
+    "infraWeight": 0.8836942049850084,
+    "population": 1881,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10288",
+      "CBG-DE-10177",
+      "CBG-DE-10120",
+      "CBG-DE-10235",
+      "CBG-DE-10224"
+    ]
+  },
+  {
+    "id": "CBG-DE-10403",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7542,
+    "y": 39.436,
+    "infraWeight": 1.0387285180074781,
+    "population": 1775,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10040",
+      "CBG-DE-10511",
+      "CBG-DE-10078",
+      "CBG-DE-10351",
+      "CBG-DE-10312"
+    ]
+  },
+  {
+    "id": "CBG-DE-10404",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1342,
+    "y": 39.7374,
+    "infraWeight": 0.9051652920466883,
+    "population": 1844,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10127",
+      "CBG-DE-10292",
+      "CBG-DE-10183",
+      "CBG-DE-10182",
+      "CBG-DE-10250"
+    ]
+  },
+  {
+    "id": "CBG-DE-10405",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0739,
+    "y": 38.7516,
+    "infraWeight": 0.9847972762350589,
+    "population": 1838,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10455",
+      "CBG-DE-10104",
+      "CBG-DE-10428",
+      "CBG-DE-10313",
+      "CBG-DE-10254"
+    ]
+  },
+  {
+    "id": "CBG-DE-10406",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4814,
+    "y": 38.664,
+    "infraWeight": 1.0100746398292644,
+    "population": 2135,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10448",
+      "CBG-DE-10000",
+      "CBG-DE-10065",
+      "CBG-DE-10244",
+      "CBG-DE-10397"
+    ]
+  },
+  {
+    "id": "CBG-DE-10407",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2741,
+    "y": 39.7059,
+    "infraWeight": 0.9498151247110302,
+    "population": 1664,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10161",
+      "CBG-DE-10438",
+      "CBG-DE-10383",
+      "CBG-DE-10426",
+      "CBG-DE-10361"
+    ]
+  },
+  {
+    "id": "CBG-DE-10408",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7262,
+    "y": 39.2002,
+    "infraWeight": 1.1429764467500647,
+    "population": 1865,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10030",
+      "CBG-DE-10246",
+      "CBG-DE-10243",
+      "CBG-DE-10048",
+      "CBG-DE-10480"
+    ]
+  },
+  {
+    "id": "CBG-DE-10409",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1374,
+    "y": 39.5298,
+    "infraWeight": 1.0157637156539656,
+    "population": 1757,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10502",
+      "CBG-DE-10289",
+      "CBG-DE-10103",
+      "CBG-DE-10091",
+      "CBG-DE-10482"
+    ]
+  },
+  {
+    "id": "CBG-DE-10410",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2372,
+    "y": 39.576,
+    "infraWeight": 1.0219763792004999,
+    "population": 1825,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10491",
+      "CBG-DE-10079",
+      "CBG-DE-10389",
+      "CBG-DE-10069",
+      "CBG-DE-10373"
+    ]
+  },
+  {
+    "id": "CBG-DE-10411",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1255,
+    "y": 38.5089,
+    "infraWeight": 0.8821008782441457,
+    "population": 1840,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10118",
+      "CBG-DE-10253",
+      "CBG-DE-10432",
+      "CBG-DE-10372",
+      "CBG-DE-10006"
+    ]
+  },
+  {
+    "id": "CBG-DE-10412",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4821,
+    "y": 38.476,
+    "infraWeight": 0.8971299957122814,
+    "population": 1508,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10028",
+      "CBG-DE-10329",
+      "CBG-DE-10485",
+      "CBG-DE-10322",
+      "CBG-DE-10333"
+    ]
+  },
+  {
+    "id": "CBG-DE-10413",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4495,
+    "y": 38.8748,
+    "infraWeight": 1.1792917704019674,
+    "population": 2153,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10323",
+      "CBG-DE-10249",
+      "CBG-DE-10141",
+      "CBG-DE-10077",
+      "CBG-DE-10398"
+    ]
+  },
+  {
+    "id": "CBG-DE-10414",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2043,
+    "y": 39.1158,
+    "infraWeight": 1.2330510546997058,
+    "population": 2617,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10128",
+      "CBG-DE-10138",
+      "CBG-DE-10140",
+      "CBG-DE-10225",
+      "CBG-DE-10176"
+    ]
+  },
+  {
+    "id": "CBG-DE-10415",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2768,
+    "y": 38.5226,
+    "infraWeight": 0.915529202305385,
+    "population": 1936,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10339",
+      "CBG-DE-10401",
+      "CBG-DE-10094",
+      "CBG-DE-10517",
+      "CBG-DE-10300"
+    ]
+  },
+  {
+    "id": "CBG-DE-10416",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6285,
+    "y": 39.7133,
+    "infraWeight": 0.9341164902958297,
+    "population": 1707,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10224",
+      "CBG-DE-10163",
+      "CBG-DE-10436",
+      "CBG-DE-10050",
+      "CBG-DE-10235"
+    ]
+  },
+  {
+    "id": "CBG-DE-10417",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6181,
+    "y": 38.5198,
+    "infraWeight": 0.9056932775139336,
+    "population": 1935,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10206",
+      "CBG-DE-10076",
+      "CBG-DE-10020",
+      "CBG-DE-10058",
+      "CBG-DE-10037"
+    ]
+  },
+  {
+    "id": "CBG-DE-10418",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.719,
+    "y": 38.967,
+    "infraWeight": 1.1119176322073943,
+    "population": 2198,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10261",
+      "CBG-DE-10399",
+      "CBG-DE-10122",
+      "CBG-DE-10475",
+      "CBG-DE-10096"
+    ]
+  },
+  {
+    "id": "CBG-DE-10419",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2404,
+    "y": 38.8522,
+    "infraWeight": 1.1170174363254717,
+    "population": 1854,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10033",
+      "CBG-DE-10494",
+      "CBG-DE-10014",
+      "CBG-DE-10305",
+      "CBG-DE-10303"
+    ]
+  },
+  {
+    "id": "CBG-DE-10420",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5761,
+    "y": 38.9274,
+    "infraWeight": 1.1825295389248542,
+    "population": 2458,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10216",
+      "CBG-DE-10277",
+      "CBG-DE-10369",
+      "CBG-DE-10293",
+      "CBG-DE-10137"
+    ]
+  },
+  {
+    "id": "CBG-DE-10421",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5995,
+    "y": 39.3603,
+    "infraWeight": 1.1708940927833396,
+    "population": 2196,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10226",
+      "CBG-DE-10063",
+      "CBG-DE-10160",
+      "CBG-DE-10429",
+      "CBG-DE-10003"
+    ]
+  },
+  {
+    "id": "CBG-DE-10422",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5356,
+    "y": 38.8538,
+    "infraWeight": 1.1417814993967605,
+    "population": 2072,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10064",
+      "CBG-DE-10088",
+      "CBG-DE-10314",
+      "CBG-DE-10035",
+      "CBG-DE-10137"
+    ]
+  },
+  {
+    "id": "CBG-DE-10423",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2646,
+    "y": 39.0683,
+    "infraWeight": 1.2795918945134006,
+    "population": 2116,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10225",
+      "CBG-DE-10179",
+      "CBG-DE-10138",
+      "CBG-DE-10042",
+      "CBG-DE-10522"
+    ]
+  },
+  {
+    "id": "CBG-DE-10424",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.51,
+    "y": 39.457,
+    "infraWeight": 1.1320635914116257,
+    "population": 2044,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10269",
+      "CBG-DE-10167",
+      "CBG-DE-10039",
+      "CBG-DE-10052",
+      "CBG-DE-10467"
+    ]
+  },
+  {
+    "id": "CBG-DE-10425",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2706,
+    "y": 39.78,
+    "infraWeight": 0.9079522348261405,
+    "population": 1589,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10223",
+      "CBG-DE-10426",
+      "CBG-DE-10505",
+      "CBG-DE-10264",
+      "CBG-DE-10379"
+    ]
+  },
+  {
+    "id": "CBG-DE-10426",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2999,
+    "y": 39.7519,
+    "infraWeight": 0.9268232241112669,
+    "population": 1880,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10505",
+      "CBG-DE-10161",
+      "CBG-DE-10425",
+      "CBG-DE-10223",
+      "CBG-DE-10407"
+    ]
+  },
+  {
+    "id": "CBG-DE-10427",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1965,
+    "y": 39.4278,
+    "infraWeight": 1.1031786870118818,
+    "population": 2223,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10454",
+      "CBG-DE-10259",
+      "CBG-DE-10263",
+      "CBG-DE-10027",
+      "CBG-DE-10106"
+    ]
+  },
+  {
+    "id": "CBG-DE-10428",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1107,
+    "y": 38.7561,
+    "infraWeight": 1.002550738552974,
+    "population": 1778,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10104",
+      "CBG-DE-10254",
+      "CBG-DE-10455",
+      "CBG-DE-10313",
+      "CBG-DE-10378"
+    ]
+  },
+  {
+    "id": "CBG-DE-10429",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6251,
+    "y": 39.2968,
+    "infraWeight": 1.1941148802810215,
+    "population": 2445,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10001",
+      "CBG-DE-10169",
+      "CBG-DE-10464",
+      "CBG-DE-10063",
+      "CBG-DE-10160"
+    ]
+  },
+  {
+    "id": "CBG-DE-10430",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1959,
+    "y": 39.2026,
+    "infraWeight": 1.2193011174469846,
+    "population": 2360,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10140",
+      "CBG-DE-10168",
+      "CBG-DE-10128",
+      "CBG-DE-10227",
+      "CBG-DE-10466"
+    ]
+  },
+  {
+    "id": "CBG-DE-10431",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7056,
+    "y": 38.5586,
+    "infraWeight": 0.9075645474568278,
+    "population": 1656,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10359",
+      "CBG-DE-10450",
+      "CBG-DE-10239",
+      "CBG-DE-10192",
+      "CBG-DE-10144"
+    ]
+  },
+  {
+    "id": "CBG-DE-10432",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1259,
+    "y": 38.5494,
+    "infraWeight": 0.9015646478424313,
+    "population": 1602,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10111",
+      "CBG-DE-10363",
+      "CBG-DE-10118",
+      "CBG-DE-10411",
+      "CBG-DE-10101"
+    ]
+  },
+  {
+    "id": "CBG-DE-10433",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7577,
+    "y": 39.6184,
+    "infraWeight": 0.9480235865860843,
+    "population": 1829,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10276",
+      "CBG-DE-10139",
+      "CBG-DE-10257",
+      "CBG-DE-10510",
+      "CBG-DE-10095"
+    ]
+  },
+  {
+    "id": "CBG-DE-10434",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5717,
+    "y": 39.0158,
+    "infraWeight": 1.2497948725097312,
+    "population": 2641,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10328",
+      "CBG-DE-10296",
+      "CBG-DE-10202",
+      "CBG-DE-10277",
+      "CBG-DE-10148"
+    ]
+  },
+  {
+    "id": "CBG-DE-10435",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.277,
+    "y": 39.6294,
+    "infraWeight": 0.9968425646725979,
+    "population": 1673,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10381",
+      "CBG-DE-10134",
+      "CBG-DE-10361",
+      "CBG-DE-10021",
+      "CBG-DE-10445"
+    ]
+  },
+  {
+    "id": "CBG-DE-10436",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6053,
+    "y": 39.687,
+    "infraWeight": 0.9535069979104329,
+    "population": 1976,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10224",
+      "CBG-DE-10385",
+      "CBG-DE-10416",
+      "CBG-DE-10199",
+      "CBG-DE-10009"
+    ]
+  },
+  {
+    "id": "CBG-DE-10437",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3957,
+    "y": 39.4345,
+    "infraWeight": 1.162431349512191,
+    "population": 2318,
+    "microDistrictId": "DE-MD-5",
+    "neighbors": [
+      "CBG-DE-10188",
+      "CBG-DE-10108",
+      "CBG-DE-10185",
+      "CBG-DE-10232",
+      "CBG-DE-10053"
+    ]
+  },
+  {
+    "id": "CBG-DE-10438",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2839,
+    "y": 39.6807,
+    "infraWeight": 0.9662464929604416,
+    "population": 1969,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10407",
+      "CBG-DE-10361",
+      "CBG-DE-10161",
+      "CBG-DE-10383",
+      "CBG-DE-10435"
+    ]
+  },
+  {
+    "id": "CBG-DE-10439",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3723,
+    "y": 38.8205,
+    "infraWeight": 1.1296539497458717,
+    "population": 2281,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10107",
+      "CBG-DE-10398",
+      "CBG-DE-10444",
+      "CBG-DE-10031",
+      "CBG-DE-10364"
+    ]
+  },
+  {
+    "id": "CBG-DE-10440",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4465,
+    "y": 38.8143,
+    "infraWeight": 1.1262628671598582,
+    "population": 1926,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10364",
+      "CBG-DE-10249",
+      "CBG-DE-10524",
+      "CBG-DE-10323",
+      "CBG-DE-10117"
+    ]
+  },
+  {
+    "id": "CBG-DE-10441",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2384,
+    "y": 38.616,
+    "infraWeight": 0.9622309096536619,
+    "population": 1916,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10093",
+      "CBG-DE-10165",
+      "CBG-DE-10501",
+      "CBG-DE-10508",
+      "CBG-DE-10465"
+    ]
+  },
+  {
+    "id": "CBG-DE-10442",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3652,
+    "y": 39.7562,
+    "infraWeight": 0.9296228779112292,
+    "population": 1909,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10098",
+      "CBG-DE-10074",
+      "CBG-DE-10392",
+      "CBG-DE-10231",
+      "CBG-DE-10260"
+    ]
+  },
+  {
+    "id": "CBG-DE-10443",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4094,
+    "y": 39.092,
+    "infraWeight": 1.4234182592781603,
+    "population": 2467,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10066",
+      "CBG-DE-10493",
+      "CBG-DE-10380",
+      "CBG-DE-10346",
+      "CBG-DE-10460"
+    ]
+  },
+  {
+    "id": "CBG-DE-10444",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3875,
+    "y": 38.8767,
+    "infraWeight": 1.1810270055251377,
+    "population": 2248,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10077",
+      "CBG-DE-10141",
+      "CBG-DE-10354",
+      "CBG-DE-10398",
+      "CBG-DE-10499"
+    ]
+  },
+  {
+    "id": "CBG-DE-10445",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3277,
+    "y": 39.6332,
+    "infraWeight": 1.002281023760228,
+    "population": 1794,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10335",
+      "CBG-DE-10478",
+      "CBG-DE-10090",
+      "CBG-DE-10134",
+      "CBG-DE-10059"
+    ]
+  },
+  {
+    "id": "CBG-DE-10446",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5792,
+    "y": 39.5115,
+    "infraWeight": 1.0714017901027408,
+    "population": 1753,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10203",
+      "CBG-DE-10506",
+      "CBG-DE-10513",
+      "CBG-DE-10336",
+      "CBG-DE-10052"
+    ]
+  },
+  {
+    "id": "CBG-DE-10447",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5526,
+    "y": 39.1724,
+    "infraWeight": 1.3197178566683798,
+    "population": 2594,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10153",
+      "CBG-DE-10330",
+      "CBG-DE-10498",
+      "CBG-DE-10331",
+      "CBG-DE-10496"
+    ]
+  },
+  {
+    "id": "CBG-DE-10448",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.484,
+    "y": 38.666,
+    "infraWeight": 1.0112071991942777,
+    "population": 2047,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10406",
+      "CBG-DE-10000",
+      "CBG-DE-10065",
+      "CBG-DE-10244",
+      "CBG-DE-10397"
+    ]
+  },
+  {
+    "id": "CBG-DE-10449",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7531,
+    "y": 38.7103,
+    "infraWeight": 0.968722269773374,
+    "population": 1908,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10186",
+      "CBG-DE-10110",
+      "CBG-DE-10310",
+      "CBG-DE-10109",
+      "CBG-DE-10299"
+    ]
+  },
+  {
+    "id": "CBG-DE-10450",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6551,
+    "y": 38.5513,
+    "infraWeight": 0.9152128651118967,
+    "population": 1822,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10239",
+      "CBG-DE-10359",
+      "CBG-DE-10192",
+      "CBG-DE-10417",
+      "CBG-DE-10431"
+    ]
+  },
+  {
+    "id": "CBG-DE-10451",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1248,
+    "y": 39.6024,
+    "infraWeight": 0.9716917979319185,
+    "population": 1932,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10085",
+      "CBG-DE-10237",
+      "CBG-DE-10523",
+      "CBG-DE-10194",
+      "CBG-DE-10502"
+    ]
+  },
+  {
+    "id": "CBG-DE-10452",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5686,
+    "y": 39.7185,
+    "infraWeight": 0.941767450260445,
+    "population": 1924,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10476",
+      "CBG-DE-10050",
+      "CBG-DE-10235",
+      "CBG-DE-10224",
+      "CBG-DE-10436"
+    ]
+  },
+  {
+    "id": "CBG-DE-10453",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.212,
+    "y": 39.5273,
+    "infraWeight": 1.0455593166761126,
+    "population": 1986,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10281",
+      "CBG-DE-10069",
+      "CBG-DE-10079",
+      "CBG-DE-10491",
+      "CBG-DE-10410"
+    ]
+  },
+  {
+    "id": "CBG-DE-10454",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2022,
+    "y": 39.4091,
+    "infraWeight": 1.1180968255607062,
+    "population": 2228,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10427",
+      "CBG-DE-10263",
+      "CBG-DE-10259",
+      "CBG-DE-10155",
+      "CBG-DE-10504"
+    ]
+  },
+  {
+    "id": "CBG-DE-10455",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0894,
+    "y": 38.7499,
+    "infraWeight": 0.9905121483754996,
+    "population": 1914,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10405",
+      "CBG-DE-10104",
+      "CBG-DE-10428",
+      "CBG-DE-10313",
+      "CBG-DE-10254"
+    ]
+  },
+  {
+    "id": "CBG-DE-10456",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1227,
+    "y": 39.1917,
+    "infraWeight": 1.1540178472861977,
+    "population": 1869,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10168",
+      "CBG-DE-10238",
+      "CBG-DE-10490",
+      "CBG-DE-10233",
+      "CBG-DE-10466"
+    ]
+  },
+  {
+    "id": "CBG-DE-10457",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1345,
+    "y": 38.4573,
+    "infraWeight": 0.8600156476845278,
+    "population": 1403,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10044",
+      "CBG-DE-10372",
+      "CBG-DE-10062",
+      "CBG-DE-10411",
+      "CBG-DE-10253"
+    ]
+  },
+  {
+    "id": "CBG-DE-10458",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4179,
+    "y": 38.7245,
+    "infraWeight": 1.0559439611394952,
+    "population": 2130,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10397",
+      "CBG-DE-10218",
+      "CBG-DE-10459",
+      "CBG-DE-10031",
+      "CBG-DE-10065"
+    ]
+  },
+  {
+    "id": "CBG-DE-10459",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3641,
+    "y": 38.7283,
+    "infraWeight": 1.0561422728947993,
+    "population": 1973,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10218",
+      "CBG-DE-10031",
+      "CBG-DE-10189",
+      "CBG-DE-10221",
+      "CBG-DE-10208"
+    ]
+  },
+  {
+    "id": "CBG-DE-10460",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4518,
+    "y": 39.1037,
+    "infraWeight": 1.4246800530127142,
+    "population": 2536,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10346",
+      "CBG-DE-10380",
+      "CBG-DE-10443",
+      "CBG-DE-10275",
+      "CBG-DE-10341"
+    ]
+  },
+  {
+    "id": "CBG-DE-10461",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7669,
+    "y": 38.618,
+    "infraWeight": 0.919372630151656,
+    "population": 1665,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10377",
+      "CBG-DE-10326",
+      "CBG-DE-10400",
+      "CBG-DE-10299",
+      "CBG-DE-10109"
+    ]
+  },
+  {
+    "id": "CBG-DE-10462",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2356,
+    "y": 39.8324,
+    "infraWeight": 0.8764720169542829,
+    "population": 1481,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10279",
+      "CBG-DE-10379",
+      "CBG-DE-10223",
+      "CBG-DE-10425",
+      "CBG-DE-10264"
+    ]
+  },
+  {
+    "id": "CBG-DE-10463",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0642,
+    "y": 38.9552,
+    "infraWeight": 1.0697216316510998,
+    "population": 1796,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10073",
+      "CBG-DE-10015",
+      "CBG-DE-10387",
+      "CBG-DE-10285",
+      "CBG-DE-10500"
+    ]
+  },
+  {
+    "id": "CBG-DE-10464",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5965,
+    "y": 39.2716,
+    "infraWeight": 1.231337639881453,
+    "population": 2630,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10001",
+      "CBG-DE-10429",
+      "CBG-DE-10171",
+      "CBG-DE-10187",
+      "CBG-DE-10063"
+    ]
+  },
+  {
+    "id": "CBG-DE-10465",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2156,
+    "y": 38.6441,
+    "infraWeight": 0.9736951773680471,
+    "population": 1899,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10508",
+      "CBG-DE-10093",
+      "CBG-DE-10366",
+      "CBG-DE-10441",
+      "CBG-DE-10165"
+    ]
+  },
+  {
+    "id": "CBG-DE-10466",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1424,
+    "y": 39.2525,
+    "infraWeight": 1.1568868563882952,
+    "population": 2480,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10168",
+      "CBG-DE-10515",
+      "CBG-DE-10490",
+      "CBG-DE-10456",
+      "CBG-DE-10099"
+    ]
+  },
+  {
+    "id": "CBG-DE-10467",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5068,
+    "y": 39.497,
+    "infraWeight": 1.1006398229506384,
+    "population": 1927,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10269",
+      "CBG-DE-10116",
+      "CBG-DE-10052",
+      "CBG-DE-10424",
+      "CBG-DE-10147"
+    ]
+  },
+  {
+    "id": "CBG-DE-10468",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5889,
+    "y": 39.6214,
+    "infraWeight": 0.9961040644354757,
+    "population": 2035,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10213",
+      "CBG-DE-10130",
+      "CBG-DE-10175",
+      "CBG-DE-10362",
+      "CBG-DE-10240"
+    ]
+  },
+  {
+    "id": "CBG-DE-10469",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3404,
+    "y": 39.449,
+    "infraWeight": 1.1416231881595729,
+    "population": 2308,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10518",
+      "CBG-DE-10068",
+      "CBG-DE-10477",
+      "CBG-DE-10394",
+      "CBG-DE-10516"
+    ]
+  },
+  {
+    "id": "CBG-DE-10470",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6845,
+    "y": 39.5165,
+    "infraWeight": 1.029674679916244,
+    "population": 2192,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10228",
+      "CBG-DE-10032",
+      "CBG-DE-10008",
+      "CBG-DE-10312",
+      "CBG-DE-10258"
+    ]
+  },
+  {
+    "id": "CBG-DE-10471",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1602,
+    "y": 39.3757,
+    "infraWeight": 1.1140049255660562,
+    "population": 1988,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10504",
+      "CBG-DE-10488",
+      "CBG-DE-10344",
+      "CBG-DE-10520",
+      "CBG-DE-10265"
+    ]
+  },
+  {
+    "id": "CBG-DE-10472",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2729,
+    "y": 39.139,
+    "infraWeight": 1.3088259888807106,
+    "population": 2611,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10197",
+      "CBG-DE-10522",
+      "CBG-DE-10173",
+      "CBG-DE-10140",
+      "CBG-DE-10138"
+    ]
+  },
+  {
+    "id": "CBG-DE-10473",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7442,
+    "y": 39.3345,
+    "infraWeight": 1.089642119475553,
+    "population": 1764,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10057",
+      "CBG-DE-10479",
+      "CBG-DE-10266",
+      "CBG-DE-10351",
+      "CBG-DE-10375"
+    ]
+  },
+  {
+    "id": "CBG-DE-10474",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4132,
+    "y": 39.4698,
+    "infraWeight": 1.1321817855138647,
+    "population": 1945,
+    "microDistrictId": "DE-MD-13",
+    "neighbors": [
+      "CBG-DE-10053",
+      "CBG-DE-10185",
+      "CBG-DE-10188",
+      "CBG-DE-10162",
+      "CBG-DE-10437"
+    ]
+  },
+  {
+    "id": "CBG-DE-10475",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7634,
+    "y": 38.9924,
+    "infraWeight": 1.0893939457569448,
+    "population": 2109,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10007",
+      "CBG-DE-10271",
+      "CBG-DE-10399",
+      "CBG-DE-10122",
+      "CBG-DE-10261"
+    ]
+  },
+  {
+    "id": "CBG-DE-10476",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5592,
+    "y": 39.7082,
+    "infraWeight": 0.9490949446692408,
+    "population": 1976,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10452",
+      "CBG-DE-10050",
+      "CBG-DE-10235",
+      "CBG-DE-10009",
+      "CBG-DE-10436"
+    ]
+  },
+  {
+    "id": "CBG-DE-10477",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3147,
+    "y": 39.424,
+    "infraWeight": 1.1558380396471357,
+    "population": 2395,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10068",
+      "CBG-DE-10516",
+      "CBG-DE-10469",
+      "CBG-DE-10102",
+      "CBG-DE-10495"
+    ]
+  },
+  {
+    "id": "CBG-DE-10478",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3462,
+    "y": 39.6477,
+    "infraWeight": 0.994773862452851,
+    "population": 2018,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10090",
+      "CBG-DE-10445",
+      "CBG-DE-10059",
+      "CBG-DE-10335",
+      "CBG-DE-10092"
+    ]
+  },
+  {
+    "id": "CBG-DE-10479",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7357,
+    "y": 39.3629,
+    "infraWeight": 1.0833559215655817,
+    "population": 2322,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10351",
+      "CBG-DE-10473",
+      "CBG-DE-10266",
+      "CBG-DE-10057",
+      "CBG-DE-10040"
+    ]
+  },
+  {
+    "id": "CBG-DE-10480",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6979,
+    "y": 39.1294,
+    "infraWeight": 1.1723444292180776,
+    "population": 2108,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10308",
+      "CBG-DE-10045",
+      "CBG-DE-10489",
+      "CBG-DE-10408",
+      "CBG-DE-10320"
+    ]
+  },
+  {
+    "id": "CBG-DE-10481",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4774,
+    "y": 38.9803,
+    "infraWeight": 1.276782124216471,
+    "population": 2292,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10270",
+      "CBG-DE-10222",
+      "CBG-DE-10136",
+      "CBG-DE-10256",
+      "CBG-DE-10325"
+    ]
+  },
+  {
+    "id": "CBG-DE-10482",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0962,
+    "y": 39.4839,
+    "infraWeight": 1.0218983721908674,
+    "population": 1753,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10365",
+      "CBG-DE-10114",
+      "CBG-DE-10091",
+      "CBG-DE-10248",
+      "CBG-DE-10038"
+    ]
+  },
+  {
+    "id": "CBG-DE-10483",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2162,
+    "y": 39.6633,
+    "infraWeight": 0.9637103934440325,
+    "population": 1801,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10251",
+      "CBG-DE-10383",
+      "CBG-DE-10324",
+      "CBG-DE-10373",
+      "CBG-DE-10361"
+    ]
+  },
+  {
+    "id": "CBG-DE-10484",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4982,
+    "y": 39.8168,
+    "infraWeight": 0.8947417956926703,
+    "population": 1700,
+    "microDistrictId": "DE-MD-24",
+    "neighbors": [
+      "CBG-DE-10282",
+      "CBG-DE-10302",
+      "CBG-DE-10120",
+      "CBG-DE-10081",
+      "CBG-DE-10043"
+    ]
+  },
+  {
+    "id": "CBG-DE-10485",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.561,
+    "y": 38.5143,
+    "infraWeight": 0.9110228128841045,
+    "population": 1778,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10076",
+      "CBG-DE-10058",
+      "CBG-DE-10190",
+      "CBG-DE-10417",
+      "CBG-DE-10206"
+    ]
+  },
+  {
+    "id": "CBG-DE-10486",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5778,
+    "y": 38.7224,
+    "infraWeight": 1.0334189034590813,
+    "population": 1829,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10304",
+      "CBG-DE-10013",
+      "CBG-DE-10080",
+      "CBG-DE-10244",
+      "CBG-DE-10212"
+    ]
+  },
+  {
+    "id": "CBG-DE-10487",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.425,
+    "y": 39.6955,
+    "infraWeight": 0.967436054806883,
+    "population": 1982,
+    "microDistrictId": "DE-MD-23",
+    "neighbors": [
+      "CBG-DE-10334",
+      "CBG-DE-10211",
+      "CBG-DE-10205",
+      "CBG-DE-10043",
+      "CBG-DE-10092"
+    ]
+  },
+  {
+    "id": "CBG-DE-10488",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1415,
+    "y": 39.3834,
+    "infraWeight": 1.0983420790910288,
+    "population": 1795,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10265",
+      "CBG-DE-10471",
+      "CBG-DE-10520",
+      "CBG-DE-10344",
+      "CBG-DE-10504"
+    ]
+  },
+  {
+    "id": "CBG-DE-10489",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6341,
+    "y": 39.1617,
+    "infraWeight": 1.2335752699886577,
+    "population": 2094,
+    "microDistrictId": "DE-MD-7",
+    "neighbors": [
+      "CBG-DE-10125",
+      "CBG-DE-10331",
+      "CBG-DE-10045",
+      "CBG-DE-10171",
+      "CBG-DE-10480"
+    ]
+  },
+  {
+    "id": "CBG-DE-10490",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.0858,
+    "y": 39.2384,
+    "infraWeight": 1.1145354159916439,
+    "population": 1894,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10051",
+      "CBG-DE-10233",
+      "CBG-DE-10466",
+      "CBG-DE-10456",
+      "CBG-DE-10168"
+    ]
+  },
+  {
+    "id": "CBG-DE-10491",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2438,
+    "y": 39.5681,
+    "infraWeight": 1.028866419535027,
+    "population": 1715,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10410",
+      "CBG-DE-10389",
+      "CBG-DE-10079",
+      "CBG-DE-10069",
+      "CBG-DE-10123"
+    ]
+  },
+  {
+    "id": "CBG-DE-10492",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2666,
+    "y": 38.7646,
+    "infraWeight": 1.064060782075315,
+    "population": 1815,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10049",
+      "CBG-DE-10305",
+      "CBG-DE-10145",
+      "CBG-DE-10494",
+      "CBG-DE-10055"
+    ]
+  },
+  {
+    "id": "CBG-DE-10493",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3795,
+    "y": 39.0736,
+    "infraWeight": 1.3869419884298768,
+    "population": 2822,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10066",
+      "CBG-DE-10443",
+      "CBG-DE-10291",
+      "CBG-DE-10230",
+      "CBG-DE-10380"
+    ]
+  },
+  {
+    "id": "CBG-DE-10494",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2798,
+    "y": 38.8173,
+    "infraWeight": 1.1062140552461062,
+    "population": 2128,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10055",
+      "CBG-DE-10305",
+      "CBG-DE-10419",
+      "CBG-DE-10492",
+      "CBG-DE-10049"
+    ]
+  },
+  {
+    "id": "CBG-DE-10495",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2658,
+    "y": 39.4372,
+    "infraWeight": 1.1280028015529733,
+    "population": 2283,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10102",
+      "CBG-DE-10516",
+      "CBG-DE-10155",
+      "CBG-DE-10259",
+      "CBG-DE-10263"
+    ]
+  },
+  {
+    "id": "CBG-DE-10496",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5081,
+    "y": 39.1454,
+    "infraWeight": 1.3770771782108724,
+    "population": 2829,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10355",
+      "CBG-DE-10498",
+      "CBG-DE-10341",
+      "CBG-DE-10447",
+      "CBG-DE-10153"
+    ]
+  },
+  {
+    "id": "CBG-DE-10497",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7005,
+    "y": 38.7936,
+    "infraWeight": 1.0342447254015434,
+    "population": 2058,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10034",
+      "CBG-DE-10132",
+      "CBG-DE-10287",
+      "CBG-DE-10023",
+      "CBG-DE-10507"
+    ]
+  },
+  {
+    "id": "CBG-DE-10498",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5119,
+    "y": 39.1559,
+    "infraWeight": 1.3714755389154387,
+    "population": 2956,
+    "microDistrictId": "DE-MD-1",
+    "neighbors": [
+      "CBG-DE-10496",
+      "CBG-DE-10355",
+      "CBG-DE-10341",
+      "CBG-DE-10447",
+      "CBG-DE-10153"
+    ]
+  },
+  {
+    "id": "CBG-DE-10499",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3778,
+    "y": 38.934,
+    "infraWeight": 1.2345664943079646,
+    "population": 2046,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10283",
+      "CBG-DE-10354",
+      "CBG-DE-10056",
+      "CBG-DE-10129",
+      "CBG-DE-10141"
+    ]
+  },
+  {
+    "id": "CBG-DE-10500",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1145,
+    "y": 38.958,
+    "infraWeight": 1.105274452749276,
+    "population": 2128,
+    "microDistrictId": "DE-MD-8",
+    "neighbors": [
+      "CBG-DE-10285",
+      "CBG-DE-10073",
+      "CBG-DE-10387",
+      "CBG-DE-10371",
+      "CBG-DE-10463"
+    ]
+  },
+  {
+    "id": "CBG-DE-10501",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2304,
+    "y": 38.5986,
+    "infraWeight": 0.9506059914683729,
+    "population": 1778,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10165",
+      "CBG-DE-10093",
+      "CBG-DE-10441",
+      "CBG-DE-10508",
+      "CBG-DE-10367"
+    ]
+  },
+  {
+    "id": "CBG-DE-10502",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1502,
+    "y": 39.5428,
+    "infraWeight": 1.0135235472897282,
+    "population": 1959,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10289",
+      "CBG-DE-10409",
+      "CBG-DE-10103",
+      "CBG-DE-10091",
+      "CBG-DE-10281"
+    ]
+  },
+  {
+    "id": "CBG-DE-10503",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1353,
+    "y": 39.8022,
+    "infraWeight": 0.874247379135883,
+    "population": 1492,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10182",
+      "CBG-DE-10172",
+      "CBG-DE-10127",
+      "CBG-DE-10250",
+      "CBG-DE-10292"
+    ]
+  },
+  {
+    "id": "CBG-DE-10504",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.166,
+    "y": 39.3824,
+    "infraWeight": 1.11375730842721,
+    "population": 2066,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10471",
+      "CBG-DE-10488",
+      "CBG-DE-10265",
+      "CBG-DE-10344",
+      "CBG-DE-10520"
+    ]
+  },
+  {
+    "id": "CBG-DE-10505",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3093,
+    "y": 39.7625,
+    "infraWeight": 0.9218690817622895,
+    "population": 1720,
+    "microDistrictId": "DE-MD-21",
+    "neighbors": [
+      "CBG-DE-10426",
+      "CBG-DE-10425",
+      "CBG-DE-10223",
+      "CBG-DE-10392",
+      "CBG-DE-10264"
+    ]
+  },
+  {
+    "id": "CBG-DE-10506",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.5589,
+    "y": 39.5019,
+    "infraWeight": 1.084303012879621,
+    "population": 2215,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10203",
+      "CBG-DE-10446",
+      "CBG-DE-10336",
+      "CBG-DE-10052",
+      "CBG-DE-10269"
+    ]
+  },
+  {
+    "id": "CBG-DE-10507",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6945,
+    "y": 38.7466,
+    "infraWeight": 1.0104137924141683,
+    "population": 2138,
+    "microDistrictId": "DE-MD-11",
+    "neighbors": [
+      "CBG-DE-10023",
+      "CBG-DE-10497",
+      "CBG-DE-10132",
+      "CBG-DE-10310",
+      "CBG-DE-10034"
+    ]
+  },
+  {
+    "id": "CBG-DE-10508",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2132,
+    "y": 38.626,
+    "infraWeight": 0.9626226620890632,
+    "population": 1979,
+    "microDistrictId": "DE-MD-16",
+    "neighbors": [
+      "CBG-DE-10465",
+      "CBG-DE-10093",
+      "CBG-DE-10165",
+      "CBG-DE-10441",
+      "CBG-DE-10501"
+    ]
+  },
+  {
+    "id": "CBG-DE-10509",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4216,
+    "y": 39.0002,
+    "infraWeight": 1.3102172123503146,
+    "population": 2761,
+    "microDistrictId": "DE-MD-3",
+    "neighbors": [
+      "CBG-DE-10374",
+      "CBG-DE-10164",
+      "CBG-DE-10209",
+      "CBG-DE-10256",
+      "CBG-DE-10129"
+    ]
+  },
+  {
+    "id": "CBG-DE-10510",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7565,
+    "y": 39.5685,
+    "infraWeight": 0.9729924300495415,
+    "population": 1658,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10095",
+      "CBG-DE-10276",
+      "CBG-DE-10433",
+      "CBG-DE-10170",
+      "CBG-DE-10258"
+    ]
+  },
+  {
+    "id": "CBG-DE-10511",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.716,
+    "y": 39.4362,
+    "infraWeight": 1.0592321081515723,
+    "population": 2212,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10078",
+      "CBG-DE-10040",
+      "CBG-DE-10403",
+      "CBG-DE-10312",
+      "CBG-DE-10228"
+    ]
+  },
+  {
+    "id": "CBG-DE-10512",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6893,
+    "y": 38.9164,
+    "infraWeight": 1.1077368808751942,
+    "population": 1975,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10201",
+      "CBG-DE-10025",
+      "CBG-DE-10060",
+      "CBG-DE-10180",
+      "CBG-DE-10418"
+    ]
+  },
+  {
+    "id": "CBG-DE-10513",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6095,
+    "y": 39.5268,
+    "infraWeight": 1.051349128244285,
+    "population": 2068,
+    "microDistrictId": "DE-MD-14",
+    "neighbors": [
+      "CBG-DE-10396",
+      "CBG-DE-10245",
+      "CBG-DE-10002",
+      "CBG-DE-10446",
+      "CBG-DE-10215"
+    ]
+  },
+  {
+    "id": "CBG-DE-10514",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.7064,
+    "y": 38.8482,
+    "infraWeight": 1.0613467705052715,
+    "population": 2219,
+    "microDistrictId": "DE-MD-6",
+    "neighbors": [
+      "CBG-DE-10025",
+      "CBG-DE-10287",
+      "CBG-DE-10201",
+      "CBG-DE-10497",
+      "CBG-DE-10034"
+    ]
+  },
+  {
+    "id": "CBG-DE-10515",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1618,
+    "y": 39.2822,
+    "infraWeight": 1.161624483935901,
+    "population": 2004,
+    "microDistrictId": "DE-MD-4",
+    "neighbors": [
+      "CBG-DE-10099",
+      "CBG-DE-10466",
+      "CBG-DE-10227",
+      "CBG-DE-10018",
+      "CBG-DE-10010"
+    ]
+  },
+  {
+    "id": "CBG-DE-10516",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3022,
+    "y": 39.4258,
+    "infraWeight": 1.1503046174127993,
+    "population": 2120,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10068",
+      "CBG-DE-10477",
+      "CBG-DE-10102",
+      "CBG-DE-10495",
+      "CBG-DE-10469"
+    ]
+  },
+  {
+    "id": "CBG-DE-10517",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.2984,
+    "y": 38.4853,
+    "infraWeight": 0.8978847331687023,
+    "population": 1462,
+    "microDistrictId": "DE-MD-28",
+    "neighbors": [
+      "CBG-DE-10339",
+      "CBG-DE-10401",
+      "CBG-DE-10415",
+      "CBG-DE-10300",
+      "CBG-DE-10094"
+    ]
+  },
+  {
+    "id": "CBG-DE-10518",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3372,
+    "y": 39.4735,
+    "infraWeight": 1.1206458732941813,
+    "population": 2083,
+    "microDistrictId": "DE-MD-12",
+    "neighbors": [
+      "CBG-DE-10469",
+      "CBG-DE-10068",
+      "CBG-DE-10477",
+      "CBG-DE-10516",
+      "CBG-DE-10394"
+    ]
+  },
+  {
+    "id": "CBG-DE-10519",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.204,
+    "y": 39.3625,
+    "infraWeight": 1.1488074913161341,
+    "population": 2261,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10112",
+      "CBG-DE-10195",
+      "CBG-DE-10018",
+      "CBG-DE-10504",
+      "CBG-DE-10471"
+    ]
+  },
+  {
+    "id": "CBG-DE-10520",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1295,
+    "y": 39.3653,
+    "infraWeight": 1.100030994680888,
+    "population": 2066,
+    "microDistrictId": "DE-MD-9",
+    "neighbors": [
+      "CBG-DE-10344",
+      "CBG-DE-10488",
+      "CBG-DE-10471",
+      "CBG-DE-10010",
+      "CBG-DE-10265"
+    ]
+  },
+  {
+    "id": "CBG-DE-10521",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.6765,
+    "y": 38.6196,
+    "infraWeight": 0.946251039048319,
+    "population": 1841,
+    "microDistrictId": "DE-MD-18",
+    "neighbors": [
+      "CBG-DE-10144",
+      "CBG-DE-10192",
+      "CBG-DE-10356",
+      "CBG-DE-10359",
+      "CBG-DE-10239"
+    ]
+  },
+  {
+    "id": "CBG-DE-10522",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.3083,
+    "y": 39.11,
+    "infraWeight": 1.3441996231696502,
+    "population": 2368,
+    "microDistrictId": "DE-MD-2",
+    "neighbors": [
+      "CBG-DE-10173",
+      "CBG-DE-10197",
+      "CBG-DE-10179",
+      "CBG-DE-10472",
+      "CBG-DE-10423"
+    ]
+  },
+  {
+    "id": "CBG-DE-10523",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.1632,
+    "y": 39.6264,
+    "infraWeight": 0.9708329137081226,
+    "population": 2058,
+    "microDistrictId": "DE-MD-26",
+    "neighbors": [
+      "CBG-DE-10451",
+      "CBG-DE-10085",
+      "CBG-DE-10237",
+      "CBG-DE-10373",
+      "CBG-DE-10324"
+    ]
+  },
+  {
+    "id": "CBG-DE-10524",
+    "parentZip": "90210",
+    "state": "DE",
+    "x": -75.4763,
+    "y": 38.7768,
+    "infraWeight": 1.092771687585576,
+    "population": 2124,
+    "microDistrictId": "DE-MD-10",
+    "neighbors": [
+      "CBG-DE-10117",
+      "CBG-DE-10345",
+      "CBG-DE-10364",
+      "CBG-DE-10440",
+      "CBG-DE-10249"
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+{
+  "AL": {
+    "totalNodes": 2775,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 752,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "AK": {
+    "totalNodes": 400,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 66,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "AZ": {
+    "totalNodes": 3950,
+    "optimizationCyclesExhausted": 5,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 404,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "AR": {
+    "totalNodes": 1650,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 158,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "CA": {
+    "totalNodes": 21950,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 2196,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "CO": {
+    "totalNodes": 3200,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 272,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "CT": {
+    "totalNodes": 2000,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 184,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "DE": {
+    "totalNodes": 525,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 56,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "DC": {
+    "totalNodes": 375,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 59,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "FL": {
+    "totalNodes": 11950,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 1599,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "GA": {
+    "totalNodes": 5950,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 467,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "HI": {
+    "totalNodes": 800,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 94,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "ID": {
+    "totalNodes": 1000,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 105,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "IL": {
+    "totalNodes": 7100,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 590,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "IN": {
+    "totalNodes": 3750,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 333,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "IA": {
+    "totalNodes": 1750,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 149,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "KS": {
+    "totalNodes": 1625,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 211,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "KY": {
+    "totalNodes": 2500,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 267,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "LA": {
+    "totalNodes": 2575,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 753,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "ME": {
+    "totalNodes": 750,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 80,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MD": {
+    "totalNodes": 3425,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 696,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MA": {
+    "totalNodes": 3900,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 316,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MI": {
+    "totalNodes": 5575,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 730,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MN": {
+    "totalNodes": 3150,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 349,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MS": {
+    "totalNodes": 1625,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 228,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MO": {
+    "totalNodes": 3400,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 341,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "MT": {
+    "totalNodes": 600,
+    "optimizationCyclesExhausted": 5,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 98,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NE": {
+    "totalNodes": 1075,
+    "optimizationCyclesExhausted": 6,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 145,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NV": {
+    "totalNodes": 1700,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 234,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NH": {
+    "totalNodes": 750,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 79,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NJ": {
+    "totalNodes": 5150,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 490,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NM": {
+    "totalNodes": 1175,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 156,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NY": {
+    "totalNodes": 11200,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 1049,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "NC": {
+    "totalNodes": 5775,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 854,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "ND": {
+    "totalNodes": 425,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 83,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "OH": {
+    "totalNodes": 6550,
+    "optimizationCyclesExhausted": 5,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 476,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "OK": {
+    "totalNodes": 2175,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 535,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "OR": {
+    "totalNodes": 2350,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 258,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "PA": {
+    "totalNodes": 7200,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 644,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "RI": {
+    "totalNodes": 600,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 89,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "SC": {
+    "totalNodes": 2825,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 232,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "SD": {
+    "totalNodes": 475,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 28,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "TN": {
+    "totalNodes": 3825,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 298,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "TX": {
+    "totalNodes": 16175,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 1811,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "UT": {
+    "totalNodes": 1800,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 602,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "VT": {
+    "totalNodes": 350,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 61,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "VA": {
+    "totalNodes": 4775,
+    "optimizationCyclesExhausted": 4,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 435,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "WA": {
+    "totalNodes": 4275,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 541,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "WV": {
+    "totalNodes": 975,
+    "optimizationCyclesExhausted": 3,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 136,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "WI": {
+    "totalNodes": 3250,
+    "optimizationCyclesExhausted": 25,
+    "stabilizedNatively": false,
+    "rescuedStragglersCount": 408,
+    "ceilingBreachCorrectionsCount": 0
+  },
+  "WY": {
+    "totalNodes": 300,
+    "optimizationCyclesExhausted": 2,
+    "stabilizedNatively": true,
+    "rescuedStragglersCount": 46,
+    "ceilingBreachCorrectionsCount": 0
+  }
+}

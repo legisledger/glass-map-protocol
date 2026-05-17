@@ -1,0 +1,5952 @@
+[
+  {
+    "id": "CBG-VT-10000",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.016,
+    "y": 43.2181,
+    "infraWeight": 0.8402369203217268,
+    "population": 1647,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10096",
+      "CBG-VT-10025",
+      "CBG-VT-10286",
+      "CBG-VT-10161",
+      "CBG-VT-10085"
+    ]
+  },
+  {
+    "id": "CBG-VT-10001",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4239,
+    "y": 43.4074,
+    "infraWeight": 1.0238239870100179,
+    "population": 1607,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10153",
+      "CBG-VT-10012",
+      "CBG-VT-10133",
+      "CBG-VT-10207",
+      "CBG-VT-10049"
+    ]
+  },
+  {
+    "id": "CBG-VT-10002",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5674,
+    "y": 43.6948,
+    "infraWeight": 1.2379327406679062,
+    "population": 2136,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10209",
+      "CBG-VT-10159",
+      "CBG-VT-10030",
+      "CBG-VT-10042",
+      "CBG-VT-10240"
+    ]
+  },
+  {
+    "id": "CBG-VT-10003",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1935,
+    "y": 44.559,
+    "infraWeight": 0.8650425449353717,
+    "population": 1674,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10029",
+      "CBG-VT-10296",
+      "CBG-VT-10313",
+      "CBG-VT-10135",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10004",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0549,
+    "y": 44.2807,
+    "infraWeight": 0.8674309611800646,
+    "population": 1428,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10264",
+      "CBG-VT-10190",
+      "CBG-VT-10261",
+      "CBG-VT-10235",
+      "CBG-VT-10271"
+    ]
+  },
+  {
+    "id": "CBG-VT-10005",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9802,
+    "y": 42.9577,
+    "infraWeight": 0.7395664711676436,
+    "population": 1466,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10111",
+      "CBG-VT-10267",
+      "CBG-VT-10187",
+      "CBG-VT-10258",
+      "CBG-VT-10014"
+    ]
+  },
+  {
+    "id": "CBG-VT-10006",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6335,
+    "y": 43.5461,
+    "infraWeight": 0.7978484196721306,
+    "population": 1522,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10198",
+      "CBG-VT-10324",
+      "CBG-VT-10330",
+      "CBG-VT-10142",
+      "CBG-VT-10072"
+    ]
+  },
+  {
+    "id": "CBG-VT-10007",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0379,
+    "y": 43.6169,
+    "infraWeight": 1.009837879988413,
+    "population": 1903,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10169",
+      "CBG-VT-10073",
+      "CBG-VT-10121",
+      "CBG-VT-10134",
+      "CBG-VT-10011"
+    ]
+  },
+  {
+    "id": "CBG-VT-10008",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7333,
+    "y": 44.7861,
+    "infraWeight": 0.7664791111238349,
+    "population": 1221,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10099",
+      "CBG-VT-10290",
+      "CBG-VT-10244",
+      "CBG-VT-10113",
+      "CBG-VT-10203"
+    ]
+  },
+  {
+    "id": "CBG-VT-10009",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.415,
+    "y": 42.968,
+    "infraWeight": 0.6461823322580641,
+    "population": 1049,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10181",
+      "CBG-VT-10327",
+      "CBG-VT-10106",
+      "CBG-VT-10237",
+      "CBG-VT-10155"
+    ]
+  },
+  {
+    "id": "CBG-VT-10010",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8207,
+    "y": 43.7398,
+    "infraWeight": 0.9123690373427525,
+    "population": 1431,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10077",
+      "CBG-VT-10011",
+      "CBG-VT-10331",
+      "CBG-VT-10346",
+      "CBG-VT-10330"
+    ]
+  },
+  {
+    "id": "CBG-VT-10011",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9195,
+    "y": 43.7736,
+    "infraWeight": 0.973671346678142,
+    "population": 1961,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10121",
+      "CBG-VT-10077",
+      "CBG-VT-10010",
+      "CBG-VT-10346",
+      "CBG-VT-10143"
+    ]
+  },
+  {
+    "id": "CBG-VT-10012",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3616,
+    "y": 43.4041,
+    "infraWeight": 1.016168060874315,
+    "population": 1708,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10001",
+      "CBG-VT-10153",
+      "CBG-VT-10207",
+      "CBG-VT-10049",
+      "CBG-VT-10133"
+    ]
+  },
+  {
+    "id": "CBG-VT-10013",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0197,
+    "y": 43.4726,
+    "infraWeight": 0.8851223177451416,
+    "population": 1705,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10309",
+      "CBG-VT-10088",
+      "CBG-VT-10219",
+      "CBG-VT-10022",
+      "CBG-VT-10263"
+    ]
+  },
+  {
+    "id": "CBG-VT-10014",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8215,
+    "y": 42.8977,
+    "infraWeight": 0.6945294937899679,
+    "population": 1100,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10267",
+      "CBG-VT-10258",
+      "CBG-VT-10326",
+      "CBG-VT-10242",
+      "CBG-VT-10091"
+    ]
+  },
+  {
+    "id": "CBG-VT-10015",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8191,
+    "y": 43.2067,
+    "infraWeight": 0.7822785394230172,
+    "population": 1400,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10141",
+      "CBG-VT-10161",
+      "CBG-VT-10051",
+      "CBG-VT-10349",
+      "CBG-VT-10316"
+    ]
+  },
+  {
+    "id": "CBG-VT-10016",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0345,
+    "y": 43.6386,
+    "infraWeight": 0.9212486254983802,
+    "population": 1916,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10279",
+      "CBG-VT-10338",
+      "CBG-VT-10107",
+      "CBG-VT-10013",
+      "CBG-VT-10325"
+    ]
+  },
+  {
+    "id": "CBG-VT-10017",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0301,
+    "y": 43.3553,
+    "infraWeight": 0.9002070309877178,
+    "population": 1481,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10085",
+      "CBG-VT-10096",
+      "CBG-VT-10025",
+      "CBG-VT-10202",
+      "CBG-VT-10144"
+    ]
+  },
+  {
+    "id": "CBG-VT-10018",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1821,
+    "y": 43.4533,
+    "infraWeight": 0.8141992563223958,
+    "population": 1397,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10292",
+      "CBG-VT-10151",
+      "CBG-VT-10154",
+      "CBG-VT-10303",
+      "CBG-VT-10117"
+    ]
+  },
+  {
+    "id": "CBG-VT-10019",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4982,
+    "y": 43.9992,
+    "infraWeight": 1.3204956233566656,
+    "population": 2221,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10176",
+      "CBG-VT-10146",
+      "CBG-VT-10293",
+      "CBG-VT-10172",
+      "CBG-VT-10095"
+    ]
+  },
+  {
+    "id": "CBG-VT-10020",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5808,
+    "y": 43.9724,
+    "infraWeight": 0.7995170175000856,
+    "population": 1514,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10210",
+      "CBG-VT-10200",
+      "CBG-VT-10248",
+      "CBG-VT-10165",
+      "CBG-VT-10184"
+    ]
+  },
+  {
+    "id": "CBG-VT-10021",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7294,
+    "y": 44.963,
+    "infraWeight": 0.705488781814449,
+    "population": 1257,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10113",
+      "CBG-VT-10282",
+      "CBG-VT-10335",
+      "CBG-VT-10294",
+      "CBG-VT-10099"
+    ]
+  },
+  {
+    "id": "CBG-VT-10022",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9715,
+    "y": 43.3572,
+    "infraWeight": 0.8661508626462392,
+    "population": 1690,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10274",
+      "CBG-VT-10219",
+      "CBG-VT-10263",
+      "CBG-VT-10088",
+      "CBG-VT-10309"
+    ]
+  },
+  {
+    "id": "CBG-VT-10023",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.4164,
+    "y": 44.7058,
+    "infraWeight": 0.6591347869767171,
+    "population": 1356,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10093",
+      "CBG-VT-10191",
+      "CBG-VT-10065",
+      "CBG-VT-10108",
+      "CBG-VT-10208"
+    ]
+  },
+  {
+    "id": "CBG-VT-10024",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3149,
+    "y": 43.6224,
+    "infraWeight": 1.1681229475163155,
+    "population": 2062,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10149",
+      "CBG-VT-10134",
+      "CBG-VT-10159",
+      "CBG-VT-10252",
+      "CBG-VT-10049"
+    ]
+  },
+  {
+    "id": "CBG-VT-10025",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0766,
+    "y": 43.279,
+    "infraWeight": 0.8817867632277363,
+    "population": 1453,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10096",
+      "CBG-VT-10085",
+      "CBG-VT-10000",
+      "CBG-VT-10017",
+      "CBG-VT-10144"
+    ]
+  },
+  {
+    "id": "CBG-VT-10026",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6854,
+    "y": 43.4987,
+    "infraWeight": 1.0413131294696298,
+    "population": 1879,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10045",
+      "CBG-VT-10126",
+      "CBG-VT-10157",
+      "CBG-VT-10124",
+      "CBG-VT-10042"
+    ]
+  },
+  {
+    "id": "CBG-VT-10027",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3148,
+    "y": 44.4645,
+    "infraWeight": 0.7325918728998642,
+    "population": 1544,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10074",
+      "CBG-VT-10314",
+      "CBG-VT-10061",
+      "CBG-VT-10208",
+      "CBG-VT-10177"
+    ]
+  },
+  {
+    "id": "CBG-VT-10028",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4645,
+    "y": 42.9589,
+    "infraWeight": 0.7841556971483032,
+    "population": 1381,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10304",
+      "CBG-VT-10222",
+      "CBG-VT-10211",
+      "CBG-VT-10147",
+      "CBG-VT-10199"
+    ]
+  },
+  {
+    "id": "CBG-VT-10029",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2361,
+    "y": 44.5306,
+    "infraWeight": 0.8859534704263361,
+    "population": 1755,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10003",
+      "CBG-VT-10296",
+      "CBG-VT-10135",
+      "CBG-VT-10265",
+      "CBG-VT-10288"
+    ]
+  },
+  {
+    "id": "CBG-VT-10030",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6288,
+    "y": 43.8482,
+    "infraWeight": 1.2719489504296804,
+    "population": 2102,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10240",
+      "CBG-VT-10033",
+      "CBG-VT-10209",
+      "CBG-VT-10002",
+      "CBG-VT-10278"
+    ]
+  },
+  {
+    "id": "CBG-VT-10031",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6911,
+    "y": 43.854,
+    "infraWeight": 0.852168627578178,
+    "population": 1786,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10331",
+      "CBG-VT-10210",
+      "CBG-VT-10162",
+      "CBG-VT-10165",
+      "CBG-VT-10020"
+    ]
+  },
+  {
+    "id": "CBG-VT-10032",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5918,
+    "y": 43.2119,
+    "infraWeight": 0.8957251093422868,
+    "population": 1460,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10114",
+      "CBG-VT-10041",
+      "CBG-VT-10075",
+      "CBG-VT-10180",
+      "CBG-VT-10081"
+    ]
+  },
+  {
+    "id": "CBG-VT-10033",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6935,
+    "y": 43.9538,
+    "infraWeight": 1.194371801413668,
+    "population": 1877,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10278",
+      "CBG-VT-10240",
+      "CBG-VT-10030",
+      "CBG-VT-10047",
+      "CBG-VT-10320"
+    ]
+  },
+  {
+    "id": "CBG-VT-10034",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6519,
+    "y": 42.76,
+    "infraWeight": 0.6331235874544525,
+    "population": 1002,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10188",
+      "CBG-VT-10091",
+      "CBG-VT-10224",
+      "CBG-VT-10299",
+      "CBG-VT-10014"
+    ]
+  },
+  {
+    "id": "CBG-VT-10035",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5313,
+    "y": 44.6201,
+    "infraWeight": 0.6862481941620842,
+    "population": 1230,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10050",
+      "CBG-VT-10243",
+      "CBG-VT-10301",
+      "CBG-VT-10246",
+      "CBG-VT-10100"
+    ]
+  },
+  {
+    "id": "CBG-VT-10036",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9915,
+    "y": 44.8762,
+    "infraWeight": 0.7007187264149464,
+    "population": 1468,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10322",
+      "CBG-VT-10173",
+      "CBG-VT-10203",
+      "CBG-VT-10136",
+      "CBG-VT-10212"
+    ]
+  },
+  {
+    "id": "CBG-VT-10037",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5936,
+    "y": 43.0393,
+    "infraWeight": 0.6833527713694998,
+    "population": 1201,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10087",
+      "CBG-VT-10227",
+      "CBG-VT-10080",
+      "CBG-VT-10328",
+      "CBG-VT-10057"
+    ]
+  },
+  {
+    "id": "CBG-VT-10038",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0063,
+    "y": 43.9147,
+    "infraWeight": 1.0366876156908493,
+    "population": 1966,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10143",
+      "CBG-VT-10348",
+      "CBG-VT-10064",
+      "CBG-VT-10071",
+      "CBG-VT-10121"
+    ]
+  },
+  {
+    "id": "CBG-VT-10039",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3597,
+    "y": 42.8857,
+    "infraWeight": 0.7536812827522985,
+    "population": 1258,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10247",
+      "CBG-VT-10222",
+      "CBG-VT-10147",
+      "CBG-VT-10028",
+      "CBG-VT-10199"
+    ]
+  },
+  {
+    "id": "CBG-VT-10040",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1931,
+    "y": 43.1416,
+    "infraWeight": 0.7349392878899369,
+    "population": 1534,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10106",
+      "CBG-VT-10056",
+      "CBG-VT-10189",
+      "CBG-VT-10232",
+      "CBG-VT-10340"
+    ]
+  },
+  {
+    "id": "CBG-VT-10041",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6646,
+    "y": 43.1865,
+    "infraWeight": 0.8732645024097225,
+    "population": 1392,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10075",
+      "CBG-VT-10032",
+      "CBG-VT-10114",
+      "CBG-VT-10127",
+      "CBG-VT-10104"
+    ]
+  },
+  {
+    "id": "CBG-VT-10042",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5582,
+    "y": 43.5051,
+    "infraWeight": 1.0854479449860692,
+    "population": 1934,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10124",
+      "CBG-VT-10049",
+      "CBG-VT-10157",
+      "CBG-VT-10133",
+      "CBG-VT-10026"
+    ]
+  },
+  {
+    "id": "CBG-VT-10043",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.4371,
+    "y": 43.8422,
+    "infraWeight": 0.7551102006735781,
+    "population": 1294,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10082",
+      "CBG-VT-10112",
+      "CBG-VT-10238",
+      "CBG-VT-10152",
+      "CBG-VT-10305"
+    ]
+  },
+  {
+    "id": "CBG-VT-10044",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9008,
+    "y": 44.5155,
+    "infraWeight": 0.840169387737159,
+    "population": 1532,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10307",
+      "CBG-VT-10076",
+      "CBG-VT-10337",
+      "CBG-VT-10260",
+      "CBG-VT-10105"
+    ]
+  },
+  {
+    "id": "CBG-VT-10045",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7174,
+    "y": 43.4741,
+    "infraWeight": 1.0145360112218025,
+    "population": 2086,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10126",
+      "CBG-VT-10026",
+      "CBG-VT-10157",
+      "CBG-VT-10275",
+      "CBG-VT-10104"
+    ]
+  },
+  {
+    "id": "CBG-VT-10046",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0095,
+    "y": 44.669,
+    "infraWeight": 0.7600918803035801,
+    "population": 1532,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10094",
+      "CBG-VT-10105",
+      "CBG-VT-10307",
+      "CBG-VT-10277",
+      "CBG-VT-10044"
+    ]
+  },
+  {
+    "id": "CBG-VT-10047",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6778,
+    "y": 44.0889,
+    "infraWeight": 1.1415759384344195,
+    "population": 1967,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10278",
+      "CBG-VT-10226",
+      "CBG-VT-10095",
+      "CBG-VT-10033",
+      "CBG-VT-10320"
+    ]
+  },
+  {
+    "id": "CBG-VT-10048",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7018,
+    "y": 44.0677,
+    "infraWeight": 0.8452887214113186,
+    "population": 1344,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10200",
+      "CBG-VT-10174",
+      "CBG-VT-10206",
+      "CBG-VT-10210",
+      "CBG-VT-10215"
+    ]
+  },
+  {
+    "id": "CBG-VT-10049",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4643,
+    "y": 43.502,
+    "infraWeight": 1.094925981922788,
+    "population": 1971,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10042",
+      "CBG-VT-10133",
+      "CBG-VT-10001",
+      "CBG-VT-10124",
+      "CBG-VT-10153"
+    ]
+  },
+  {
+    "id": "CBG-VT-10050",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.523,
+    "y": 44.6877,
+    "infraWeight": 0.6708892572861337,
+    "population": 1074,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10246",
+      "CBG-VT-10100",
+      "CBG-VT-10035",
+      "CBG-VT-10333",
+      "CBG-VT-10342"
+    ]
+  },
+  {
+    "id": "CBG-VT-10051",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8839,
+    "y": 43.1353,
+    "infraWeight": 0.7774001615016379,
+    "population": 1459,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10141",
+      "CBG-VT-10161",
+      "CBG-VT-10015",
+      "CBG-VT-10286",
+      "CBG-VT-10000"
+    ]
+  },
+  {
+    "id": "CBG-VT-10052",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0744,
+    "y": 44.6589,
+    "infraWeight": 0.8010000355789783,
+    "population": 1523,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10270",
+      "CBG-VT-10284",
+      "CBG-VT-10145",
+      "CBG-VT-10234",
+      "CBG-VT-10223"
+    ]
+  },
+  {
+    "id": "CBG-VT-10053",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.664,
+    "y": 42.8695,
+    "infraWeight": 0.7409127436729595,
+    "population": 1368,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10280",
+      "CBG-VT-10287",
+      "CBG-VT-10185",
+      "CBG-VT-10170",
+      "CBG-VT-10262"
+    ]
+  },
+  {
+    "id": "CBG-VT-10054",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3483,
+    "y": 43.1514,
+    "infraWeight": 0.8682385303817715,
+    "population": 1736,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10092",
+      "CBG-VT-10225",
+      "CBG-VT-10285",
+      "CBG-VT-10345",
+      "CBG-VT-10273"
+    ]
+  },
+  {
+    "id": "CBG-VT-10055",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1604,
+    "y": 44.9214,
+    "infraWeight": 0.6617082143835613,
+    "population": 1235,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10334",
+      "CBG-VT-10158",
+      "CBG-VT-10136",
+      "CBG-VT-10212",
+      "CBG-VT-10254"
+    ]
+  },
+  {
+    "id": "CBG-VT-10056",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1432,
+    "y": 43.1015,
+    "infraWeight": 0.7369169118289923,
+    "population": 1201,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10189",
+      "CBG-VT-10040",
+      "CBG-VT-10106",
+      "CBG-VT-10237",
+      "CBG-VT-10327"
+    ]
+  },
+  {
+    "id": "CBG-VT-10057",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6439,
+    "y": 43.1267,
+    "infraWeight": 0.714823955563845,
+    "population": 1138,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10227",
+      "CBG-VT-10080",
+      "CBG-VT-10037",
+      "CBG-VT-10087",
+      "CBG-VT-10242"
+    ]
+  },
+  {
+    "id": "CBG-VT-10058",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2189,
+    "y": 43.0654,
+    "infraWeight": 0.8156132916346371,
+    "population": 1651,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10347",
+      "CBG-VT-10230",
+      "CBG-VT-10273",
+      "CBG-VT-10312",
+      "CBG-VT-10285"
+    ]
+  },
+  {
+    "id": "CBG-VT-10059",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6939,
+    "y": 44.9435,
+    "infraWeight": 0.6486979192143206,
+    "population": 1040,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10102",
+      "CBG-VT-10289",
+      "CBG-VT-10231",
+      "CBG-VT-10310",
+      "CBG-VT-10122"
+    ]
+  },
+  {
+    "id": "CBG-VT-10060",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9445,
+    "y": 43.0032,
+    "infraWeight": 0.7504187341230645,
+    "population": 1547,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10182",
+      "CBG-VT-10160",
+      "CBG-VT-10228",
+      "CBG-VT-10204",
+      "CBG-VT-10336"
+    ]
+  },
+  {
+    "id": "CBG-VT-10061",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.243,
+    "y": 44.4093,
+    "infraWeight": 0.766439404398478,
+    "population": 1509,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10201",
+      "CBG-VT-10027",
+      "CBG-VT-10074",
+      "CBG-VT-10190",
+      "CBG-VT-10250"
+    ]
+  },
+  {
+    "id": "CBG-VT-10062",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2342,
+    "y": 44.1992,
+    "infraWeight": 0.8113296934930624,
+    "population": 1603,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10261",
+      "CBG-VT-10101",
+      "CBG-VT-10235",
+      "CBG-VT-10004",
+      "CBG-VT-10061"
+    ]
+  },
+  {
+    "id": "CBG-VT-10063",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.931,
+    "y": 43.2054,
+    "infraWeight": 0.8236578494115727,
+    "population": 1417,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10336",
+      "CBG-VT-10175",
+      "CBG-VT-10274",
+      "CBG-VT-10263",
+      "CBG-VT-10022"
+    ]
+  },
+  {
+    "id": "CBG-VT-10064",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0796,
+    "y": 43.939,
+    "infraWeight": 1.088880251007789,
+    "population": 2089,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10348",
+      "CBG-VT-10143",
+      "CBG-VT-10148",
+      "CBG-VT-10038",
+      "CBG-VT-10071"
+    ]
+  },
+  {
+    "id": "CBG-VT-10065",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.407,
+    "y": 44.8433,
+    "infraWeight": 0.6347843729175532,
+    "population": 995,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10108",
+      "CBG-VT-10093",
+      "CBG-VT-10023",
+      "CBG-VT-10070",
+      "CBG-VT-10254"
+    ]
+  },
+  {
+    "id": "CBG-VT-10066",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3934,
+    "y": 44.4954,
+    "infraWeight": 0.9223178339527055,
+    "population": 1614,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10276",
+      "CBG-VT-10194",
+      "CBG-VT-10318",
+      "CBG-VT-10078",
+      "CBG-VT-10268"
+    ]
+  },
+  {
+    "id": "CBG-VT-10067",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3186,
+    "y": 44.6158,
+    "infraWeight": 0.8542963610731998,
+    "population": 1557,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10288",
+      "CBG-VT-10135",
+      "CBG-VT-10296",
+      "CBG-VT-10268",
+      "CBG-VT-10110"
+    ]
+  },
+  {
+    "id": "CBG-VT-10068",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0977,
+    "y": 44.4005,
+    "infraWeight": 0.9168430182552664,
+    "population": 1708,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10183",
+      "CBG-VT-10249",
+      "CBG-VT-10217",
+      "CBG-VT-10192",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10069",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0165,
+    "y": 44.2952,
+    "infraWeight": 0.9335312398119608,
+    "population": 1806,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10315",
+      "CBG-VT-10196",
+      "CBG-VT-10192",
+      "CBG-VT-10217",
+      "CBG-VT-10197"
+    ]
+  },
+  {
+    "id": "CBG-VT-10070",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2751,
+    "y": 44.8923,
+    "infraWeight": 0.6488809606661188,
+    "population": 1319,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10254",
+      "CBG-VT-10158",
+      "CBG-VT-10055",
+      "CBG-VT-10334",
+      "CBG-VT-10108"
+    ]
+  },
+  {
+    "id": "CBG-VT-10071",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.982,
+    "y": 44.0511,
+    "infraWeight": 0.9984836959664413,
+    "population": 1767,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10297",
+      "CBG-VT-10348",
+      "CBG-VT-10038",
+      "CBG-VT-10253",
+      "CBG-VT-10064"
+    ]
+  },
+  {
+    "id": "CBG-VT-10072",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5452,
+    "y": 43.7502,
+    "infraWeight": 0.7836754574354784,
+    "population": 1574,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10142",
+      "CBG-VT-10165",
+      "CBG-VT-10031",
+      "CBG-VT-10248",
+      "CBG-VT-10331"
+    ]
+  },
+  {
+    "id": "CBG-VT-10073",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9467,
+    "y": 43.5267,
+    "infraWeight": 0.9310126657841523,
+    "population": 1827,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10169",
+      "CBG-VT-10007",
+      "CBG-VT-10321",
+      "CBG-VT-10330",
+      "CBG-VT-10202"
+    ]
+  },
+  {
+    "id": "CBG-VT-10074",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2936,
+    "y": 44.532,
+    "infraWeight": 0.7244948120997123,
+    "population": 1145,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10177",
+      "CBG-VT-10314",
+      "CBG-VT-10027",
+      "CBG-VT-10156",
+      "CBG-VT-10208"
+    ]
+  },
+  {
+    "id": "CBG-VT-10075",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6963,
+    "y": 43.1728,
+    "infraWeight": 0.8617455835773712,
+    "population": 1774,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10041",
+      "CBG-VT-10032",
+      "CBG-VT-10114",
+      "CBG-VT-10127",
+      "CBG-VT-10175"
+    ]
+  },
+  {
+    "id": "CBG-VT-10076",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8603,
+    "y": 44.4428,
+    "infraWeight": 0.8810205275262154,
+    "population": 1458,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10337",
+      "CBG-VT-10044",
+      "CBG-VT-10291",
+      "CBG-VT-10115",
+      "CBG-VT-10241"
+    ]
+  },
+  {
+    "id": "CBG-VT-10077",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8667,
+    "y": 43.775,
+    "infraWeight": 0.94198807439429,
+    "population": 1592,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10011",
+      "CBG-VT-10010",
+      "CBG-VT-10346",
+      "CBG-VT-10121",
+      "CBG-VT-10331"
+    ]
+  },
+  {
+    "id": "CBG-VT-10078",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4198,
+    "y": 44.4129,
+    "infraWeight": 0.9727045534140186,
+    "population": 1905,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10276",
+      "CBG-VT-10194",
+      "CBG-VT-10318",
+      "CBG-VT-10066",
+      "CBG-VT-10109"
+    ]
+  },
+  {
+    "id": "CBG-VT-10079",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7081,
+    "y": 44.2435,
+    "infraWeight": 0.819307833403824,
+    "population": 1608,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10174",
+      "CBG-VT-10164",
+      "CBG-VT-10215",
+      "CBG-VT-10256",
+      "CBG-VT-10206"
+    ]
+  },
+  {
+    "id": "CBG-VT-10080",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5948,
+    "y": 43.129,
+    "infraWeight": 0.7030634583728943,
+    "population": 1477,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10227",
+      "CBG-VT-10057",
+      "CBG-VT-10037",
+      "CBG-VT-10087",
+      "CBG-VT-10328"
+    ]
+  },
+  {
+    "id": "CBG-VT-10081",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5021,
+    "y": 43.3353,
+    "infraWeight": 0.9747953202738145,
+    "population": 1759,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10178",
+      "CBG-VT-10133",
+      "CBG-VT-10153",
+      "CBG-VT-10180",
+      "CBG-VT-10001"
+    ]
+  },
+  {
+    "id": "CBG-VT-10082",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.4212,
+    "y": 44.0079,
+    "infraWeight": 0.7577114363547786,
+    "population": 1203,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10043",
+      "CBG-VT-10062",
+      "CBG-VT-10238",
+      "CBG-VT-10152",
+      "CBG-VT-10261"
+    ]
+  },
+  {
+    "id": "CBG-VT-10083",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7771,
+    "y": 43.0145,
+    "infraWeight": 0.7824324518656907,
+    "population": 1552,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10221",
+      "CBG-VT-10182",
+      "CBG-VT-10160",
+      "CBG-VT-10127",
+      "CBG-VT-10097"
+    ]
+  },
+  {
+    "id": "CBG-VT-10084",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5289,
+    "y": 44.6723,
+    "infraWeight": 0.8313147879204863,
+    "population": 1622,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10236",
+      "CBG-VT-10220",
+      "CBG-VT-10128",
+      "CBG-VT-10120",
+      "CBG-VT-10268"
+    ]
+  },
+  {
+    "id": "CBG-VT-10085",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0933,
+    "y": 43.3154,
+    "infraWeight": 0.9028201605411257,
+    "population": 1534,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10025",
+      "CBG-VT-10096",
+      "CBG-VT-10017",
+      "CBG-VT-10144",
+      "CBG-VT-10341"
+    ]
+  },
+  {
+    "id": "CBG-VT-10086",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7632,
+    "y": 42.7811,
+    "infraWeight": 0.7027977437066718,
+    "population": 1295,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10185",
+      "CBG-VT-10280",
+      "CBG-VT-10193",
+      "CBG-VT-10266",
+      "CBG-VT-10097"
+    ]
+  },
+  {
+    "id": "CBG-VT-10087",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6013,
+    "y": 43.0245,
+    "infraWeight": 0.6818337537473306,
+    "population": 1130,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10037",
+      "CBG-VT-10227",
+      "CBG-VT-10080",
+      "CBG-VT-10057",
+      "CBG-VT-10328"
+    ]
+  },
+  {
+    "id": "CBG-VT-10088",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0566,
+    "y": 43.3768,
+    "infraWeight": 0.8417427902485456,
+    "population": 1495,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10219",
+      "CBG-VT-10309",
+      "CBG-VT-10263",
+      "CBG-VT-10022",
+      "CBG-VT-10013"
+    ]
+  },
+  {
+    "id": "CBG-VT-10089",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2329,
+    "y": 43.8524,
+    "infraWeight": 1.2304975202745698,
+    "population": 1922,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10252",
+      "CBG-VT-10148",
+      "CBG-VT-10134",
+      "CBG-VT-10064",
+      "CBG-VT-10348"
+    ]
+  },
+  {
+    "id": "CBG-VT-10090",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9823,
+    "y": 43.9467,
+    "infraWeight": 0.97626911613605,
+    "population": 1849,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10179",
+      "CBG-VT-10163",
+      "CBG-VT-10123",
+      "CBG-VT-10344",
+      "CBG-VT-10308"
+    ]
+  },
+  {
+    "id": "CBG-VT-10091",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7702,
+    "y": 42.7422,
+    "infraWeight": 0.6468547252279979,
+    "population": 1329,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10034",
+      "CBG-VT-10213",
+      "CBG-VT-10014",
+      "CBG-VT-10258",
+      "CBG-VT-10188"
+    ]
+  },
+  {
+    "id": "CBG-VT-10092",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4021,
+    "y": 43.1831,
+    "infraWeight": 0.8874015382208393,
+    "population": 1533,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10054",
+      "CBG-VT-10225",
+      "CBG-VT-10345",
+      "CBG-VT-10285",
+      "CBG-VT-10207"
+    ]
+  },
+  {
+    "id": "CBG-VT-10093",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3798,
+    "y": 44.7854,
+    "infraWeight": 0.6513843467525061,
+    "population": 1045,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10065",
+      "CBG-VT-10108",
+      "CBG-VT-10023",
+      "CBG-VT-10070",
+      "CBG-VT-10255"
+    ]
+  },
+  {
+    "id": "CBG-VT-10094",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0009,
+    "y": 44.7269,
+    "infraWeight": 0.7437972857542112,
+    "population": 1499,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10046",
+      "CBG-VT-10105",
+      "CBG-VT-10277",
+      "CBG-VT-10036",
+      "CBG-VT-10136"
+    ]
+  },
+  {
+    "id": "CBG-VT-10095",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5627,
+    "y": 44.1581,
+    "infraWeight": 1.1473088581696054,
+    "population": 2412,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10226",
+      "CBG-VT-10146",
+      "CBG-VT-10176",
+      "CBG-VT-10047",
+      "CBG-VT-10019"
+    ]
+  },
+  {
+    "id": "CBG-VT-10096",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.046,
+    "y": 43.2819,
+    "infraWeight": 0.8743935493282026,
+    "population": 1774,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10025",
+      "CBG-VT-10085",
+      "CBG-VT-10000",
+      "CBG-VT-10017",
+      "CBG-VT-10144"
+    ]
+  },
+  {
+    "id": "CBG-VT-10097",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8154,
+    "y": 42.9007,
+    "infraWeight": 0.7363540765351165,
+    "population": 1170,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10193",
+      "CBG-VT-10266",
+      "CBG-VT-10182",
+      "CBG-VT-10185",
+      "CBG-VT-10204"
+    ]
+  },
+  {
+    "id": "CBG-VT-10098",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3312,
+    "y": 44.8898,
+    "infraWeight": 0.7407071512493981,
+    "population": 1390,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10302",
+      "CBG-VT-10257",
+      "CBG-VT-10269",
+      "CBG-VT-10323",
+      "CBG-VT-10167"
+    ]
+  },
+  {
+    "id": "CBG-VT-10099",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7146,
+    "y": 44.7971,
+    "infraWeight": 0.7644584419664652,
+    "population": 1365,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10008",
+      "CBG-VT-10244",
+      "CBG-VT-10113",
+      "CBG-VT-10290",
+      "CBG-VT-10282"
+    ]
+  },
+  {
+    "id": "CBG-VT-10100",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.4818,
+    "y": 44.7272,
+    "infraWeight": 0.6541940591611566,
+    "population": 1265,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10246",
+      "CBG-VT-10050",
+      "CBG-VT-10035",
+      "CBG-VT-10342",
+      "CBG-VT-10122"
+    ]
+  },
+  {
+    "id": "CBG-VT-10101",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0631,
+    "y": 44.1324,
+    "infraWeight": 0.9007933255753199,
+    "population": 1567,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10235",
+      "CBG-VT-10004",
+      "CBG-VT-10264",
+      "CBG-VT-10163",
+      "CBG-VT-10261"
+    ]
+  },
+  {
+    "id": "CBG-VT-10102",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7533,
+    "y": 44.9276,
+    "infraWeight": 0.6620589950295893,
+    "population": 1196,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10059",
+      "CBG-VT-10289",
+      "CBG-VT-10140",
+      "CBG-VT-10231",
+      "CBG-VT-10214"
+    ]
+  },
+  {
+    "id": "CBG-VT-10103",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7139,
+    "y": 44.5122,
+    "infraWeight": 0.7588927896620238,
+    "population": 1389,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10281",
+      "CBG-VT-10317",
+      "CBG-VT-10132",
+      "CBG-VT-10245",
+      "CBG-VT-10301"
+    ]
+  },
+  {
+    "id": "CBG-VT-10104",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6762,
+    "y": 43.3439,
+    "infraWeight": 0.9531047302113781,
+    "population": 1826,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10180",
+      "CBG-VT-10157",
+      "CBG-VT-10178",
+      "CBG-VT-10126",
+      "CBG-VT-10045"
+    ]
+  },
+  {
+    "id": "CBG-VT-10105",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9116,
+    "y": 44.6529,
+    "infraWeight": 0.7866484746892317,
+    "population": 1632,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10307",
+      "CBG-VT-10046",
+      "CBG-VT-10277",
+      "CBG-VT-10094",
+      "CBG-VT-10260"
+    ]
+  },
+  {
+    "id": "CBG-VT-10106",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2342,
+    "y": 43.1352,
+    "infraWeight": 0.7228851010940146,
+    "population": 1457,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10040",
+      "CBG-VT-10056",
+      "CBG-VT-10232",
+      "CBG-VT-10189",
+      "CBG-VT-10340"
+    ]
+  },
+  {
+    "id": "CBG-VT-10107",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.959,
+    "y": 43.7864,
+    "infraWeight": 0.9900890011481349,
+    "population": 1959,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10338",
+      "CBG-VT-10332",
+      "CBG-VT-10123",
+      "CBG-VT-10090",
+      "CBG-VT-10016"
+    ]
+  },
+  {
+    "id": "CBG-VT-10108",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3968,
+    "y": 44.8484,
+    "infraWeight": 0.635725819154083,
+    "population": 1341,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10065",
+      "CBG-VT-10093",
+      "CBG-VT-10070",
+      "CBG-VT-10023",
+      "CBG-VT-10254"
+    ]
+  },
+  {
+    "id": "CBG-VT-10109",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2806,
+    "y": 44.3371,
+    "infraWeight": 1.0028951879462589,
+    "population": 1654,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10343",
+      "CBG-VT-10139",
+      "CBG-VT-10283",
+      "CBG-VT-10116",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10110",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.372,
+    "y": 44.717,
+    "infraWeight": 0.811260473820881,
+    "population": 1621,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10323",
+      "CBG-VT-10120",
+      "CBG-VT-10067",
+      "CBG-VT-10268",
+      "CBG-VT-10288"
+    ]
+  },
+  {
+    "id": "CBG-VT-10111",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0867,
+    "y": 42.9813,
+    "infraWeight": 0.764514570515433,
+    "population": 1281,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10187",
+      "CBG-VT-10005",
+      "CBG-VT-10230",
+      "CBG-VT-10312",
+      "CBG-VT-10058"
+    ]
+  },
+  {
+    "id": "CBG-VT-10112",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3445,
+    "y": 43.6193,
+    "infraWeight": 0.7778694404525541,
+    "population": 1380,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10303",
+      "CBG-VT-10305",
+      "CBG-VT-10154",
+      "CBG-VT-10151",
+      "CBG-VT-10279"
+    ]
+  },
+  {
+    "id": "CBG-VT-10113",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7382,
+    "y": 44.9063,
+    "infraWeight": 0.7233571020495593,
+    "population": 1270,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10021",
+      "CBG-VT-10282",
+      "CBG-VT-10099",
+      "CBG-VT-10335",
+      "CBG-VT-10008"
+    ]
+  },
+  {
+    "id": "CBG-VT-10114",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5903,
+    "y": 43.2087,
+    "infraWeight": 0.8942341261374591,
+    "population": 1727,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10032",
+      "CBG-VT-10041",
+      "CBG-VT-10075",
+      "CBG-VT-10180",
+      "CBG-VT-10081"
+    ]
+  },
+  {
+    "id": "CBG-VT-10115",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8896,
+    "y": 44.3501,
+    "infraWeight": 0.9096556720395558,
+    "population": 1761,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10131",
+      "CBG-VT-10337",
+      "CBG-VT-10076",
+      "CBG-VT-10271",
+      "CBG-VT-10171"
+    ]
+  },
+  {
+    "id": "CBG-VT-10116",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2944,
+    "y": 44.2363,
+    "infraWeight": 1.0738540184690737,
+    "population": 1861,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10283",
+      "CBG-VT-10109",
+      "CBG-VT-10343",
+      "CBG-VT-10139",
+      "CBG-VT-10172"
+    ]
+  },
+  {
+    "id": "CBG-VT-10117",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3091,
+    "y": 43.4278,
+    "infraWeight": 0.762954911596064,
+    "population": 1434,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10151",
+      "CBG-VT-10233",
+      "CBG-VT-10292",
+      "CBG-VT-10303",
+      "CBG-VT-10154"
+    ]
+  },
+  {
+    "id": "CBG-VT-10118",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6207,
+    "y": 44.4908,
+    "infraWeight": 0.9135773464678127,
+    "population": 1911,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10298",
+      "CBG-VT-10129",
+      "CBG-VT-10128",
+      "CBG-VT-10220",
+      "CBG-VT-10137"
+    ]
+  },
+  {
+    "id": "CBG-VT-10119",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0893,
+    "y": 44.9527,
+    "infraWeight": 0.7009517024675849,
+    "population": 1463,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10239",
+      "CBG-VT-10319",
+      "CBG-VT-10223",
+      "CBG-VT-10257",
+      "CBG-VT-10145"
+    ]
+  },
+  {
+    "id": "CBG-VT-10120",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.435,
+    "y": 44.7676,
+    "infraWeight": 0.7911287265571477,
+    "population": 1668,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10110",
+      "CBG-VT-10323",
+      "CBG-VT-10236",
+      "CBG-VT-10084",
+      "CBG-VT-10302"
+    ]
+  },
+  {
+    "id": "CBG-VT-10121",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9715,
+    "y": 43.7732,
+    "infraWeight": 1.0069560327338452,
+    "population": 1655,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10011",
+      "CBG-VT-10077",
+      "CBG-VT-10143",
+      "CBG-VT-10038",
+      "CBG-VT-10346"
+    ]
+  },
+  {
+    "id": "CBG-VT-10122",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5383,
+    "y": 44.8625,
+    "infraWeight": 0.6390620529994382,
+    "population": 1198,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10310",
+      "CBG-VT-10246",
+      "CBG-VT-10100",
+      "CBG-VT-10231",
+      "CBG-VT-10342"
+    ]
+  },
+  {
+    "id": "CBG-VT-10123",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9483,
+    "y": 43.8865,
+    "infraWeight": 1.0017432620601472,
+    "population": 1753,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10090",
+      "CBG-VT-10179",
+      "CBG-VT-10107",
+      "CBG-VT-10344",
+      "CBG-VT-10163"
+    ]
+  },
+  {
+    "id": "CBG-VT-10124",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5773,
+    "y": 43.4405,
+    "infraWeight": 1.0349920666947172,
+    "population": 1717,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10157",
+      "CBG-VT-10042",
+      "CBG-VT-10133",
+      "CBG-VT-10178",
+      "CBG-VT-10180"
+    ]
+  },
+  {
+    "id": "CBG-VT-10125",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8325,
+    "y": 44.1253,
+    "infraWeight": 0.8989994451570384,
+    "population": 1762,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10253",
+      "CBG-VT-10197",
+      "CBG-VT-10048",
+      "CBG-VT-10339",
+      "CBG-VT-10071"
+    ]
+  },
+  {
+    "id": "CBG-VT-10126",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7233,
+    "y": 43.4597,
+    "infraWeight": 1.0041457909955316,
+    "population": 1830,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10045",
+      "CBG-VT-10026",
+      "CBG-VT-10157",
+      "CBG-VT-10275",
+      "CBG-VT-10104"
+    ]
+  },
+  {
+    "id": "CBG-VT-10127",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7995,
+    "y": 43.1107,
+    "infraWeight": 0.8165930962978699,
+    "population": 1634,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10160",
+      "CBG-VT-10336",
+      "CBG-VT-10083",
+      "CBG-VT-10075",
+      "CBG-VT-10182"
+    ]
+  },
+  {
+    "id": "CBG-VT-10128",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6298,
+    "y": 44.5851,
+    "infraWeight": 0.864338888235266,
+    "population": 1502,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10298",
+      "CBG-VT-10229",
+      "CBG-VT-10220",
+      "CBG-VT-10129",
+      "CBG-VT-10118"
+    ]
+  },
+  {
+    "id": "CBG-VT-10129",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5684,
+    "y": 44.5229,
+    "infraWeight": 0.9027189050188316,
+    "population": 1573,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10220",
+      "CBG-VT-10118",
+      "CBG-VT-10298",
+      "CBG-VT-10128",
+      "CBG-VT-10318"
+    ]
+  },
+  {
+    "id": "CBG-VT-10130",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.4305,
+    "y": 43.2937,
+    "infraWeight": 0.7018309105954535,
+    "population": 1319,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10195",
+      "CBG-VT-10340",
+      "CBG-VT-10233",
+      "CBG-VT-10117",
+      "CBG-VT-10232"
+    ]
+  },
+  {
+    "id": "CBG-VT-10131",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8255,
+    "y": 44.3287,
+    "infraWeight": 0.9429372642496758,
+    "population": 1709,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10115",
+      "CBG-VT-10291",
+      "CBG-VT-10272",
+      "CBG-VT-10171",
+      "CBG-VT-10076"
+    ]
+  },
+  {
+    "id": "CBG-VT-10132",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8168,
+    "y": 44.5565,
+    "infraWeight": 0.7758152060195943,
+    "population": 1455,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10317",
+      "CBG-VT-10311",
+      "CBG-VT-10281",
+      "CBG-VT-10245",
+      "CBG-VT-10103"
+    ]
+  },
+  {
+    "id": "CBG-VT-10133",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5081,
+    "y": 43.4153,
+    "infraWeight": 1.0274506332638367,
+    "population": 1880,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10178",
+      "CBG-VT-10124",
+      "CBG-VT-10081",
+      "CBG-VT-10001",
+      "CBG-VT-10049"
+    ]
+  },
+  {
+    "id": "CBG-VT-10134",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2198,
+    "y": 43.6816,
+    "infraWeight": 1.1543935403352148,
+    "population": 1897,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10252",
+      "CBG-VT-10024",
+      "CBG-VT-10149",
+      "CBG-VT-10089",
+      "CBG-VT-10007"
+    ]
+  },
+  {
+    "id": "CBG-VT-10135",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.285,
+    "y": 44.5896,
+    "infraWeight": 0.8636053739084787,
+    "population": 1503,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10296",
+      "CBG-VT-10288",
+      "CBG-VT-10067",
+      "CBG-VT-10029",
+      "CBG-VT-10003"
+    ]
+  },
+  {
+    "id": "CBG-VT-10136",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1167,
+    "y": 44.832,
+    "infraWeight": 0.6917501750353564,
+    "population": 1101,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10334",
+      "CBG-VT-10055",
+      "CBG-VT-10306",
+      "CBG-VT-10036",
+      "CBG-VT-10255"
+    ]
+  },
+  {
+    "id": "CBG-VT-10137",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6446,
+    "y": 44.3812,
+    "infraWeight": 0.9708976272602485,
+    "population": 1571,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10118",
+      "CBG-VT-10241",
+      "CBG-VT-10291",
+      "CBG-VT-10298",
+      "CBG-VT-10129"
+    ]
+  },
+  {
+    "id": "CBG-VT-10138",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9207,
+    "y": 42.7879,
+    "infraWeight": 0.6877059085048246,
+    "population": 1402,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10204",
+      "CBG-VT-10266",
+      "CBG-VT-10193",
+      "CBG-VT-10228",
+      "CBG-VT-10097"
+    ]
+  },
+  {
+    "id": "CBG-VT-10139",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2052,
+    "y": 44.3369,
+    "infraWeight": 0.9828748485097556,
+    "population": 1733,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10343",
+      "CBG-VT-10283",
+      "CBG-VT-10109",
+      "CBG-VT-10192",
+      "CBG-VT-10183"
+    ]
+  },
+  {
+    "id": "CBG-VT-10140",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.877,
+    "y": 44.8053,
+    "infraWeight": 0.7156349644504877,
+    "population": 1489,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10289",
+      "CBG-VT-10214",
+      "CBG-VT-10102",
+      "CBG-VT-10319",
+      "CBG-VT-10223"
+    ]
+  },
+  {
+    "id": "CBG-VT-10141",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8742,
+    "y": 43.1667,
+    "infraWeight": 0.7849555843732378,
+    "population": 1602,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10051",
+      "CBG-VT-10161",
+      "CBG-VT-10015",
+      "CBG-VT-10349",
+      "CBG-VT-10286"
+    ]
+  },
+  {
+    "id": "CBG-VT-10142",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5636,
+    "y": 43.7281,
+    "infraWeight": 0.7898628387091504,
+    "population": 1472,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10072",
+      "CBG-VT-10165",
+      "CBG-VT-10031",
+      "CBG-VT-10006",
+      "CBG-VT-10331"
+    ]
+  },
+  {
+    "id": "CBG-VT-10143",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0164,
+    "y": 43.9039,
+    "infraWeight": 1.04467102479473,
+    "population": 1689,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10038",
+      "CBG-VT-10348",
+      "CBG-VT-10064",
+      "CBG-VT-10121",
+      "CBG-VT-10148"
+    ]
+  },
+  {
+    "id": "CBG-VT-10144",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1415,
+    "y": 43.3727,
+    "infraWeight": 0.9450225569894489,
+    "population": 1756,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10341",
+      "CBG-VT-10085",
+      "CBG-VT-10017",
+      "CBG-VT-10025",
+      "CBG-VT-10096"
+    ]
+  },
+  {
+    "id": "CBG-VT-10145",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0879,
+    "y": 44.7488,
+    "infraWeight": 0.7694847370819112,
+    "population": 1601,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10223",
+      "CBG-VT-10052",
+      "CBG-VT-10270",
+      "CBG-VT-10218",
+      "CBG-VT-10167"
+    ]
+  },
+  {
+    "id": "CBG-VT-10146",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4963,
+    "y": 44.1029,
+    "infraWeight": 1.2139678924593276,
+    "population": 1979,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10176",
+      "CBG-VT-10095",
+      "CBG-VT-10019",
+      "CBG-VT-10293",
+      "CBG-VT-10226"
+    ]
+  },
+  {
+    "id": "CBG-VT-10147",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.44,
+    "y": 42.8622,
+    "infraWeight": 0.7464451259657331,
+    "population": 1486,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10247",
+      "CBG-VT-10039",
+      "CBG-VT-10028",
+      "CBG-VT-10222",
+      "CBG-VT-10170"
+    ]
+  },
+  {
+    "id": "CBG-VT-10148",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1504,
+    "y": 43.955,
+    "infraWeight": 1.143293287659817,
+    "population": 1900,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10064",
+      "CBG-VT-10348",
+      "CBG-VT-10089",
+      "CBG-VT-10143",
+      "CBG-VT-10038"
+    ]
+  },
+  {
+    "id": "CBG-VT-10149",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3281,
+    "y": 43.5889,
+    "infraWeight": 1.1464955805615014,
+    "population": 1953,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10024",
+      "CBG-VT-10134",
+      "CBG-VT-10049",
+      "CBG-VT-10159",
+      "CBG-VT-10012"
+    ]
+  },
+  {
+    "id": "CBG-VT-10150",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5121,
+    "y": 44.2205,
+    "infraWeight": 0.7493445769305127,
+    "population": 1566,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10215",
+      "CBG-VT-10186",
+      "CBG-VT-10206",
+      "CBG-VT-10174",
+      "CBG-VT-10184"
+    ]
+  },
+  {
+    "id": "CBG-VT-10151",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2632,
+    "y": 43.5026,
+    "infraWeight": 0.7928106876536694,
+    "population": 1656,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10303",
+      "CBG-VT-10154",
+      "CBG-VT-10117",
+      "CBG-VT-10018",
+      "CBG-VT-10305"
+    ]
+  },
+  {
+    "id": "CBG-VT-10152",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1516,
+    "y": 43.8518,
+    "infraWeight": 0.8819336351943475,
+    "population": 1455,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10238",
+      "CBG-VT-10090",
+      "CBG-VT-10107",
+      "CBG-VT-10123",
+      "CBG-VT-10163"
+    ]
+  },
+  {
+    "id": "CBG-VT-10153",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4213,
+    "y": 43.3713,
+    "infraWeight": 0.9991456956989775,
+    "population": 2044,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10001",
+      "CBG-VT-10012",
+      "CBG-VT-10207",
+      "CBG-VT-10081",
+      "CBG-VT-10133"
+    ]
+  },
+  {
+    "id": "CBG-VT-10154",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2399,
+    "y": 43.5334,
+    "infraWeight": 0.8072163725943139,
+    "population": 1449,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10303",
+      "CBG-VT-10151",
+      "CBG-VT-10305",
+      "CBG-VT-10018",
+      "CBG-VT-10279"
+    ]
+  },
+  {
+    "id": "CBG-VT-10155",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2273,
+    "y": 42.7803,
+    "infraWeight": 0.6412092415828831,
+    "population": 1057,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10251",
+      "CBG-VT-10205",
+      "CBG-VT-10327",
+      "CBG-VT-10295",
+      "CBG-VT-10237"
+    ]
+  },
+  {
+    "id": "CBG-VT-10156",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1951,
+    "y": 44.598,
+    "infraWeight": 0.735391558203435,
+    "population": 1349,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10177",
+      "CBG-VT-10074",
+      "CBG-VT-10201",
+      "CBG-VT-10255",
+      "CBG-VT-10250"
+    ]
+  },
+  {
+    "id": "CBG-VT-10157",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.641,
+    "y": 43.4567,
+    "infraWeight": 1.0299475869793377,
+    "population": 1682,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10026",
+      "CBG-VT-10124",
+      "CBG-VT-10045",
+      "CBG-VT-10126",
+      "CBG-VT-10042"
+    ]
+  },
+  {
+    "id": "CBG-VT-10158",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2215,
+    "y": 44.9465,
+    "infraWeight": 0.6458863928143214,
+    "population": 1084,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10254",
+      "CBG-VT-10055",
+      "CBG-VT-10070",
+      "CBG-VT-10334",
+      "CBG-VT-10212"
+    ]
+  },
+  {
+    "id": "CBG-VT-10159",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4331,
+    "y": 43.73,
+    "infraWeight": 1.3125566063465788,
+    "population": 2200,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10209",
+      "CBG-VT-10002",
+      "CBG-VT-10024",
+      "CBG-VT-10149",
+      "CBG-VT-10134"
+    ]
+  },
+  {
+    "id": "CBG-VT-10160",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.823,
+    "y": 43.054,
+    "infraWeight": 0.7901620968704031,
+    "population": 1486,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10083",
+      "CBG-VT-10127",
+      "CBG-VT-10182",
+      "CBG-VT-10336",
+      "CBG-VT-10221"
+    ]
+  },
+  {
+    "id": "CBG-VT-10161",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8958,
+    "y": 43.2229,
+    "infraWeight": 0.80906019546831,
+    "population": 1651,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10141",
+      "CBG-VT-10349",
+      "CBG-VT-10015",
+      "CBG-VT-10051",
+      "CBG-VT-10316"
+    ]
+  },
+  {
+    "id": "CBG-VT-10162",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7988,
+    "y": 43.9536,
+    "infraWeight": 0.9050066633684938,
+    "population": 1748,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10339",
+      "CBG-VT-10346",
+      "CBG-VT-10331",
+      "CBG-VT-10031",
+      "CBG-VT-10048"
+    ]
+  },
+  {
+    "id": "CBG-VT-10163",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9854,
+    "y": 43.9897,
+    "infraWeight": 0.9695248700271555,
+    "population": 1737,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10179",
+      "CBG-VT-10090",
+      "CBG-VT-10308",
+      "CBG-VT-10123",
+      "CBG-VT-10344"
+    ]
+  },
+  {
+    "id": "CBG-VT-10164",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.798,
+    "y": 44.323,
+    "infraWeight": 0.8361946632672486,
+    "population": 1695,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10256",
+      "CBG-VT-10168",
+      "CBG-VT-10079",
+      "CBG-VT-10245",
+      "CBG-VT-10259"
+    ]
+  },
+  {
+    "id": "CBG-VT-10165",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5415,
+    "y": 43.9035,
+    "infraWeight": 0.7852559278228629,
+    "population": 1279,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10248",
+      "CBG-VT-10020",
+      "CBG-VT-10210",
+      "CBG-VT-10200",
+      "CBG-VT-10072"
+    ]
+  },
+  {
+    "id": "CBG-VT-10166",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5577,
+    "y": 44.8447,
+    "infraWeight": 0.7580417905453946,
+    "population": 1371,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10244",
+      "CBG-VT-10282",
+      "CBG-VT-10120",
+      "CBG-VT-10099",
+      "CBG-VT-10236"
+    ]
+  },
+  {
+    "id": "CBG-VT-10167",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2397,
+    "y": 44.7782,
+    "infraWeight": 0.7768639610292525,
+    "population": 1333,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10218",
+      "CBG-VT-10257",
+      "CBG-VT-10323",
+      "CBG-VT-10302",
+      "CBG-VT-10098"
+    ]
+  },
+  {
+    "id": "CBG-VT-10168",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8479,
+    "y": 44.35,
+    "infraWeight": 0.8475473527268272,
+    "population": 1717,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10256",
+      "CBG-VT-10164",
+      "CBG-VT-10259",
+      "CBG-VT-10245",
+      "CBG-VT-10196"
+    ]
+  },
+  {
+    "id": "CBG-VT-10169",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.014,
+    "y": 43.5605,
+    "infraWeight": 0.9762037199145427,
+    "population": 1764,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10007",
+      "CBG-VT-10073",
+      "CBG-VT-10330",
+      "CBG-VT-10017",
+      "CBG-VT-10321"
+    ]
+  },
+  {
+    "id": "CBG-VT-10170",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5714,
+    "y": 42.9279,
+    "infraWeight": 0.7686685457808753,
+    "population": 1205,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10287",
+      "CBG-VT-10053",
+      "CBG-VT-10028",
+      "CBG-VT-10211",
+      "CBG-VT-10147"
+    ]
+  },
+  {
+    "id": "CBG-VT-10171",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8915,
+    "y": 44.2348,
+    "infraWeight": 0.954923172450739,
+    "population": 1583,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10264",
+      "CBG-VT-10272",
+      "CBG-VT-10131",
+      "CBG-VT-10115",
+      "CBG-VT-10329"
+    ]
+  },
+  {
+    "id": "CBG-VT-10172",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.347,
+    "y": 44.0751,
+    "infraWeight": 1.2209717458204987,
+    "population": 2446,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10293",
+      "CBG-VT-10176",
+      "CBG-VT-10146",
+      "CBG-VT-10019",
+      "CBG-VT-10116"
+    ]
+  },
+  {
+    "id": "CBG-VT-10173",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8886,
+    "y": 44.8562,
+    "infraWeight": 0.7220738167562066,
+    "population": 1409,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10203",
+      "CBG-VT-10322",
+      "CBG-VT-10277",
+      "CBG-VT-10290",
+      "CBG-VT-10036"
+    ]
+  },
+  {
+    "id": "CBG-VT-10174",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6473,
+    "y": 44.1656,
+    "infraWeight": 0.8082474585293592,
+    "population": 1633,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10215",
+      "CBG-VT-10206",
+      "CBG-VT-10186",
+      "CBG-VT-10079",
+      "CBG-VT-10048"
+    ]
+  },
+  {
+    "id": "CBG-VT-10175",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7995,
+    "y": 43.2749,
+    "infraWeight": 0.8870038860719186,
+    "population": 1608,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10275",
+      "CBG-VT-10274",
+      "CBG-VT-10104",
+      "CBG-VT-10075",
+      "CBG-VT-10063"
+    ]
+  },
+  {
+    "id": "CBG-VT-10176",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4924,
+    "y": 44.0567,
+    "infraWeight": 1.2610372099370057,
+    "population": 2348,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10146",
+      "CBG-VT-10019",
+      "CBG-VT-10293",
+      "CBG-VT-10095",
+      "CBG-VT-10172"
+    ]
+  },
+  {
+    "id": "CBG-VT-10177",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.278,
+    "y": 44.5843,
+    "infraWeight": 0.7171694954870311,
+    "population": 1300,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10074",
+      "CBG-VT-10156",
+      "CBG-VT-10314",
+      "CBG-VT-10027",
+      "CBG-VT-10208"
+    ]
+  },
+  {
+    "id": "CBG-VT-10178",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.554,
+    "y": 43.3689,
+    "infraWeight": 0.9912462936896228,
+    "population": 2004,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10180",
+      "CBG-VT-10081",
+      "CBG-VT-10133",
+      "CBG-VT-10124",
+      "CBG-VT-10157"
+    ]
+  },
+  {
+    "id": "CBG-VT-10179",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9564,
+    "y": 43.9667,
+    "infraWeight": 0.99066051209663,
+    "population": 1758,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10090",
+      "CBG-VT-10163",
+      "CBG-VT-10123",
+      "CBG-VT-10344",
+      "CBG-VT-10308"
+    ]
+  },
+  {
+    "id": "CBG-VT-10180",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6029,
+    "y": 43.3346,
+    "infraWeight": 0.9627181809790608,
+    "population": 1709,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10178",
+      "CBG-VT-10104",
+      "CBG-VT-10081",
+      "CBG-VT-10124",
+      "CBG-VT-10032"
+    ]
+  },
+  {
+    "id": "CBG-VT-10181",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3581,
+    "y": 43.028,
+    "infraWeight": 0.6700092207383674,
+    "population": 1277,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10009",
+      "CBG-VT-10106",
+      "CBG-VT-10327",
+      "CBG-VT-10040",
+      "CBG-VT-10237"
+    ]
+  },
+  {
+    "id": "CBG-VT-10182",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8284,
+    "y": 42.9829,
+    "infraWeight": 0.7631240692570653,
+    "population": 1227,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10083",
+      "CBG-VT-10160",
+      "CBG-VT-10097",
+      "CBG-VT-10221",
+      "CBG-VT-10060"
+    ]
+  },
+  {
+    "id": "CBG-VT-10183",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1145,
+    "y": 44.3859,
+    "infraWeight": 0.9290162552073886,
+    "population": 1860,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10249",
+      "CBG-VT-10068",
+      "CBG-VT-10217",
+      "CBG-VT-10192",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10184",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5353,
+    "y": 44.075,
+    "infraWeight": 0.7739434819455141,
+    "population": 1347,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10186",
+      "CBG-VT-10206",
+      "CBG-VT-10200",
+      "CBG-VT-10215",
+      "CBG-VT-10020"
+    ]
+  },
+  {
+    "id": "CBG-VT-10185",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7371,
+    "y": 42.8262,
+    "infraWeight": 0.71981343536572,
+    "population": 1478,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10280",
+      "CBG-VT-10086",
+      "CBG-VT-10053",
+      "CBG-VT-10193",
+      "CBG-VT-10097"
+    ]
+  },
+  {
+    "id": "CBG-VT-10186",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5751,
+    "y": 44.1325,
+    "infraWeight": 0.7837166684628702,
+    "population": 1304,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10206",
+      "CBG-VT-10215",
+      "CBG-VT-10184",
+      "CBG-VT-10174",
+      "CBG-VT-10150"
+    ]
+  },
+  {
+    "id": "CBG-VT-10187",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1019,
+    "y": 43.0145,
+    "infraWeight": 0.77896821475081,
+    "population": 1440,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10111",
+      "CBG-VT-10230",
+      "CBG-VT-10058",
+      "CBG-VT-10005",
+      "CBG-VT-10312"
+    ]
+  },
+  {
+    "id": "CBG-VT-10188",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6392,
+    "y": 42.8788,
+    "infraWeight": 0.6571653288396173,
+    "population": 1115,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10224",
+      "CBG-VT-10034",
+      "CBG-VT-10326",
+      "CBG-VT-10087",
+      "CBG-VT-10242"
+    ]
+  },
+  {
+    "id": "CBG-VT-10189",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0948,
+    "y": 43.1127,
+    "infraWeight": 0.7517813301584745,
+    "population": 1413,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10056",
+      "CBG-VT-10040",
+      "CBG-VT-10106",
+      "CBG-VT-10237",
+      "CBG-VT-10060"
+    ]
+  },
+  {
+    "id": "CBG-VT-10190",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1067,
+    "y": 44.3781,
+    "infraWeight": 0.8203591535353721,
+    "population": 1583,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10300",
+      "CBG-VT-10250",
+      "CBG-VT-10201",
+      "CBG-VT-10004",
+      "CBG-VT-10271"
+    ]
+  },
+  {
+    "id": "CBG-VT-10191",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.4266,
+    "y": 44.6151,
+    "infraWeight": 0.6737151024395386,
+    "population": 1315,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10208",
+      "CBG-VT-10023",
+      "CBG-VT-10314",
+      "CBG-VT-10177",
+      "CBG-VT-10074"
+    ]
+  },
+  {
+    "id": "CBG-VT-10192",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1043,
+    "y": 44.3355,
+    "infraWeight": 0.94989900720217,
+    "population": 1879,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10217",
+      "CBG-VT-10183",
+      "CBG-VT-10068",
+      "CBG-VT-10249",
+      "CBG-VT-10315"
+    ]
+  },
+  {
+    "id": "CBG-VT-10193",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8307,
+    "y": 42.8346,
+    "infraWeight": 0.7128062974694971,
+    "population": 1445,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10266",
+      "CBG-VT-10097",
+      "CBG-VT-10086",
+      "CBG-VT-10185",
+      "CBG-VT-10204"
+    ]
+  },
+  {
+    "id": "CBG-VT-10194",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4396,
+    "y": 44.4847,
+    "infraWeight": 0.9298580656636044,
+    "population": 1918,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10276",
+      "CBG-VT-10318",
+      "CBG-VT-10066",
+      "CBG-VT-10078",
+      "CBG-VT-10268"
+    ]
+  },
+  {
+    "id": "CBG-VT-10195",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3551,
+    "y": 43.2832,
+    "infraWeight": 0.721601949760213,
+    "population": 1296,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10340",
+      "CBG-VT-10130",
+      "CBG-VT-10232",
+      "CBG-VT-10117",
+      "CBG-VT-10292"
+    ]
+  },
+  {
+    "id": "CBG-VT-10196",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9572,
+    "y": 44.312,
+    "infraWeight": 0.9026776159498731,
+    "population": 1578,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10069",
+      "CBG-VT-10259",
+      "CBG-VT-10315",
+      "CBG-VT-10197",
+      "CBG-VT-10168"
+    ]
+  },
+  {
+    "id": "CBG-VT-10197",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9394,
+    "y": 44.2125,
+    "infraWeight": 0.9288953371890164,
+    "population": 1803,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10253",
+      "CBG-VT-10196",
+      "CBG-VT-10069",
+      "CBG-VT-10315",
+      "CBG-VT-10125"
+    ]
+  },
+  {
+    "id": "CBG-VT-10198",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7545,
+    "y": 43.5418,
+    "infraWeight": 0.8470892978545983,
+    "population": 1603,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10330",
+      "CBG-VT-10006",
+      "CBG-VT-10324",
+      "CBG-VT-10321",
+      "CBG-VT-10073"
+    ]
+  },
+  {
+    "id": "CBG-VT-10199",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3768,
+    "y": 43.0274,
+    "infraWeight": 0.8118727064801297,
+    "population": 1269,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10345",
+      "CBG-VT-10304",
+      "CBG-VT-10222",
+      "CBG-VT-10285",
+      "CBG-VT-10225"
+    ]
+  },
+  {
+    "id": "CBG-VT-10200",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.613,
+    "y": 44.026,
+    "infraWeight": 0.8098508216022371,
+    "population": 1699,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10020",
+      "CBG-VT-10210",
+      "CBG-VT-10184",
+      "CBG-VT-10206",
+      "CBG-VT-10048"
+    ]
+  },
+  {
+    "id": "CBG-VT-10201",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1708,
+    "y": 44.4579,
+    "infraWeight": 0.7779306264192761,
+    "population": 1311,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10250",
+      "CBG-VT-10300",
+      "CBG-VT-10061",
+      "CBG-VT-10190",
+      "CBG-VT-10156"
+    ]
+  },
+  {
+    "id": "CBG-VT-10202",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9396,
+    "y": 43.3631,
+    "infraWeight": 0.8714142692259362,
+    "population": 1594,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10316",
+      "CBG-VT-10349",
+      "CBG-VT-10321",
+      "CBG-VT-10017",
+      "CBG-VT-10096"
+    ]
+  },
+  {
+    "id": "CBG-VT-10203",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8676,
+    "y": 44.837,
+    "infraWeight": 0.7312258034137187,
+    "population": 1378,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10173",
+      "CBG-VT-10322",
+      "CBG-VT-10290",
+      "CBG-VT-10277",
+      "CBG-VT-10036"
+    ]
+  },
+  {
+    "id": "CBG-VT-10204",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9225,
+    "y": 42.8608,
+    "infraWeight": 0.7090732719407369,
+    "population": 1248,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10266",
+      "CBG-VT-10228",
+      "CBG-VT-10138",
+      "CBG-VT-10193",
+      "CBG-VT-10097"
+    ]
+  },
+  {
+    "id": "CBG-VT-10205",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1134,
+    "y": 42.8138,
+    "infraWeight": 0.6672355396007309,
+    "population": 1308,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10295",
+      "CBG-VT-10251",
+      "CBG-VT-10155",
+      "CBG-VT-10228",
+      "CBG-VT-10327"
+    ]
+  },
+  {
+    "id": "CBG-VT-10206",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5942,
+    "y": 44.1164,
+    "infraWeight": 0.7931745363519027,
+    "population": 1593,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10186",
+      "CBG-VT-10215",
+      "CBG-VT-10184",
+      "CBG-VT-10174",
+      "CBG-VT-10200"
+    ]
+  },
+  {
+    "id": "CBG-VT-10207",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3573,
+    "y": 43.331,
+    "infraWeight": 0.9685074881703636,
+    "population": 1777,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10012",
+      "CBG-VT-10153",
+      "CBG-VT-10001",
+      "CBG-VT-10081",
+      "CBG-VT-10092"
+    ]
+  },
+  {
+    "id": "CBG-VT-10208",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.416,
+    "y": 44.5305,
+    "infraWeight": 0.6917717147055625,
+    "population": 1452,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10314",
+      "CBG-VT-10191",
+      "CBG-VT-10027",
+      "CBG-VT-10074",
+      "CBG-VT-10177"
+    ]
+  },
+  {
+    "id": "CBG-VT-10209",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4848,
+    "y": 43.8058,
+    "infraWeight": 1.396618140896727,
+    "population": 2918,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10159",
+      "CBG-VT-10002",
+      "CBG-VT-10030",
+      "CBG-VT-10240",
+      "CBG-VT-10019"
+    ]
+  },
+  {
+    "id": "CBG-VT-10210",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6252,
+    "y": 43.9593,
+    "infraWeight": 0.8194346896462685,
+    "population": 1298,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10020",
+      "CBG-VT-10200",
+      "CBG-VT-10165",
+      "CBG-VT-10248",
+      "CBG-VT-10031"
+    ]
+  },
+  {
+    "id": "CBG-VT-10211",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.495,
+    "y": 43.0518,
+    "infraWeight": 0.8237039655805538,
+    "population": 1457,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10304",
+      "CBG-VT-10028",
+      "CBG-VT-10225",
+      "CBG-VT-10345",
+      "CBG-VT-10199"
+    ]
+  },
+  {
+    "id": "CBG-VT-10212",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.08,
+    "y": 44.9811,
+    "infraWeight": 0.6592742735523419,
+    "population": 1284,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10216",
+      "CBG-VT-10055",
+      "CBG-VT-10334",
+      "CBG-VT-10036",
+      "CBG-VT-10158"
+    ]
+  },
+  {
+    "id": "CBG-VT-10213",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9218,
+    "y": 42.767,
+    "infraWeight": 0.6741718911667345,
+    "population": 1202,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10258",
+      "CBG-VT-10091",
+      "CBG-VT-10014",
+      "CBG-VT-10267",
+      "CBG-VT-10005"
+    ]
+  },
+  {
+    "id": "CBG-VT-10214",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7646,
+    "y": 44.7342,
+    "infraWeight": 0.7134656105029823,
+    "population": 1407,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10289",
+      "CBG-VT-10140",
+      "CBG-VT-10317",
+      "CBG-VT-10342",
+      "CBG-VT-10333"
+    ]
+  },
+  {
+    "id": "CBG-VT-10215",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5985,
+    "y": 44.1647,
+    "infraWeight": 0.7888397237330235,
+    "population": 1582,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10186",
+      "CBG-VT-10206",
+      "CBG-VT-10174",
+      "CBG-VT-10150",
+      "CBG-VT-10184"
+    ]
+  },
+  {
+    "id": "CBG-VT-10216",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0913,
+    "y": 45.0119,
+    "infraWeight": 0.6500023294593809,
+    "population": 1228,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10212",
+      "CBG-VT-10055",
+      "CBG-VT-10334",
+      "CBG-VT-10158",
+      "CBG-VT-10036"
+    ]
+  },
+  {
+    "id": "CBG-VT-10217",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0839,
+    "y": 44.3687,
+    "infraWeight": 0.9270883755567174,
+    "population": 1479,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10068",
+      "CBG-VT-10183",
+      "CBG-VT-10192",
+      "CBG-VT-10249",
+      "CBG-VT-10315"
+    ]
+  },
+  {
+    "id": "CBG-VT-10218",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2242,
+    "y": 44.7488,
+    "infraWeight": 0.7869868508700256,
+    "population": 1629,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10167",
+      "CBG-VT-10257",
+      "CBG-VT-10323",
+      "CBG-VT-10145",
+      "CBG-VT-10223"
+    ]
+  },
+  {
+    "id": "CBG-VT-10219",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0337,
+    "y": 43.3681,
+    "infraWeight": 0.8474270632057409,
+    "population": 1709,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10088",
+      "CBG-VT-10263",
+      "CBG-VT-10309",
+      "CBG-VT-10022",
+      "CBG-VT-10013"
+    ]
+  },
+  {
+    "id": "CBG-VT-10220",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5579,
+    "y": 44.5723,
+    "infraWeight": 0.8778857553539409,
+    "population": 1515,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10129",
+      "CBG-VT-10128",
+      "CBG-VT-10298",
+      "CBG-VT-10118",
+      "CBG-VT-10084"
+    ]
+  },
+  {
+    "id": "CBG-VT-10221",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7313,
+    "y": 42.9897,
+    "infraWeight": 0.7790531374852101,
+    "population": 1625,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10083",
+      "CBG-VT-10182",
+      "CBG-VT-10160",
+      "CBG-VT-10097",
+      "CBG-VT-10053"
+    ]
+  },
+  {
+    "id": "CBG-VT-10222",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3818,
+    "y": 42.9458,
+    "infraWeight": 0.7777961679672696,
+    "population": 1449,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10039",
+      "CBG-VT-10199",
+      "CBG-VT-10028",
+      "CBG-VT-10247",
+      "CBG-VT-10147"
+    ]
+  },
+  {
+    "id": "CBG-VT-10223",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0873,
+    "y": 44.7874,
+    "infraWeight": 0.7555534614287973,
+    "population": 1364,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10145",
+      "CBG-VT-10052",
+      "CBG-VT-10218",
+      "CBG-VT-10319",
+      "CBG-VT-10270"
+    ]
+  },
+  {
+    "id": "CBG-VT-10224",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5886,
+    "y": 42.8916,
+    "infraWeight": 0.6506191093739111,
+    "population": 1100,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10188",
+      "CBG-VT-10299",
+      "CBG-VT-10087",
+      "CBG-VT-10034",
+      "CBG-VT-10037"
+    ]
+  },
+  {
+    "id": "CBG-VT-10225",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4158,
+    "y": 43.1201,
+    "infraWeight": 0.8559503676117467,
+    "population": 1463,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10092",
+      "CBG-VT-10345",
+      "CBG-VT-10054",
+      "CBG-VT-10304",
+      "CBG-VT-10199"
+    ]
+  },
+  {
+    "id": "CBG-VT-10226",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.5934,
+    "y": 44.1873,
+    "infraWeight": 1.11422290277694,
+    "population": 2084,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10095",
+      "CBG-VT-10146",
+      "CBG-VT-10047",
+      "CBG-VT-10176",
+      "CBG-VT-10272"
+    ]
+  },
+  {
+    "id": "CBG-VT-10227",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.613,
+    "y": 43.1169,
+    "infraWeight": 0.7049130001185882,
+    "population": 1125,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10080",
+      "CBG-VT-10057",
+      "CBG-VT-10037",
+      "CBG-VT-10087",
+      "CBG-VT-10328"
+    ]
+  },
+  {
+    "id": "CBG-VT-10228",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.99,
+    "y": 42.8763,
+    "infraWeight": 0.7035911617696379,
+    "population": 1369,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10204",
+      "CBG-VT-10295",
+      "CBG-VT-10138",
+      "CBG-VT-10266",
+      "CBG-VT-10060"
+    ]
+  },
+  {
+    "id": "CBG-VT-10229",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6831,
+    "y": 44.6002,
+    "infraWeight": 0.8500913505918805,
+    "population": 1429,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10128",
+      "CBG-VT-10298",
+      "CBG-VT-10118",
+      "CBG-VT-10220",
+      "CBG-VT-10260"
+    ]
+  },
+  {
+    "id": "CBG-VT-10230",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1939,
+    "y": 43.0916,
+    "infraWeight": 0.8235488060538655,
+    "population": 1502,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10058",
+      "CBG-VT-10347",
+      "CBG-VT-10273",
+      "CBG-VT-10312",
+      "CBG-VT-10285"
+    ]
+  },
+  {
+    "id": "CBG-VT-10231",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5806,
+    "y": 45.0044,
+    "infraWeight": 0.6176511865907249,
+    "population": 996,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10059",
+      "CBG-VT-10310",
+      "CBG-VT-10122",
+      "CBG-VT-10102",
+      "CBG-VT-10289"
+    ]
+  },
+  {
+    "id": "CBG-VT-10232",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2444,
+    "y": 43.2444,
+    "infraWeight": 0.7457714894448082,
+    "population": 1272,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10340",
+      "CBG-VT-10106",
+      "CBG-VT-10040",
+      "CBG-VT-10195",
+      "CBG-VT-10292"
+    ]
+  },
+  {
+    "id": "CBG-VT-10233",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3991,
+    "y": 43.4358,
+    "infraWeight": 0.734068534693829,
+    "population": 1457,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10117",
+      "CBG-VT-10130",
+      "CBG-VT-10151",
+      "CBG-VT-10195",
+      "CBG-VT-10303"
+    ]
+  },
+  {
+    "id": "CBG-VT-10234",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9975,
+    "y": 44.5973,
+    "infraWeight": 0.8083070176307644,
+    "population": 1535,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10284",
+      "CBG-VT-10270",
+      "CBG-VT-10052",
+      "CBG-VT-10313",
+      "CBG-VT-10145"
+    ]
+  },
+  {
+    "id": "CBG-VT-10235",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0475,
+    "y": 44.145,
+    "infraWeight": 0.9057818765961991,
+    "population": 1483,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10101",
+      "CBG-VT-10264",
+      "CBG-VT-10004",
+      "CBG-VT-10329",
+      "CBG-VT-10163"
+    ]
+  },
+  {
+    "id": "CBG-VT-10236",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.503,
+    "y": 44.6829,
+    "infraWeight": 0.8274299877899897,
+    "population": 1575,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10084",
+      "CBG-VT-10120",
+      "CBG-VT-10268",
+      "CBG-VT-10220",
+      "CBG-VT-10110"
+    ]
+  },
+  {
+    "id": "CBG-VT-10237",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1641,
+    "y": 42.9727,
+    "infraWeight": 0.6985122262210509,
+    "population": 1214,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10327",
+      "CBG-VT-10295",
+      "CBG-VT-10056",
+      "CBG-VT-10189",
+      "CBG-VT-10205"
+    ]
+  },
+  {
+    "id": "CBG-VT-10238",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1676,
+    "y": 43.9071,
+    "infraWeight": 0.8734350999843926,
+    "population": 1444,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10152",
+      "CBG-VT-10090",
+      "CBG-VT-10163",
+      "CBG-VT-10179",
+      "CBG-VT-10123"
+    ]
+  },
+  {
+    "id": "CBG-VT-10239",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0604,
+    "y": 45.0006,
+    "infraWeight": 0.6834981184724374,
+    "population": 1219,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10119",
+      "CBG-VT-10319",
+      "CBG-VT-10223",
+      "CBG-VT-10257",
+      "CBG-VT-10145"
+    ]
+  },
+  {
+    "id": "CBG-VT-10240",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6348,
+    "y": 43.8838,
+    "infraWeight": 1.2667789593048608,
+    "population": 2256,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10030",
+      "CBG-VT-10033",
+      "CBG-VT-10278",
+      "CBG-VT-10209",
+      "CBG-VT-10019"
+    ]
+  },
+  {
+    "id": "CBG-VT-10241",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7613,
+    "y": 44.4392,
+    "infraWeight": 0.9108988451760172,
+    "population": 1439,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10291",
+      "CBG-VT-10076",
+      "CBG-VT-10131",
+      "CBG-VT-10137",
+      "CBG-VT-10260"
+    ]
+  },
+  {
+    "id": "CBG-VT-10242",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7166,
+    "y": 43.0179,
+    "infraWeight": 0.7054679719469524,
+    "population": 1407,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10326",
+      "CBG-VT-10087",
+      "CBG-VT-10037",
+      "CBG-VT-10057",
+      "CBG-VT-10227"
+    ]
+  },
+  {
+    "id": "CBG-VT-10243",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5251,
+    "y": 44.534,
+    "infraWeight": 0.7014376389932815,
+    "population": 1226,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10301",
+      "CBG-VT-10035",
+      "CBG-VT-10050",
+      "CBG-VT-10103",
+      "CBG-VT-10333"
+    ]
+  },
+  {
+    "id": "CBG-VT-10244",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6233,
+    "y": 44.7804,
+    "infraWeight": 0.7792906045388053,
+    "population": 1472,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10166",
+      "CBG-VT-10099",
+      "CBG-VT-10008",
+      "CBG-VT-10084",
+      "CBG-VT-10236"
+    ]
+  },
+  {
+    "id": "CBG-VT-10245",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8119,
+    "y": 44.4521,
+    "infraWeight": 0.804990156727756,
+    "population": 1612,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10311",
+      "CBG-VT-10132",
+      "CBG-VT-10281",
+      "CBG-VT-10168",
+      "CBG-VT-10103"
+    ]
+  },
+  {
+    "id": "CBG-VT-10246",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5013,
+    "y": 44.7293,
+    "infraWeight": 0.6579873971350997,
+    "population": 1275,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10100",
+      "CBG-VT-10050",
+      "CBG-VT-10035",
+      "CBG-VT-10342",
+      "CBG-VT-10333"
+    ]
+  },
+  {
+    "id": "CBG-VT-10247",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3987,
+    "y": 42.8583,
+    "infraWeight": 0.7445215974539078,
+    "population": 1503,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10147",
+      "CBG-VT-10039",
+      "CBG-VT-10222",
+      "CBG-VT-10028",
+      "CBG-VT-10199"
+    ]
+  },
+  {
+    "id": "CBG-VT-10248",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5227,
+    "y": 43.9424,
+    "infraWeight": 0.7767494426993512,
+    "population": 1561,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10165",
+      "CBG-VT-10020",
+      "CBG-VT-10210",
+      "CBG-VT-10200",
+      "CBG-VT-10184"
+    ]
+  },
+  {
+    "id": "CBG-VT-10249",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1212,
+    "y": 44.4026,
+    "infraWeight": 0.9230426858576048,
+    "population": 1756,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10183",
+      "CBG-VT-10068",
+      "CBG-VT-10217",
+      "CBG-VT-10192",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10250",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1145,
+    "y": 44.4713,
+    "infraWeight": 0.7919041378415157,
+    "population": 1566,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10300",
+      "CBG-VT-10201",
+      "CBG-VT-10190",
+      "CBG-VT-10271",
+      "CBG-VT-10061"
+    ]
+  },
+  {
+    "id": "CBG-VT-10251",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1878,
+    "y": 42.7289,
+    "infraWeight": 0.6356682083838183,
+    "population": 1050,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10155",
+      "CBG-VT-10205",
+      "CBG-VT-10295",
+      "CBG-VT-10327",
+      "CBG-VT-10237"
+    ]
+  },
+  {
+    "id": "CBG-VT-10252",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.212,
+    "y": 43.7557,
+    "infraWeight": 1.185048178942836,
+    "population": 1930,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10134",
+      "CBG-VT-10089",
+      "CBG-VT-10024",
+      "CBG-VT-10149",
+      "CBG-VT-10148"
+    ]
+  },
+  {
+    "id": "CBG-VT-10253",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9409,
+    "y": 44.1911,
+    "infraWeight": 0.9363530200355014,
+    "population": 1736,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10197",
+      "CBG-VT-10196",
+      "CBG-VT-10297",
+      "CBG-VT-10125",
+      "CBG-VT-10069"
+    ]
+  },
+  {
+    "id": "CBG-VT-10254",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2608,
+    "y": 44.921,
+    "infraWeight": 0.6450584009689554,
+    "population": 1070,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10070",
+      "CBG-VT-10158",
+      "CBG-VT-10055",
+      "CBG-VT-10334",
+      "CBG-VT-10306"
+    ]
+  },
+  {
+    "id": "CBG-VT-10255",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2235,
+    "y": 44.7441,
+    "infraWeight": 0.692778029877736,
+    "population": 1095,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10306",
+      "CBG-VT-10136",
+      "CBG-VT-10156",
+      "CBG-VT-10070",
+      "CBG-VT-10093"
+    ]
+  },
+  {
+    "id": "CBG-VT-10256",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.825,
+    "y": 44.3257,
+    "infraWeight": 0.8458313525188416,
+    "population": 1729,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10164",
+      "CBG-VT-10168",
+      "CBG-VT-10245",
+      "CBG-VT-10196",
+      "CBG-VT-10259"
+    ]
+  },
+  {
+    "id": "CBG-VT-10257",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2265,
+    "y": 44.8583,
+    "infraWeight": 0.7455903056429293,
+    "population": 1548,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10167",
+      "CBG-VT-10302",
+      "CBG-VT-10098",
+      "CBG-VT-10218",
+      "CBG-VT-10323"
+    ]
+  },
+  {
+    "id": "CBG-VT-10258",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8904,
+    "y": 42.8534,
+    "infraWeight": 0.6936615852211852,
+    "population": 1436,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10267",
+      "CBG-VT-10014",
+      "CBG-VT-10213",
+      "CBG-VT-10005",
+      "CBG-VT-10091"
+    ]
+  },
+  {
+    "id": "CBG-VT-10259",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9451,
+    "y": 44.3838,
+    "infraWeight": 0.8721317690922927,
+    "population": 1455,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10196",
+      "CBG-VT-10168",
+      "CBG-VT-10069",
+      "CBG-VT-10256",
+      "CBG-VT-10311"
+    ]
+  },
+  {
+    "id": "CBG-VT-10260",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8104,
+    "y": 44.5621,
+    "infraWeight": 0.8435055596719095,
+    "population": 1463,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10044",
+      "CBG-VT-10307",
+      "CBG-VT-10076",
+      "CBG-VT-10241",
+      "CBG-VT-10229"
+    ]
+  },
+  {
+    "id": "CBG-VT-10261",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1797,
+    "y": 44.2532,
+    "infraWeight": 0.8230977027529973,
+    "population": 1678,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10062",
+      "CBG-VT-10004",
+      "CBG-VT-10190",
+      "CBG-VT-10101",
+      "CBG-VT-10061"
+    ]
+  },
+  {
+    "id": "CBG-VT-10262",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6003,
+    "y": 42.78,
+    "infraWeight": 0.713650915027378,
+    "population": 1478,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10287",
+      "CBG-VT-10053",
+      "CBG-VT-10280",
+      "CBG-VT-10185",
+      "CBG-VT-10170"
+    ]
+  },
+  {
+    "id": "CBG-VT-10263",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0287,
+    "y": 43.3278,
+    "infraWeight": 0.836397151455174,
+    "population": 1528,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10219",
+      "CBG-VT-10088",
+      "CBG-VT-10022",
+      "CBG-VT-10309",
+      "CBG-VT-10274"
+    ]
+  },
+  {
+    "id": "CBG-VT-10264",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.996,
+    "y": 44.2705,
+    "infraWeight": 0.895373172503991,
+    "population": 1771,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10004",
+      "CBG-VT-10171",
+      "CBG-VT-10115",
+      "CBG-VT-10235",
+      "CBG-VT-10271"
+    ]
+  },
+  {
+    "id": "CBG-VT-10265",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1808,
+    "y": 44.4537,
+    "infraWeight": 0.9136892787733143,
+    "population": 1858,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10313",
+      "CBG-VT-10249",
+      "CBG-VT-10029",
+      "CBG-VT-10183",
+      "CBG-VT-10068"
+    ]
+  },
+  {
+    "id": "CBG-VT-10266",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8682,
+    "y": 42.8403,
+    "infraWeight": 0.7100321836857489,
+    "population": 1486,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10193",
+      "CBG-VT-10204",
+      "CBG-VT-10138",
+      "CBG-VT-10097",
+      "CBG-VT-10086"
+    ]
+  },
+  {
+    "id": "CBG-VT-10267",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8543,
+    "y": 42.9189,
+    "infraWeight": 0.7061083439421646,
+    "population": 1321,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10014",
+      "CBG-VT-10258",
+      "CBG-VT-10326",
+      "CBG-VT-10005",
+      "CBG-VT-10213"
+    ]
+  },
+  {
+    "id": "CBG-VT-10268",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4159,
+    "y": 44.6003,
+    "infraWeight": 0.867343672553945,
+    "population": 1486,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10067",
+      "CBG-VT-10288",
+      "CBG-VT-10066",
+      "CBG-VT-10276",
+      "CBG-VT-10194"
+    ]
+  },
+  {
+    "id": "CBG-VT-10269",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3445,
+    "y": 44.9995,
+    "infraWeight": 0.7032810287502268,
+    "population": 1118,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10098",
+      "CBG-VT-10302",
+      "CBG-VT-10257",
+      "CBG-VT-10323",
+      "CBG-VT-10167"
+    ]
+  },
+  {
+    "id": "CBG-VT-10270",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0399,
+    "y": 44.6467,
+    "infraWeight": 0.7990199975444162,
+    "population": 1336,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10052",
+      "CBG-VT-10234",
+      "CBG-VT-10284",
+      "CBG-VT-10145",
+      "CBG-VT-10223"
+    ]
+  },
+  {
+    "id": "CBG-VT-10271",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.988,
+    "y": 44.4087,
+    "infraWeight": 0.8525944645778922,
+    "population": 1796,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10337",
+      "CBG-VT-10300",
+      "CBG-VT-10115",
+      "CBG-VT-10190",
+      "CBG-VT-10076"
+    ]
+  },
+  {
+    "id": "CBG-VT-10272",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7797,
+    "y": 44.2349,
+    "infraWeight": 1.0068455118077175,
+    "population": 1901,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10131",
+      "CBG-VT-10171",
+      "CBG-VT-10115",
+      "CBG-VT-10291",
+      "CBG-VT-10047"
+    ]
+  },
+  {
+    "id": "CBG-VT-10273",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2605,
+    "y": 43.078,
+    "infraWeight": 0.8258550779287963,
+    "population": 1655,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10347",
+      "CBG-VT-10285",
+      "CBG-VT-10058",
+      "CBG-VT-10230",
+      "CBG-VT-10312"
+    ]
+  },
+  {
+    "id": "CBG-VT-10274",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9127,
+    "y": 43.3534,
+    "infraWeight": 0.8854294607190315,
+    "population": 1544,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10022",
+      "CBG-VT-10275",
+      "CBG-VT-10263",
+      "CBG-VT-10219",
+      "CBG-VT-10175"
+    ]
+  },
+  {
+    "id": "CBG-VT-10275",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.808,
+    "y": 43.3903,
+    "infraWeight": 0.9379323220729804,
+    "population": 1781,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10126",
+      "CBG-VT-10274",
+      "CBG-VT-10175",
+      "CBG-VT-10045",
+      "CBG-VT-10104"
+    ]
+  },
+  {
+    "id": "CBG-VT-10276",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.43,
+    "y": 44.4856,
+    "infraWeight": 0.929218267309845,
+    "population": 1952,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10194",
+      "CBG-VT-10318",
+      "CBG-VT-10066",
+      "CBG-VT-10078",
+      "CBG-VT-10268"
+    ]
+  },
+  {
+    "id": "CBG-VT-10277",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8905,
+    "y": 44.7643,
+    "infraWeight": 0.7519309357422057,
+    "population": 1554,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10290",
+      "CBG-VT-10203",
+      "CBG-VT-10173",
+      "CBG-VT-10105",
+      "CBG-VT-10094"
+    ]
+  },
+  {
+    "id": "CBG-VT-10278",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7111,
+    "y": 44.0131,
+    "infraWeight": 1.1574619874887062,
+    "population": 1899,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10033",
+      "CBG-VT-10047",
+      "CBG-VT-10320",
+      "CBG-VT-10240",
+      "CBG-VT-10344"
+    ]
+  },
+  {
+    "id": "CBG-VT-10279",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.177,
+    "y": 43.6126,
+    "infraWeight": 0.8471019694977124,
+    "population": 1421,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10305",
+      "CBG-VT-10154",
+      "CBG-VT-10303",
+      "CBG-VT-10151",
+      "CBG-VT-10016"
+    ]
+  },
+  {
+    "id": "CBG-VT-10280",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7023,
+    "y": 42.8285,
+    "infraWeight": 0.7235832230747166,
+    "population": 1451,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10185",
+      "CBG-VT-10053",
+      "CBG-VT-10086",
+      "CBG-VT-10287",
+      "CBG-VT-10262"
+    ]
+  },
+  {
+    "id": "CBG-VT-10281",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7231,
+    "y": 44.5138,
+    "infraWeight": 0.7611680756691006,
+    "population": 1551,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10103",
+      "CBG-VT-10317",
+      "CBG-VT-10132",
+      "CBG-VT-10245",
+      "CBG-VT-10301"
+    ]
+  },
+  {
+    "id": "CBG-VT-10282",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6592,
+    "y": 44.9429,
+    "infraWeight": 0.7172919619698986,
+    "population": 1454,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10021",
+      "CBG-VT-10113",
+      "CBG-VT-10166",
+      "CBG-VT-10335",
+      "CBG-VT-10099"
+    ]
+  },
+  {
+    "id": "CBG-VT-10283",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2111,
+    "y": 44.2814,
+    "infraWeight": 1.0170446092319054,
+    "population": 1687,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10139",
+      "CBG-VT-10343",
+      "CBG-VT-10109",
+      "CBG-VT-10116",
+      "CBG-VT-10192"
+    ]
+  },
+  {
+    "id": "CBG-VT-10284",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0398,
+    "y": 44.5778,
+    "infraWeight": 0.8254703333143767,
+    "population": 1490,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10234",
+      "CBG-VT-10270",
+      "CBG-VT-10052",
+      "CBG-VT-10313",
+      "CBG-VT-10003"
+    ]
+  },
+  {
+    "id": "CBG-VT-10285",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2959,
+    "y": 43.0839,
+    "infraWeight": 0.8319693269939986,
+    "population": 1404,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10273",
+      "CBG-VT-10347",
+      "CBG-VT-10058",
+      "CBG-VT-10345",
+      "CBG-VT-10054"
+    ]
+  },
+  {
+    "id": "CBG-VT-10286",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0162,
+    "y": 43.1256,
+    "infraWeight": 0.8048718540087201,
+    "population": 1350,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10000",
+      "CBG-VT-10051",
+      "CBG-VT-10187",
+      "CBG-VT-10141",
+      "CBG-VT-10161"
+    ]
+  },
+  {
+    "id": "CBG-VT-10287",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6008,
+    "y": 42.8566,
+    "infraWeight": 0.740344246447818,
+    "population": 1415,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10053",
+      "CBG-VT-10262",
+      "CBG-VT-10170",
+      "CBG-VT-10280",
+      "CBG-VT-10185"
+    ]
+  },
+  {
+    "id": "CBG-VT-10288",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3089,
+    "y": 44.6019,
+    "infraWeight": 0.860136202243966,
+    "population": 1568,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10067",
+      "CBG-VT-10135",
+      "CBG-VT-10296",
+      "CBG-VT-10029",
+      "CBG-VT-10268"
+    ]
+  },
+  {
+    "id": "CBG-VT-10289",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.771,
+    "y": 44.8462,
+    "infraWeight": 0.6854537786307173,
+    "population": 1154,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10102",
+      "CBG-VT-10214",
+      "CBG-VT-10140",
+      "CBG-VT-10059",
+      "CBG-VT-10342"
+    ]
+  },
+  {
+    "id": "CBG-VT-10290",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8276,
+    "y": 44.7775,
+    "infraWeight": 0.7572120343759493,
+    "population": 1238,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10277",
+      "CBG-VT-10203",
+      "CBG-VT-10008",
+      "CBG-VT-10173",
+      "CBG-VT-10099"
+    ]
+  },
+  {
+    "id": "CBG-VT-10291",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7779,
+    "y": 44.4006,
+    "infraWeight": 0.9249316865632662,
+    "population": 1614,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10241",
+      "CBG-VT-10131",
+      "CBG-VT-10076",
+      "CBG-VT-10115",
+      "CBG-VT-10137"
+    ]
+  },
+  {
+    "id": "CBG-VT-10292",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2284,
+    "y": 43.3723,
+    "infraWeight": 0.7796609561823648,
+    "population": 1623,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10018",
+      "CBG-VT-10117",
+      "CBG-VT-10340",
+      "CBG-VT-10232",
+      "CBG-VT-10151"
+    ]
+  },
+  {
+    "id": "CBG-VT-10293",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3802,
+    "y": 44.0732,
+    "infraWeight": 1.2359883340154127,
+    "population": 2038,
+    "microDistrictId": "VT-MD-1",
+    "neighbors": [
+      "CBG-VT-10172",
+      "CBG-VT-10176",
+      "CBG-VT-10146",
+      "CBG-VT-10019",
+      "CBG-VT-10116"
+    ]
+  },
+  {
+    "id": "CBG-VT-10294",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8291,
+    "y": 44.9939,
+    "infraWeight": 0.6867649668102779,
+    "population": 1188,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10335",
+      "CBG-VT-10021",
+      "CBG-VT-10322",
+      "CBG-VT-10113",
+      "CBG-VT-10173"
+    ]
+  },
+  {
+    "id": "CBG-VT-10295",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0875,
+    "y": 42.8776,
+    "infraWeight": 0.6879558550566159,
+    "population": 1086,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10205",
+      "CBG-VT-10228",
+      "CBG-VT-10237",
+      "CBG-VT-10327",
+      "CBG-VT-10204"
+    ]
+  },
+  {
+    "id": "CBG-VT-10296",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.264,
+    "y": 44.5941,
+    "infraWeight": 0.8589990400707376,
+    "population": 1740,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10135",
+      "CBG-VT-10288",
+      "CBG-VT-10067",
+      "CBG-VT-10029",
+      "CBG-VT-10003"
+    ]
+  },
+  {
+    "id": "CBG-VT-10297",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0274,
+    "y": 44.1019,
+    "infraWeight": 1.012005261282436,
+    "population": 2127,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10071",
+      "CBG-VT-10253",
+      "CBG-VT-10197",
+      "CBG-VT-10348",
+      "CBG-VT-10064"
+    ]
+  },
+  {
+    "id": "CBG-VT-10298",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.6303,
+    "y": 44.5369,
+    "infraWeight": 0.8881557983855306,
+    "population": 1836,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10118",
+      "CBG-VT-10128",
+      "CBG-VT-10129",
+      "CBG-VT-10220",
+      "CBG-VT-10229"
+    ]
+  },
+  {
+    "id": "CBG-VT-10299",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.4688,
+    "y": 42.8679,
+    "infraWeight": 0.6238401015990042,
+    "population": 1000,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10224",
+      "CBG-VT-10188",
+      "CBG-VT-10328",
+      "CBG-VT-10087",
+      "CBG-VT-10037"
+    ]
+  },
+  {
+    "id": "CBG-VT-10300",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0998,
+    "y": 44.4248,
+    "infraWeight": 0.8097303375532099,
+    "population": 1497,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10190",
+      "CBG-VT-10250",
+      "CBG-VT-10201",
+      "CBG-VT-10271",
+      "CBG-VT-10061"
+    ]
+  },
+  {
+    "id": "CBG-VT-10301",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5918,
+    "y": 44.5394,
+    "infraWeight": 0.7183115702366637,
+    "population": 1182,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10243",
+      "CBG-VT-10035",
+      "CBG-VT-10103",
+      "CBG-VT-10281",
+      "CBG-VT-10050"
+    ]
+  },
+  {
+    "id": "CBG-VT-10302",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.333,
+    "y": 44.8649,
+    "infraWeight": 0.7499266583328008,
+    "population": 1445,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10098",
+      "CBG-VT-10323",
+      "CBG-VT-10257",
+      "CBG-VT-10167",
+      "CBG-VT-10269"
+    ]
+  },
+  {
+    "id": "CBG-VT-10303",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2634,
+    "y": 43.5312,
+    "infraWeight": 0.797527673170548,
+    "population": 1649,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10154",
+      "CBG-VT-10151",
+      "CBG-VT-10305",
+      "CBG-VT-10018",
+      "CBG-VT-10117"
+    ]
+  },
+  {
+    "id": "CBG-VT-10304",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4466,
+    "y": 43.0337,
+    "infraWeight": 0.8161091079915436,
+    "population": 1336,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10211",
+      "CBG-VT-10199",
+      "CBG-VT-10028",
+      "CBG-VT-10345",
+      "CBG-VT-10225"
+    ]
+  },
+  {
+    "id": "CBG-VT-10305",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2227,
+    "y": 43.6057,
+    "infraWeight": 0.8259305573049291,
+    "population": 1315,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10279",
+      "CBG-VT-10154",
+      "CBG-VT-10303",
+      "CBG-VT-10151",
+      "CBG-VT-10112"
+    ]
+  },
+  {
+    "id": "CBG-VT-10306",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2173,
+    "y": 44.7745,
+    "infraWeight": 0.6867799147255322,
+    "population": 1087,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10255",
+      "CBG-VT-10136",
+      "CBG-VT-10070",
+      "CBG-VT-10334",
+      "CBG-VT-10254"
+    ]
+  },
+  {
+    "id": "CBG-VT-10307",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9236,
+    "y": 44.5726,
+    "infraWeight": 0.8128903911895048,
+    "population": 1713,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10044",
+      "CBG-VT-10105",
+      "CBG-VT-10260",
+      "CBG-VT-10046",
+      "CBG-VT-10337"
+    ]
+  },
+  {
+    "id": "CBG-VT-10308",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.896,
+    "y": 44.0441,
+    "infraWeight": 1.0154954001441783,
+    "population": 2088,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10329",
+      "CBG-VT-10320",
+      "CBG-VT-10344",
+      "CBG-VT-10179",
+      "CBG-VT-10163"
+    ]
+  },
+  {
+    "id": "CBG-VT-10309",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.0352,
+    "y": 43.423,
+    "infraWeight": 0.8637850081303498,
+    "population": 1364,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10088",
+      "CBG-VT-10013",
+      "CBG-VT-10219",
+      "CBG-VT-10022",
+      "CBG-VT-10263"
+    ]
+  },
+  {
+    "id": "CBG-VT-10310",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.5528,
+    "y": 44.8758,
+    "infraWeight": 0.6390372275635073,
+    "population": 1338,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10122",
+      "CBG-VT-10231",
+      "CBG-VT-10246",
+      "CBG-VT-10059",
+      "CBG-VT-10342"
+    ]
+  },
+  {
+    "id": "CBG-VT-10311",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8535,
+    "y": 44.4824,
+    "infraWeight": 0.8088902419983252,
+    "population": 1307,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10245",
+      "CBG-VT-10132",
+      "CBG-VT-10168",
+      "CBG-VT-10281",
+      "CBG-VT-10259"
+    ]
+  },
+  {
+    "id": "CBG-VT-10312",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2394,
+    "y": 43.0011,
+    "infraWeight": 0.7911742788148286,
+    "population": 1639,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10058",
+      "CBG-VT-10273",
+      "CBG-VT-10347",
+      "CBG-VT-10285",
+      "CBG-VT-10230"
+    ]
+  },
+  {
+    "id": "CBG-VT-10313",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.133,
+    "y": 44.4945,
+    "infraWeight": 0.8827035486305299,
+    "population": 1769,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10265",
+      "CBG-VT-10003",
+      "CBG-VT-10249",
+      "CBG-VT-10068",
+      "CBG-VT-10029"
+    ]
+  },
+  {
+    "id": "CBG-VT-10314",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.3561,
+    "y": 44.5248,
+    "infraWeight": 0.7088862877834652,
+    "population": 1335,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10208",
+      "CBG-VT-10074",
+      "CBG-VT-10027",
+      "CBG-VT-10177",
+      "CBG-VT-10191"
+    ]
+  },
+  {
+    "id": "CBG-VT-10315",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0472,
+    "y": 44.2788,
+    "infraWeight": 0.953276121123782,
+    "population": 1631,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10069",
+      "CBG-VT-10192",
+      "CBG-VT-10196",
+      "CBG-VT-10217",
+      "CBG-VT-10183"
+    ]
+  },
+  {
+    "id": "CBG-VT-10316",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9185,
+    "y": 43.3318,
+    "infraWeight": 0.8530549263562518,
+    "population": 1393,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10349",
+      "CBG-VT-10202",
+      "CBG-VT-10321",
+      "CBG-VT-10161",
+      "CBG-VT-10017"
+    ]
+  },
+  {
+    "id": "CBG-VT-10317",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7663,
+    "y": 44.5993,
+    "infraWeight": 0.7503304468855188,
+    "population": 1402,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10132",
+      "CBG-VT-10281",
+      "CBG-VT-10103",
+      "CBG-VT-10214",
+      "CBG-VT-10311"
+    ]
+  },
+  {
+    "id": "CBG-VT-10318",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.4666,
+    "y": 44.4827,
+    "infraWeight": 0.9309726645564405,
+    "population": 1786,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10194",
+      "CBG-VT-10276",
+      "CBG-VT-10066",
+      "CBG-VT-10078",
+      "CBG-VT-10129"
+    ]
+  },
+  {
+    "id": "CBG-VT-10319",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0318,
+    "y": 44.9226,
+    "infraWeight": 0.7037444726146141,
+    "population": 1368,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10119",
+      "CBG-VT-10239",
+      "CBG-VT-10223",
+      "CBG-VT-10145",
+      "CBG-VT-10140"
+    ]
+  },
+  {
+    "id": "CBG-VT-10320",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8279,
+    "y": 44.0369,
+    "infraWeight": 1.0627503851260525,
+    "population": 1928,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10308",
+      "CBG-VT-10329",
+      "CBG-VT-10344",
+      "CBG-VT-10278",
+      "CBG-VT-10179"
+    ]
+  },
+  {
+    "id": "CBG-VT-10321",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.876,
+    "y": 43.4076,
+    "infraWeight": 0.8625478776405011,
+    "population": 1378,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10202",
+      "CBG-VT-10316",
+      "CBG-VT-10349",
+      "CBG-VT-10073",
+      "CBG-VT-10017"
+    ]
+  },
+  {
+    "id": "CBG-VT-10322",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8888,
+    "y": 44.8884,
+    "infraWeight": 0.7119423755980406,
+    "population": 1351,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10173",
+      "CBG-VT-10203",
+      "CBG-VT-10036",
+      "CBG-VT-10294",
+      "CBG-VT-10277"
+    ]
+  },
+  {
+    "id": "CBG-VT-10323",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3468,
+    "y": 44.7694,
+    "infraWeight": 0.7879397022273866,
+    "population": 1331,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10110",
+      "CBG-VT-10120",
+      "CBG-VT-10302",
+      "CBG-VT-10167",
+      "CBG-VT-10098"
+    ]
+  },
+  {
+    "id": "CBG-VT-10324",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6386,
+    "y": 43.4113,
+    "infraWeight": 0.7756388642459366,
+    "population": 1507,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10006",
+      "CBG-VT-10198",
+      "CBG-VT-10321",
+      "CBG-VT-10330",
+      "CBG-VT-10015"
+    ]
+  },
+  {
+    "id": "CBG-VT-10325",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8765,
+    "y": 43.5477,
+    "infraWeight": 0.9774022159886621,
+    "population": 1835,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10013",
+      "CBG-VT-10275",
+      "CBG-VT-10045",
+      "CBG-VT-10126",
+      "CBG-VT-10338"
+    ]
+  },
+  {
+    "id": "CBG-VT-10326",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7608,
+    "y": 42.9644,
+    "infraWeight": 0.7009059659982881,
+    "population": 1281,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10242",
+      "CBG-VT-10014",
+      "CBG-VT-10267",
+      "CBG-VT-10188",
+      "CBG-VT-10087"
+    ]
+  },
+  {
+    "id": "CBG-VT-10327",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.203,
+    "y": 42.9375,
+    "infraWeight": 0.6820516856453326,
+    "population": 1412,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10237",
+      "CBG-VT-10295",
+      "CBG-VT-10205",
+      "CBG-VT-10155",
+      "CBG-VT-10056"
+    ]
+  },
+  {
+    "id": "CBG-VT-10328",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.4963,
+    "y": 43.0656,
+    "infraWeight": 0.6667947964142241,
+    "population": 1376,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10037",
+      "CBG-VT-10087",
+      "CBG-VT-10080",
+      "CBG-VT-10227",
+      "CBG-VT-10057"
+    ]
+  },
+  {
+    "id": "CBG-VT-10329",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8924,
+    "y": 44.0838,
+    "infraWeight": 1.006959815368699,
+    "population": 1620,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10308",
+      "CBG-VT-10320",
+      "CBG-VT-10344",
+      "CBG-VT-10163",
+      "CBG-VT-10179"
+    ]
+  },
+  {
+    "id": "CBG-VT-10330",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8138,
+    "y": 43.599,
+    "infraWeight": 0.8859090887155704,
+    "population": 1402,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10198",
+      "CBG-VT-10010",
+      "CBG-VT-10073",
+      "CBG-VT-10077",
+      "CBG-VT-10006"
+    ]
+  },
+  {
+    "id": "CBG-VT-10331",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.7478,
+    "y": 43.8357,
+    "infraWeight": 0.8801788318386823,
+    "population": 1704,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10031",
+      "CBG-VT-10346",
+      "CBG-VT-10010",
+      "CBG-VT-10162",
+      "CBG-VT-10077"
+    ]
+  },
+  {
+    "id": "CBG-VT-10332",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8611,
+    "y": 43.7691,
+    "infraWeight": 1.054366455933828,
+    "population": 2066,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10338",
+      "CBG-VT-10107",
+      "CBG-VT-10123",
+      "CBG-VT-10344",
+      "CBG-VT-10090"
+    ]
+  },
+  {
+    "id": "CBG-VT-10333",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6299,
+    "y": 44.699,
+    "infraWeight": 0.6926347969186617,
+    "population": 1188,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10342",
+      "CBG-VT-10050",
+      "CBG-VT-10035",
+      "CBG-VT-10246",
+      "CBG-VT-10214"
+    ]
+  },
+  {
+    "id": "CBG-VT-10334",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.1497,
+    "y": 44.9091,
+    "infraWeight": 0.6664575817364768,
+    "population": 1397,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10055",
+      "CBG-VT-10158",
+      "CBG-VT-10136",
+      "CBG-VT-10212",
+      "CBG-VT-10254"
+    ]
+  },
+  {
+    "id": "CBG-VT-10335",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.7907,
+    "y": 45.0053,
+    "infraWeight": 0.686997927251731,
+    "population": 1076,
+    "microDistrictId": "VT-MD-13",
+    "neighbors": [
+      "CBG-VT-10294",
+      "CBG-VT-10021",
+      "CBG-VT-10113",
+      "CBG-VT-10282",
+      "CBG-VT-10322"
+    ]
+  },
+  {
+    "id": "CBG-VT-10336",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8682,
+    "y": 43.1322,
+    "infraWeight": 0.8112598036603267,
+    "population": 1624,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10127",
+      "CBG-VT-10160",
+      "CBG-VT-10063",
+      "CBG-VT-10083",
+      "CBG-VT-10060"
+    ]
+  },
+  {
+    "id": "CBG-VT-10337",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9243,
+    "y": 44.4302,
+    "infraWeight": 0.8660606688717548,
+    "population": 1653,
+    "microDistrictId": "VT-MD-4",
+    "neighbors": [
+      "CBG-VT-10076",
+      "CBG-VT-10271",
+      "CBG-VT-10115",
+      "CBG-VT-10044",
+      "CBG-VT-10131"
+    ]
+  },
+  {
+    "id": "CBG-VT-10338",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.9029,
+    "y": 43.7244,
+    "infraWeight": 1.0167939622444966,
+    "population": 1741,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10332",
+      "CBG-VT-10107",
+      "CBG-VT-10016",
+      "CBG-VT-10123",
+      "CBG-VT-10325"
+    ]
+  },
+  {
+    "id": "CBG-VT-10339",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8173,
+    "y": 43.9657,
+    "infraWeight": 0.9142140580227753,
+    "population": 1507,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10162",
+      "CBG-VT-10346",
+      "CBG-VT-10331",
+      "CBG-VT-10048",
+      "CBG-VT-10125"
+    ]
+  },
+  {
+    "id": "CBG-VT-10340",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -73.2883,
+    "y": 43.2744,
+    "infraWeight": 0.7394991171442239,
+    "population": 1285,
+    "microDistrictId": "VT-MD-9",
+    "neighbors": [
+      "CBG-VT-10232",
+      "CBG-VT-10195",
+      "CBG-VT-10292",
+      "CBG-VT-10130",
+      "CBG-VT-10106"
+    ]
+  },
+  {
+    "id": "CBG-VT-10341",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.1752,
+    "y": 43.3385,
+    "infraWeight": 0.9372808749306046,
+    "population": 1957,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10144",
+      "CBG-VT-10085",
+      "CBG-VT-10025",
+      "CBG-VT-10096",
+      "CBG-VT-10017"
+    ]
+  },
+  {
+    "id": "CBG-VT-10342",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.6275,
+    "y": 44.7313,
+    "infraWeight": 0.6847888956668172,
+    "population": 1350,
+    "microDistrictId": "VT-MD-8",
+    "neighbors": [
+      "CBG-VT-10333",
+      "CBG-VT-10050",
+      "CBG-VT-10246",
+      "CBG-VT-10214",
+      "CBG-VT-10100"
+    ]
+  },
+  {
+    "id": "CBG-VT-10343",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2348,
+    "y": 44.3403,
+    "infraWeight": 0.9893519996048482,
+    "population": 1935,
+    "microDistrictId": "VT-MD-7",
+    "neighbors": [
+      "CBG-VT-10139",
+      "CBG-VT-10109",
+      "CBG-VT-10283",
+      "CBG-VT-10116",
+      "CBG-VT-10265"
+    ]
+  },
+  {
+    "id": "CBG-VT-10344",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.8647,
+    "y": 43.9558,
+    "infraWeight": 1.0548255864721203,
+    "population": 1885,
+    "microDistrictId": "VT-MD-3",
+    "neighbors": [
+      "CBG-VT-10320",
+      "CBG-VT-10179",
+      "CBG-VT-10308",
+      "CBG-VT-10123",
+      "CBG-VT-10090"
+    ]
+  },
+  {
+    "id": "CBG-VT-10345",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.3753,
+    "y": 43.0655,
+    "infraWeight": 0.8288183168972246,
+    "population": 1454,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10199",
+      "CBG-VT-10225",
+      "CBG-VT-10304",
+      "CBG-VT-10285",
+      "CBG-VT-10054"
+    ]
+  },
+  {
+    "id": "CBG-VT-10346",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.8596,
+    "y": 43.869,
+    "infraWeight": 0.9424790915996152,
+    "population": 1813,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10077",
+      "CBG-VT-10162",
+      "CBG-VT-10339",
+      "CBG-VT-10011",
+      "CBG-VT-10331"
+    ]
+  },
+  {
+    "id": "CBG-VT-10347",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.2466,
+    "y": 43.0876,
+    "infraWeight": 0.8285947378435222,
+    "population": 1637,
+    "microDistrictId": "VT-MD-5",
+    "neighbors": [
+      "CBG-VT-10273",
+      "CBG-VT-10058",
+      "CBG-VT-10285",
+      "CBG-VT-10230",
+      "CBG-VT-10312"
+    ]
+  },
+  {
+    "id": "CBG-VT-10348",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -72.0657,
+    "y": 43.9545,
+    "infraWeight": 1.0758599360812993,
+    "population": 2160,
+    "microDistrictId": "VT-MD-2",
+    "neighbors": [
+      "CBG-VT-10064",
+      "CBG-VT-10143",
+      "CBG-VT-10038",
+      "CBG-VT-10148",
+      "CBG-VT-10071"
+    ]
+  },
+  {
+    "id": "CBG-VT-10349",
+    "parentZip": "90210",
+    "state": "VT",
+    "x": -71.9092,
+    "y": 43.2989,
+    "infraWeight": 0.838708185164722,
+    "population": 1359,
+    "microDistrictId": "VT-MD-6",
+    "neighbors": [
+      "CBG-VT-10316",
+      "CBG-VT-10202",
+      "CBG-VT-10161",
+      "CBG-VT-10321",
+      "CBG-VT-10015"
+    ]
+  }
+]

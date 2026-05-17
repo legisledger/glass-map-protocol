@@ -1,0 +1,7227 @@
+[
+  {
+    "id": "CBG-ND-10000",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.0619,
+    "y": 47.9369,
+    "infraWeight": 0.6450136151671595,
+    "population": 1172,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10276",
+      "CBG-ND-10287",
+      "CBG-ND-10174",
+      "CBG-ND-10199",
+      "CBG-ND-10221"
+    ]
+  },
+  {
+    "id": "CBG-ND-10001",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.594,
+    "y": 48.8783,
+    "infraWeight": 0.3020021617242071,
+    "population": 629,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10202",
+      "CBG-ND-10038",
+      "CBG-ND-10125",
+      "CBG-ND-10182",
+      "CBG-ND-10359"
+    ]
+  },
+  {
+    "id": "CBG-ND-10002",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1231,
+    "y": 46.0702,
+    "infraWeight": 0.36156839017366754,
+    "population": 732,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10242",
+      "CBG-ND-10059",
+      "CBG-ND-10026",
+      "CBG-ND-10034",
+      "CBG-ND-10147"
+    ]
+  },
+  {
+    "id": "CBG-ND-10003",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6359,
+    "y": 46.1577,
+    "infraWeight": 0.4079677121023383,
+    "population": 857,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10172",
+      "CBG-ND-10169",
+      "CBG-ND-10194",
+      "CBG-ND-10188",
+      "CBG-ND-10032"
+    ]
+  },
+  {
+    "id": "CBG-ND-10004",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.3376,
+    "y": 48.0139,
+    "infraWeight": 0.3672260937745856,
+    "population": 751,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10008",
+      "CBG-ND-10301",
+      "CBG-ND-10157",
+      "CBG-ND-10302",
+      "CBG-ND-10279"
+    ]
+  },
+  {
+    "id": "CBG-ND-10005",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1482,
+    "y": 46.4872,
+    "infraWeight": 0.48531481825368084,
+    "population": 829,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10233",
+      "CBG-ND-10412",
+      "CBG-ND-10032",
+      "CBG-ND-10417",
+      "CBG-ND-10179"
+    ]
+  },
+  {
+    "id": "CBG-ND-10006",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.243,
+    "y": 47.046,
+    "infraWeight": 0.377698812987892,
+    "population": 624,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10389",
+      "CBG-ND-10305",
+      "CBG-ND-10094",
+      "CBG-ND-10117",
+      "CBG-ND-10089"
+    ]
+  },
+  {
+    "id": "CBG-ND-10007",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.7818,
+    "y": 48.3782,
+    "infraWeight": 0.4076845969265695,
+    "population": 653,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10073",
+      "CBG-ND-10165",
+      "CBG-ND-10379",
+      "CBG-ND-10356",
+      "CBG-ND-10257"
+    ]
+  },
+  {
+    "id": "CBG-ND-10008",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1712,
+    "y": 47.9994,
+    "infraWeight": 0.38280740512814143,
+    "population": 779,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10004",
+      "CBG-ND-10421",
+      "CBG-ND-10330",
+      "CBG-ND-10301",
+      "CBG-ND-10066"
+    ]
+  },
+  {
+    "id": "CBG-ND-10009",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8225,
+    "y": 47.0811,
+    "infraWeight": 0.42745547441652665,
+    "population": 702,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10132",
+      "CBG-ND-10114",
+      "CBG-ND-10106",
+      "CBG-ND-10110",
+      "CBG-ND-10107"
+    ]
+  },
+  {
+    "id": "CBG-ND-10010",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8126,
+    "y": 48.7609,
+    "infraWeight": 0.3922235171151646,
+    "population": 769,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10331",
+      "CBG-ND-10204",
+      "CBG-ND-10403",
+      "CBG-ND-10277",
+      "CBG-ND-10250"
+    ]
+  },
+  {
+    "id": "CBG-ND-10011",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1173,
+    "y": 46.8285,
+    "infraWeight": 0.9006954689728528,
+    "population": 1529,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10271",
+      "CBG-ND-10029",
+      "CBG-ND-10136",
+      "CBG-ND-10386",
+      "CBG-ND-10141"
+    ]
+  },
+  {
+    "id": "CBG-ND-10012",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3795,
+    "y": 47.7637,
+    "infraWeight": 0.7083013238641677,
+    "population": 1323,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10092",
+      "CBG-ND-10121",
+      "CBG-ND-10013",
+      "CBG-ND-10171",
+      "CBG-ND-10124"
+    ]
+  },
+  {
+    "id": "CBG-ND-10013",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.4234,
+    "y": 47.8774,
+    "infraWeight": 0.6836308993125031,
+    "population": 1372,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10309",
+      "CBG-ND-10092",
+      "CBG-ND-10012",
+      "CBG-ND-10121",
+      "CBG-ND-10124"
+    ]
+  },
+  {
+    "id": "CBG-ND-10014",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2656,
+    "y": 48.7611,
+    "infraWeight": 0.6539293758028182,
+    "population": 1103,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10245",
+      "CBG-ND-10167",
+      "CBG-ND-10076",
+      "CBG-ND-10159",
+      "CBG-ND-10312"
+    ]
+  },
+  {
+    "id": "CBG-ND-10015",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8085,
+    "y": 46.195,
+    "infraWeight": 0.63291523892445,
+    "population": 1286,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10338",
+      "CBG-ND-10162",
+      "CBG-ND-10296",
+      "CBG-ND-10268",
+      "CBG-ND-10044"
+    ]
+  },
+  {
+    "id": "CBG-ND-10016",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.5769,
+    "y": 46.4044,
+    "infraWeight": 0.3821802166071228,
+    "population": 662,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10219",
+      "CBG-ND-10035",
+      "CBG-ND-10163",
+      "CBG-ND-10054",
+      "CBG-ND-10072"
+    ]
+  },
+  {
+    "id": "CBG-ND-10017",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2831,
+    "y": 48.4028,
+    "infraWeight": 0.7751162006095424,
+    "population": 1552,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10087",
+      "CBG-ND-10281",
+      "CBG-ND-10312",
+      "CBG-ND-10159",
+      "CBG-ND-10076"
+    ]
+  },
+  {
+    "id": "CBG-ND-10018",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.8636,
+    "y": 47.0929,
+    "infraWeight": 0.5755278670907366,
+    "population": 1183,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10258",
+      "CBG-ND-10269",
+      "CBG-ND-10366",
+      "CBG-ND-10067",
+      "CBG-ND-10353"
+    ]
+  },
+  {
+    "id": "CBG-ND-10019",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.5093,
+    "y": 48.2612,
+    "infraWeight": 0.8241361780679308,
+    "population": 1622,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10198",
+      "CBG-ND-10344",
+      "CBG-ND-10390",
+      "CBG-ND-10017",
+      "CBG-ND-10281"
+    ]
+  },
+  {
+    "id": "CBG-ND-10020",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.826,
+    "y": 47.9783,
+    "infraWeight": 0.32886782488666577,
+    "population": 614,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10085",
+      "CBG-ND-10384",
+      "CBG-ND-10211",
+      "CBG-ND-10200",
+      "CBG-ND-10157"
+    ]
+  },
+  {
+    "id": "CBG-ND-10021",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.0479,
+    "y": 47.1847,
+    "infraWeight": 0.6563592700627124,
+    "population": 1364,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10397",
+      "CBG-ND-10030",
+      "CBG-ND-10101",
+      "CBG-ND-10405",
+      "CBG-ND-10329"
+    ]
+  },
+  {
+    "id": "CBG-ND-10022",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0634,
+    "y": 46.1897,
+    "infraWeight": 0.41928955761440967,
+    "population": 869,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10288",
+      "CBG-ND-10097",
+      "CBG-ND-10184",
+      "CBG-ND-10063",
+      "CBG-ND-10422"
+    ]
+  },
+  {
+    "id": "CBG-ND-10023",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1278,
+    "y": 47.4183,
+    "infraWeight": 0.530623856534738,
+    "population": 1044,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10042",
+      "CBG-ND-10371",
+      "CBG-ND-10269",
+      "CBG-ND-10323",
+      "CBG-ND-10053"
+    ]
+  },
+  {
+    "id": "CBG-ND-10024",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.3506,
+    "y": 47.4995,
+    "infraWeight": 1.4173015908975233,
+    "population": 2771,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10334",
+      "CBG-ND-10037",
+      "CBG-ND-10196",
+      "CBG-ND-10392",
+      "CBG-ND-10336"
+    ]
+  },
+  {
+    "id": "CBG-ND-10025",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9505,
+    "y": 46.4675,
+    "infraWeight": 0.3335368980280316,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10062",
+      "CBG-ND-10289",
+      "CBG-ND-10424",
+      "CBG-ND-10069",
+      "CBG-ND-10360"
+    ]
+  },
+  {
+    "id": "CBG-ND-10026",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2112,
+    "y": 45.9786,
+    "infraWeight": 0.3514130872474882,
+    "population": 607,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10242",
+      "CBG-ND-10002",
+      "CBG-ND-10059",
+      "CBG-ND-10034",
+      "CBG-ND-10147"
+    ]
+  },
+  {
+    "id": "CBG-ND-10027",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6183,
+    "y": 46.7856,
+    "infraWeight": 0.6041244814142966,
+    "population": 1227,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10252",
+      "CBG-ND-10048",
+      "CBG-ND-10385",
+      "CBG-ND-10223",
+      "CBG-ND-10258"
+    ]
+  },
+  {
+    "id": "CBG-ND-10028",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8157,
+    "y": 48.7935,
+    "infraWeight": 0.6193501559588807,
+    "population": 1262,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10224",
+      "CBG-ND-10068",
+      "CBG-ND-10098",
+      "CBG-ND-10155",
+      "CBG-ND-10217"
+    ]
+  },
+  {
+    "id": "CBG-ND-10029",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.0222,
+    "y": 46.94,
+    "infraWeight": 0.9391426990414882,
+    "population": 1631,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10011",
+      "CBG-ND-10386",
+      "CBG-ND-10327",
+      "CBG-ND-10271",
+      "CBG-ND-10136"
+    ]
+  },
+  {
+    "id": "CBG-ND-10030",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9246,
+    "y": 47.25,
+    "infraWeight": 0.6265267686508902,
+    "population": 1020,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10101",
+      "CBG-ND-10021",
+      "CBG-ND-10397",
+      "CBG-ND-10329",
+      "CBG-ND-10405"
+    ]
+  },
+  {
+    "id": "CBG-ND-10031",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6117,
+    "y": 46.5618,
+    "infraWeight": 0.43086621643787654,
+    "population": 758,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10322",
+      "CBG-ND-10172",
+      "CBG-ND-10246",
+      "CBG-ND-10113",
+      "CBG-ND-10032"
+    ]
+  },
+  {
+    "id": "CBG-ND-10032",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3758,
+    "y": 46.3528,
+    "infraWeight": 0.4471100043755317,
+    "population": 806,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10417",
+      "CBG-ND-10169",
+      "CBG-ND-10172",
+      "CBG-ND-10179",
+      "CBG-ND-10005"
+    ]
+  },
+  {
+    "id": "CBG-ND-10033",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.063,
+    "y": 45.9496,
+    "infraWeight": 0.40487014379743935,
+    "population": 842,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10422",
+      "CBG-ND-10063",
+      "CBG-ND-10184",
+      "CBG-ND-10150",
+      "CBG-ND-10097"
+    ]
+  },
+  {
+    "id": "CBG-ND-10034",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1093,
+    "y": 46.2427,
+    "infraWeight": 0.36915988069665084,
+    "population": 763,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10147",
+      "CBG-ND-10234",
+      "CBG-ND-10059",
+      "CBG-ND-10002",
+      "CBG-ND-10242"
+    ]
+  },
+  {
+    "id": "CBG-ND-10035",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6136,
+    "y": 46.2587,
+    "infraWeight": 0.3799930726409819,
+    "population": 687,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10054",
+      "CBG-ND-10016",
+      "CBG-ND-10219",
+      "CBG-ND-10378",
+      "CBG-ND-10072"
+    ]
+  },
+  {
+    "id": "CBG-ND-10036",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6824,
+    "y": 48.294,
+    "infraWeight": 0.7380172063061806,
+    "population": 1303,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10140",
+      "CBG-ND-10077",
+      "CBG-ND-10230",
+      "CBG-ND-10231",
+      "CBG-ND-10297"
+    ]
+  },
+  {
+    "id": "CBG-ND-10037",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1627,
+    "y": 47.4475,
+    "infraWeight": 1.3153239709242301,
+    "population": 2212,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10392",
+      "CBG-ND-10196",
+      "CBG-ND-10210",
+      "CBG-ND-10024",
+      "CBG-ND-10232"
+    ]
+  },
+  {
+    "id": "CBG-ND-10038",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.8689,
+    "y": 48.5858,
+    "infraWeight": 0.32536657975562355,
+    "population": 612,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10125",
+      "CBG-ND-10182",
+      "CBG-ND-10127",
+      "CBG-ND-10202",
+      "CBG-ND-10001"
+    ]
+  },
+  {
+    "id": "CBG-ND-10039",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.8175,
+    "y": 46.6765,
+    "infraWeight": 0.3258171146039565,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10235",
+      "CBG-ND-10299",
+      "CBG-ND-10126",
+      "CBG-ND-10089",
+      "CBG-ND-10274"
+    ]
+  },
+  {
+    "id": "CBG-ND-10040",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4418,
+    "y": 45.9938,
+    "infraWeight": 0.6046874590598798,
+    "population": 954,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10419",
+      "CBG-ND-10162",
+      "CBG-ND-10044",
+      "CBG-ND-10047",
+      "CBG-ND-10109"
+    ]
+  },
+  {
+    "id": "CBG-ND-10041",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6375,
+    "y": 46.2043,
+    "infraWeight": 0.30763855014956704,
+    "population": 603,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10424",
+      "CBG-ND-10409",
+      "CBG-ND-10025",
+      "CBG-ND-10062",
+      "CBG-ND-10069"
+    ]
+  },
+  {
+    "id": "CBG-ND-10042",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1954,
+    "y": 47.4489,
+    "infraWeight": 0.518342611030125,
+    "population": 1074,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10371",
+      "CBG-ND-10023",
+      "CBG-ND-10323",
+      "CBG-ND-10053",
+      "CBG-ND-10269"
+    ]
+  },
+  {
+    "id": "CBG-ND-10043",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.7317,
+    "y": 46.3506,
+    "infraWeight": 0.6654224727548044,
+    "population": 1299,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10373",
+      "CBG-ND-10367",
+      "CBG-ND-10056",
+      "CBG-ND-10347",
+      "CBG-ND-10086"
+    ]
+  },
+  {
+    "id": "CBG-ND-10044",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.6229,
+    "y": 45.9365,
+    "infraWeight": 0.58488413848916,
+    "population": 1006,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10419",
+      "CBG-ND-10040",
+      "CBG-ND-10162",
+      "CBG-ND-10015",
+      "CBG-ND-10047"
+    ]
+  },
+  {
+    "id": "CBG-ND-10045",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.556,
+    "y": 47.9449,
+    "infraWeight": 0.5338698964241408,
+    "population": 945,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10414",
+      "CBG-ND-10128",
+      "CBG-ND-10174",
+      "CBG-ND-10138",
+      "CBG-ND-10193"
+    ]
+  },
+  {
+    "id": "CBG-ND-10046",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.1227,
+    "y": 48.7807,
+    "infraWeight": 0.423262283506716,
+    "population": 852,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10203",
+      "CBG-ND-10073",
+      "CBG-ND-10379",
+      "CBG-ND-10352",
+      "CBG-ND-10292"
+    ]
+  },
+  {
+    "id": "CBG-ND-10047",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.386,
+    "y": 46.1802,
+    "infraWeight": 0.6549319335118878,
+    "population": 1038,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10419",
+      "CBG-ND-10162",
+      "CBG-ND-10040",
+      "CBG-ND-10109",
+      "CBG-ND-10044"
+    ]
+  },
+  {
+    "id": "CBG-ND-10048",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.7871,
+    "y": 46.6758,
+    "infraWeight": 0.5589998056594992,
+    "population": 1173,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10233",
+      "CBG-ND-10027",
+      "CBG-ND-10252",
+      "CBG-ND-10258",
+      "CBG-ND-10412"
+    ]
+  },
+  {
+    "id": "CBG-ND-10049",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6564,
+    "y": 48.4838,
+    "infraWeight": 0.5113021863305495,
+    "population": 1016,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10170",
+      "CBG-ND-10292",
+      "CBG-ND-10352",
+      "CBG-ND-10128",
+      "CBG-ND-10148"
+    ]
+  },
+  {
+    "id": "CBG-ND-10050",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6317,
+    "y": 47.9565,
+    "infraWeight": 0.31898926792067717,
+    "population": 600,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10060",
+      "CBG-ND-10051",
+      "CBG-ND-10370",
+      "CBG-ND-10218",
+      "CBG-ND-10262"
+    ]
+  },
+  {
+    "id": "CBG-ND-10051",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.926,
+    "y": 48.0905,
+    "infraWeight": 0.33839935783734193,
+    "population": 634,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10370",
+      "CBG-ND-10218",
+      "CBG-ND-10050",
+      "CBG-ND-10127",
+      "CBG-ND-10278"
+    ]
+  },
+  {
+    "id": "CBG-ND-10052",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0334,
+    "y": 46.7853,
+    "infraWeight": 0.7497665381215527,
+    "population": 1195,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10346",
+      "CBG-ND-10161",
+      "CBG-ND-10240",
+      "CBG-ND-10055",
+      "CBG-ND-10300"
+    ]
+  },
+  {
+    "id": "CBG-ND-10053",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5177,
+    "y": 47.431,
+    "infraWeight": 0.4663644817690975,
+    "population": 905,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10241",
+      "CBG-ND-10239",
+      "CBG-ND-10256",
+      "CBG-ND-10371",
+      "CBG-ND-10164"
+    ]
+  },
+  {
+    "id": "CBG-ND-10054",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.5866,
+    "y": 46.1816,
+    "infraWeight": 0.3745964915227869,
+    "population": 615,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10035",
+      "CBG-ND-10378",
+      "CBG-ND-10078",
+      "CBG-ND-10016",
+      "CBG-ND-10072"
+    ]
+  },
+  {
+    "id": "CBG-ND-10055",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1813,
+    "y": 46.6803,
+    "infraWeight": 0.6878772071329307,
+    "population": 1287,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10161",
+      "CBG-ND-10052",
+      "CBG-ND-10223",
+      "CBG-ND-10346",
+      "CBG-ND-10240"
+    ]
+  },
+  {
+    "id": "CBG-ND-10056",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.4454,
+    "y": 46.4963,
+    "infraWeight": 0.6535981115009546,
+    "population": 1344,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10160",
+      "CBG-ND-10423",
+      "CBG-ND-10152",
+      "CBG-ND-10402",
+      "CBG-ND-10373"
+    ]
+  },
+  {
+    "id": "CBG-ND-10057",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2626,
+    "y": 48.1195,
+    "infraWeight": 0.6941121381717695,
+    "population": 1433,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10314",
+      "CBG-ND-10214",
+      "CBG-ND-10309",
+      "CBG-ND-10145",
+      "CBG-ND-10187"
+    ]
+  },
+  {
+    "id": "CBG-ND-10058",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.9723,
+    "y": 47.4287,
+    "infraWeight": 0.8972625590967801,
+    "population": 1456,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10293",
+      "CBG-ND-10120",
+      "CBG-ND-10383",
+      "CBG-ND-10282",
+      "CBG-ND-10105"
+    ]
+  },
+  {
+    "id": "CBG-ND-10059",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2221,
+    "y": 46.135,
+    "infraWeight": 0.3562747846591012,
+    "population": 660,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10002",
+      "CBG-ND-10147",
+      "CBG-ND-10034",
+      "CBG-ND-10026",
+      "CBG-ND-10242"
+    ]
+  },
+  {
+    "id": "CBG-ND-10060",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.7773,
+    "y": 47.7332,
+    "infraWeight": 0.33081033314183395,
+    "population": 605,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10050",
+      "CBG-ND-10218",
+      "CBG-ND-10051",
+      "CBG-ND-10370",
+      "CBG-ND-10158"
+    ]
+  },
+  {
+    "id": "CBG-ND-10061",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.3761,
+    "y": 47.392,
+    "infraWeight": 0.3820200505945414,
+    "population": 718,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10398",
+      "CBG-ND-10103",
+      "CBG-ND-10123",
+      "CBG-ND-10158",
+      "CBG-ND-10091"
+    ]
+  },
+  {
+    "id": "CBG-ND-10062",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.002,
+    "y": 46.4245,
+    "infraWeight": 0.3362715022051847,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10025",
+      "CBG-ND-10289",
+      "CBG-ND-10424",
+      "CBG-ND-10069",
+      "CBG-ND-10360"
+    ]
+  },
+  {
+    "id": "CBG-ND-10063",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9812,
+    "y": 46.028,
+    "infraWeight": 0.4020516275076434,
+    "population": 637,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10422",
+      "CBG-ND-10184",
+      "CBG-ND-10033",
+      "CBG-ND-10348",
+      "CBG-ND-10097"
+    ]
+  },
+  {
+    "id": "CBG-ND-10064",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1989,
+    "y": 47.2023,
+    "infraWeight": 0.7749109277993227,
+    "population": 1632,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10143",
+      "CBG-ND-10260",
+      "CBG-ND-10090",
+      "CBG-ND-10395",
+      "CBG-ND-10300"
+    ]
+  },
+  {
+    "id": "CBG-ND-10065",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1953,
+    "y": 48.4129,
+    "infraWeight": 0.3709170114760682,
+    "population": 767,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10380",
+      "CBG-ND-10225",
+      "CBG-ND-10302",
+      "CBG-ND-10301",
+      "CBG-ND-10088"
+    ]
+  },
+  {
+    "id": "CBG-ND-10066",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.9874,
+    "y": 47.7513,
+    "infraWeight": 0.40532607869993903,
+    "population": 676,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10330",
+      "CBG-ND-10387",
+      "CBG-ND-10421",
+      "CBG-ND-10303",
+      "CBG-ND-10342"
+    ]
+  },
+  {
+    "id": "CBG-ND-10067",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.7313,
+    "y": 47.3447,
+    "infraWeight": 0.6160255957099232,
+    "population": 1121,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10353",
+      "CBG-ND-10366",
+      "CBG-ND-10190",
+      "CBG-ND-10368",
+      "CBG-ND-10137"
+    ]
+  },
+  {
+    "id": "CBG-ND-10068",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7574,
+    "y": 48.9534,
+    "infraWeight": 0.5873275508309718,
+    "population": 1046,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10098",
+      "CBG-ND-10028",
+      "CBG-ND-10224",
+      "CBG-ND-10243",
+      "CBG-ND-10155"
+    ]
+  },
+  {
+    "id": "CBG-ND-10069",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.872,
+    "y": 46.5844,
+    "infraWeight": 0.33028072074506126,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10360",
+      "CBG-ND-10289",
+      "CBG-ND-10424",
+      "CBG-ND-10025",
+      "CBG-ND-10168"
+    ]
+  },
+  {
+    "id": "CBG-ND-10070",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5987,
+    "y": 47.0804,
+    "infraWeight": 0.8321233452783307,
+    "population": 1578,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10418",
+      "CBG-ND-10248",
+      "CBG-ND-10183",
+      "CBG-ND-10139",
+      "CBG-ND-10308"
+    ]
+  },
+  {
+    "id": "CBG-ND-10071",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6487,
+    "y": 46.6623,
+    "infraWeight": 0.31640757660228885,
+    "population": 658,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10069",
+      "CBG-ND-10424",
+      "CBG-ND-10360",
+      "CBG-ND-10289",
+      "CBG-ND-10025"
+    ]
+  },
+  {
+    "id": "CBG-ND-10072",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8168,
+    "y": 46.2712,
+    "infraWeight": 0.39915364211672977,
+    "population": 637,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10163",
+      "CBG-ND-10035",
+      "CBG-ND-10054",
+      "CBG-ND-10219",
+      "CBG-ND-10388"
+    ]
+  },
+  {
+    "id": "CBG-ND-10073",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9326,
+    "y": 48.4405,
+    "infraWeight": 0.42123817962432447,
+    "population": 717,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10379",
+      "CBG-ND-10007",
+      "CBG-ND-10356",
+      "CBG-ND-10165",
+      "CBG-ND-10075"
+    ]
+  },
+  {
+    "id": "CBG-ND-10074",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.5342,
+    "y": 47.6906,
+    "infraWeight": 0.35375352977501895,
+    "population": 713,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10326",
+      "CBG-ND-10157",
+      "CBG-ND-10200",
+      "CBG-ND-10279",
+      "CBG-ND-10211"
+    ]
+  },
+  {
+    "id": "CBG-ND-10075",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.196,
+    "y": 48.188,
+    "infraWeight": 0.4650567131428254,
+    "population": 821,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10356",
+      "CBG-ND-10363",
+      "CBG-ND-10379",
+      "CBG-ND-10112",
+      "CBG-ND-10352"
+    ]
+  },
+  {
+    "id": "CBG-ND-10076",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1973,
+    "y": 48.64,
+    "infraWeight": 0.6890830572198993,
+    "population": 1387,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10159",
+      "CBG-ND-10312",
+      "CBG-ND-10181",
+      "CBG-ND-10014",
+      "CBG-ND-10245"
+    ]
+  },
+  {
+    "id": "CBG-ND-10077",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8472,
+    "y": 48.335,
+    "infraWeight": 0.7579240791646481,
+    "population": 1356,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10231",
+      "CBG-ND-10310",
+      "CBG-ND-10297",
+      "CBG-ND-10036",
+      "CBG-ND-10149"
+    ]
+  },
+  {
+    "id": "CBG-ND-10078",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.4782,
+    "y": 46.0829,
+    "infraWeight": 0.3618959154299244,
+    "population": 729,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10054",
+      "CBG-ND-10378",
+      "CBG-ND-10035",
+      "CBG-ND-10213",
+      "CBG-ND-10388"
+    ]
+  },
+  {
+    "id": "CBG-ND-10079",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.91,
+    "y": 46.2939,
+    "infraWeight": 0.5317932003468848,
+    "population": 881,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10408",
+      "CBG-ND-10251",
+      "CBG-ND-10266",
+      "CBG-ND-10361",
+      "CBG-ND-10343"
+    ]
+  },
+  {
+    "id": "CBG-ND-10080",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.7707,
+    "y": 48.7578,
+    "infraWeight": 0.5076114881577862,
+    "population": 1018,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10267",
+      "CBG-ND-10354",
+      "CBG-ND-10355",
+      "CBG-ND-10335",
+      "CBG-ND-10220"
+    ]
+  },
+  {
+    "id": "CBG-ND-10081",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.7423,
+    "y": 46.1747,
+    "infraWeight": 0.510922720653701,
+    "population": 935,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10341",
+      "CBG-ND-10122",
+      "CBG-ND-10412",
+      "CBG-ND-10233",
+      "CBG-ND-10179"
+    ]
+  },
+  {
+    "id": "CBG-ND-10082",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -104.0014,
+    "y": 48.2876,
+    "infraWeight": 0.31318598276045956,
+    "population": 635,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10237",
+      "CBG-ND-10304",
+      "CBG-ND-10020",
+      "CBG-ND-10085",
+      "CBG-ND-10135"
+    ]
+  },
+  {
+    "id": "CBG-ND-10083",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.4384,
+    "y": 47.3324,
+    "infraWeight": 0.5229872068175687,
+    "population": 1068,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10393",
+      "CBG-ND-10177",
+      "CBG-ND-10420",
+      "CBG-ND-10193",
+      "CBG-ND-10138"
+    ]
+  },
+  {
+    "id": "CBG-ND-10084",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.1666,
+    "y": 46.6351,
+    "infraWeight": 0.4556905128055603,
+    "population": 774,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10313",
+      "CBG-ND-10189",
+      "CBG-ND-10369",
+      "CBG-ND-10099",
+      "CBG-ND-10102"
+    ]
+  },
+  {
+    "id": "CBG-ND-10085",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.723,
+    "y": 48.0034,
+    "infraWeight": 0.33609697653748466,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10211",
+      "CBG-ND-10020",
+      "CBG-ND-10384",
+      "CBG-ND-10157",
+      "CBG-ND-10200"
+    ]
+  },
+  {
+    "id": "CBG-ND-10086",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.4602,
+    "y": 46.1211,
+    "infraWeight": 0.5796105717706348,
+    "population": 1057,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10373",
+      "CBG-ND-10402",
+      "CBG-ND-10351",
+      "CBG-ND-10043",
+      "CBG-ND-10266"
+    ]
+  },
+  {
+    "id": "CBG-ND-10087",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2397,
+    "y": 48.4254,
+    "infraWeight": 0.7654720324629366,
+    "population": 1230,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10017",
+      "CBG-ND-10312",
+      "CBG-ND-10281",
+      "CBG-ND-10159",
+      "CBG-ND-10076"
+    ]
+  },
+  {
+    "id": "CBG-ND-10088",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2457,
+    "y": 48.6095,
+    "infraWeight": 0.36078021423859336,
+    "population": 728,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10225",
+      "CBG-ND-10380",
+      "CBG-ND-10065",
+      "CBG-ND-10212",
+      "CBG-ND-10250"
+    ]
+  },
+  {
+    "id": "CBG-ND-10089",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.751,
+    "y": 46.907,
+    "infraWeight": 0.33372998389396985,
+    "population": 680,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10299",
+      "CBG-ND-10274",
+      "CBG-ND-10332",
+      "CBG-ND-10235",
+      "CBG-ND-10039"
+    ]
+  },
+  {
+    "id": "CBG-ND-10090",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.162,
+    "y": 47.0775,
+    "infraWeight": 0.7713302416351235,
+    "population": 1217,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10300",
+      "CBG-ND-10064",
+      "CBG-ND-10143",
+      "CBG-ND-10096",
+      "CBG-ND-10260"
+    ]
+  },
+  {
+    "id": "CBG-ND-10091",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.1943,
+    "y": 47.0377,
+    "infraWeight": 0.36258760323527206,
+    "population": 619,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10108",
+      "CBG-ND-10398",
+      "CBG-ND-10253",
+      "CBG-ND-10247",
+      "CBG-ND-10208"
+    ]
+  },
+  {
+    "id": "CBG-ND-10092",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3548,
+    "y": 47.7943,
+    "infraWeight": 0.7133928218208486,
+    "population": 1327,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10012",
+      "CBG-ND-10124",
+      "CBG-ND-10171",
+      "CBG-ND-10013",
+      "CBG-ND-10121"
+    ]
+  },
+  {
+    "id": "CBG-ND-10093",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7953,
+    "y": 46.6027,
+    "infraWeight": 0.5480274100949923,
+    "population": 878,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10116",
+      "CBG-ND-10343",
+      "CBG-ND-10251",
+      "CBG-ND-10275",
+      "CBG-ND-10320"
+    ]
+  },
+  {
+    "id": "CBG-ND-10094",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.5261,
+    "y": 47.3355,
+    "infraWeight": 0.35484522767688365,
+    "population": 656,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10305",
+      "CBG-ND-10326",
+      "CBG-ND-10389",
+      "CBG-ND-10074",
+      "CBG-ND-10332"
+    ]
+  },
+  {
+    "id": "CBG-ND-10095",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.1561,
+    "y": 46.6067,
+    "infraWeight": 0.3520029820646624,
+    "population": 704,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10144",
+      "CBG-ND-10263",
+      "CBG-ND-10349",
+      "CBG-ND-10168",
+      "CBG-ND-10289"
+    ]
+  },
+  {
+    "id": "CBG-ND-10096",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3707,
+    "y": 47.0423,
+    "infraWeight": 0.6974775233348104,
+    "population": 1339,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10385",
+      "CBG-ND-10090",
+      "CBG-ND-10064",
+      "CBG-ND-10300",
+      "CBG-ND-10223"
+    ]
+  },
+  {
+    "id": "CBG-ND-10097",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0838,
+    "y": 46.1322,
+    "infraWeight": 0.41794726575761865,
+    "population": 690,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10288",
+      "CBG-ND-10184",
+      "CBG-ND-10022",
+      "CBG-ND-10063",
+      "CBG-ND-10422"
+    ]
+  },
+  {
+    "id": "CBG-ND-10098",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7102,
+    "y": 48.985,
+    "infraWeight": 0.5833634576155151,
+    "population": 990,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10068",
+      "CBG-ND-10028",
+      "CBG-ND-10224",
+      "CBG-ND-10243",
+      "CBG-ND-10245"
+    ]
+  },
+  {
+    "id": "CBG-ND-10099",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9381,
+    "y": 46.7765,
+    "infraWeight": 0.43320741917923444,
+    "population": 716,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10110",
+      "CBG-ND-10102",
+      "CBG-ND-10106",
+      "CBG-ND-10313",
+      "CBG-ND-10084"
+    ]
+  },
+  {
+    "id": "CBG-ND-10100",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3738,
+    "y": 46.5066,
+    "infraWeight": 0.6147585089390365,
+    "population": 1036,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10130",
+      "CBG-ND-10111",
+      "CBG-ND-10055",
+      "CBG-ND-10223",
+      "CBG-ND-10122"
+    ]
+  },
+  {
+    "id": "CBG-ND-10101",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9078,
+    "y": 47.1807,
+    "infraWeight": 0.6190399572226687,
+    "population": 966,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10030",
+      "CBG-ND-10021",
+      "CBG-ND-10397",
+      "CBG-ND-10329",
+      "CBG-ND-10405"
+    ]
+  },
+  {
+    "id": "CBG-ND-10102",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.876,
+    "y": 46.6155,
+    "infraWeight": 0.4200519336534385,
+    "population": 753,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10110",
+      "CBG-ND-10099",
+      "CBG-ND-10163",
+      "CBG-ND-10106",
+      "CBG-ND-10084"
+    ]
+  },
+  {
+    "id": "CBG-ND-10103",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.4591,
+    "y": 47.6372,
+    "infraWeight": 0.389852167222212,
+    "population": 777,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10123",
+      "CBG-ND-10061",
+      "CBG-ND-10175",
+      "CBG-ND-10158",
+      "CBG-ND-10265"
+    ]
+  },
+  {
+    "id": "CBG-ND-10104",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.3949,
+    "y": 47.4979,
+    "infraWeight": 0.7864655780967927,
+    "population": 1395,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10308",
+      "CBG-ND-10207",
+      "CBG-ND-10139",
+      "CBG-ND-10221",
+      "CBG-ND-10316"
+    ]
+  },
+  {
+    "id": "CBG-ND-10105",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7567,
+    "y": 47.4827,
+    "infraWeight": 1.0307534282192283,
+    "population": 1890,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10383",
+      "CBG-ND-10293",
+      "CBG-ND-10058",
+      "CBG-ND-10336",
+      "CBG-ND-10282"
+    ]
+  },
+  {
+    "id": "CBG-ND-10106",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.7271,
+    "y": 46.8367,
+    "infraWeight": 0.41087270215339755,
+    "population": 701,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10110",
+      "CBG-ND-10415",
+      "CBG-ND-10099",
+      "CBG-ND-10009",
+      "CBG-ND-10102"
+    ]
+  },
+  {
+    "id": "CBG-ND-10107",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8022,
+    "y": 47.4028,
+    "infraWeight": 0.4285402914451539,
+    "population": 819,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10215",
+      "CBG-ND-10413",
+      "CBG-ND-10191",
+      "CBG-ND-10114",
+      "CBG-ND-10123"
+    ]
+  },
+  {
+    "id": "CBG-ND-10108",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.0554,
+    "y": 47.1314,
+    "infraWeight": 0.3518122896375531,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10283",
+      "CBG-ND-10398",
+      "CBG-ND-10091",
+      "CBG-ND-10247",
+      "CBG-ND-10208"
+    ]
+  },
+  {
+    "id": "CBG-ND-10109",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2315,
+    "y": 46.0153,
+    "infraWeight": 0.6111907793072289,
+    "population": 1175,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10040",
+      "CBG-ND-10047",
+      "CBG-ND-10419",
+      "CBG-ND-10347",
+      "CBG-ND-10201"
+    ]
+  },
+  {
+    "id": "CBG-ND-10110",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8559,
+    "y": 46.7842,
+    "infraWeight": 0.4237917958928838,
+    "population": 790,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10099",
+      "CBG-ND-10106",
+      "CBG-ND-10102",
+      "CBG-ND-10132",
+      "CBG-ND-10415"
+    ]
+  },
+  {
+    "id": "CBG-ND-10111",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2139,
+    "y": 46.4083,
+    "infraWeight": 0.6254898103284012,
+    "population": 1100,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10130",
+      "CBG-ND-10296",
+      "CBG-ND-10100",
+      "CBG-ND-10055",
+      "CBG-ND-10268"
+    ]
+  },
+  {
+    "id": "CBG-ND-10112",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0652,
+    "y": 47.9764,
+    "infraWeight": 0.4554303911281737,
+    "population": 797,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10363",
+      "CBG-ND-10356",
+      "CBG-ND-10075",
+      "CBG-ND-10416",
+      "CBG-ND-10379"
+    ]
+  },
+  {
+    "id": "CBG-ND-10113",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3876,
+    "y": 46.6944,
+    "infraWeight": 0.46515579584062583,
+    "population": 789,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10131",
+      "CBG-ND-10399",
+      "CBG-ND-10246",
+      "CBG-ND-10031",
+      "CBG-ND-10406"
+    ]
+  },
+  {
+    "id": "CBG-ND-10114",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.7041,
+    "y": 47.1602,
+    "infraWeight": 0.41486079038524026,
+    "population": 778,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10009",
+      "CBG-ND-10132",
+      "CBG-ND-10107",
+      "CBG-ND-10106",
+      "CBG-ND-10215"
+    ]
+  },
+  {
+    "id": "CBG-ND-10115",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.638,
+    "y": 47.0447,
+    "infraWeight": 0.973686570818768,
+    "population": 1645,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10295",
+      "CBG-ND-10151",
+      "CBG-ND-10259",
+      "CBG-ND-10336",
+      "CBG-ND-10407"
+    ]
+  },
+  {
+    "id": "CBG-ND-10116",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.8097,
+    "y": 46.7244,
+    "infraWeight": 0.5624561528958784,
+    "population": 935,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10275",
+      "CBG-ND-10093",
+      "CBG-ND-10320",
+      "CBG-ND-10343",
+      "CBG-ND-10251"
+    ]
+  },
+  {
+    "id": "CBG-ND-10117",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1366,
+    "y": 47.4435,
+    "infraWeight": 0.3911335926673711,
+    "population": 680,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10305",
+      "CBG-ND-10066",
+      "CBG-ND-10279",
+      "CBG-ND-10326",
+      "CBG-ND-10256"
+    ]
+  },
+  {
+    "id": "CBG-ND-10118",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6515,
+    "y": 48.2886,
+    "infraWeight": 0.5814372939880917,
+    "population": 1089,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10335",
+      "CBG-ND-10358",
+      "CBG-ND-10187",
+      "CBG-ND-10345",
+      "CBG-ND-10273"
+    ]
+  },
+  {
+    "id": "CBG-ND-10119",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.302,
+    "y": 46.3075,
+    "infraWeight": 0.45291238736091566,
+    "population": 736,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10401",
+      "CBG-ND-10404",
+      "CBG-ND-10321",
+      "CBG-ND-10288",
+      "CBG-ND-10022"
+    ]
+  },
+  {
+    "id": "CBG-ND-10120",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.018,
+    "y": 47.2861,
+    "infraWeight": 0.8625375212737009,
+    "population": 1454,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10143",
+      "CBG-ND-10058",
+      "CBG-ND-10293",
+      "CBG-ND-10064",
+      "CBG-ND-10090"
+    ]
+  },
+  {
+    "id": "CBG-ND-10121",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.4827,
+    "y": 47.7442,
+    "infraWeight": 0.6778091730330842,
+    "population": 1397,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10012",
+      "CBG-ND-10092",
+      "CBG-ND-10333",
+      "CBG-ND-10013",
+      "CBG-ND-10306"
+    ]
+  },
+  {
+    "id": "CBG-ND-10122",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.4953,
+    "y": 46.2608,
+    "infraWeight": 0.5560499029947087,
+    "population": 937,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10130",
+      "CBG-ND-10081",
+      "CBG-ND-10100",
+      "CBG-ND-10341",
+      "CBG-ND-10111"
+    ]
+  },
+  {
+    "id": "CBG-ND-10123",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.5558,
+    "y": 47.5862,
+    "infraWeight": 0.4001718403210154,
+    "population": 796,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10103",
+      "CBG-ND-10061",
+      "CBG-ND-10175",
+      "CBG-ND-10107",
+      "CBG-ND-10185"
+    ]
+  },
+  {
+    "id": "CBG-ND-10124",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2667,
+    "y": 47.8367,
+    "infraWeight": 0.7377635313150359,
+    "population": 1282,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10171",
+      "CBG-ND-10092",
+      "CBG-ND-10012",
+      "CBG-ND-10013",
+      "CBG-ND-10309"
+    ]
+  },
+  {
+    "id": "CBG-ND-10125",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9958,
+    "y": 48.7388,
+    "infraWeight": 0.33026680458856944,
+    "population": 644,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10182",
+      "CBG-ND-10038",
+      "CBG-ND-10359",
+      "CBG-ND-10400",
+      "CBG-ND-10127"
+    ]
+  },
+  {
+    "id": "CBG-ND-10126",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.9546,
+    "y": 46.4808,
+    "infraWeight": 0.31355133001663305,
+    "population": 600,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10039",
+      "CBG-ND-10235",
+      "CBG-ND-10299",
+      "CBG-ND-10154",
+      "CBG-ND-10089"
+    ]
+  },
+  {
+    "id": "CBG-ND-10127",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.0344,
+    "y": 48.407,
+    "infraWeight": 0.340944337481703,
+    "population": 608,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10278",
+      "CBG-ND-10182",
+      "CBG-ND-10038",
+      "CBG-ND-10133",
+      "CBG-ND-10400"
+    ]
+  },
+  {
+    "id": "CBG-ND-10128",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6584,
+    "y": 48.1265,
+    "infraWeight": 0.5414423968353195,
+    "population": 1056,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10045",
+      "CBG-ND-10287",
+      "CBG-ND-10170",
+      "CBG-ND-10414",
+      "CBG-ND-10049"
+    ]
+  },
+  {
+    "id": "CBG-ND-10129",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.8416,
+    "y": 47.5311,
+    "infraWeight": 0.6094053061169927,
+    "population": 1196,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10420",
+      "CBG-ND-10177",
+      "CBG-ND-10193",
+      "CBG-ND-10138",
+      "CBG-ND-10199"
+    ]
+  },
+  {
+    "id": "CBG-ND-10130",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2778,
+    "y": 46.3622,
+    "infraWeight": 0.6061008973611435,
+    "population": 951,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10111",
+      "CBG-ND-10100",
+      "CBG-ND-10296",
+      "CBG-ND-10122",
+      "CBG-ND-10268"
+    ]
+  },
+  {
+    "id": "CBG-ND-10131",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3686,
+    "y": 46.7955,
+    "infraWeight": 0.47265772911709664,
+    "population": 821,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10399",
+      "CBG-ND-10113",
+      "CBG-ND-10246",
+      "CBG-ND-10406",
+      "CBG-ND-10031"
+    ]
+  },
+  {
+    "id": "CBG-ND-10132",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8799,
+    "y": 47.0628,
+    "infraWeight": 0.43410815200259667,
+    "population": 788,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10009",
+      "CBG-ND-10114",
+      "CBG-ND-10106",
+      "CBG-ND-10110",
+      "CBG-ND-10099"
+    ]
+  },
+  {
+    "id": "CBG-ND-10133",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.3321,
+    "y": 48.3215,
+    "infraWeight": 0.36676149588574214,
+    "population": 600,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10257",
+      "CBG-ND-10315",
+      "CBG-ND-10278",
+      "CBG-ND-10400",
+      "CBG-ND-10127"
+    ]
+  },
+  {
+    "id": "CBG-ND-10134",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8049,
+    "y": 48.2354,
+    "infraWeight": 0.4145608640297605,
+    "population": 793,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10307",
+      "CBG-ND-10229",
+      "CBG-ND-10192",
+      "CBG-ND-10394",
+      "CBG-ND-10156"
+    ]
+  },
+  {
+    "id": "CBG-ND-10135",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.5955,
+    "y": 48.2277,
+    "infraWeight": 0.3424398006340977,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10211",
+      "CBG-ND-10085",
+      "CBG-ND-10304",
+      "CBG-ND-10302",
+      "CBG-ND-10301"
+    ]
+  },
+  {
+    "id": "CBG-ND-10136",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2894,
+    "y": 46.875,
+    "infraWeight": 0.9416763836416213,
+    "population": 1511,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10386",
+      "CBG-ND-10011",
+      "CBG-ND-10271",
+      "CBG-ND-10327",
+      "CBG-ND-10151"
+    ]
+  },
+  {
+    "id": "CBG-ND-10137",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6346,
+    "y": 47.5533,
+    "infraWeight": 0.6422058220934777,
+    "population": 1046,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10333",
+      "CBG-ND-10353",
+      "CBG-ND-10067",
+      "CBG-ND-10121",
+      "CBG-ND-10368"
+    ]
+  },
+  {
+    "id": "CBG-ND-10138",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7368,
+    "y": 47.642,
+    "infraWeight": 0.5826320295737933,
+    "population": 1162,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10193",
+      "CBG-ND-10177",
+      "CBG-ND-10174",
+      "CBG-ND-10420",
+      "CBG-ND-10129"
+    ]
+  },
+  {
+    "id": "CBG-ND-10139",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.4867,
+    "y": 47.3063,
+    "infraWeight": 0.8193250691202054,
+    "population": 1703,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10248",
+      "CBG-ND-10418",
+      "CBG-ND-10308",
+      "CBG-ND-10104",
+      "CBG-ND-10070"
+    ]
+  },
+  {
+    "id": "CBG-ND-10140",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5173,
+    "y": 48.2917,
+    "infraWeight": 0.7017490673716675,
+    "population": 1312,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10244",
+      "CBG-ND-10230",
+      "CBG-ND-10036",
+      "CBG-ND-10272",
+      "CBG-ND-10276"
+    ]
+  },
+  {
+    "id": "CBG-ND-10141",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2066,
+    "y": 46.6358,
+    "infraWeight": 0.8163803242770657,
+    "population": 1369,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10271",
+      "CBG-ND-10205",
+      "CBG-ND-10011",
+      "CBG-ND-10136",
+      "CBG-ND-10286"
+    ]
+  },
+  {
+    "id": "CBG-ND-10142",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.3449,
+    "y": 47.8622,
+    "infraWeight": 1.0739357003741241,
+    "population": 1849,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10344",
+      "CBG-ND-10198",
+      "CBG-ND-10337",
+      "CBG-ND-10334",
+      "CBG-ND-10024"
+    ]
+  },
+  {
+    "id": "CBG-ND-10143",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1314,
+    "y": 47.207,
+    "infraWeight": 0.8022293283710475,
+    "population": 1314,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10064",
+      "CBG-ND-10090",
+      "CBG-ND-10120",
+      "CBG-ND-10300",
+      "CBG-ND-10260"
+    ]
+  },
+  {
+    "id": "CBG-ND-10144",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.2109,
+    "y": 46.5693,
+    "infraWeight": 0.35555963375643806,
+    "population": 723,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10095",
+      "CBG-ND-10349",
+      "CBG-ND-10263",
+      "CBG-ND-10168",
+      "CBG-ND-10062"
+    ]
+  },
+  {
+    "id": "CBG-ND-10145",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2372,
+    "y": 48.3332,
+    "infraWeight": 0.6595131782152018,
+    "population": 1119,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10187",
+      "CBG-ND-10318",
+      "CBG-ND-10214",
+      "CBG-ND-10285",
+      "CBG-ND-10057"
+    ]
+  },
+  {
+    "id": "CBG-ND-10146",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1301,
+    "y": 48.3871,
+    "infraWeight": 0.4923667475262676,
+    "population": 855,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10317",
+      "CBG-ND-10178",
+      "CBG-ND-10345",
+      "CBG-ND-10220",
+      "CBG-ND-10264"
+    ]
+  },
+  {
+    "id": "CBG-ND-10147",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2108,
+    "y": 46.2727,
+    "infraWeight": 0.3618762131074512,
+    "population": 699,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10234",
+      "CBG-ND-10034",
+      "CBG-ND-10059",
+      "CBG-ND-10002",
+      "CBG-ND-10026"
+    ]
+  },
+  {
+    "id": "CBG-ND-10148",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6902,
+    "y": 48.8864,
+    "infraWeight": 0.47666396690015717,
+    "population": 831,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10357",
+      "CBG-ND-10292",
+      "CBG-ND-10325",
+      "CBG-ND-10049",
+      "CBG-ND-10170"
+    ]
+  },
+  {
+    "id": "CBG-ND-10149",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.0466,
+    "y": 48.1178,
+    "infraWeight": 0.883283818231119,
+    "population": 1650,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10337",
+      "CBG-ND-10281",
+      "CBG-ND-10297",
+      "CBG-ND-10310",
+      "CBG-ND-10396"
+    ]
+  },
+  {
+    "id": "CBG-ND-10150",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.2382,
+    "y": 45.9701,
+    "infraWeight": 0.4225661646442306,
+    "population": 873,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10033",
+      "CBG-ND-10097",
+      "CBG-ND-10288",
+      "CBG-ND-10184",
+      "CBG-ND-10063"
+    ]
+  },
+  {
+    "id": "CBG-ND-10151",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4989,
+    "y": 47.0089,
+    "infraWeight": 1.0003561816064892,
+    "population": 1890,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10295",
+      "CBG-ND-10115",
+      "CBG-ND-10136",
+      "CBG-ND-10386",
+      "CBG-ND-10336"
+    ]
+  },
+  {
+    "id": "CBG-ND-10152",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5439,
+    "y": 46.6534,
+    "infraWeight": 0.7100939553563494,
+    "population": 1349,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10056",
+      "CBG-ND-10160",
+      "CBG-ND-10423",
+      "CBG-ND-10376",
+      "CBG-ND-10043"
+    ]
+  },
+  {
+    "id": "CBG-ND-10153",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5281,
+    "y": 47.844,
+    "infraWeight": 0.46040487786256185,
+    "population": 818,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10164",
+      "CBG-ND-10342",
+      "CBG-ND-10303",
+      "CBG-ND-10394",
+      "CBG-ND-10364"
+    ]
+  },
+  {
+    "id": "CBG-ND-10154",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.6325,
+    "y": 46.1687,
+    "infraWeight": 0.3278506192223386,
+    "population": 640,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10226",
+      "CBG-ND-10270",
+      "CBG-ND-10059",
+      "CBG-ND-10147",
+      "CBG-ND-10126"
+    ]
+  },
+  {
+    "id": "CBG-ND-10155",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8079,
+    "y": 48.5648,
+    "infraWeight": 0.6792984833041652,
+    "population": 1237,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10217",
+      "CBG-ND-10390",
+      "CBG-ND-10028",
+      "CBG-ND-10224",
+      "CBG-ND-10318"
+    ]
+  },
+  {
+    "id": "CBG-ND-10156",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.9359,
+    "y": 48.4293,
+    "infraWeight": 0.3942976749962386,
+    "population": 746,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10192",
+      "CBG-ND-10250",
+      "CBG-ND-10307",
+      "CBG-ND-10229",
+      "CBG-ND-10134"
+    ]
+  },
+  {
+    "id": "CBG-ND-10157",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.5632,
+    "y": 47.8391,
+    "infraWeight": 0.3502531766679618,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10200",
+      "CBG-ND-10074",
+      "CBG-ND-10211",
+      "CBG-ND-10279",
+      "CBG-ND-10085"
+    ]
+  },
+  {
+    "id": "CBG-ND-10158",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.1463,
+    "y": 47.5406,
+    "infraWeight": 0.36090569303527076,
+    "population": 748,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10061",
+      "CBG-ND-10290",
+      "CBG-ND-10398",
+      "CBG-ND-10103",
+      "CBG-ND-10283"
+    ]
+  },
+  {
+    "id": "CBG-ND-10159",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2206,
+    "y": 48.6076,
+    "infraWeight": 0.7000574464472724,
+    "population": 1113,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10076",
+      "CBG-ND-10312",
+      "CBG-ND-10181",
+      "CBG-ND-10014",
+      "CBG-ND-10087"
+    ]
+  },
+  {
+    "id": "CBG-ND-10160",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.3391,
+    "y": 46.5689,
+    "infraWeight": 0.6473927092387567,
+    "population": 1099,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10423",
+      "CBG-ND-10056",
+      "CBG-ND-10376",
+      "CBG-ND-10152",
+      "CBG-ND-10402"
+    ]
+  },
+  {
+    "id": "CBG-ND-10161",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1231,
+    "y": 46.6866,
+    "infraWeight": 0.7030392019715891,
+    "population": 1125,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10055",
+      "CBG-ND-10052",
+      "CBG-ND-10346",
+      "CBG-ND-10240",
+      "CBG-ND-10223"
+    ]
+  },
+  {
+    "id": "CBG-ND-10162",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.5574,
+    "y": 46.1394,
+    "infraWeight": 0.6375383489307543,
+    "population": 1250,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10419",
+      "CBG-ND-10047",
+      "CBG-ND-10040",
+      "CBG-ND-10044",
+      "CBG-ND-10015"
+    ]
+  },
+  {
+    "id": "CBG-ND-10163",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.7725,
+    "y": 46.4237,
+    "infraWeight": 0.40148346235922955,
+    "population": 657,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10219",
+      "CBG-ND-10072",
+      "CBG-ND-10016",
+      "CBG-ND-10102",
+      "CBG-ND-10035"
+    ]
+  },
+  {
+    "id": "CBG-ND-10164",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6732,
+    "y": 47.6786,
+    "infraWeight": 0.4436694710456781,
+    "population": 824,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10303",
+      "CBG-ND-10239",
+      "CBG-ND-10342",
+      "CBG-ND-10387",
+      "CBG-ND-10153"
+    ]
+  },
+  {
+    "id": "CBG-ND-10165",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6388,
+    "y": 48.5507,
+    "infraWeight": 0.3871360417078148,
+    "population": 725,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10298",
+      "CBG-ND-10007",
+      "CBG-ND-10173",
+      "CBG-ND-10073",
+      "CBG-ND-10257"
+    ]
+  },
+  {
+    "id": "CBG-ND-10166",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3289,
+    "y": 48.5857,
+    "infraWeight": 0.4524826694568731,
+    "population": 910,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10178",
+      "CBG-ND-10319",
+      "CBG-ND-10220",
+      "CBG-ND-10146",
+      "CBG-ND-10355"
+    ]
+  },
+  {
+    "id": "CBG-ND-10167",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1737,
+    "y": 48.8569,
+    "infraWeight": 0.6263081868432965,
+    "population": 1187,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10014",
+      "CBG-ND-10245",
+      "CBG-ND-10181",
+      "CBG-ND-10076",
+      "CBG-ND-10159"
+    ]
+  },
+  {
+    "id": "CBG-ND-10168",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.0135,
+    "y": 46.7265,
+    "infraWeight": 0.3432008194160526,
+    "population": 669,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10263",
+      "CBG-ND-10360",
+      "CBG-ND-10391",
+      "CBG-ND-10095",
+      "CBG-ND-10289"
+    ]
+  },
+  {
+    "id": "CBG-ND-10169",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.4207,
+    "y": 46.1663,
+    "infraWeight": 0.4301943166405362,
+    "population": 896,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10417",
+      "CBG-ND-10032",
+      "CBG-ND-10003",
+      "CBG-ND-10236",
+      "CBG-ND-10179"
+    ]
+  },
+  {
+    "id": "CBG-ND-10170",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6668,
+    "y": 48.4728,
+    "infraWeight": 0.5138749690503069,
+    "population": 819,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10049",
+      "CBG-ND-10292",
+      "CBG-ND-10352",
+      "CBG-ND-10128",
+      "CBG-ND-10287"
+    ]
+  },
+  {
+    "id": "CBG-ND-10171",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.254,
+    "y": 47.7879,
+    "infraWeight": 0.7482494235739038,
+    "population": 1169,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10124",
+      "CBG-ND-10092",
+      "CBG-ND-10012",
+      "CBG-ND-10306",
+      "CBG-ND-10013"
+    ]
+  },
+  {
+    "id": "CBG-ND-10172",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5954,
+    "y": 46.3529,
+    "infraWeight": 0.4224933536241363,
+    "population": 843,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10003",
+      "CBG-ND-10031",
+      "CBG-ND-10032",
+      "CBG-ND-10169",
+      "CBG-ND-10417"
+    ]
+  },
+  {
+    "id": "CBG-ND-10173",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.4543,
+    "y": 48.714,
+    "infraWeight": 0.36513319777308967,
+    "population": 719,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10298",
+      "CBG-ND-10381",
+      "CBG-ND-10206",
+      "CBG-ND-10400",
+      "CBG-ND-10165"
+    ]
+  },
+  {
+    "id": "CBG-ND-10174",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7852,
+    "y": 47.7816,
+    "infraWeight": 0.5885592566233308,
+    "population": 1190,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10138",
+      "CBG-ND-10193",
+      "CBG-ND-10414",
+      "CBG-ND-10177",
+      "CBG-ND-10129"
+    ]
+  },
+  {
+    "id": "CBG-ND-10175",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6939,
+    "y": 47.8419,
+    "infraWeight": 0.4127183434786586,
+    "population": 727,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10185",
+      "CBG-ND-10123",
+      "CBG-ND-10265",
+      "CBG-ND-10103",
+      "CBG-ND-10416"
+    ]
+  },
+  {
+    "id": "CBG-ND-10176",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.9875,
+    "y": 47.3108,
+    "infraWeight": 1.1101184845400751,
+    "population": 1867,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10210",
+      "CBG-ND-10232",
+      "CBG-ND-10037",
+      "CBG-ND-10392",
+      "CBG-ND-10183"
+    ]
+  },
+  {
+    "id": "CBG-ND-10177",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7568,
+    "y": 47.5321,
+    "infraWeight": 0.5891127793130209,
+    "population": 988,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10420",
+      "CBG-ND-10193",
+      "CBG-ND-10129",
+      "CBG-ND-10138",
+      "CBG-ND-10174"
+    ]
+  },
+  {
+    "id": "CBG-ND-10178",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.2556,
+    "y": 48.4819,
+    "infraWeight": 0.46853210511182225,
+    "population": 868,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10166",
+      "CBG-ND-10146",
+      "CBG-ND-10220",
+      "CBG-ND-10355",
+      "CBG-ND-10317"
+    ]
+  },
+  {
+    "id": "CBG-ND-10179",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1831,
+    "y": 46.2195,
+    "infraWeight": 0.46041540161470285,
+    "population": 816,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10417",
+      "CBG-ND-10032",
+      "CBG-ND-10169",
+      "CBG-ND-10005",
+      "CBG-ND-10186"
+    ]
+  },
+  {
+    "id": "CBG-ND-10180",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.2631,
+    "y": 48.8825,
+    "infraWeight": 0.4388053971760819,
+    "population": 789,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10197",
+      "CBG-ND-10354",
+      "CBG-ND-10166",
+      "CBG-ND-10267",
+      "CBG-ND-10355"
+    ]
+  },
+  {
+    "id": "CBG-ND-10181",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1009,
+    "y": 48.6756,
+    "infraWeight": 0.6743453007021762,
+    "population": 1224,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10076",
+      "CBG-ND-10159",
+      "CBG-ND-10312",
+      "CBG-ND-10014",
+      "CBG-ND-10167"
+    ]
+  },
+  {
+    "id": "CBG-ND-10182",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.074,
+    "y": 48.6231,
+    "infraWeight": 0.33873919094920973,
+    "population": 600,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10125",
+      "CBG-ND-10400",
+      "CBG-ND-10038",
+      "CBG-ND-10127",
+      "CBG-ND-10359"
+    ]
+  },
+  {
+    "id": "CBG-ND-10183",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.7974,
+    "y": 47.1286,
+    "infraWeight": 0.9329718321610843,
+    "population": 1861,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10070",
+      "CBG-ND-10418",
+      "CBG-ND-10248",
+      "CBG-ND-10176",
+      "CBG-ND-10029"
+    ]
+  },
+  {
+    "id": "CBG-ND-10184",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0267,
+    "y": 46.1108,
+    "infraWeight": 0.4110819445413775,
+    "population": 660,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10097",
+      "CBG-ND-10288",
+      "CBG-ND-10022",
+      "CBG-ND-10063",
+      "CBG-ND-10422"
+    ]
+  },
+  {
+    "id": "CBG-ND-10185",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6615,
+    "y": 47.9715,
+    "infraWeight": 0.4067504373447317,
+    "population": 687,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10175",
+      "CBG-ND-10265",
+      "CBG-ND-10103",
+      "CBG-ND-10123",
+      "CBG-ND-10257"
+    ]
+  },
+  {
+    "id": "CBG-ND-10186",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.2695,
+    "y": 45.9527,
+    "infraWeight": 0.43059743397014055,
+    "population": 856,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10236",
+      "CBG-ND-10169",
+      "CBG-ND-10179",
+      "CBG-ND-10417",
+      "CBG-ND-10032"
+    ]
+  },
+  {
+    "id": "CBG-ND-10187",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3695,
+    "y": 48.3102,
+    "infraWeight": 0.6355582889650628,
+    "population": 1088,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10145",
+      "CBG-ND-10273",
+      "CBG-ND-10057",
+      "CBG-ND-10285",
+      "CBG-ND-10118"
+    ]
+  },
+  {
+    "id": "CBG-ND-10188",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8721,
+    "y": 45.9868,
+    "infraWeight": 0.3781628777418813,
+    "population": 612,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10194",
+      "CBG-ND-10242",
+      "CBG-ND-10002",
+      "CBG-ND-10003",
+      "CBG-ND-10026"
+    ]
+  },
+  {
+    "id": "CBG-ND-10189",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.2619,
+    "y": 46.5844,
+    "infraWeight": 0.46542431731313116,
+    "population": 869,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10084",
+      "CBG-ND-10369",
+      "CBG-ND-10313",
+      "CBG-ND-10404",
+      "CBG-ND-10119"
+    ]
+  },
+  {
+    "id": "CBG-ND-10190",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.5526,
+    "y": 47.2994,
+    "infraWeight": 0.6630616256385932,
+    "population": 1064,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10368",
+      "CBG-ND-10353",
+      "CBG-ND-10366",
+      "CBG-ND-10067",
+      "CBG-ND-10395"
+    ]
+  },
+  {
+    "id": "CBG-ND-10191",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9977,
+    "y": 47.5347,
+    "infraWeight": 0.4538713478193739,
+    "population": 854,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10413",
+      "CBG-ND-10215",
+      "CBG-ND-10416",
+      "CBG-ND-10107",
+      "CBG-ND-10175"
+    ]
+  },
+  {
+    "id": "CBG-ND-10192",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.9867,
+    "y": 48.332,
+    "infraWeight": 0.39260108017155204,
+    "population": 792,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10156",
+      "CBG-ND-10134",
+      "CBG-ND-10250",
+      "CBG-ND-10307",
+      "CBG-ND-10065"
+    ]
+  },
+  {
+    "id": "CBG-ND-10193",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.78,
+    "y": 47.591,
+    "infraWeight": 0.593681770339211,
+    "population": 1063,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10177",
+      "CBG-ND-10138",
+      "CBG-ND-10129",
+      "CBG-ND-10420",
+      "CBG-ND-10174"
+    ]
+  },
+  {
+    "id": "CBG-ND-10194",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7236,
+    "y": 45.9378,
+    "infraWeight": 0.3881286048577005,
+    "population": 769,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10188",
+      "CBG-ND-10003",
+      "CBG-ND-10242",
+      "CBG-ND-10236",
+      "CBG-ND-10169"
+    ]
+  },
+  {
+    "id": "CBG-ND-10195",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.121,
+    "y": 48.6581,
+    "infraWeight": 0.5604268933810908,
+    "population": 914,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10328",
+      "CBG-ND-10410",
+      "CBG-ND-10340",
+      "CBG-ND-10280",
+      "CBG-ND-10325"
+    ]
+  },
+  {
+    "id": "CBG-ND-10196",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1211,
+    "y": 47.5635,
+    "infraWeight": 1.2454472240389005,
+    "population": 2398,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10392",
+      "CBG-ND-10037",
+      "CBG-ND-10210",
+      "CBG-ND-10024",
+      "CBG-ND-10176"
+    ]
+  },
+  {
+    "id": "CBG-ND-10197",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1452,
+    "y": 48.8443,
+    "infraWeight": 0.45443690552998106,
+    "population": 846,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10180",
+      "CBG-ND-10354",
+      "CBG-ND-10267",
+      "CBG-ND-10355",
+      "CBG-ND-10220"
+    ]
+  },
+  {
+    "id": "CBG-ND-10198",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.3975,
+    "y": 48.1267,
+    "infraWeight": 0.9004747451401296,
+    "population": 1440,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10344",
+      "CBG-ND-10019",
+      "CBG-ND-10281",
+      "CBG-ND-10337",
+      "CBG-ND-10142"
+    ]
+  },
+  {
+    "id": "CBG-ND-10199",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9912,
+    "y": 47.6264,
+    "infraWeight": 0.6465410642262026,
+    "population": 1359,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10221",
+      "CBG-ND-10129",
+      "CBG-ND-10193",
+      "CBG-ND-10420",
+      "CBG-ND-10177"
+    ]
+  },
+  {
+    "id": "CBG-ND-10200",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.6687,
+    "y": 47.7607,
+    "infraWeight": 0.3424803667037217,
+    "population": 703,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10157",
+      "CBG-ND-10074",
+      "CBG-ND-10384",
+      "CBG-ND-10211",
+      "CBG-ND-10085"
+    ]
+  },
+  {
+    "id": "CBG-ND-10201",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.9211,
+    "y": 46.0313,
+    "infraWeight": 0.6033703958544702,
+    "population": 1042,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10347",
+      "CBG-ND-10109",
+      "CBG-ND-10043",
+      "CBG-ND-10373",
+      "CBG-ND-10086"
+    ]
+  },
+  {
+    "id": "CBG-ND-10202",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6184,
+    "y": 48.6677,
+    "infraWeight": 0.3077723789718281,
+    "population": 600,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10001",
+      "CBG-ND-10038",
+      "CBG-ND-10125",
+      "CBG-ND-10182",
+      "CBG-ND-10127"
+    ]
+  },
+  {
+    "id": "CBG-ND-10203",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.8663,
+    "y": 48.8765,
+    "infraWeight": 0.3933508132838644,
+    "population": 795,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10046",
+      "CBG-ND-10298",
+      "CBG-ND-10165",
+      "CBG-ND-10381",
+      "CBG-ND-10073"
+    ]
+  },
+  {
+    "id": "CBG-ND-10204",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7465,
+    "y": 48.6841,
+    "infraWeight": 0.4020650849156619,
+    "population": 684,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10010",
+      "CBG-ND-10331",
+      "CBG-ND-10277",
+      "CBG-ND-10403",
+      "CBG-ND-10250"
+    ]
+  },
+  {
+    "id": "CBG-ND-10205",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1581,
+    "y": 46.489,
+    "infraWeight": 0.7540594769733525,
+    "population": 1415,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10141",
+      "CBG-ND-10271",
+      "CBG-ND-10367",
+      "CBG-ND-10286",
+      "CBG-ND-10011"
+    ]
+  },
+  {
+    "id": "CBG-ND-10206",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.3838,
+    "y": 48.8655,
+    "infraWeight": 0.3541608821422257,
+    "population": 690,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10381",
+      "CBG-ND-10359",
+      "CBG-ND-10173",
+      "CBG-ND-10298",
+      "CBG-ND-10400"
+    ]
+  },
+  {
+    "id": "CBG-ND-10207",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.2023,
+    "y": 47.4333,
+    "infraWeight": 0.7143379622188688,
+    "population": 1256,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10221",
+      "CBG-ND-10104",
+      "CBG-ND-10397",
+      "CBG-ND-10199",
+      "CBG-ND-10021"
+    ]
+  },
+  {
+    "id": "CBG-ND-10208",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9702,
+    "y": 46.9469,
+    "infraWeight": 0.3430951635483908,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10247",
+      "CBG-ND-10391",
+      "CBG-ND-10108",
+      "CBG-ND-10168",
+      "CBG-ND-10091"
+    ]
+  },
+  {
+    "id": "CBG-ND-10209",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3902,
+    "y": 48.8452,
+    "infraWeight": 0.5443477573110053,
+    "population": 1141,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10411",
+      "CBG-ND-10243",
+      "CBG-ND-10273",
+      "CBG-ND-10285",
+      "CBG-ND-10339"
+    ]
+  },
+  {
+    "id": "CBG-ND-10210",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.9865,
+    "y": 47.4836,
+    "infraWeight": 1.1401763942020657,
+    "population": 2122,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10392",
+      "CBG-ND-10196",
+      "CBG-ND-10176",
+      "CBG-ND-10037",
+      "CBG-ND-10232"
+    ]
+  },
+  {
+    "id": "CBG-ND-10211",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.6606,
+    "y": 47.9904,
+    "infraWeight": 0.3409592419643339,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10085",
+      "CBG-ND-10020",
+      "CBG-ND-10157",
+      "CBG-ND-10384",
+      "CBG-ND-10200"
+    ]
+  },
+  {
+    "id": "CBG-ND-10212",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.3045,
+    "y": 48.8467,
+    "infraWeight": 0.3484877387213033,
+    "population": 693,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10088",
+      "CBG-ND-10225",
+      "CBG-ND-10380",
+      "CBG-ND-10065",
+      "CBG-ND-10331"
+    ]
+  },
+  {
+    "id": "CBG-ND-10213",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.1816,
+    "y": 46.1433,
+    "infraWeight": 0.34172270514465974,
+    "population": 653,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10382",
+      "CBG-ND-10078",
+      "CBG-ND-10062",
+      "CBG-ND-10409",
+      "CBG-ND-10025"
+    ]
+  },
+  {
+    "id": "CBG-ND-10214",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1036,
+    "y": 48.1896,
+    "infraWeight": 0.7215202635367621,
+    "population": 1517,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10222",
+      "CBG-ND-10314",
+      "CBG-ND-10375",
+      "CBG-ND-10057",
+      "CBG-ND-10145"
+    ]
+  },
+  {
+    "id": "CBG-ND-10215",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9401,
+    "y": 47.437,
+    "infraWeight": 0.4461978908865303,
+    "population": 784,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10413",
+      "CBG-ND-10191",
+      "CBG-ND-10107",
+      "CBG-ND-10416",
+      "CBG-ND-10114"
+    ]
+  },
+  {
+    "id": "CBG-ND-10216",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6782,
+    "y": 47.9756,
+    "infraWeight": 0.8314485994560282,
+    "population": 1460,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10249",
+      "CBG-ND-10396",
+      "CBG-ND-10230",
+      "CBG-ND-10372",
+      "CBG-ND-10316"
+    ]
+  },
+  {
+    "id": "CBG-ND-10217",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7421,
+    "y": 48.5472,
+    "infraWeight": 0.6925676336603548,
+    "population": 1130,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10155",
+      "CBG-ND-10390",
+      "CBG-ND-10028",
+      "CBG-ND-10224",
+      "CBG-ND-10375"
+    ]
+  },
+  {
+    "id": "CBG-ND-10218",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.0557,
+    "y": 47.8949,
+    "infraWeight": 0.3509691389782601,
+    "population": 642,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10051",
+      "CBG-ND-10370",
+      "CBG-ND-10060",
+      "CBG-ND-10158",
+      "CBG-ND-10265"
+    ]
+  },
+  {
+    "id": "CBG-ND-10219",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6237,
+    "y": 46.4315,
+    "infraWeight": 0.38744881407193743,
+    "population": 709,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10016",
+      "CBG-ND-10163",
+      "CBG-ND-10035",
+      "CBG-ND-10072",
+      "CBG-ND-10054"
+    ]
+  },
+  {
+    "id": "CBG-ND-10220",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.0653,
+    "y": 48.5736,
+    "infraWeight": 0.4867529061916552,
+    "population": 1014,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10355",
+      "CBG-ND-10267",
+      "CBG-ND-10345",
+      "CBG-ND-10146",
+      "CBG-ND-10178"
+    ]
+  },
+  {
+    "id": "CBG-ND-10221",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.149,
+    "y": 47.5823,
+    "infraWeight": 0.6949724462154426,
+    "population": 1423,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10207",
+      "CBG-ND-10199",
+      "CBG-ND-10104",
+      "CBG-ND-10129",
+      "CBG-ND-10397"
+    ]
+  },
+  {
+    "id": "CBG-ND-10222",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0238,
+    "y": 48.1997,
+    "infraWeight": 0.7395764586801555,
+    "population": 1466,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10214",
+      "CBG-ND-10375",
+      "CBG-ND-10314",
+      "CBG-ND-10145",
+      "CBG-ND-10057"
+    ]
+  },
+  {
+    "id": "CBG-ND-10223",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3606,
+    "y": 46.7781,
+    "infraWeight": 0.6626257837912465,
+    "population": 1168,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10385",
+      "CBG-ND-10055",
+      "CBG-ND-10252",
+      "CBG-ND-10161",
+      "CBG-ND-10027"
+    ]
+  },
+  {
+    "id": "CBG-ND-10224",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8851,
+    "y": 48.813,
+    "infraWeight": 0.6082065762357701,
+    "population": 1122,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10028",
+      "CBG-ND-10068",
+      "CBG-ND-10098",
+      "CBG-ND-10155",
+      "CBG-ND-10411"
+    ]
+  },
+  {
+    "id": "CBG-ND-10225",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2898,
+    "y": 48.4697,
+    "infraWeight": 0.3613020522720552,
+    "population": 625,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10380",
+      "CBG-ND-10065",
+      "CBG-ND-10088",
+      "CBG-ND-10302",
+      "CBG-ND-10301"
+    ]
+  },
+  {
+    "id": "CBG-ND-10226",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.5347,
+    "y": 45.977,
+    "infraWeight": 0.32893557078412494,
+    "population": 600,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10270",
+      "CBG-ND-10154",
+      "CBG-ND-10026",
+      "CBG-ND-10059",
+      "CBG-ND-10002"
+    ]
+  },
+  {
+    "id": "CBG-ND-10227",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1854,
+    "y": 48.1436,
+    "infraWeight": 0.49978456685413997,
+    "population": 949,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10317",
+      "CBG-ND-10264",
+      "CBG-ND-10364",
+      "CBG-ND-10146",
+      "CBG-ND-10178"
+    ]
+  },
+  {
+    "id": "CBG-ND-10228",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8796,
+    "y": 48.8221,
+    "infraWeight": 0.6202002128679378,
+    "population": 1147,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10181",
+      "CBG-ND-10284",
+      "CBG-ND-10167",
+      "CBG-ND-10272",
+      "CBG-ND-10076"
+    ]
+  },
+  {
+    "id": "CBG-ND-10229",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7071,
+    "y": 48.4159,
+    "infraWeight": 0.41834980264105603,
+    "population": 799,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10307",
+      "CBG-ND-10319",
+      "CBG-ND-10134",
+      "CBG-ND-10156",
+      "CBG-ND-10204"
+    ]
+  },
+  {
+    "id": "CBG-ND-10230",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5713,
+    "y": 48.1555,
+    "infraWeight": 0.7487994021969974,
+    "population": 1453,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10140",
+      "CBG-ND-10036",
+      "CBG-ND-10244",
+      "CBG-ND-10216",
+      "CBG-ND-10249"
+    ]
+  },
+  {
+    "id": "CBG-ND-10231",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8654,
+    "y": 48.3217,
+    "infraWeight": 0.7657291290803299,
+    "population": 1541,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10077",
+      "CBG-ND-10310",
+      "CBG-ND-10297",
+      "CBG-ND-10036",
+      "CBG-ND-10149"
+    ]
+  },
+  {
+    "id": "CBG-ND-10232",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1719,
+    "y": 47.2273,
+    "infraWeight": 1.1780254350778359,
+    "population": 2016,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10327",
+      "CBG-ND-10176",
+      "CBG-ND-10037",
+      "CBG-ND-10386",
+      "CBG-ND-10392"
+    ]
+  },
+  {
+    "id": "CBG-ND-10233",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.9218,
+    "y": 46.5278,
+    "infraWeight": 0.5220855647960907,
+    "population": 1093,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10412",
+      "CBG-ND-10048",
+      "CBG-ND-10005",
+      "CBG-ND-10081",
+      "CBG-ND-10027"
+    ]
+  },
+  {
+    "id": "CBG-ND-10234",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.1961,
+    "y": 46.3503,
+    "infraWeight": 0.36561710077627724,
+    "population": 672,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10147",
+      "CBG-ND-10034",
+      "CBG-ND-10059",
+      "CBG-ND-10002",
+      "CBG-ND-10026"
+    ]
+  },
+  {
+    "id": "CBG-ND-10235",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.847,
+    "y": 46.7135,
+    "infraWeight": 0.3243434830696798,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10039",
+      "CBG-ND-10299",
+      "CBG-ND-10089",
+      "CBG-ND-10126",
+      "CBG-ND-10274"
+    ]
+  },
+  {
+    "id": "CBG-ND-10236",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3511,
+    "y": 45.9417,
+    "infraWeight": 0.42191739282846075,
+    "population": 717,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10186",
+      "CBG-ND-10169",
+      "CBG-ND-10417",
+      "CBG-ND-10179",
+      "CBG-ND-10003"
+    ]
+  },
+  {
+    "id": "CBG-ND-10237",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.9901,
+    "y": 48.5805,
+    "infraWeight": 0.309107870175645,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10304",
+      "CBG-ND-10082",
+      "CBG-ND-10291",
+      "CBG-ND-10135",
+      "CBG-ND-10020"
+    ]
+  },
+  {
+    "id": "CBG-ND-10238",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6175,
+    "y": 46.0649,
+    "infraWeight": 0.46993112288753225,
+    "population": 970,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10321",
+      "CBG-ND-10361",
+      "CBG-ND-10079",
+      "CBG-ND-10404",
+      "CBG-ND-10150"
+    ]
+  },
+  {
+    "id": "CBG-ND-10239",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6648,
+    "y": 47.5317,
+    "infraWeight": 0.4458972300816823,
+    "population": 836,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10256",
+      "CBG-ND-10241",
+      "CBG-ND-10164",
+      "CBG-ND-10053",
+      "CBG-ND-10303"
+    ]
+  },
+  {
+    "id": "CBG-ND-10240",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.9446,
+    "y": 46.6574,
+    "infraWeight": 0.7373068658591512,
+    "population": 1458,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10052",
+      "CBG-ND-10346",
+      "CBG-ND-10161",
+      "CBG-ND-10407",
+      "CBG-ND-10362"
+    ]
+  },
+  {
+    "id": "CBG-ND-10241",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5912,
+    "y": 47.4351,
+    "infraWeight": 0.4559521512687023,
+    "population": 816,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10053",
+      "CBG-ND-10239",
+      "CBG-ND-10256",
+      "CBG-ND-10164",
+      "CBG-ND-10371"
+    ]
+  },
+  {
+    "id": "CBG-ND-10242",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.0899,
+    "y": 45.9897,
+    "infraWeight": 0.3609454233836231,
+    "population": 656,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10002",
+      "CBG-ND-10026",
+      "CBG-ND-10059",
+      "CBG-ND-10188",
+      "CBG-ND-10034"
+    ]
+  },
+  {
+    "id": "CBG-ND-10243",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1194,
+    "y": 48.9513,
+    "infraWeight": 0.5568054308010338,
+    "population": 983,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10411",
+      "CBG-ND-10224",
+      "CBG-ND-10209",
+      "CBG-ND-10028",
+      "CBG-ND-10068"
+    ]
+  },
+  {
+    "id": "CBG-ND-10244",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.4352,
+    "y": 48.2839,
+    "infraWeight": 0.6848477472481678,
+    "population": 1267,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10140",
+      "CBG-ND-10230",
+      "CBG-ND-10036",
+      "CBG-ND-10280",
+      "CBG-ND-10276"
+    ]
+  },
+  {
+    "id": "CBG-ND-10245",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.342,
+    "y": 48.7602,
+    "infraWeight": 0.6541650345958131,
+    "population": 1353,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10014",
+      "CBG-ND-10076",
+      "CBG-ND-10167",
+      "CBG-ND-10159",
+      "CBG-ND-10312"
+    ]
+  },
+  {
+    "id": "CBG-ND-10246",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5849,
+    "y": 46.8095,
+    "infraWeight": 0.4442781775553015,
+    "population": 703,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10406",
+      "CBG-ND-10322",
+      "CBG-ND-10131",
+      "CBG-ND-10113",
+      "CBG-ND-10031"
+    ]
+  },
+  {
+    "id": "CBG-ND-10247",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9947,
+    "y": 46.9724,
+    "infraWeight": 0.34531441511745525,
+    "population": 615,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10208",
+      "CBG-ND-10391",
+      "CBG-ND-10108",
+      "CBG-ND-10091",
+      "CBG-ND-10168"
+    ]
+  },
+  {
+    "id": "CBG-ND-10248",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.575,
+    "y": 47.2541,
+    "infraWeight": 0.8535253359716195,
+    "population": 1585,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10418",
+      "CBG-ND-10139",
+      "CBG-ND-10070",
+      "CBG-ND-10308",
+      "CBG-ND-10183"
+    ]
+  },
+  {
+    "id": "CBG-ND-10249",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.7652,
+    "y": 47.943,
+    "infraWeight": 0.8738191266334656,
+    "population": 1382,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10216",
+      "CBG-ND-10396",
+      "CBG-ND-10372",
+      "CBG-ND-10316",
+      "CBG-ND-10230"
+    ]
+  },
+  {
+    "id": "CBG-ND-10250",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.9546,
+    "y": 48.5386,
+    "infraWeight": 0.38850743333493243,
+    "population": 691,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10156",
+      "CBG-ND-10192",
+      "CBG-ND-10331",
+      "CBG-ND-10204",
+      "CBG-ND-10010"
+    ]
+  },
+  {
+    "id": "CBG-ND-10251",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.8978,
+    "y": 46.4757,
+    "infraWeight": 0.5516652220608536,
+    "population": 894,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10408",
+      "CBG-ND-10093",
+      "CBG-ND-10079",
+      "CBG-ND-10320",
+      "CBG-ND-10343"
+    ]
+  },
+  {
+    "id": "CBG-ND-10252",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.5898,
+    "y": 46.8316,
+    "infraWeight": 0.615578447670772,
+    "population": 1124,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10027",
+      "CBG-ND-10385",
+      "CBG-ND-10223",
+      "CBG-ND-10048",
+      "CBG-ND-10258"
+    ]
+  },
+  {
+    "id": "CBG-ND-10253",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.2925,
+    "y": 46.8754,
+    "infraWeight": 0.36882656155270854,
+    "population": 680,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10091",
+      "CBG-ND-10349",
+      "CBG-ND-10095",
+      "CBG-ND-10263",
+      "CBG-ND-10247"
+    ]
+  },
+  {
+    "id": "CBG-ND-10254",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1715,
+    "y": 47.6127,
+    "infraWeight": 0.7971102037232836,
+    "population": 1581,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10306",
+      "CBG-ND-10171",
+      "CBG-ND-10282",
+      "CBG-ND-10124",
+      "CBG-ND-10012"
+    ]
+  },
+  {
+    "id": "CBG-ND-10255",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.9143,
+    "y": 47.5528,
+    "infraWeight": 0.3251235924058874,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10384",
+      "CBG-ND-10200",
+      "CBG-ND-10074",
+      "CBG-ND-10326",
+      "CBG-ND-10020"
+    ]
+  },
+  {
+    "id": "CBG-ND-10256",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7542,
+    "y": 47.4709,
+    "infraWeight": 0.4344633126260188,
+    "population": 794,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10239",
+      "CBG-ND-10241",
+      "CBG-ND-10164",
+      "CBG-ND-10053",
+      "CBG-ND-10303"
+    ]
+  },
+  {
+    "id": "CBG-ND-10257",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.42,
+    "y": 48.2908,
+    "infraWeight": 0.3752896159663995,
+    "population": 734,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10133",
+      "CBG-ND-10315",
+      "CBG-ND-10278",
+      "CBG-ND-10265",
+      "CBG-ND-10165"
+    ]
+  },
+  {
+    "id": "CBG-ND-10258",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.7994,
+    "y": 46.9923,
+    "infraWeight": 0.583335962940054,
+    "population": 1029,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10018",
+      "CBG-ND-10366",
+      "CBG-ND-10252",
+      "CBG-ND-10027",
+      "CBG-ND-10269"
+    ]
+  },
+  {
+    "id": "CBG-ND-10259",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8297,
+    "y": 46.9927,
+    "infraWeight": 0.8770330640196506,
+    "population": 1450,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10115",
+      "CBG-ND-10346",
+      "CBG-ND-10295",
+      "CBG-ND-10407",
+      "CBG-ND-10052"
+    ]
+  },
+  {
+    "id": "CBG-ND-10260",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2774,
+    "y": 47.2914,
+    "infraWeight": 0.7531652469317186,
+    "population": 1514,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10395",
+      "CBG-ND-10064",
+      "CBG-ND-10143",
+      "CBG-ND-10368",
+      "CBG-ND-10090"
+    ]
+  },
+  {
+    "id": "CBG-ND-10261",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.7542,
+    "y": 47.202,
+    "infraWeight": 0.3291329982993641,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10324",
+      "CBG-ND-10365",
+      "CBG-ND-10290",
+      "CBG-ND-10283",
+      "CBG-ND-10262"
+    ]
+  },
+  {
+    "id": "CBG-ND-10262",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.5831,
+    "y": 47.3593,
+    "infraWeight": 0.3177862704224906,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10365",
+      "CBG-ND-10324",
+      "CBG-ND-10261",
+      "CBG-ND-10290",
+      "CBG-ND-10283"
+    ]
+  },
+  {
+    "id": "CBG-ND-10263",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.099,
+    "y": 46.6435,
+    "infraWeight": 0.34826711929308657,
+    "population": 704,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10095",
+      "CBG-ND-10168",
+      "CBG-ND-10144",
+      "CBG-ND-10360",
+      "CBG-ND-10289"
+    ]
+  },
+  {
+    "id": "CBG-ND-10264",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.0217,
+    "y": 48.1978,
+    "infraWeight": 0.5229068527775775,
+    "population": 1006,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10317",
+      "CBG-ND-10227",
+      "CBG-ND-10358",
+      "CBG-ND-10146",
+      "CBG-ND-10345"
+    ]
+  },
+  {
+    "id": "CBG-ND-10265",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.4175,
+    "y": 47.9628,
+    "infraWeight": 0.38203686638227247,
+    "population": 746,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10185",
+      "CBG-ND-10315",
+      "CBG-ND-10175",
+      "CBG-ND-10257",
+      "CBG-ND-10103"
+    ]
+  },
+  {
+    "id": "CBG-ND-10266",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1196,
+    "y": 46.2758,
+    "infraWeight": 0.5599678674103952,
+    "population": 913,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10402",
+      "CBG-ND-10079",
+      "CBG-ND-10408",
+      "CBG-ND-10351",
+      "CBG-ND-10251"
+    ]
+  },
+  {
+    "id": "CBG-ND-10267",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.9701,
+    "y": 48.6809,
+    "infraWeight": 0.48974130499288293,
+    "population": 986,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10355",
+      "CBG-ND-10220",
+      "CBG-ND-10080",
+      "CBG-ND-10345",
+      "CBG-ND-10197"
+    ]
+  },
+  {
+    "id": "CBG-ND-10268",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1197,
+    "y": 46.149,
+    "infraWeight": 0.5877813592691131,
+    "population": 1134,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10338",
+      "CBG-ND-10296",
+      "CBG-ND-10130",
+      "CBG-ND-10111",
+      "CBG-ND-10015"
+    ]
+  },
+  {
+    "id": "CBG-ND-10269",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.0641,
+    "y": 47.1311,
+    "infraWeight": 0.5367961493601142,
+    "population": 1078,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10018",
+      "CBG-ND-10023",
+      "CBG-ND-10258",
+      "CBG-ND-10042",
+      "CBG-ND-10371"
+    ]
+  },
+  {
+    "id": "CBG-ND-10270",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.556,
+    "y": 45.9378,
+    "infraWeight": 0.32636293715040815,
+    "population": 676,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10226",
+      "CBG-ND-10154",
+      "CBG-ND-10026",
+      "CBG-ND-10059",
+      "CBG-ND-10002"
+    ]
+  },
+  {
+    "id": "CBG-ND-10271",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1528,
+    "y": 46.7381,
+    "infraWeight": 0.8597248674547161,
+    "population": 1745,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10011",
+      "CBG-ND-10141",
+      "CBG-ND-10136",
+      "CBG-ND-10029",
+      "CBG-ND-10205"
+    ]
+  },
+  {
+    "id": "CBG-ND-10272",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6253,
+    "y": 48.562,
+    "infraWeight": 0.656051167989999,
+    "population": 1241,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10284",
+      "CBG-ND-10036",
+      "CBG-ND-10294",
+      "CBG-ND-10140",
+      "CBG-ND-10077"
+    ]
+  },
+  {
+    "id": "CBG-ND-10273",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3627,
+    "y": 48.5259,
+    "infraWeight": 0.6003665512569437,
+    "population": 1037,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10285",
+      "CBG-ND-10187",
+      "CBG-ND-10339",
+      "CBG-ND-10145",
+      "CBG-ND-10335"
+    ]
+  },
+  {
+    "id": "CBG-ND-10274",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.7937,
+    "y": 47.0453,
+    "infraWeight": 0.3320397982575317,
+    "population": 685,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10332",
+      "CBG-ND-10089",
+      "CBG-ND-10299",
+      "CBG-ND-10389",
+      "CBG-ND-10235"
+    ]
+  },
+  {
+    "id": "CBG-ND-10275",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.801,
+    "y": 46.7844,
+    "infraWeight": 0.5662653878548503,
+    "population": 1180,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10116",
+      "CBG-ND-10093",
+      "CBG-ND-10320",
+      "CBG-ND-10343",
+      "CBG-ND-10329"
+    ]
+  },
+  {
+    "id": "CBG-ND-10276",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.2834,
+    "y": 48.0701,
+    "infraWeight": 0.687108820626951,
+    "population": 1252,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10000",
+      "CBG-ND-10280",
+      "CBG-ND-10244",
+      "CBG-ND-10230",
+      "CBG-ND-10140"
+    ]
+  },
+  {
+    "id": "CBG-ND-10277",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6954,
+    "y": 48.8626,
+    "infraWeight": 0.3978320718012044,
+    "population": 784,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10403",
+      "CBG-ND-10010",
+      "CBG-ND-10204",
+      "CBG-ND-10331",
+      "CBG-ND-10250"
+    ]
+  },
+  {
+    "id": "CBG-ND-10278",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.2086,
+    "y": 48.3463,
+    "infraWeight": 0.35584052846840625,
+    "population": 600,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10133",
+      "CBG-ND-10315",
+      "CBG-ND-10127",
+      "CBG-ND-10257",
+      "CBG-ND-10400"
+    ]
+  },
+  {
+    "id": "CBG-ND-10279",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.373,
+    "y": 47.7235,
+    "infraWeight": 0.36747230525532487,
+    "population": 756,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10074",
+      "CBG-ND-10326",
+      "CBG-ND-10157",
+      "CBG-ND-10004",
+      "CBG-ND-10200"
+    ]
+  },
+  {
+    "id": "CBG-ND-10280",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1861,
+    "y": 48.3116,
+    "infraWeight": 0.6253372322813742,
+    "population": 1091,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10410",
+      "CBG-ND-10287",
+      "CBG-ND-10244",
+      "CBG-ND-10276",
+      "CBG-ND-10140"
+    ]
+  },
+  {
+    "id": "CBG-ND-10281",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2284,
+    "y": 48.2496,
+    "infraWeight": 0.8402478008076505,
+    "population": 1567,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10337",
+      "CBG-ND-10017",
+      "CBG-ND-10087",
+      "CBG-ND-10198",
+      "CBG-ND-10149"
+    ]
+  },
+  {
+    "id": "CBG-ND-10282",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.9769,
+    "y": 47.626,
+    "infraWeight": 0.8857129011215331,
+    "population": 1674,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10350",
+      "CBG-ND-10254",
+      "CBG-ND-10058",
+      "CBG-ND-10105",
+      "CBG-ND-10383"
+    ]
+  },
+  {
+    "id": "CBG-ND-10283",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9608,
+    "y": 47.2574,
+    "infraWeight": 0.3450251866136269,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10290",
+      "CBG-ND-10108",
+      "CBG-ND-10261",
+      "CBG-ND-10398",
+      "CBG-ND-10324"
+    ]
+  },
+  {
+    "id": "CBG-ND-10284",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6861,
+    "y": 48.6363,
+    "infraWeight": 0.6463651684656602,
+    "population": 1233,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10272",
+      "CBG-ND-10294",
+      "CBG-ND-10228",
+      "CBG-ND-10077",
+      "CBG-ND-10036"
+    ]
+  },
+  {
+    "id": "CBG-ND-10285",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2417,
+    "y": 48.5391,
+    "infraWeight": 0.6184983027668582,
+    "population": 1157,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10339",
+      "CBG-ND-10273",
+      "CBG-ND-10318",
+      "CBG-ND-10145",
+      "CBG-ND-10187"
+    ]
+  },
+  {
+    "id": "CBG-ND-10286",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4452,
+    "y": 46.5486,
+    "infraWeight": 0.7770578945437976,
+    "population": 1345,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10141",
+      "CBG-ND-10362",
+      "CBG-ND-10205",
+      "CBG-ND-10271",
+      "CBG-ND-10407"
+    ]
+  },
+  {
+    "id": "CBG-ND-10287",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.971,
+    "y": 48.2011,
+    "infraWeight": 0.5953944080915198,
+    "population": 1153,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10280",
+      "CBG-ND-10000",
+      "CBG-ND-10128",
+      "CBG-ND-10276",
+      "CBG-ND-10410"
+    ]
+  },
+  {
+    "id": "CBG-ND-10288",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0852,
+    "y": 46.1574,
+    "infraWeight": 0.4195957872589468,
+    "population": 808,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10097",
+      "CBG-ND-10022",
+      "CBG-ND-10184",
+      "CBG-ND-10063",
+      "CBG-ND-10422"
+    ]
+  },
+  {
+    "id": "CBG-ND-10289",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9284,
+    "y": 46.5598,
+    "infraWeight": 0.3338281645648822,
+    "population": 656,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10069",
+      "CBG-ND-10360",
+      "CBG-ND-10025",
+      "CBG-ND-10424",
+      "CBG-ND-10062"
+    ]
+  },
+  {
+    "id": "CBG-ND-10290",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9269,
+    "y": 47.327,
+    "infraWeight": 0.3426500023269974,
+    "population": 619,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10283",
+      "CBG-ND-10261",
+      "CBG-ND-10108",
+      "CBG-ND-10324",
+      "CBG-ND-10398"
+    ]
+  },
+  {
+    "id": "CBG-ND-10291",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.9742,
+    "y": 48.9514,
+    "infraWeight": 0.3023627669086797,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10237",
+      "CBG-ND-10304",
+      "CBG-ND-10082",
+      "CBG-ND-10212",
+      "CBG-ND-10088"
+    ]
+  },
+  {
+    "id": "CBG-ND-10292",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.628,
+    "y": 48.6572,
+    "infraWeight": 0.4912795816034224,
+    "population": 951,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10049",
+      "CBG-ND-10170",
+      "CBG-ND-10148",
+      "CBG-ND-10357",
+      "CBG-ND-10352"
+    ]
+  },
+  {
+    "id": "CBG-ND-10293",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8648,
+    "y": 47.3385,
+    "infraWeight": 0.950694568303268,
+    "population": 1752,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10383",
+      "CBG-ND-10058",
+      "CBG-ND-10120",
+      "CBG-ND-10105",
+      "CBG-ND-10143"
+    ]
+  },
+  {
+    "id": "CBG-ND-10294",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5088,
+    "y": 48.8272,
+    "infraWeight": 0.58282820055564,
+    "population": 921,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10377",
+      "CBG-ND-10340",
+      "CBG-ND-10284",
+      "CBG-ND-10272",
+      "CBG-ND-10228"
+    ]
+  },
+  {
+    "id": "CBG-ND-10295",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.5489,
+    "y": 47.0442,
+    "infraWeight": 1.0063719666512625,
+    "population": 1569,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10151",
+      "CBG-ND-10115",
+      "CBG-ND-10336",
+      "CBG-ND-10259",
+      "CBG-ND-10136"
+    ]
+  },
+  {
+    "id": "CBG-ND-10296",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0754,
+    "y": 46.3423,
+    "infraWeight": 0.6340438352120266,
+    "population": 1219,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10111",
+      "CBG-ND-10268",
+      "CBG-ND-10130",
+      "CBG-ND-10338",
+      "CBG-ND-10015"
+    ]
+  },
+  {
+    "id": "CBG-ND-10297",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8657,
+    "y": 48.2573,
+    "infraWeight": 0.7886980047055936,
+    "population": 1309,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10310",
+      "CBG-ND-10231",
+      "CBG-ND-10077",
+      "CBG-ND-10036",
+      "CBG-ND-10149"
+    ]
+  },
+  {
+    "id": "CBG-ND-10298",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.5364,
+    "y": 48.6622,
+    "infraWeight": 0.3738577350261998,
+    "population": 686,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10173",
+      "CBG-ND-10165",
+      "CBG-ND-10381",
+      "CBG-ND-10206",
+      "CBG-ND-10400"
+    ]
+  },
+  {
+    "id": "CBG-ND-10299",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.7803,
+    "y": 46.8012,
+    "infraWeight": 0.33025758720623766,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10089",
+      "CBG-ND-10235",
+      "CBG-ND-10039",
+      "CBG-ND-10274",
+      "CBG-ND-10332"
+    ]
+  },
+  {
+    "id": "CBG-ND-10300",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1334,
+    "y": 47.0399,
+    "infraWeight": 0.7750417283901471,
+    "population": 1366,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10090",
+      "CBG-ND-10143",
+      "CBG-ND-10064",
+      "CBG-ND-10096",
+      "CBG-ND-10346"
+    ]
+  },
+  {
+    "id": "CBG-ND-10301",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2732,
+    "y": 48.2371,
+    "infraWeight": 0.3685904323414926,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10302",
+      "CBG-ND-10065",
+      "CBG-ND-10380",
+      "CBG-ND-10004",
+      "CBG-ND-10225"
+    ]
+  },
+  {
+    "id": "CBG-ND-10302",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.3335,
+    "y": 48.3023,
+    "infraWeight": 0.3619219623535332,
+    "population": 703,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10301",
+      "CBG-ND-10225",
+      "CBG-ND-10065",
+      "CBG-ND-10380",
+      "CBG-ND-10135"
+    ]
+  },
+  {
+    "id": "CBG-ND-10303",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7681,
+    "y": 47.7816,
+    "infraWeight": 0.43024529790473787,
+    "population": 680,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10342",
+      "CBG-ND-10387",
+      "CBG-ND-10164",
+      "CBG-ND-10330",
+      "CBG-ND-10066"
+    ]
+  },
+  {
+    "id": "CBG-ND-10304",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.7352,
+    "y": 48.4559,
+    "infraWeight": 0.3280194176765667,
+    "population": 600,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10135",
+      "CBG-ND-10237",
+      "CBG-ND-10082",
+      "CBG-ND-10302",
+      "CBG-ND-10225"
+    ]
+  },
+  {
+    "id": "CBG-ND-10305",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.3607,
+    "y": 47.3594,
+    "infraWeight": 0.3693719376547553,
+    "population": 690,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10094",
+      "CBG-ND-10326",
+      "CBG-ND-10117",
+      "CBG-ND-10006",
+      "CBG-ND-10279"
+    ]
+  },
+  {
+    "id": "CBG-ND-10306",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.2879,
+    "y": 47.651,
+    "infraWeight": 0.7488175992905155,
+    "population": 1444,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10254",
+      "CBG-ND-10171",
+      "CBG-ND-10012",
+      "CBG-ND-10092",
+      "CBG-ND-10333"
+    ]
+  },
+  {
+    "id": "CBG-ND-10307",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7718,
+    "y": 48.2792,
+    "infraWeight": 0.4166661710590511,
+    "population": 753,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10134",
+      "CBG-ND-10229",
+      "CBG-ND-10192",
+      "CBG-ND-10394",
+      "CBG-ND-10156"
+    ]
+  },
+  {
+    "id": "CBG-ND-10308",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5719,
+    "y": 47.4865,
+    "infraWeight": 0.8670341826309177,
+    "population": 1825,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10104",
+      "CBG-ND-10139",
+      "CBG-ND-10316",
+      "CBG-ND-10248",
+      "CBG-ND-10372"
+    ]
+  },
+  {
+    "id": "CBG-ND-10309",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3782,
+    "y": 47.9597,
+    "infraWeight": 0.6869309548693322,
+    "population": 1212,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10013",
+      "CBG-ND-10124",
+      "CBG-ND-10092",
+      "CBG-ND-10012",
+      "CBG-ND-10057"
+    ]
+  },
+  {
+    "id": "CBG-ND-10310",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8738,
+    "y": 48.2811,
+    "infraWeight": 0.7816532344597167,
+    "population": 1279,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10297",
+      "CBG-ND-10231",
+      "CBG-ND-10077",
+      "CBG-ND-10036",
+      "CBG-ND-10149"
+    ]
+  },
+  {
+    "id": "CBG-ND-10311",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.8763,
+    "y": 47.878,
+    "infraWeight": 0.5709556345348976,
+    "population": 900,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10323",
+      "CBG-ND-10264",
+      "CBG-ND-10364",
+      "CBG-ND-10137",
+      "CBG-ND-10227"
+    ]
+  },
+  {
+    "id": "CBG-ND-10312",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2518,
+    "y": 48.5791,
+    "infraWeight": 0.7100752043236225,
+    "population": 1123,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10159",
+      "CBG-ND-10076",
+      "CBG-ND-10087",
+      "CBG-ND-10017",
+      "CBG-ND-10181"
+    ]
+  },
+  {
+    "id": "CBG-ND-10313",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.1605,
+    "y": 46.6859,
+    "infraWeight": 0.4574019226114607,
+    "population": 814,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10084",
+      "CBG-ND-10369",
+      "CBG-ND-10189",
+      "CBG-ND-10099",
+      "CBG-ND-10102"
+    ]
+  },
+  {
+    "id": "CBG-ND-10314",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1778,
+    "y": 48.0584,
+    "infraWeight": 0.7293421219853583,
+    "population": 1461,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10057",
+      "CBG-ND-10214",
+      "CBG-ND-10222",
+      "CBG-ND-10309",
+      "CBG-ND-10124"
+    ]
+  },
+  {
+    "id": "CBG-ND-10315",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.3065,
+    "y": 48.2017,
+    "infraWeight": 0.36730734629433,
+    "population": 747,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10133",
+      "CBG-ND-10257",
+      "CBG-ND-10278",
+      "CBG-ND-10265",
+      "CBG-ND-10127"
+    ]
+  },
+  {
+    "id": "CBG-ND-10316",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6109,
+    "y": 47.7029,
+    "infraWeight": 0.8672319038174565,
+    "population": 1746,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10372",
+      "CBG-ND-10308",
+      "CBG-ND-10216",
+      "CBG-ND-10249",
+      "CBG-ND-10104"
+    ]
+  },
+  {
+    "id": "CBG-ND-10317",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1283,
+    "y": 48.2707,
+    "infraWeight": 0.5007792988258013,
+    "population": 998,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10146",
+      "CBG-ND-10264",
+      "CBG-ND-10227",
+      "CBG-ND-10178",
+      "CBG-ND-10345"
+    ]
+  },
+  {
+    "id": "CBG-ND-10318",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0893,
+    "y": 48.4605,
+    "infraWeight": 0.6616060331808072,
+    "population": 1290,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10339",
+      "CBG-ND-10375",
+      "CBG-ND-10285",
+      "CBG-ND-10145",
+      "CBG-ND-10222"
+    ]
+  },
+  {
+    "id": "CBG-ND-10319",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5074,
+    "y": 48.4065,
+    "infraWeight": 0.44153838534375944,
+    "population": 763,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10229",
+      "CBG-ND-10166",
+      "CBG-ND-10178",
+      "CBG-ND-10307",
+      "CBG-ND-10134"
+    ]
+  },
+  {
+    "id": "CBG-ND-10320",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9935,
+    "y": 46.6313,
+    "infraWeight": 0.5875925724480888,
+    "population": 957,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10374",
+      "CBG-ND-10251",
+      "CBG-ND-10093",
+      "CBG-ND-10376",
+      "CBG-ND-10116"
+    ]
+  },
+  {
+    "id": "CBG-ND-10321",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.4441,
+    "y": 46.2139,
+    "infraWeight": 0.4627977568672161,
+    "population": 831,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10404",
+      "CBG-ND-10119",
+      "CBG-ND-10401",
+      "CBG-ND-10238",
+      "CBG-ND-10150"
+    ]
+  },
+  {
+    "id": "CBG-ND-10322",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7567,
+    "y": 46.687,
+    "infraWeight": 0.41944116465138825,
+    "population": 806,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10031",
+      "CBG-ND-10246",
+      "CBG-ND-10406",
+      "CBG-ND-10113",
+      "CBG-ND-10172"
+    ]
+  },
+  {
+    "id": "CBG-ND-10323",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.1182,
+    "y": 47.7374,
+    "infraWeight": 0.5288246798103886,
+    "population": 849,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10364",
+      "CBG-ND-10311",
+      "CBG-ND-10371",
+      "CBG-ND-10042",
+      "CBG-ND-10023"
+    ]
+  },
+  {
+    "id": "CBG-ND-10324",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6868,
+    "y": 47.3059,
+    "infraWeight": 0.32478257352589923,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10365",
+      "CBG-ND-10262",
+      "CBG-ND-10261",
+      "CBG-ND-10290",
+      "CBG-ND-10283"
+    ]
+  },
+  {
+    "id": "CBG-ND-10325",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9414,
+    "y": 48.9984,
+    "infraWeight": 0.4921746371659282,
+    "population": 895,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10357",
+      "CBG-ND-10148",
+      "CBG-ND-10328",
+      "CBG-ND-10195",
+      "CBG-ND-10340"
+    ]
+  },
+  {
+    "id": "CBG-ND-10326",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.4969,
+    "y": 47.5444,
+    "infraWeight": 0.3574726869761895,
+    "population": 655,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10074",
+      "CBG-ND-10094",
+      "CBG-ND-10279",
+      "CBG-ND-10305",
+      "CBG-ND-10200"
+    ]
+  },
+  {
+    "id": "CBG-ND-10327",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1953,
+    "y": 47.0904,
+    "infraWeight": 1.0775265005262102,
+    "population": 1723,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10386",
+      "CBG-ND-10232",
+      "CBG-ND-10029",
+      "CBG-ND-10136",
+      "CBG-ND-10011"
+    ]
+  },
+  {
+    "id": "CBG-ND-10328",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1192,
+    "y": 48.6708,
+    "infraWeight": 0.5582826138087589,
+    "population": 1074,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10195",
+      "CBG-ND-10340",
+      "CBG-ND-10410",
+      "CBG-ND-10280",
+      "CBG-ND-10325"
+    ]
+  },
+  {
+    "id": "CBG-ND-10329",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9863,
+    "y": 47.0032,
+    "infraWeight": 0.6263031891696751,
+    "population": 1231,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10405",
+      "CBG-ND-10021",
+      "CBG-ND-10101",
+      "CBG-ND-10397",
+      "CBG-ND-10030"
+    ]
+  },
+  {
+    "id": "CBG-ND-10330",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.9728,
+    "y": 47.8482,
+    "infraWeight": 0.40561265906659355,
+    "population": 654,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10421",
+      "CBG-ND-10066",
+      "CBG-ND-10387",
+      "CBG-ND-10342",
+      "CBG-ND-10303"
+    ]
+  },
+  {
+    "id": "CBG-ND-10331",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8599,
+    "y": 48.7274,
+    "infraWeight": 0.38945242917405276,
+    "population": 646,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10010",
+      "CBG-ND-10204",
+      "CBG-ND-10403",
+      "CBG-ND-10250",
+      "CBG-ND-10277"
+    ]
+  },
+  {
+    "id": "CBG-ND-10332",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.8244,
+    "y": 47.1012,
+    "infraWeight": 0.3302663995211067,
+    "population": 601,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10274",
+      "CBG-ND-10089",
+      "CBG-ND-10299",
+      "CBG-ND-10389",
+      "CBG-ND-10094"
+    ]
+  },
+  {
+    "id": "CBG-ND-10333",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.4521,
+    "y": 47.6101,
+    "infraWeight": 0.6946962653728067,
+    "population": 1254,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10121",
+      "CBG-ND-10306",
+      "CBG-ND-10012",
+      "CBG-ND-10137",
+      "CBG-ND-10092"
+    ]
+  },
+  {
+    "id": "CBG-ND-10334",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4264,
+    "y": 47.5384,
+    "infraWeight": 1.3119055780879234,
+    "population": 2148,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10024",
+      "CBG-ND-10336",
+      "CBG-ND-10037",
+      "CBG-ND-10196",
+      "CBG-ND-10142"
+    ]
+  },
+  {
+    "id": "CBG-ND-10335",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6261,
+    "y": 48.4509,
+    "infraWeight": 0.5661490402641914,
+    "population": 1041,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10118",
+      "CBG-ND-10273",
+      "CBG-ND-10358",
+      "CBG-ND-10187",
+      "CBG-ND-10345"
+    ]
+  },
+  {
+    "id": "CBG-ND-10336",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.5643,
+    "y": 47.3095,
+    "infraWeight": 1.1479323058686277,
+    "population": 1877,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10383",
+      "CBG-ND-10105",
+      "CBG-ND-10295",
+      "CBG-ND-10334",
+      "CBG-ND-10115"
+    ]
+  },
+  {
+    "id": "CBG-ND-10337",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.1887,
+    "y": 48.111,
+    "infraWeight": 0.9074103016336755,
+    "population": 1667,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10149",
+      "CBG-ND-10281",
+      "CBG-ND-10198",
+      "CBG-ND-10344",
+      "CBG-ND-10142"
+    ]
+  },
+  {
+    "id": "CBG-ND-10338",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.9663,
+    "y": 46.1568,
+    "infraWeight": 0.6073232825890506,
+    "population": 1106,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10268",
+      "CBG-ND-10015",
+      "CBG-ND-10296",
+      "CBG-ND-10111",
+      "CBG-ND-10130"
+    ]
+  },
+  {
+    "id": "CBG-ND-10339",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1425,
+    "y": 48.5887,
+    "infraWeight": 0.6246895602352726,
+    "population": 1196,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10285",
+      "CBG-ND-10318",
+      "CBG-ND-10411",
+      "CBG-ND-10273",
+      "CBG-ND-10145"
+    ]
+  },
+  {
+    "id": "CBG-ND-10340",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.2644,
+    "y": 48.7516,
+    "infraWeight": 0.5659457853498634,
+    "population": 1133,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10328",
+      "CBG-ND-10195",
+      "CBG-ND-10294",
+      "CBG-ND-10410",
+      "CBG-ND-10377"
+    ]
+  },
+  {
+    "id": "CBG-ND-10341",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6875,
+    "y": 46.0189,
+    "infraWeight": 0.4991736954687677,
+    "population": 1026,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10081",
+      "CBG-ND-10122",
+      "CBG-ND-10412",
+      "CBG-ND-10130",
+      "CBG-ND-10179"
+    ]
+  },
+  {
+    "id": "CBG-ND-10342",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.7743,
+    "y": 47.8239,
+    "infraWeight": 0.4288026233224441,
+    "population": 726,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10303",
+      "CBG-ND-10387",
+      "CBG-ND-10164",
+      "CBG-ND-10330",
+      "CBG-ND-10421"
+    ]
+  },
+  {
+    "id": "CBG-ND-10343",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6923,
+    "y": 46.5272,
+    "infraWeight": 0.5237268294549737,
+    "population": 1061,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10093",
+      "CBG-ND-10251",
+      "CBG-ND-10116",
+      "CBG-ND-10408",
+      "CBG-ND-10275"
+    ]
+  },
+  {
+    "id": "CBG-ND-10344",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4442,
+    "y": 48.064,
+    "infraWeight": 0.92994014848019,
+    "population": 1910,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10198",
+      "CBG-ND-10019",
+      "CBG-ND-10142",
+      "CBG-ND-10337",
+      "CBG-ND-10281"
+    ]
+  },
+  {
+    "id": "CBG-ND-10345",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.9443,
+    "y": 48.4439,
+    "infraWeight": 0.5153243366973326,
+    "population": 951,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10358",
+      "CBG-ND-10220",
+      "CBG-ND-10355",
+      "CBG-ND-10146",
+      "CBG-ND-10267"
+    ]
+  },
+  {
+    "id": "CBG-ND-10346",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0172,
+    "y": 46.8098,
+    "infraWeight": 0.7606052774037696,
+    "population": 1554,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10052",
+      "CBG-ND-10161",
+      "CBG-ND-10240",
+      "CBG-ND-10055",
+      "CBG-ND-10300"
+    ]
+  },
+  {
+    "id": "CBG-ND-10347",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.9449,
+    "y": 46.0966,
+    "infraWeight": 0.6206482266071592,
+    "population": 982,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10201",
+      "CBG-ND-10109",
+      "CBG-ND-10043",
+      "CBG-ND-10373",
+      "CBG-ND-10205"
+    ]
+  },
+  {
+    "id": "CBG-ND-10348",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.84,
+    "y": 45.9979,
+    "infraWeight": 0.38788658033288903,
+    "population": 742,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10388",
+      "CBG-ND-10422",
+      "CBG-ND-10063",
+      "CBG-ND-10378",
+      "CBG-ND-10184"
+    ]
+  },
+  {
+    "id": "CBG-ND-10349",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.3099,
+    "y": 46.5938,
+    "infraWeight": 0.36436365538570487,
+    "population": 708,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10144",
+      "CBG-ND-10095",
+      "CBG-ND-10263",
+      "CBG-ND-10253",
+      "CBG-ND-10415"
+    ]
+  },
+  {
+    "id": "CBG-ND-10350",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.8867,
+    "y": 47.7966,
+    "infraWeight": 0.8976039305945395,
+    "population": 1850,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10282",
+      "CBG-ND-10254",
+      "CBG-ND-10105",
+      "CBG-ND-10171",
+      "CBG-ND-10058"
+    ]
+  },
+  {
+    "id": "CBG-ND-10351",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.2374,
+    "y": 46.0019,
+    "infraWeight": 0.5335194909616147,
+    "population": 1058,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10086",
+      "CBG-ND-10266",
+      "CBG-ND-10402",
+      "CBG-ND-10361",
+      "CBG-ND-10373"
+    ]
+  },
+  {
+    "id": "CBG-ND-10352",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.4079,
+    "y": 48.4168,
+    "infraWeight": 0.48104385804754396,
+    "population": 774,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10049",
+      "CBG-ND-10170",
+      "CBG-ND-10075",
+      "CBG-ND-10292",
+      "CBG-ND-10128"
+    ]
+  },
+  {
+    "id": "CBG-ND-10353",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6812,
+    "y": 47.3547,
+    "infraWeight": 0.6291433909322983,
+    "population": 1179,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10067",
+      "CBG-ND-10190",
+      "CBG-ND-10366",
+      "CBG-ND-10368",
+      "CBG-ND-10137"
+    ]
+  },
+  {
+    "id": "CBG-ND-10354",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.0009,
+    "y": 48.9227,
+    "infraWeight": 0.463390253389405,
+    "population": 827,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10197",
+      "CBG-ND-10267",
+      "CBG-ND-10180",
+      "CBG-ND-10080",
+      "CBG-ND-10355"
+    ]
+  },
+  {
+    "id": "CBG-ND-10355",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.0459,
+    "y": 48.5914,
+    "infraWeight": 0.48782639393694965,
+    "population": 792,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10220",
+      "CBG-ND-10267",
+      "CBG-ND-10345",
+      "CBG-ND-10146",
+      "CBG-ND-10178"
+    ]
+  },
+  {
+    "id": "CBG-ND-10356",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0595,
+    "y": 48.1865,
+    "infraWeight": 0.44715936954387003,
+    "population": 775,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10363",
+      "CBG-ND-10075",
+      "CBG-ND-10379",
+      "CBG-ND-10112",
+      "CBG-ND-10073"
+    ]
+  },
+  {
+    "id": "CBG-ND-10357",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7005,
+    "y": 48.9558,
+    "infraWeight": 0.4708307513432231,
+    "population": 943,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10148",
+      "CBG-ND-10325",
+      "CBG-ND-10292",
+      "CBG-ND-10049",
+      "CBG-ND-10170"
+    ]
+  },
+  {
+    "id": "CBG-ND-10358",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.8778,
+    "y": 48.3325,
+    "infraWeight": 0.5361412011846071,
+    "population": 980,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10345",
+      "CBG-ND-10264",
+      "CBG-ND-10118",
+      "CBG-ND-10317",
+      "CBG-ND-10146"
+    ]
+  },
+  {
+    "id": "CBG-ND-10359",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.2181,
+    "y": 48.8547,
+    "infraWeight": 0.34238340114720706,
+    "population": 651,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10206",
+      "CBG-ND-10381",
+      "CBG-ND-10125",
+      "CBG-ND-10400",
+      "CBG-ND-10182"
+    ]
+  },
+  {
+    "id": "CBG-ND-10360",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9148,
+    "y": 46.6241,
+    "infraWeight": 0.3340520642908397,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10069",
+      "CBG-ND-10289",
+      "CBG-ND-10168",
+      "CBG-ND-10025",
+      "CBG-ND-10424"
+    ]
+  },
+  {
+    "id": "CBG-ND-10361",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.8792,
+    "y": 46.0799,
+    "infraWeight": 0.5021171241015124,
+    "population": 970,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10079",
+      "CBG-ND-10238",
+      "CBG-ND-10266",
+      "CBG-ND-10408",
+      "CBG-ND-10351"
+    ]
+  },
+  {
+    "id": "CBG-ND-10362",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7253,
+    "y": 46.593,
+    "infraWeight": 0.7606522993610024,
+    "population": 1560,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10407",
+      "CBG-ND-10240",
+      "CBG-ND-10286",
+      "CBG-ND-10052",
+      "CBG-ND-10346"
+    ]
+  },
+  {
+    "id": "CBG-ND-10363",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0836,
+    "y": 48.1061,
+    "infraWeight": 0.45343018567928833,
+    "population": 845,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10356",
+      "CBG-ND-10112",
+      "CBG-ND-10075",
+      "CBG-ND-10379",
+      "CBG-ND-10073"
+    ]
+  },
+  {
+    "id": "CBG-ND-10364",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.2376,
+    "y": 47.9464,
+    "infraWeight": 0.5009669491323647,
+    "population": 977,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10227",
+      "CBG-ND-10323",
+      "CBG-ND-10153",
+      "CBG-ND-10264",
+      "CBG-ND-10317"
+    ]
+  },
+  {
+    "id": "CBG-ND-10365",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.6401,
+    "y": 47.2973,
+    "infraWeight": 0.3215060544624207,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10324",
+      "CBG-ND-10262",
+      "CBG-ND-10261",
+      "CBG-ND-10290",
+      "CBG-ND-10283"
+    ]
+  },
+  {
+    "id": "CBG-ND-10366",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.6819,
+    "y": 47.2042,
+    "infraWeight": 0.623648543166726,
+    "population": 1268,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10067",
+      "CBG-ND-10353",
+      "CBG-ND-10190",
+      "CBG-ND-10018",
+      "CBG-ND-10368"
+    ]
+  },
+  {
+    "id": "CBG-ND-10367",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.9127,
+    "y": 46.6026,
+    "infraWeight": 0.7697771318545714,
+    "population": 1302,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10205",
+      "CBG-ND-10271",
+      "CBG-ND-10141",
+      "CBG-ND-10011",
+      "CBG-ND-10043"
+    ]
+  },
+  {
+    "id": "CBG-ND-10368",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.5029,
+    "y": 47.3228,
+    "infraWeight": 0.6787499523818923,
+    "population": 1081,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10190",
+      "CBG-ND-10353",
+      "CBG-ND-10395",
+      "CBG-ND-10366",
+      "CBG-ND-10260"
+    ]
+  },
+  {
+    "id": "CBG-ND-10369",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.27,
+    "y": 46.696,
+    "infraWeight": 0.4726907998652502,
+    "population": 778,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10313",
+      "CBG-ND-10189",
+      "CBG-ND-10084",
+      "CBG-ND-10099",
+      "CBG-ND-10404"
+    ]
+  },
+  {
+    "id": "CBG-ND-10370",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.929,
+    "y": 48.0996,
+    "infraWeight": 0.33850384625762603,
+    "population": 686,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10051",
+      "CBG-ND-10218",
+      "CBG-ND-10127",
+      "CBG-ND-10050",
+      "CBG-ND-10278"
+    ]
+  },
+  {
+    "id": "CBG-ND-10371",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.243,
+    "y": 47.4764,
+    "infraWeight": 0.5099734154740317,
+    "population": 799,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10042",
+      "CBG-ND-10023",
+      "CBG-ND-10053",
+      "CBG-ND-10323",
+      "CBG-ND-10241"
+    ]
+  },
+  {
+    "id": "CBG-ND-10372",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.6077,
+    "y": 47.7408,
+    "infraWeight": 0.8592618996938212,
+    "population": 1656,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10316",
+      "CBG-ND-10216",
+      "CBG-ND-10249",
+      "CBG-ND-10308",
+      "CBG-ND-10396"
+    ]
+  },
+  {
+    "id": "CBG-ND-10373",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5497,
+    "y": 46.2509,
+    "infraWeight": 0.6171770409593165,
+    "population": 1274,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10086",
+      "CBG-ND-10043",
+      "CBG-ND-10402",
+      "CBG-ND-10056",
+      "CBG-ND-10423"
+    ]
+  },
+  {
+    "id": "CBG-ND-10374",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1224,
+    "y": 46.739,
+    "infraWeight": 0.6285915640466958,
+    "population": 1047,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10376",
+      "CBG-ND-10320",
+      "CBG-ND-10160",
+      "CBG-ND-10423",
+      "CBG-ND-10405"
+    ]
+  },
+  {
+    "id": "CBG-ND-10375",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.0117,
+    "y": 48.3185,
+    "infraWeight": 0.7115396918068881,
+    "population": 1496,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10222",
+      "CBG-ND-10214",
+      "CBG-ND-10318",
+      "CBG-ND-10145",
+      "CBG-ND-10339"
+    ]
+  },
+  {
+    "id": "CBG-ND-10376",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1934,
+    "y": 46.6015,
+    "infraWeight": 0.6232672835256705,
+    "population": 981,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10423",
+      "CBG-ND-10160",
+      "CBG-ND-10374",
+      "CBG-ND-10320",
+      "CBG-ND-10056"
+    ]
+  },
+  {
+    "id": "CBG-ND-10377",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.4961,
+    "y": 48.9459,
+    "infraWeight": 0.558991311556096,
+    "population": 1116,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10294",
+      "CBG-ND-10340",
+      "CBG-ND-10284",
+      "CBG-ND-10228",
+      "CBG-ND-10272"
+    ]
+  },
+  {
+    "id": "CBG-ND-10378",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.6456,
+    "y": 46.0763,
+    "infraWeight": 0.3751418506681272,
+    "population": 732,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10054",
+      "CBG-ND-10388",
+      "CBG-ND-10078",
+      "CBG-ND-10035",
+      "CBG-ND-10348"
+    ]
+  },
+  {
+    "id": "CBG-ND-10379",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0282,
+    "y": 48.3381,
+    "infraWeight": 0.4367724771179131,
+    "population": 806,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10073",
+      "CBG-ND-10356",
+      "CBG-ND-10075",
+      "CBG-ND-10363",
+      "CBG-ND-10007"
+    ]
+  },
+  {
+    "id": "CBG-ND-10380",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.2288,
+    "y": 48.4485,
+    "infraWeight": 0.36701284069991463,
+    "population": 657,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10065",
+      "CBG-ND-10225",
+      "CBG-ND-10088",
+      "CBG-ND-10302",
+      "CBG-ND-10301"
+    ]
+  },
+  {
+    "id": "CBG-ND-10381",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.4459,
+    "y": 48.8656,
+    "infraWeight": 0.35889417083825703,
+    "population": 678,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10206",
+      "CBG-ND-10173",
+      "CBG-ND-10298",
+      "CBG-ND-10359",
+      "CBG-ND-10400"
+    ]
+  },
+  {
+    "id": "CBG-ND-10382",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.0915,
+    "y": 45.9862,
+    "infraWeight": 0.3307182176447784,
+    "population": 628,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10213",
+      "CBG-ND-10409",
+      "CBG-ND-10078",
+      "CBG-ND-10062",
+      "CBG-ND-10025"
+    ]
+  },
+  {
+    "id": "CBG-ND-10383",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7775,
+    "y": 47.418,
+    "infraWeight": 1.0145732095810114,
+    "population": 1613,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10105",
+      "CBG-ND-10293",
+      "CBG-ND-10058",
+      "CBG-ND-10336",
+      "CBG-ND-10120"
+    ]
+  },
+  {
+    "id": "CBG-ND-10384",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.8219,
+    "y": 47.8531,
+    "infraWeight": 0.33030248794397427,
+    "population": 687,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10020",
+      "CBG-ND-10200",
+      "CBG-ND-10085",
+      "CBG-ND-10211",
+      "CBG-ND-10157"
+    ]
+  },
+  {
+    "id": "CBG-ND-10385",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3755,
+    "y": 46.8618,
+    "infraWeight": 0.6717187885445968,
+    "population": 1171,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10223",
+      "CBG-ND-10096",
+      "CBG-ND-10252",
+      "CBG-ND-10027",
+      "CBG-ND-10055"
+    ]
+  },
+  {
+    "id": "CBG-ND-10386",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.2377,
+    "y": 46.9799,
+    "infraWeight": 1.005315384807333,
+    "population": 1583,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10136",
+      "CBG-ND-10327",
+      "CBG-ND-10011",
+      "CBG-ND-10029",
+      "CBG-ND-10232"
+    ]
+  },
+  {
+    "id": "CBG-ND-10387",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8718,
+    "y": 47.7679,
+    "infraWeight": 0.418100072202437,
+    "population": 728,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10303",
+      "CBG-ND-10342",
+      "CBG-ND-10066",
+      "CBG-ND-10330",
+      "CBG-ND-10421"
+    ]
+  },
+  {
+    "id": "CBG-ND-10388",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.7824,
+    "y": 46.0182,
+    "infraWeight": 0.3839711595424221,
+    "population": 678,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10348",
+      "CBG-ND-10378",
+      "CBG-ND-10422",
+      "CBG-ND-10063",
+      "CBG-ND-10054"
+    ]
+  },
+  {
+    "id": "CBG-ND-10389",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -103.4622,
+    "y": 46.9935,
+    "infraWeight": 0.3574838699377963,
+    "population": 713,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10006",
+      "CBG-ND-10089",
+      "CBG-ND-10274",
+      "CBG-ND-10094",
+      "CBG-ND-10299"
+    ]
+  },
+  {
+    "id": "CBG-ND-10390",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.6741,
+    "y": 48.3884,
+    "infraWeight": 0.752591740171369,
+    "population": 1382,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10217",
+      "CBG-ND-10019",
+      "CBG-ND-10155",
+      "CBG-ND-10375",
+      "CBG-ND-10198"
+    ]
+  },
+  {
+    "id": "CBG-ND-10391",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.9706,
+    "y": 46.8726,
+    "infraWeight": 0.3421657260155525,
+    "population": 627,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10208",
+      "CBG-ND-10247",
+      "CBG-ND-10168",
+      "CBG-ND-10360",
+      "CBG-ND-10263"
+    ]
+  },
+  {
+    "id": "CBG-ND-10392",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.0757,
+    "y": 47.5183,
+    "infraWeight": 1.218015742935804,
+    "population": 2445,
+    "microDistrictId": "ND-MD-1",
+    "neighbors": [
+      "CBG-ND-10196",
+      "CBG-ND-10210",
+      "CBG-ND-10037",
+      "CBG-ND-10176",
+      "CBG-ND-10024"
+    ]
+  },
+  {
+    "id": "CBG-ND-10393",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.6094,
+    "y": 47.0977,
+    "infraWeight": 0.5490025593277401,
+    "population": 992,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10083",
+      "CBG-ND-10101",
+      "CBG-ND-10030",
+      "CBG-ND-10275",
+      "CBG-ND-10329"
+    ]
+  },
+  {
+    "id": "CBG-ND-10394",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.6595,
+    "y": 48.0878,
+    "infraWeight": 0.4362997613499544,
+    "population": 783,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10134",
+      "CBG-ND-10307",
+      "CBG-ND-10153",
+      "CBG-ND-10342",
+      "CBG-ND-10303"
+    ]
+  },
+  {
+    "id": "CBG-ND-10395",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.3124,
+    "y": 47.3142,
+    "infraWeight": 0.7416925280174959,
+    "population": 1432,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10260",
+      "CBG-ND-10064",
+      "CBG-ND-10368",
+      "CBG-ND-10143",
+      "CBG-ND-10190"
+    ]
+  },
+  {
+    "id": "CBG-ND-10396",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.8632,
+    "y": 47.9312,
+    "infraWeight": 0.9158005409269421,
+    "population": 1476,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10249",
+      "CBG-ND-10216",
+      "CBG-ND-10149",
+      "CBG-ND-10372",
+      "CBG-ND-10297"
+    ]
+  },
+  {
+    "id": "CBG-ND-10397",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.0737,
+    "y": 47.2272,
+    "infraWeight": 0.666270336900822,
+    "population": 1084,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10021",
+      "CBG-ND-10030",
+      "CBG-ND-10101",
+      "CBG-ND-10405",
+      "CBG-ND-10329"
+    ]
+  },
+  {
+    "id": "CBG-ND-10398",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.1925,
+    "y": 47.2182,
+    "infraWeight": 0.36414870768276575,
+    "population": 686,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10108",
+      "CBG-ND-10091",
+      "CBG-ND-10283",
+      "CBG-ND-10061",
+      "CBG-ND-10290"
+    ]
+  },
+  {
+    "id": "CBG-ND-10399",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.3158,
+    "y": 46.7731,
+    "infraWeight": 0.4791471094699145,
+    "population": 753,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10131",
+      "CBG-ND-10113",
+      "CBG-ND-10246",
+      "CBG-ND-10406",
+      "CBG-ND-10005"
+    ]
+  },
+  {
+    "id": "CBG-ND-10400",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.2813,
+    "y": 48.6109,
+    "infraWeight": 0.3546613978677445,
+    "population": 706,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10173",
+      "CBG-ND-10182",
+      "CBG-ND-10359",
+      "CBG-ND-10298",
+      "CBG-ND-10278"
+    ]
+  },
+  {
+    "id": "CBG-ND-10401",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.2642,
+    "y": 46.3001,
+    "infraWeight": 0.44798038206809043,
+    "population": 748,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10119",
+      "CBG-ND-10404",
+      "CBG-ND-10321",
+      "CBG-ND-10288",
+      "CBG-ND-10022"
+    ]
+  },
+  {
+    "id": "CBG-ND-10402",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.2938,
+    "y": 46.3111,
+    "infraWeight": 0.5919053501795088,
+    "population": 979,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10266",
+      "CBG-ND-10423",
+      "CBG-ND-10056",
+      "CBG-ND-10086",
+      "CBG-ND-10160"
+    ]
+  },
+  {
+    "id": "CBG-ND-10403",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.8038,
+    "y": 48.9108,
+    "infraWeight": 0.385763575028377,
+    "population": 756,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10277",
+      "CBG-ND-10010",
+      "CBG-ND-10331",
+      "CBG-ND-10204",
+      "CBG-ND-10250"
+    ]
+  },
+  {
+    "id": "CBG-ND-10404",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.4202,
+    "y": 46.3813,
+    "infraWeight": 0.47279596853863687,
+    "population": 805,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10119",
+      "CBG-ND-10321",
+      "CBG-ND-10401",
+      "CBG-ND-10189",
+      "CBG-ND-10343"
+    ]
+  },
+  {
+    "id": "CBG-ND-10405",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.0519,
+    "y": 47.0197,
+    "infraWeight": 0.6444224069390925,
+    "population": 1222,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10329",
+      "CBG-ND-10021",
+      "CBG-ND-10397",
+      "CBG-ND-10101",
+      "CBG-ND-10030"
+    ]
+  },
+  {
+    "id": "CBG-ND-10406",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.5549,
+    "y": 46.9273,
+    "infraWeight": 0.45219559331805215,
+    "population": 922,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10246",
+      "CBG-ND-10131",
+      "CBG-ND-10399",
+      "CBG-ND-10113",
+      "CBG-ND-10322"
+    ]
+  },
+  {
+    "id": "CBG-ND-10407",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.7683,
+    "y": 46.7094,
+    "infraWeight": 0.7934496864985333,
+    "population": 1500,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10362",
+      "CBG-ND-10240",
+      "CBG-ND-10346",
+      "CBG-ND-10052",
+      "CBG-ND-10259"
+    ]
+  },
+  {
+    "id": "CBG-ND-10408",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.9079,
+    "y": 46.4128,
+    "infraWeight": 0.5458496338117224,
+    "population": 1024,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10251",
+      "CBG-ND-10079",
+      "CBG-ND-10093",
+      "CBG-ND-10320",
+      "CBG-ND-10343"
+    ]
+  },
+  {
+    "id": "CBG-ND-10409",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.8853,
+    "y": 45.9419,
+    "infraWeight": 0.31634424450178306,
+    "population": 600,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10382",
+      "CBG-ND-10213",
+      "CBG-ND-10041",
+      "CBG-ND-10062",
+      "CBG-ND-10025"
+    ]
+  },
+  {
+    "id": "CBG-ND-10410",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.1502,
+    "y": 48.5066,
+    "infraWeight": 0.588048323959334,
+    "population": 1121,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10195",
+      "CBG-ND-10328",
+      "CBG-ND-10280",
+      "CBG-ND-10340",
+      "CBG-ND-10287"
+    ]
+  },
+  {
+    "id": "CBG-ND-10411",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.1483,
+    "y": 48.808,
+    "infraWeight": 0.5802280216020599,
+    "population": 1020,
+    "microDistrictId": "ND-MD-2",
+    "neighbors": [
+      "CBG-ND-10243",
+      "CBG-ND-10339",
+      "CBG-ND-10209",
+      "CBG-ND-10224",
+      "CBG-ND-10285"
+    ]
+  },
+  {
+    "id": "CBG-ND-10412",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -101.9154,
+    "y": 46.377,
+    "infraWeight": 0.5088477561116327,
+    "population": 973,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10233",
+      "CBG-ND-10005",
+      "CBG-ND-10081",
+      "CBG-ND-10179",
+      "CBG-ND-10048"
+    ]
+  },
+  {
+    "id": "CBG-ND-10413",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.986,
+    "y": 47.476,
+    "infraWeight": 0.4524009515559507,
+    "population": 902,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10191",
+      "CBG-ND-10215",
+      "CBG-ND-10107",
+      "CBG-ND-10416",
+      "CBG-ND-10114"
+    ]
+  },
+  {
+    "id": "CBG-ND-10414",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.5568,
+    "y": 47.786,
+    "infraWeight": 0.540809082784243,
+    "population": 1121,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10045",
+      "CBG-ND-10174",
+      "CBG-ND-10138",
+      "CBG-ND-10193",
+      "CBG-ND-10177"
+    ]
+  },
+  {
+    "id": "CBG-ND-10415",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.5788,
+    "y": 46.7071,
+    "infraWeight": 0.3919411216365199,
+    "population": 699,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10106",
+      "CBG-ND-10219",
+      "CBG-ND-10110",
+      "CBG-ND-10349",
+      "CBG-ND-10016"
+    ]
+  },
+  {
+    "id": "CBG-ND-10416",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.0162,
+    "y": 47.6885,
+    "infraWeight": 0.4550872304489511,
+    "population": 898,
+    "microDistrictId": "ND-MD-8",
+    "neighbors": [
+      "CBG-ND-10191",
+      "CBG-ND-10413",
+      "CBG-ND-10215",
+      "CBG-ND-10112",
+      "CBG-ND-10175"
+    ]
+  },
+  {
+    "id": "CBG-ND-10417",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.2605,
+    "y": 46.2444,
+    "infraWeight": 0.45323376306243024,
+    "population": 726,
+    "microDistrictId": "ND-MD-7",
+    "neighbors": [
+      "CBG-ND-10179",
+      "CBG-ND-10032",
+      "CBG-ND-10169",
+      "CBG-ND-10005",
+      "CBG-ND-10186"
+    ]
+  },
+  {
+    "id": "CBG-ND-10418",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.5957,
+    "y": 47.1745,
+    "infraWeight": 0.8501075269275966,
+    "population": 1475,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10248",
+      "CBG-ND-10070",
+      "CBG-ND-10139",
+      "CBG-ND-10183",
+      "CBG-ND-10308"
+    ]
+  },
+  {
+    "id": "CBG-ND-10419",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -100.4756,
+    "y": 46.053,
+    "infraWeight": 0.6184450401834002,
+    "population": 1096,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10040",
+      "CBG-ND-10162",
+      "CBG-ND-10047",
+      "CBG-ND-10044",
+      "CBG-ND-10109"
+    ]
+  },
+  {
+    "id": "CBG-ND-10420",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -98.7891,
+    "y": 47.4996,
+    "infraWeight": 0.5969219471757204,
+    "population": 1096,
+    "microDistrictId": "ND-MD-3",
+    "neighbors": [
+      "CBG-ND-10177",
+      "CBG-ND-10129",
+      "CBG-ND-10193",
+      "CBG-ND-10138",
+      "CBG-ND-10199"
+    ]
+  },
+  {
+    "id": "CBG-ND-10421",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -102.974,
+    "y": 47.9048,
+    "infraWeight": 0.4045452213377505,
+    "population": 738,
+    "microDistrictId": "ND-MD-11",
+    "neighbors": [
+      "CBG-ND-10330",
+      "CBG-ND-10066",
+      "CBG-ND-10387",
+      "CBG-ND-10342",
+      "CBG-ND-10008"
+    ]
+  },
+  {
+    "id": "CBG-ND-10422",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -97.9763,
+    "y": 46.0042,
+    "infraWeight": 0.40025348791719656,
+    "population": 811,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10063",
+      "CBG-ND-10033",
+      "CBG-ND-10184",
+      "CBG-ND-10348",
+      "CBG-ND-10097"
+    ]
+  },
+  {
+    "id": "CBG-ND-10423",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -99.304,
+    "y": 46.5284,
+    "infraWeight": 0.6328134263497369,
+    "population": 1004,
+    "microDistrictId": "ND-MD-4",
+    "neighbors": [
+      "CBG-ND-10160",
+      "CBG-ND-10376",
+      "CBG-ND-10056",
+      "CBG-ND-10402",
+      "CBG-ND-10152"
+    ]
+  },
+  {
+    "id": "CBG-ND-10424",
+    "parentZip": "90210",
+    "state": "ND",
+    "x": -96.8366,
+    "y": 46.4715,
+    "infraWeight": 0.3257033533170031,
+    "population": 619,
+    "microDistrictId": "ND-MD-9",
+    "neighbors": [
+      "CBG-ND-10025",
+      "CBG-ND-10069",
+      "CBG-ND-10289",
+      "CBG-ND-10360",
+      "CBG-ND-10062"
+    ]
+  }
+]

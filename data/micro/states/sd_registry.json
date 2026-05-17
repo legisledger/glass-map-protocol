@@ -1,0 +1,8077 @@
+[
+  {
+    "id": "CBG-SD-10000",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.4755,
+    "y": 43.8766,
+    "infraWeight": 0.35325685854588756,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10330",
+      "CBG-SD-10143",
+      "CBG-SD-10110",
+      "CBG-SD-10101",
+      "CBG-SD-10253"
+    ]
+  },
+  {
+    "id": "CBG-SD-10001",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7772,
+    "y": 43.2806,
+    "infraWeight": 0.5474241856707655,
+    "population": 1068,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10421",
+      "CBG-SD-10441",
+      "CBG-SD-10340",
+      "CBG-SD-10401",
+      "CBG-SD-10122"
+    ]
+  },
+  {
+    "id": "CBG-SD-10002",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.8014,
+    "y": 42.7944,
+    "infraWeight": 0.6032909233749296,
+    "population": 1268,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10375",
+      "CBG-SD-10188",
+      "CBG-SD-10472",
+      "CBG-SD-10167",
+      "CBG-SD-10277"
+    ]
+  },
+  {
+    "id": "CBG-SD-10003",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.0602,
+    "y": 45.1693,
+    "infraWeight": 0.7595746206313077,
+    "population": 1540,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10360",
+      "CBG-SD-10314",
+      "CBG-SD-10388",
+      "CBG-SD-10184",
+      "CBG-SD-10127"
+    ]
+  },
+  {
+    "id": "CBG-SD-10004",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7648,
+    "y": 44.5498,
+    "infraWeight": 0.5870649746677324,
+    "population": 1152,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10126",
+      "CBG-SD-10005",
+      "CBG-SD-10288",
+      "CBG-SD-10295",
+      "CBG-SD-10066"
+    ]
+  },
+  {
+    "id": "CBG-SD-10005",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9768,
+    "y": 44.6623,
+    "infraWeight": 0.5381061224690975,
+    "population": 1098,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10295",
+      "CBG-SD-10141",
+      "CBG-SD-10266",
+      "CBG-SD-10004",
+      "CBG-SD-10083"
+    ]
+  },
+  {
+    "id": "CBG-SD-10006",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.53,
+    "y": 44.3018,
+    "infraWeight": 0.4034243148312876,
+    "population": 743,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10112",
+      "CBG-SD-10414",
+      "CBG-SD-10272",
+      "CBG-SD-10222",
+      "CBG-SD-10323"
+    ]
+  },
+  {
+    "id": "CBG-SD-10007",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.842,
+    "y": 45.8182,
+    "infraWeight": 0.5647688417726329,
+    "population": 1045,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10210",
+      "CBG-SD-10430",
+      "CBG-SD-10336",
+      "CBG-SD-10009",
+      "CBG-SD-10145"
+    ]
+  },
+  {
+    "id": "CBG-SD-10008",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0171,
+    "y": 42.9155,
+    "infraWeight": 0.5979666626840825,
+    "population": 1012,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10065",
+      "CBG-SD-10260",
+      "CBG-SD-10123",
+      "CBG-SD-10293",
+      "CBG-SD-10309"
+    ]
+  },
+  {
+    "id": "CBG-SD-10009",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5352,
+    "y": 45.9268,
+    "infraWeight": 0.5251961117844568,
+    "population": 953,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10336",
+      "CBG-SD-10007",
+      "CBG-SD-10145",
+      "CBG-SD-10265",
+      "CBG-SD-10262"
+    ]
+  },
+  {
+    "id": "CBG-SD-10010",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3535,
+    "y": 42.9034,
+    "infraWeight": 0.3431477403297168,
+    "population": 629,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10362",
+      "CBG-SD-10242",
+      "CBG-SD-10120",
+      "CBG-SD-10144",
+      "CBG-SD-10456"
+    ]
+  },
+  {
+    "id": "CBG-SD-10011",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.9089,
+    "y": 45.4424,
+    "infraWeight": 0.32914969076339257,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10345",
+      "CBG-SD-10303",
+      "CBG-SD-10405",
+      "CBG-SD-10370",
+      "CBG-SD-10278"
+    ]
+  },
+  {
+    "id": "CBG-SD-10012",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0888,
+    "y": 44.2452,
+    "infraWeight": 0.5277337975145538,
+    "population": 974,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10372",
+      "CBG-SD-10165",
+      "CBG-SD-10364",
+      "CBG-SD-10428",
+      "CBG-SD-10295"
+    ]
+  },
+  {
+    "id": "CBG-SD-10013",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9906,
+    "y": 44.265,
+    "infraWeight": 0.3161732257664523,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10409",
+      "CBG-SD-10342",
+      "CBG-SD-10232",
+      "CBG-SD-10353",
+      "CBG-SD-10240"
+    ]
+  },
+  {
+    "id": "CBG-SD-10014",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9171,
+    "y": 43.8192,
+    "infraWeight": 0.5522707197551869,
+    "population": 1055,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10331",
+      "CBG-SD-10107",
+      "CBG-SD-10119",
+      "CBG-SD-10463",
+      "CBG-SD-10428"
+    ]
+  },
+  {
+    "id": "CBG-SD-10015",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2258,
+    "y": 44.57,
+    "infraWeight": 0.720552192095743,
+    "population": 1175,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10392",
+      "CBG-SD-10094",
+      "CBG-SD-10040",
+      "CBG-SD-10172",
+      "CBG-SD-10077"
+    ]
+  },
+  {
+    "id": "CBG-SD-10016",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.4079,
+    "y": 45.7364,
+    "infraWeight": 0.3552806384169691,
+    "population": 665,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10373",
+      "CBG-SD-10363",
+      "CBG-SD-10183",
+      "CBG-SD-10304",
+      "CBG-SD-10462"
+    ]
+  },
+  {
+    "id": "CBG-SD-10017",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.2274,
+    "y": 44.2292,
+    "infraWeight": 0.7572669242371973,
+    "population": 1421,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10221",
+      "CBG-SD-10190",
+      "CBG-SD-10103",
+      "CBG-SD-10063",
+      "CBG-SD-10325"
+    ]
+  },
+  {
+    "id": "CBG-SD-10018",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.2994,
+    "y": 45.8598,
+    "infraWeight": 0.42245832464041433,
+    "population": 679,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10132",
+      "CBG-SD-10228",
+      "CBG-SD-10318",
+      "CBG-SD-10219",
+      "CBG-SD-10407"
+    ]
+  },
+  {
+    "id": "CBG-SD-10019",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0626,
+    "y": 45.285,
+    "infraWeight": 0.4824715392875606,
+    "population": 793,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10249",
+      "CBG-SD-10189",
+      "CBG-SD-10217",
+      "CBG-SD-10057",
+      "CBG-SD-10300"
+    ]
+  },
+  {
+    "id": "CBG-SD-10020",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8095,
+    "y": 43.6157,
+    "infraWeight": 0.5867966719917717,
+    "population": 1064,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10413",
+      "CBG-SD-10294",
+      "CBG-SD-10425",
+      "CBG-SD-10460",
+      "CBG-SD-10100"
+    ]
+  },
+  {
+    "id": "CBG-SD-10021",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.1324,
+    "y": 45.1635,
+    "infraWeight": 0.4520205306181122,
+    "population": 790,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10256",
+      "CBG-SD-10397",
+      "CBG-SD-10403",
+      "CBG-SD-10124",
+      "CBG-SD-10470"
+    ]
+  },
+  {
+    "id": "CBG-SD-10022",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9783,
+    "y": 45.7305,
+    "infraWeight": 0.2983014128609551,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10139",
+      "CBG-SD-10200",
+      "CBG-SD-10087",
+      "CBG-SD-10147",
+      "CBG-SD-10076"
+    ]
+  },
+  {
+    "id": "CBG-SD-10023",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.2937,
+    "y": 45.0325,
+    "infraWeight": 0.3690205273815871,
+    "population": 675,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10273",
+      "CBG-SD-10310",
+      "CBG-SD-10393",
+      "CBG-SD-10303",
+      "CBG-SD-10405"
+    ]
+  },
+  {
+    "id": "CBG-SD-10024",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.606,
+    "y": 45.0379,
+    "infraWeight": 0.7335364248322019,
+    "population": 1409,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10305",
+      "CBG-SD-10451",
+      "CBG-SD-10464",
+      "CBG-SD-10326",
+      "CBG-SD-10440"
+    ]
+  },
+  {
+    "id": "CBG-SD-10025",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0948,
+    "y": 43.4729,
+    "infraWeight": 0.3804650920935057,
+    "population": 773,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10069",
+      "CBG-SD-10348",
+      "CBG-SD-10324",
+      "CBG-SD-10140",
+      "CBG-SD-10193"
+    ]
+  },
+  {
+    "id": "CBG-SD-10026",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.537,
+    "y": 43.301,
+    "infraWeight": 0.7666203632139396,
+    "population": 1271,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10377",
+      "CBG-SD-10347",
+      "CBG-SD-10220",
+      "CBG-SD-10047",
+      "CBG-SD-10313"
+    ]
+  },
+  {
+    "id": "CBG-SD-10027",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8465,
+    "y": 45.8094,
+    "infraWeight": 0.3702780791252501,
+    "population": 608,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10231",
+      "CBG-SD-10422",
+      "CBG-SD-10279",
+      "CBG-SD-10148",
+      "CBG-SD-10092"
+    ]
+  },
+  {
+    "id": "CBG-SD-10028",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0827,
+    "y": 44.8704,
+    "infraWeight": 0.7268339929291447,
+    "population": 1318,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10415",
+      "CBG-SD-10412",
+      "CBG-SD-10160",
+      "CBG-SD-10054",
+      "CBG-SD-10162"
+    ]
+  },
+  {
+    "id": "CBG-SD-10029",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.5259,
+    "y": 42.622,
+    "infraWeight": 0.4486613352309007,
+    "population": 817,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10259",
+      "CBG-SD-10152",
+      "CBG-SD-10271",
+      "CBG-SD-10401",
+      "CBG-SD-10439"
+    ]
+  },
+  {
+    "id": "CBG-SD-10030",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2805,
+    "y": 42.8932,
+    "infraWeight": 0.4380593772989964,
+    "population": 847,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10406",
+      "CBG-SD-10072",
+      "CBG-SD-10102",
+      "CBG-SD-10351",
+      "CBG-SD-10052"
+    ]
+  },
+  {
+    "id": "CBG-SD-10031",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7085,
+    "y": 45.0607,
+    "infraWeight": 0.4080238823274242,
+    "population": 852,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10437",
+      "CBG-SD-10310",
+      "CBG-SD-10292",
+      "CBG-SD-10114",
+      "CBG-SD-10237"
+    ]
+  },
+  {
+    "id": "CBG-SD-10032",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8165,
+    "y": 42.8435,
+    "infraWeight": 0.3834711595371308,
+    "population": 656,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10135",
+      "CBG-SD-10144",
+      "CBG-SD-10351",
+      "CBG-SD-10406",
+      "CBG-SD-10216"
+    ]
+  },
+  {
+    "id": "CBG-SD-10033",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3568,
+    "y": 44.7123,
+    "infraWeight": 0.36144624813232573,
+    "population": 633,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10268",
+      "CBG-SD-10136",
+      "CBG-SD-10243",
+      "CBG-SD-10111",
+      "CBG-SD-10343"
+    ]
+  },
+  {
+    "id": "CBG-SD-10034",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.943,
+    "y": 43.9167,
+    "infraWeight": 0.3186037687369995,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10429",
+      "CBG-SD-10232",
+      "CBG-SD-10143",
+      "CBG-SD-10330",
+      "CBG-SD-10013"
+    ]
+  },
+  {
+    "id": "CBG-SD-10035",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0286,
+    "y": 44.3436,
+    "infraWeight": 0.3963095046849085,
+    "population": 641,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10226",
+      "CBG-SD-10355",
+      "CBG-SD-10315",
+      "CBG-SD-10111",
+      "CBG-SD-10209"
+    ]
+  },
+  {
+    "id": "CBG-SD-10036",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.7942,
+    "y": 45.8365,
+    "infraWeight": 0.3115009393941166,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10070",
+      "CBG-SD-10278",
+      "CBG-SD-10170",
+      "CBG-SD-10345",
+      "CBG-SD-10011"
+    ]
+  },
+  {
+    "id": "CBG-SD-10037",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1223,
+    "y": 45.8623,
+    "infraWeight": 0.42883116081310385,
+    "population": 704,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10433",
+      "CBG-SD-10218",
+      "CBG-SD-10092",
+      "CBG-SD-10075",
+      "CBG-SD-10334"
+    ]
+  },
+  {
+    "id": "CBG-SD-10038",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5799,
+    "y": 45.4081,
+    "infraWeight": 0.5374988100462228,
+    "population": 1120,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10195",
+      "CBG-SD-10090",
+      "CBG-SD-10300",
+      "CBG-SD-10320",
+      "CBG-SD-10434"
+    ]
+  },
+  {
+    "id": "CBG-SD-10039",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0587,
+    "y": 45.8677,
+    "infraWeight": 0.5274858480318109,
+    "population": 966,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10163",
+      "CBG-SD-10079",
+      "CBG-SD-10282",
+      "CBG-SD-10241",
+      "CBG-SD-10157"
+    ]
+  },
+  {
+    "id": "CBG-SD-10040",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.371,
+    "y": 44.554,
+    "infraWeight": 0.773211236018375,
+    "population": 1654,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10015",
+      "CBG-SD-10392",
+      "CBG-SD-10257",
+      "CBG-SD-10077",
+      "CBG-SD-10094"
+    ]
+  },
+  {
+    "id": "CBG-SD-10041",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8241,
+    "y": 42.6023,
+    "infraWeight": 0.38373617510518837,
+    "population": 667,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10096",
+      "CBG-SD-10335",
+      "CBG-SD-10117",
+      "CBG-SD-10457",
+      "CBG-SD-10271"
+    ]
+  },
+  {
+    "id": "CBG-SD-10042",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.086,
+    "y": 44.4706,
+    "infraWeight": 0.7987164444961713,
+    "population": 1602,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10270",
+      "CBG-SD-10384",
+      "CBG-SD-10162",
+      "CBG-SD-10325",
+      "CBG-SD-10197"
+    ]
+  },
+  {
+    "id": "CBG-SD-10043",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.6298,
+    "y": 42.5634,
+    "infraWeight": 0.4758486003113756,
+    "population": 881,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10371",
+      "CBG-SD-10369",
+      "CBG-SD-10306",
+      "CBG-SD-10357",
+      "CBG-SD-10328"
+    ]
+  },
+  {
+    "id": "CBG-SD-10044",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8872,
+    "y": 43.62,
+    "infraWeight": 0.4047358098652988,
+    "population": 788,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10267",
+      "CBG-SD-10193",
+      "CBG-SD-10324",
+      "CBG-SD-10348",
+      "CBG-SD-10025"
+    ]
+  },
+  {
+    "id": "CBG-SD-10045",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -104.0469,
+    "y": 45.2395,
+    "infraWeight": 0.3038598367895777,
+    "population": 624,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10087",
+      "CBG-SD-10147",
+      "CBG-SD-10244",
+      "CBG-SD-10071",
+      "CBG-SD-10080"
+    ]
+  },
+  {
+    "id": "CBG-SD-10046",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9862,
+    "y": 44.958,
+    "infraWeight": 0.3907159384828461,
+    "population": 780,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10138",
+      "CBG-SD-10073",
+      "CBG-SD-10367",
+      "CBG-SD-10243",
+      "CBG-SD-10346"
+    ]
+  },
+  {
+    "id": "CBG-SD-10047",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5126,
+    "y": 43.0512,
+    "infraWeight": 0.6845238615013519,
+    "population": 1266,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10377",
+      "CBG-SD-10026",
+      "CBG-SD-10313",
+      "CBG-SD-10352",
+      "CBG-SD-10309"
+    ]
+  },
+  {
+    "id": "CBG-SD-10048",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7482,
+    "y": 44.6897,
+    "infraWeight": 0.3308468706664239,
+    "population": 692,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10343",
+      "CBG-SD-10097",
+      "CBG-SD-10146",
+      "CBG-SD-10268",
+      "CBG-SD-10447"
+    ]
+  },
+  {
+    "id": "CBG-SD-10049",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.9137,
+    "y": 43.6036,
+    "infraWeight": 0.3418226681938803,
+    "population": 616,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10192",
+      "CBG-SD-10297",
+      "CBG-SD-10203",
+      "CBG-SD-10233",
+      "CBG-SD-10207"
+    ]
+  },
+  {
+    "id": "CBG-SD-10050",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0854,
+    "y": 43.9594,
+    "infraWeight": 0.4722676140679212,
+    "population": 949,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10223",
+      "CBG-SD-10213",
+      "CBG-SD-10235",
+      "CBG-SD-10074",
+      "CBG-SD-10175"
+    ]
+  },
+  {
+    "id": "CBG-SD-10051",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.5657,
+    "y": 45.0765,
+    "infraWeight": 0.33863579023079743,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10238",
+      "CBG-SD-10244",
+      "CBG-SD-10268",
+      "CBG-SD-10146",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10052",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1373,
+    "y": 42.6858,
+    "infraWeight": 0.43731346991890785,
+    "population": 700,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10102",
+      "CBG-SD-10072",
+      "CBG-SD-10390",
+      "CBG-SD-10443",
+      "CBG-SD-10169"
+    ]
+  },
+  {
+    "id": "CBG-SD-10053",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9675,
+    "y": 44.687,
+    "infraWeight": 0.4507107641450882,
+    "population": 874,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10378",
+      "CBG-SD-10204",
+      "CBG-SD-10416",
+      "CBG-SD-10114",
+      "CBG-SD-10403"
+    ]
+  },
+  {
+    "id": "CBG-SD-10054",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8858,
+    "y": 44.6184,
+    "infraWeight": 0.8537051411099303,
+    "population": 1659,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10197",
+      "CBG-SD-10270",
+      "CBG-SD-10042",
+      "CBG-SD-10162",
+      "CBG-SD-10384"
+    ]
+  },
+  {
+    "id": "CBG-SD-10055",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3634,
+    "y": 44.4914,
+    "infraWeight": 0.47847533142479876,
+    "population": 801,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10408",
+      "CBG-SD-10082",
+      "CBG-SD-10083",
+      "CBG-SD-10372",
+      "CBG-SD-10295"
+    ]
+  },
+  {
+    "id": "CBG-SD-10056",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8564,
+    "y": 45.5218,
+    "infraWeight": 0.6136836642835688,
+    "population": 1159,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10450",
+      "CBG-SD-10282",
+      "CBG-SD-10296",
+      "CBG-SD-10241",
+      "CBG-SD-10230"
+    ]
+  },
+  {
+    "id": "CBG-SD-10057",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2058,
+    "y": 45.2488,
+    "infraWeight": 0.4663849561198393,
+    "population": 922,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10109",
+      "CBG-SD-10019",
+      "CBG-SD-10217",
+      "CBG-SD-10248",
+      "CBG-SD-10189"
+    ]
+  },
+  {
+    "id": "CBG-SD-10058",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.0536,
+    "y": 43.8548,
+    "infraWeight": 0.6679759368982833,
+    "population": 1309,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10180",
+      "CBG-SD-10236",
+      "CBG-SD-10425",
+      "CBG-SD-10294",
+      "CBG-SD-10396"
+    ]
+  },
+  {
+    "id": "CBG-SD-10059",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3267,
+    "y": 44.7124,
+    "infraWeight": 0.37854703512110627,
+    "population": 618,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10323",
+      "CBG-SD-10414",
+      "CBG-SD-10310",
+      "CBG-SD-10023",
+      "CBG-SD-10272"
+    ]
+  },
+  {
+    "id": "CBG-SD-10060",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.7968,
+    "y": 44.9088,
+    "infraWeight": 0.33189672446627133,
+    "population": 657,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10179",
+      "CBG-SD-10370",
+      "CBG-SD-10361",
+      "CBG-SD-10274",
+      "CBG-SD-10454"
+    ]
+  },
+  {
+    "id": "CBG-SD-10061",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.4292,
+    "y": 43.4953,
+    "infraWeight": 0.45491743212724106,
+    "population": 841,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10134",
+      "CBG-SD-10254",
+      "CBG-SD-10267",
+      "CBG-SD-10119",
+      "CBG-SD-10216"
+    ]
+  },
+  {
+    "id": "CBG-SD-10062",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7481,
+    "y": 44.5956,
+    "infraWeight": 0.5889742948594386,
+    "population": 1247,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10281",
+      "CBG-SD-10398",
+      "CBG-SD-10172",
+      "CBG-SD-10255",
+      "CBG-SD-10458"
+    ]
+  },
+  {
+    "id": "CBG-SD-10063",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.3577,
+    "y": 44.4051,
+    "infraWeight": 0.7050404459768485,
+    "population": 1398,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10325",
+      "CBG-SD-10066",
+      "CBG-SD-10017",
+      "CBG-SD-10288",
+      "CBG-SD-10162"
+    ]
+  },
+  {
+    "id": "CBG-SD-10064",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.4203,
+    "y": 42.8165,
+    "infraWeight": 0.36123546449605304,
+    "population": 600,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10173",
+      "CBG-SD-10285",
+      "CBG-SD-10442",
+      "CBG-SD-10365",
+      "CBG-SD-10185"
+    ]
+  },
+  {
+    "id": "CBG-SD-10065",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0677,
+    "y": 42.9754,
+    "infraWeight": 0.6036908424665465,
+    "population": 1190,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10260",
+      "CBG-SD-10008",
+      "CBG-SD-10283",
+      "CBG-SD-10293",
+      "CBG-SD-10366"
+    ]
+  },
+  {
+    "id": "CBG-SD-10066",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.438,
+    "y": 44.5839,
+    "infraWeight": 0.6673309268388672,
+    "population": 1249,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10126",
+      "CBG-SD-10063",
+      "CBG-SD-10099",
+      "CBG-SD-10288",
+      "CBG-SD-10325"
+    ]
+  },
+  {
+    "id": "CBG-SD-10067",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5152,
+    "y": 45.3667,
+    "infraWeight": 0.3782691342218497,
+    "population": 663,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10095",
+      "CBG-SD-10237",
+      "CBG-SD-10292",
+      "CBG-SD-10462",
+      "CBG-SD-10448"
+    ]
+  },
+  {
+    "id": "CBG-SD-10068",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.5421,
+    "y": 44.0009,
+    "infraWeight": 0.31842660414131224,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10116",
+      "CBG-SD-10400",
+      "CBG-SD-10379",
+      "CBG-SD-10297",
+      "CBG-SD-10159"
+    ]
+  },
+  {
+    "id": "CBG-SD-10069",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.1992,
+    "y": 43.394,
+    "infraWeight": 0.36911067366205924,
+    "population": 626,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10025",
+      "CBG-SD-10140",
+      "CBG-SD-10466",
+      "CBG-SD-10348",
+      "CBG-SD-10298"
+    ]
+  },
+  {
+    "id": "CBG-SD-10070",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.817,
+    "y": 45.8712,
+    "infraWeight": 0.31186578059891296,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10036",
+      "CBG-SD-10278",
+      "CBG-SD-10170",
+      "CBG-SD-10183",
+      "CBG-SD-10345"
+    ]
+  },
+  {
+    "id": "CBG-SD-10071",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9073,
+    "y": 44.836,
+    "infraWeight": 0.3182501184612221,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10080",
+      "CBG-SD-10146",
+      "CBG-SD-10327",
+      "CBG-SD-10261",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10072",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1515,
+    "y": 42.7826,
+    "infraWeight": 0.4435605052925683,
+    "population": 932,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10102",
+      "CBG-SD-10052",
+      "CBG-SD-10030",
+      "CBG-SD-10390",
+      "CBG-SD-10328"
+    ]
+  },
+  {
+    "id": "CBG-SD-10073",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.006,
+    "y": 44.8165,
+    "infraWeight": 0.3921942044436776,
+    "population": 648,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10243",
+      "CBG-SD-10046",
+      "CBG-SD-10138",
+      "CBG-SD-10211",
+      "CBG-SD-10367"
+    ]
+  },
+  {
+    "id": "CBG-SD-10074",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.4278,
+    "y": 44.05,
+    "infraWeight": 0.5307515960880663,
+    "population": 920,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10317",
+      "CBG-SD-10100",
+      "CBG-SD-10150",
+      "CBG-SD-10050",
+      "CBG-SD-10460"
+    ]
+  },
+  {
+    "id": "CBG-SD-10075",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8482,
+    "y": 45.8689,
+    "infraWeight": 0.4539939970182423,
+    "population": 761,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10334",
+      "CBG-SD-10354",
+      "CBG-SD-10218",
+      "CBG-SD-10433",
+      "CBG-SD-10320"
+    ]
+  },
+  {
+    "id": "CBG-SD-10076",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6121,
+    "y": 45.7511,
+    "infraWeight": 0.3191213823355578,
+    "population": 634,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10374",
+      "CBG-SD-10200",
+      "CBG-SD-10022",
+      "CBG-SD-10147",
+      "CBG-SD-10087"
+    ]
+  },
+  {
+    "id": "CBG-SD-10077",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5438,
+    "y": 44.6744,
+    "infraWeight": 0.8147131151391812,
+    "population": 1598,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10257",
+      "CBG-SD-10040",
+      "CBG-SD-10419",
+      "CBG-SD-10305",
+      "CBG-SD-10392"
+    ]
+  },
+  {
+    "id": "CBG-SD-10078",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.039,
+    "y": 42.9124,
+    "infraWeight": 0.33623103640634144,
+    "population": 708,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10438",
+      "CBG-SD-10349",
+      "CBG-SD-10263",
+      "CBG-SD-10252",
+      "CBG-SD-10322"
+    ]
+  },
+  {
+    "id": "CBG-SD-10079",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.2519,
+    "y": 45.7839,
+    "infraWeight": 0.5234986573532764,
+    "population": 1094,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10163",
+      "CBG-SD-10039",
+      "CBG-SD-10382",
+      "CBG-SD-10157",
+      "CBG-SD-10137"
+    ]
+  },
+  {
+    "id": "CBG-SD-10080",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9438,
+    "y": 44.8182,
+    "infraWeight": 0.3160311277573666,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10071",
+      "CBG-SD-10327",
+      "CBG-SD-10261",
+      "CBG-SD-10146",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10081",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.0183,
+    "y": 45.3135,
+    "infraWeight": 0.5661064455096685,
+    "population": 916,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10391",
+      "CBG-SD-10121",
+      "CBG-SD-10332",
+      "CBG-SD-10311",
+      "CBG-SD-10186"
+    ]
+  },
+  {
+    "id": "CBG-SD-10082",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6006,
+    "y": 44.6519,
+    "infraWeight": 0.44189255989593706,
+    "population": 771,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10408",
+      "CBG-SD-10089",
+      "CBG-SD-10055",
+      "CBG-SD-10302",
+      "CBG-SD-10083"
+    ]
+  },
+  {
+    "id": "CBG-SD-10083",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.324,
+    "y": 44.7843,
+    "infraWeight": 0.4755085220962267,
+    "population": 820,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10104",
+      "CBG-SD-10141",
+      "CBG-SD-10171",
+      "CBG-SD-10234",
+      "CBG-SD-10055"
+    ]
+  },
+  {
+    "id": "CBG-SD-10084",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.4994,
+    "y": 45.4941,
+    "infraWeight": 0.30238860435396375,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10170",
+      "CBG-SD-10359",
+      "CBG-SD-10275",
+      "CBG-SD-10177",
+      "CBG-SD-10361"
+    ]
+  },
+  {
+    "id": "CBG-SD-10085",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6956,
+    "y": 43.3793,
+    "infraWeight": 0.329812375792707,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10456",
+      "CBG-SD-10445",
+      "CBG-SD-10101",
+      "CBG-SD-10466",
+      "CBG-SD-10242"
+    ]
+  },
+  {
+    "id": "CBG-SD-10086",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.3464,
+    "y": 44.806,
+    "infraWeight": 0.5015338040412965,
+    "population": 1004,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10458",
+      "CBG-SD-10403",
+      "CBG-SD-10124",
+      "CBG-SD-10256",
+      "CBG-SD-10281"
+    ]
+  },
+  {
+    "id": "CBG-SD-10087",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8475,
+    "y": 45.4193,
+    "infraWeight": 0.31265917202240656,
+    "population": 661,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10147",
+      "CBG-SD-10244",
+      "CBG-SD-10045",
+      "CBG-SD-10022",
+      "CBG-SD-10200"
+    ]
+  },
+  {
+    "id": "CBG-SD-10088",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.284,
+    "y": 43.85,
+    "infraWeight": 1.0993582537739865,
+    "population": 1896,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10287",
+      "CBG-SD-10133",
+      "CBG-SD-10417",
+      "CBG-SD-10356",
+      "CBG-SD-10206"
+    ]
+  },
+  {
+    "id": "CBG-SD-10089",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6932,
+    "y": 44.8621,
+    "infraWeight": 0.42477817213616426,
+    "population": 885,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10211",
+      "CBG-SD-10302",
+      "CBG-SD-10082",
+      "CBG-SD-10338",
+      "CBG-SD-10104"
+    ]
+  },
+  {
+    "id": "CBG-SD-10090",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.6166,
+    "y": 45.1745,
+    "infraWeight": 0.5609753762499774,
+    "population": 1183,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10149",
+      "CBG-SD-10038",
+      "CBG-SD-10300",
+      "CBG-SD-10225",
+      "CBG-SD-10249"
+    ]
+  },
+  {
+    "id": "CBG-SD-10091",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9883,
+    "y": 43.0811,
+    "infraWeight": 0.3055686011725457,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10245",
+      "CBG-SD-10445",
+      "CBG-SD-10387",
+      "CBG-SD-10339",
+      "CBG-SD-10120"
+    ]
+  },
+  {
+    "id": "CBG-SD-10092",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3821,
+    "y": 45.8647,
+    "infraWeight": 0.4054192944628086,
+    "population": 770,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10037",
+      "CBG-SD-10455",
+      "CBG-SD-10422",
+      "CBG-SD-10433",
+      "CBG-SD-10402"
+    ]
+  },
+  {
+    "id": "CBG-SD-10093",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.1508,
+    "y": 44.5579,
+    "infraWeight": 1.104145833582924,
+    "population": 2255,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10201",
+      "CBG-SD-10280",
+      "CBG-SD-10128",
+      "CBG-SD-10215",
+      "CBG-SD-10106"
+    ]
+  },
+  {
+    "id": "CBG-SD-10094",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.1475,
+    "y": 44.5206,
+    "infraWeight": 0.7004143461342125,
+    "population": 1278,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10015",
+      "CBG-SD-10392",
+      "CBG-SD-10040",
+      "CBG-SD-10172",
+      "CBG-SD-10246"
+    ]
+  },
+  {
+    "id": "CBG-SD-10095",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5807,
+    "y": 45.3774,
+    "infraWeight": 0.38369004529295747,
+    "population": 682,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10237",
+      "CBG-SD-10067",
+      "CBG-SD-10292",
+      "CBG-SD-10462",
+      "CBG-SD-10448"
+    ]
+  },
+  {
+    "id": "CBG-SD-10096",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8267,
+    "y": 42.6709,
+    "infraWeight": 0.38766261438416233,
+    "population": 759,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10041",
+      "CBG-SD-10335",
+      "CBG-SD-10117",
+      "CBG-SD-10457",
+      "CBG-SD-10271"
+    ]
+  },
+  {
+    "id": "CBG-SD-10097",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7339,
+    "y": 44.7403,
+    "infraWeight": 0.3313572405679381,
+    "population": 642,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10048",
+      "CBG-SD-10343",
+      "CBG-SD-10146",
+      "CBG-SD-10268",
+      "CBG-SD-10327"
+    ]
+  },
+  {
+    "id": "CBG-SD-10098",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.4174,
+    "y": 42.8393,
+    "infraWeight": 0.575982736245968,
+    "population": 1159,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10239",
+      "CBG-SD-10444",
+      "CBG-SD-10108",
+      "CBG-SD-10465",
+      "CBG-SD-10319"
+    ]
+  },
+  {
+    "id": "CBG-SD-10099",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.4736,
+    "y": 44.8033,
+    "infraWeight": 0.6351296595594609,
+    "population": 1267,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10225",
+      "CBG-SD-10066",
+      "CBG-SD-10126",
+      "CBG-SD-10004",
+      "CBG-SD-10028"
+    ]
+  },
+  {
+    "id": "CBG-SD-10100",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6064,
+    "y": 43.7757,
+    "infraWeight": 0.5560666892027831,
+    "population": 935,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10460",
+      "CBG-SD-10413",
+      "CBG-SD-10425",
+      "CBG-SD-10317",
+      "CBG-SD-10020"
+    ]
+  },
+  {
+    "id": "CBG-SD-10101",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6484,
+    "y": 43.6165,
+    "infraWeight": 0.3368167331814452,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10143",
+      "CBG-SD-10330",
+      "CBG-SD-10085",
+      "CBG-SD-10429",
+      "CBG-SD-10000"
+    ]
+  },
+  {
+    "id": "CBG-SD-10102",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1806,
+    "y": 42.7547,
+    "infraWeight": 0.4383720294779802,
+    "population": 706,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10072",
+      "CBG-SD-10052",
+      "CBG-SD-10030",
+      "CBG-SD-10390",
+      "CBG-SD-10424"
+    ]
+  },
+  {
+    "id": "CBG-SD-10103",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.3885,
+    "y": 44.1142,
+    "infraWeight": 0.6989920422675545,
+    "population": 1439,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10190",
+      "CBG-SD-10221",
+      "CBG-SD-10321",
+      "CBG-SD-10017",
+      "CBG-SD-10431"
+    ]
+  },
+  {
+    "id": "CBG-SD-10104",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.4228,
+    "y": 44.9211,
+    "infraWeight": 0.4561296500260259,
+    "population": 903,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10338",
+      "CBG-SD-10234",
+      "CBG-SD-10171",
+      "CBG-SD-10083",
+      "CBG-SD-10302"
+    ]
+  },
+  {
+    "id": "CBG-SD-10105",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5525,
+    "y": 43.9052,
+    "infraWeight": 0.6406430325905553,
+    "population": 1154,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10431",
+      "CBG-SD-10432",
+      "CBG-SD-10321",
+      "CBG-SD-10103",
+      "CBG-SD-10463"
+    ]
+  },
+  {
+    "id": "CBG-SD-10106",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9325,
+    "y": 44.2142,
+    "infraWeight": 1.1412998415761153,
+    "population": 2204,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10158",
+      "CBG-SD-10133",
+      "CBG-SD-10201",
+      "CBG-SD-10419",
+      "CBG-SD-10093"
+    ]
+  },
+  {
+    "id": "CBG-SD-10107",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.026,
+    "y": 43.8911,
+    "infraWeight": 0.5341785727941187,
+    "population": 1083,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10014",
+      "CBG-SD-10119",
+      "CBG-SD-10428",
+      "CBG-SD-10165",
+      "CBG-SD-10331"
+    ]
+  },
+  {
+    "id": "CBG-SD-10108",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.4694,
+    "y": 43.0084,
+    "infraWeight": 0.6164696777235529,
+    "population": 981,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10383",
+      "CBG-SD-10181",
+      "CBG-SD-10098",
+      "CBG-SD-10452",
+      "CBG-SD-10386"
+    ]
+  },
+  {
+    "id": "CBG-SD-10109",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2645,
+    "y": 45.1874,
+    "infraWeight": 0.46282707285532876,
+    "population": 970,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10057",
+      "CBG-SD-10248",
+      "CBG-SD-10234",
+      "CBG-SD-10171",
+      "CBG-SD-10217"
+    ]
+  },
+  {
+    "id": "CBG-SD-10110",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.1897,
+    "y": 43.9597,
+    "infraWeight": 0.3793807270083752,
+    "population": 745,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10209",
+      "CBG-SD-10000",
+      "CBG-SD-10193",
+      "CBG-SD-10315",
+      "CBG-SD-10344"
+    ]
+  },
+  {
+    "id": "CBG-SD-10111",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.2339,
+    "y": 44.3776,
+    "infraWeight": 0.3757827854959285,
+    "population": 728,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10035",
+      "CBG-SD-10226",
+      "CBG-SD-10355",
+      "CBG-SD-10315",
+      "CBG-SD-10033"
+    ]
+  },
+  {
+    "id": "CBG-SD-10112",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3587,
+    "y": 44.1527,
+    "infraWeight": 0.38573950695033,
+    "population": 727,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10389",
+      "CBG-SD-10272",
+      "CBG-SD-10006",
+      "CBG-SD-10166",
+      "CBG-SD-10414"
+    ]
+  },
+  {
+    "id": "CBG-SD-10113",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9723,
+    "y": 43.5131,
+    "infraWeight": 0.8564967489185507,
+    "population": 1642,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10301",
+      "CBG-SD-10196",
+      "CBG-SD-10269",
+      "CBG-SD-10404",
+      "CBG-SD-10435"
+    ]
+  },
+  {
+    "id": "CBG-SD-10114",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9297,
+    "y": 44.8556,
+    "infraWeight": 0.4405718939857027,
+    "population": 854,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10053",
+      "CBG-SD-10378",
+      "CBG-SD-10204",
+      "CBG-SD-10403",
+      "CBG-SD-10416"
+    ]
+  },
+  {
+    "id": "CBG-SD-10115",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3018,
+    "y": 45.4161,
+    "infraWeight": 0.35017181217082655,
+    "population": 704,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10187",
+      "CBG-SD-10374",
+      "CBG-SD-10148",
+      "CBG-SD-10346",
+      "CBG-SD-10279"
+    ]
+  },
+  {
+    "id": "CBG-SD-10116",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6609,
+    "y": 44.1357,
+    "infraWeight": 0.3270358086118709,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10068",
+      "CBG-SD-10400",
+      "CBG-SD-10376",
+      "CBG-SD-10199",
+      "CBG-SD-10153"
+    ]
+  },
+  {
+    "id": "CBG-SD-10117",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8796,
+    "y": 42.7669,
+    "infraWeight": 0.39749050456179824,
+    "population": 748,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10335",
+      "CBG-SD-10457",
+      "CBG-SD-10096",
+      "CBG-SD-10041",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10118",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0038,
+    "y": 42.5811,
+    "infraWeight": 0.53599821280899,
+    "population": 1004,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10174",
+      "CBG-SD-10381",
+      "CBG-SD-10418",
+      "CBG-SD-10290",
+      "CBG-SD-10309"
+    ]
+  },
+  {
+    "id": "CBG-SD-10119",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0684,
+    "y": 43.7454,
+    "infraWeight": 0.5207208274647048,
+    "population": 860,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10107",
+      "CBG-SD-10014",
+      "CBG-SD-10331",
+      "CBG-SD-10254",
+      "CBG-SD-10165"
+    ]
+  },
+  {
+    "id": "CBG-SD-10120",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6399,
+    "y": 42.9887,
+    "infraWeight": 0.32558433946560567,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10456",
+      "CBG-SD-10245",
+      "CBG-SD-10445",
+      "CBG-SD-10242",
+      "CBG-SD-10339"
+    ]
+  },
+  {
+    "id": "CBG-SD-10121",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.834,
+    "y": 45.2702,
+    "infraWeight": 0.5425325937840217,
+    "population": 1057,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10311",
+      "CBG-SD-10332",
+      "CBG-SD-10205",
+      "CBG-SD-10081",
+      "CBG-SD-10391"
+    ]
+  },
+  {
+    "id": "CBG-SD-10122",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.4476,
+    "y": 43.3472,
+    "infraWeight": 0.5005957478563463,
+    "population": 891,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10441",
+      "CBG-SD-10250",
+      "CBG-SD-10401",
+      "CBG-SD-10468",
+      "CBG-SD-10413"
+    ]
+  },
+  {
+    "id": "CBG-SD-10123",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.9041,
+    "y": 42.9114,
+    "infraWeight": 0.610326979870135,
+    "population": 1213,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10309",
+      "CBG-SD-10008",
+      "CBG-SD-10293",
+      "CBG-SD-10260",
+      "CBG-SD-10065"
+    ]
+  },
+  {
+    "id": "CBG-SD-10124",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.3444,
+    "y": 45.152,
+    "infraWeight": 0.4805122882881659,
+    "population": 945,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10194",
+      "CBG-SD-10256",
+      "CBG-SD-10021",
+      "CBG-SD-10470",
+      "CBG-SD-10403"
+    ]
+  },
+  {
+    "id": "CBG-SD-10125",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.015,
+    "y": 44.4152,
+    "infraWeight": 0.3539331313955165,
+    "population": 738,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10153",
+      "CBG-SD-10333",
+      "CBG-SD-10400",
+      "CBG-SD-10272",
+      "CBG-SD-10376"
+    ]
+  },
+  {
+    "id": "CBG-SD-10126",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5822,
+    "y": 44.5468,
+    "infraWeight": 0.6311263288791988,
+    "population": 1149,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10066",
+      "CBG-SD-10288",
+      "CBG-SD-10004",
+      "CBG-SD-10063",
+      "CBG-SD-10099"
+    ]
+  },
+  {
+    "id": "CBG-SD-10127",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2506,
+    "y": 45.0463,
+    "infraWeight": 0.8179813294818525,
+    "population": 1651,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10360",
+      "CBG-SD-10184",
+      "CBG-SD-10003",
+      "CBG-SD-10312",
+      "CBG-SD-10314"
+    ]
+  },
+  {
+    "id": "CBG-SD-10128",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.3406,
+    "y": 44.2783,
+    "infraWeight": 1.3457058062613805,
+    "population": 2254,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10206",
+      "CBG-SD-10417",
+      "CBG-SD-10280",
+      "CBG-SD-10133",
+      "CBG-SD-10264"
+    ]
+  },
+  {
+    "id": "CBG-SD-10129",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7811,
+    "y": 44.1337,
+    "infraWeight": 0.6078455040225271,
+    "population": 1272,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10142",
+      "CBG-SD-10317",
+      "CBG-SD-10246",
+      "CBG-SD-10236",
+      "CBG-SD-10425"
+    ]
+  },
+  {
+    "id": "CBG-SD-10130",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1591,
+    "y": 43.7847,
+    "infraWeight": 0.7471550755990063,
+    "population": 1398,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10151",
+      "CBG-SD-10155",
+      "CBG-SD-10321",
+      "CBG-SD-10432",
+      "CBG-SD-10431"
+    ]
+  },
+  {
+    "id": "CBG-SD-10131",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6962,
+    "y": 43.3959,
+    "infraWeight": 0.3230515871172196,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10379",
+      "CBG-SD-10159",
+      "CBG-SD-10049",
+      "CBG-SD-10192",
+      "CBG-SD-10207"
+    ]
+  },
+  {
+    "id": "CBG-SD-10132",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.087,
+    "y": 45.7116,
+    "infraWeight": 0.4133289588692057,
+    "population": 868,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10318",
+      "CBG-SD-10191",
+      "CBG-SD-10018",
+      "CBG-SD-10470",
+      "CBG-SD-10304"
+    ]
+  },
+  {
+    "id": "CBG-SD-10133",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2038,
+    "y": 44.0376,
+    "infraWeight": 1.271071379687437,
+    "population": 2290,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10417",
+      "CBG-SD-10206",
+      "CBG-SD-10088",
+      "CBG-SD-10158",
+      "CBG-SD-10287"
+    ]
+  },
+  {
+    "id": "CBG-SD-10134",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.5286,
+    "y": 43.63,
+    "infraWeight": 0.44709573889806126,
+    "population": 926,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10061",
+      "CBG-SD-10267",
+      "CBG-SD-10044",
+      "CBG-SD-10436",
+      "CBG-SD-10324"
+    ]
+  },
+  {
+    "id": "CBG-SD-10135",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.7704,
+    "y": 43.1047,
+    "infraWeight": 0.39935305601571325,
+    "population": 739,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10216",
+      "CBG-SD-10298",
+      "CBG-SD-10032",
+      "CBG-SD-10144",
+      "CBG-SD-10348"
+    ]
+  },
+  {
+    "id": "CBG-SD-10136",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.5905,
+    "y": 44.5207,
+    "infraWeight": 0.34419948777929726,
+    "population": 668,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10240",
+      "CBG-SD-10343",
+      "CBG-SD-10353",
+      "CBG-SD-10048",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10137",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5661,
+    "y": 45.8619,
+    "infraWeight": 0.48198952105078285,
+    "population": 1001,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10251",
+      "CBG-SD-10157",
+      "CBG-SD-10382",
+      "CBG-SD-10434",
+      "CBG-SD-10354"
+    ]
+  },
+  {
+    "id": "CBG-SD-10138",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0135,
+    "y": 45.0747,
+    "infraWeight": 0.3848142429246998,
+    "population": 703,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10367",
+      "CBG-SD-10346",
+      "CBG-SD-10046",
+      "CBG-SD-10187",
+      "CBG-SD-10073"
+    ]
+  },
+  {
+    "id": "CBG-SD-10139",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -104.0214,
+    "y": 45.901,
+    "infraWeight": 0.2921060385847424,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10022",
+      "CBG-SD-10200",
+      "CBG-SD-10076",
+      "CBG-SD-10087",
+      "CBG-SD-10147"
+    ]
+  },
+  {
+    "id": "CBG-SD-10140",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0813,
+    "y": 43.2604,
+    "infraWeight": 0.3759232389790394,
+    "population": 623,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10144",
+      "CBG-SD-10069",
+      "CBG-SD-10298",
+      "CBG-SD-10025",
+      "CBG-SD-10348"
+    ]
+  },
+  {
+    "id": "CBG-SD-10141",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1424,
+    "y": 44.7379,
+    "infraWeight": 0.5055329052286431,
+    "population": 862,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10005",
+      "CBG-SD-10083",
+      "CBG-SD-10266",
+      "CBG-SD-10295",
+      "CBG-SD-10171"
+    ]
+  },
+  {
+    "id": "CBG-SD-10142",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8386,
+    "y": 44.2915,
+    "infraWeight": 0.6223029328553008,
+    "population": 1045,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10246",
+      "CBG-SD-10129",
+      "CBG-SD-10172",
+      "CBG-SD-10398",
+      "CBG-SD-10062"
+    ]
+  },
+  {
+    "id": "CBG-SD-10143",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.689,
+    "y": 43.6915,
+    "infraWeight": 0.33471218867103397,
+    "population": 707,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10101",
+      "CBG-SD-10330",
+      "CBG-SD-10429",
+      "CBG-SD-10000",
+      "CBG-SD-10085"
+    ]
+  },
+  {
+    "id": "CBG-SD-10144",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0545,
+    "y": 43.1053,
+    "infraWeight": 0.37330861665588233,
+    "population": 625,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10140",
+      "CBG-SD-10298",
+      "CBG-SD-10135",
+      "CBG-SD-10216",
+      "CBG-SD-10069"
+    ]
+  },
+  {
+    "id": "CBG-SD-10145",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2644,
+    "y": 45.7238,
+    "infraWeight": 0.5352299498475053,
+    "population": 946,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10262",
+      "CBG-SD-10265",
+      "CBG-SD-10186",
+      "CBG-SD-10394",
+      "CBG-SD-10198"
+    ]
+  },
+  {
+    "id": "CBG-SD-10146",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7968,
+    "y": 44.8056,
+    "infraWeight": 0.3261387784418954,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10097",
+      "CBG-SD-10071",
+      "CBG-SD-10048",
+      "CBG-SD-10080",
+      "CBG-SD-10327"
+    ]
+  },
+  {
+    "id": "CBG-SD-10147",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8223,
+    "y": 45.4256,
+    "infraWeight": 0.314086448034664,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10087",
+      "CBG-SD-10244",
+      "CBG-SD-10045",
+      "CBG-SD-10022",
+      "CBG-SD-10200"
+    ]
+  },
+  {
+    "id": "CBG-SD-10148",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0242,
+    "y": 45.6715,
+    "infraWeight": 0.362550261828848,
+    "population": 774,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10279",
+      "CBG-SD-10231",
+      "CBG-SD-10027",
+      "CBG-SD-10422",
+      "CBG-SD-10115"
+    ]
+  },
+  {
+    "id": "CBG-SD-10149",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7875,
+    "y": 45.0564,
+    "infraWeight": 0.5441278292656389,
+    "population": 913,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10090",
+      "CBG-SD-10300",
+      "CBG-SD-10189",
+      "CBG-SD-10266",
+      "CBG-SD-10217"
+    ]
+  },
+  {
+    "id": "CBG-SD-10150",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.2324,
+    "y": 44.3185,
+    "infraWeight": 0.4971612852939701,
+    "population": 910,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10208",
+      "CBG-SD-10213",
+      "CBG-SD-10223",
+      "CBG-SD-10074",
+      "CBG-SD-10050"
+    ]
+  },
+  {
+    "id": "CBG-SD-10151",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0647,
+    "y": 43.9742,
+    "infraWeight": 0.8099440739392428,
+    "population": 1530,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10155",
+      "CBG-SD-10130",
+      "CBG-SD-10221",
+      "CBG-SD-10190",
+      "CBG-SD-10017"
+    ]
+  },
+  {
+    "id": "CBG-SD-10152",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.2948,
+    "y": 42.8494,
+    "infraWeight": 0.4436836318266751,
+    "population": 826,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10259",
+      "CBG-SD-10439",
+      "CBG-SD-10029",
+      "CBG-SD-10457",
+      "CBG-SD-10401"
+    ]
+  },
+  {
+    "id": "CBG-SD-10153",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0418,
+    "y": 44.3239,
+    "infraWeight": 0.35656242330256865,
+    "population": 743,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10125",
+      "CBG-SD-10400",
+      "CBG-SD-10333",
+      "CBG-SD-10272",
+      "CBG-SD-10166"
+    ]
+  },
+  {
+    "id": "CBG-SD-10154",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7113,
+    "y": 42.6114,
+    "infraWeight": 0.311420556906182,
+    "population": 624,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10164",
+      "CBG-SD-10227",
+      "CBG-SD-10339",
+      "CBG-SD-10120",
+      "CBG-SD-10202"
+    ]
+  },
+  {
+    "id": "CBG-SD-10155",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0385,
+    "y": 44.0382,
+    "infraWeight": 0.8284114347059578,
+    "population": 1599,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10151",
+      "CBG-SD-10221",
+      "CBG-SD-10017",
+      "CBG-SD-10130",
+      "CBG-SD-10190"
+    ]
+  },
+  {
+    "id": "CBG-SD-10156",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7664,
+    "y": 43.8122,
+    "infraWeight": 0.9058100567961531,
+    "population": 1551,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10356",
+      "CBG-SD-10380",
+      "CBG-SD-10151",
+      "CBG-SD-10155",
+      "CBG-SD-10308"
+    ]
+  },
+  {
+    "id": "CBG-SD-10157",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.4544,
+    "y": 45.8812,
+    "infraWeight": 0.4902198245183459,
+    "population": 786,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10137",
+      "CBG-SD-10382",
+      "CBG-SD-10251",
+      "CBG-SD-10079",
+      "CBG-SD-10434"
+    ]
+  },
+  {
+    "id": "CBG-SD-10158",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9497,
+    "y": 44.0581,
+    "infraWeight": 1.1237428717061562,
+    "population": 2345,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10106",
+      "CBG-SD-10133",
+      "CBG-SD-10196",
+      "CBG-SD-10088",
+      "CBG-SD-10206"
+    ]
+  },
+  {
+    "id": "CBG-SD-10159",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.5139,
+    "y": 43.4958,
+    "infraWeight": 0.31243536667873284,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10379",
+      "CBG-SD-10131",
+      "CBG-SD-10049",
+      "CBG-SD-10214",
+      "CBG-SD-10192"
+    ]
+  },
+  {
+    "id": "CBG-SD-10160",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8085,
+    "y": 45.0108,
+    "infraWeight": 0.7590539563669529,
+    "population": 1473,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10276",
+      "CBG-SD-10028",
+      "CBG-SD-10415",
+      "CBG-SD-10368",
+      "CBG-SD-10412"
+    ]
+  },
+  {
+    "id": "CBG-SD-10161",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.7011,
+    "y": 44.1924,
+    "infraWeight": 0.4342270656865242,
+    "population": 931,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10449",
+      "CBG-SD-10344",
+      "CBG-SD-10385",
+      "CBG-SD-10408",
+      "CBG-SD-10315"
+    ]
+  },
+  {
+    "id": "CBG-SD-10162",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1339,
+    "y": 44.537,
+    "infraWeight": 0.7713723646159627,
+    "population": 1287,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10270",
+      "CBG-SD-10042",
+      "CBG-SD-10325",
+      "CBG-SD-10384",
+      "CBG-SD-10063"
+    ]
+  },
+  {
+    "id": "CBG-SD-10163",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0609,
+    "y": 45.8628,
+    "infraWeight": 0.5281331851413736,
+    "population": 894,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10039",
+      "CBG-SD-10079",
+      "CBG-SD-10282",
+      "CBG-SD-10241",
+      "CBG-SD-10157"
+    ]
+  },
+  {
+    "id": "CBG-SD-10164",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.65,
+    "y": 42.6875,
+    "infraWeight": 0.3171687860577461,
+    "population": 601,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10154",
+      "CBG-SD-10339",
+      "CBG-SD-10227",
+      "CBG-SD-10120",
+      "CBG-SD-10202"
+    ]
+  },
+  {
+    "id": "CBG-SD-10165",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2186,
+    "y": 44.0159,
+    "infraWeight": 0.5030783623520809,
+    "population": 943,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10372",
+      "CBG-SD-10107",
+      "CBG-SD-10012",
+      "CBG-SD-10119",
+      "CBG-SD-10385"
+    ]
+  },
+  {
+    "id": "CBG-SD-10166",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1079,
+    "y": 44.0554,
+    "infraWeight": 0.3620758632359918,
+    "population": 656,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10199",
+      "CBG-SD-10182",
+      "CBG-SD-10389",
+      "CBG-SD-10112",
+      "CBG-SD-10153"
+    ]
+  },
+  {
+    "id": "CBG-SD-10167",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9055,
+    "y": 42.976,
+    "infraWeight": 0.6571074653678142,
+    "population": 1092,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10188",
+      "CBG-SD-10341",
+      "CBG-SD-10435",
+      "CBG-SD-10375",
+      "CBG-SD-10002"
+    ]
+  },
+  {
+    "id": "CBG-SD-10168",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8388,
+    "y": 43.112,
+    "infraWeight": 0.5109997361395842,
+    "population": 1067,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10427",
+      "CBG-SD-10307",
+      "CBG-SD-10286",
+      "CBG-SD-10329",
+      "CBG-SD-10390"
+    ]
+  },
+  {
+    "id": "CBG-SD-10169",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2784,
+    "y": 42.5476,
+    "infraWeight": 0.4136040820666439,
+    "population": 716,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10424",
+      "CBG-SD-10443",
+      "CBG-SD-10446",
+      "CBG-SD-10052",
+      "CBG-SD-10351"
+    ]
+  },
+  {
+    "id": "CBG-SD-10170",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6838,
+    "y": 45.6831,
+    "infraWeight": 0.3089922355307977,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10036",
+      "CBG-SD-10070",
+      "CBG-SD-10278",
+      "CBG-SD-10084",
+      "CBG-SD-10011"
+    ]
+  },
+  {
+    "id": "CBG-SD-10171",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2785,
+    "y": 44.9922,
+    "infraWeight": 0.47226061999326113,
+    "population": 869,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10234",
+      "CBG-SD-10104",
+      "CBG-SD-10109",
+      "CBG-SD-10083",
+      "CBG-SD-10248"
+    ]
+  },
+  {
+    "id": "CBG-SD-10172",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.9103,
+    "y": 44.4628,
+    "infraWeight": 0.6356793406396871,
+    "population": 1247,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10142",
+      "CBG-SD-10246",
+      "CBG-SD-10062",
+      "CBG-SD-10094",
+      "CBG-SD-10255"
+    ]
+  },
+  {
+    "id": "CBG-SD-10173",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5402,
+    "y": 42.8725,
+    "infraWeight": 0.37312421747101815,
+    "population": 692,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10285",
+      "CBG-SD-10365",
+      "CBG-SD-10064",
+      "CBG-SD-10442",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10174",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.9259,
+    "y": 42.5357,
+    "infraWeight": 0.5339655296133579,
+    "population": 1079,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10118",
+      "CBG-SD-10381",
+      "CBG-SD-10290",
+      "CBG-SD-10418",
+      "CBG-SD-10461"
+    ]
+  },
+  {
+    "id": "CBG-SD-10175",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8013,
+    "y": 43.7392,
+    "infraWeight": 0.42970252852974455,
+    "population": 715,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10399",
+      "CBG-SD-10291",
+      "CBG-SD-10176",
+      "CBG-SD-10235",
+      "CBG-SD-10222"
+    ]
+  },
+  {
+    "id": "CBG-SD-10176",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.4995,
+    "y": 43.8262,
+    "infraWeight": 0.39742449481847825,
+    "population": 831,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10453",
+      "CBG-SD-10291",
+      "CBG-SD-10399",
+      "CBG-SD-10389",
+      "CBG-SD-10222"
+    ]
+  },
+  {
+    "id": "CBG-SD-10177",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.5976,
+    "y": 45.19,
+    "infraWeight": 0.3139493066618711,
+    "population": 639,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10361",
+      "CBG-SD-10275",
+      "CBG-SD-10359",
+      "CBG-SD-10274",
+      "CBG-SD-10370"
+    ]
+  },
+  {
+    "id": "CBG-SD-10178",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3414,
+    "y": 43.1266,
+    "infraWeight": 0.36570598005448357,
+    "population": 727,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10442",
+      "CBG-SD-10252",
+      "CBG-SD-10285",
+      "CBG-SD-10365",
+      "CBG-SD-10423"
+    ]
+  },
+  {
+    "id": "CBG-SD-10179",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.676,
+    "y": 44.8901,
+    "infraWeight": 0.3236592665417466,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10060",
+      "CBG-SD-10274",
+      "CBG-SD-10454",
+      "CBG-SD-10361",
+      "CBG-SD-10177"
+    ]
+  },
+  {
+    "id": "CBG-SD-10180",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.115,
+    "y": 43.8914,
+    "infraWeight": 0.6892111990281868,
+    "population": 1171,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10058",
+      "CBG-SD-10236",
+      "CBG-SD-10396",
+      "CBG-SD-10294",
+      "CBG-SD-10425"
+    ]
+  },
+  {
+    "id": "CBG-SD-10181",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5612,
+    "y": 43.0655,
+    "infraWeight": 0.6420447275232672,
+    "population": 1282,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10383",
+      "CBG-SD-10108",
+      "CBG-SD-10386",
+      "CBG-SD-10452",
+      "CBG-SD-10098"
+    ]
+  },
+  {
+    "id": "CBG-SD-10182",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0623,
+    "y": 43.9254,
+    "infraWeight": 0.35736829967273115,
+    "population": 715,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10199",
+      "CBG-SD-10166",
+      "CBG-SD-10297",
+      "CBG-SD-10389",
+      "CBG-SD-10049"
+    ]
+  },
+  {
+    "id": "CBG-SD-10183",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.2075,
+    "y": 45.8112,
+    "infraWeight": 0.338286921656738,
+    "population": 653,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10363",
+      "CBG-SD-10016",
+      "CBG-SD-10278",
+      "CBG-SD-10345",
+      "CBG-SD-10373"
+    ]
+  },
+  {
+    "id": "CBG-SD-10184",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.0431,
+    "y": 44.9994,
+    "infraWeight": 0.8274211639736858,
+    "population": 1471,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10360",
+      "CBG-SD-10388",
+      "CBG-SD-10314",
+      "CBG-SD-10003",
+      "CBG-SD-10127"
+    ]
+  },
+  {
+    "id": "CBG-SD-10185",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3818,
+    "y": 42.5902,
+    "infraWeight": 0.3494516467733216,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10459",
+      "CBG-SD-10064",
+      "CBG-SD-10349",
+      "CBG-SD-10173",
+      "CBG-SD-10438"
+    ]
+  },
+  {
+    "id": "CBG-SD-10186",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.1381,
+    "y": 45.5618,
+    "infraWeight": 0.546176341818179,
+    "population": 1099,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10198",
+      "CBG-SD-10262",
+      "CBG-SD-10145",
+      "CBG-SD-10394",
+      "CBG-SD-10081"
+    ]
+  },
+  {
+    "id": "CBG-SD-10187",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0599,
+    "y": 45.2557,
+    "infraWeight": 0.3749682923850405,
+    "population": 621,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10367",
+      "CBG-SD-10346",
+      "CBG-SD-10138",
+      "CBG-SD-10115",
+      "CBG-SD-10046"
+    ]
+  },
+  {
+    "id": "CBG-SD-10188",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.8329,
+    "y": 42.9189,
+    "infraWeight": 0.6360837637919433,
+    "population": 1091,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10167",
+      "CBG-SD-10375",
+      "CBG-SD-10002",
+      "CBG-SD-10472",
+      "CBG-SD-10386"
+    ]
+  },
+  {
+    "id": "CBG-SD-10189",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0113,
+    "y": 45.2041,
+    "infraWeight": 0.4960225814307834,
+    "population": 926,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10217",
+      "CBG-SD-10019",
+      "CBG-SD-10249",
+      "CBG-SD-10300",
+      "CBG-SD-10057"
+    ]
+  },
+  {
+    "id": "CBG-SD-10190",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.3312,
+    "y": 44.1072,
+    "infraWeight": 0.7178745158925522,
+    "population": 1218,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10103",
+      "CBG-SD-10221",
+      "CBG-SD-10321",
+      "CBG-SD-10017",
+      "CBG-SD-10431"
+    ]
+  },
+  {
+    "id": "CBG-SD-10191",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8449,
+    "y": 45.6756,
+    "infraWeight": 0.3934581886189731,
+    "population": 798,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10304",
+      "CBG-SD-10318",
+      "CBG-SD-10448",
+      "CBG-SD-10132",
+      "CBG-SD-10462"
+    ]
+  },
+  {
+    "id": "CBG-SD-10192",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0022,
+    "y": 43.4616,
+    "infraWeight": 0.3463931016956427,
+    "population": 735,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10203",
+      "CBG-SD-10233",
+      "CBG-SD-10207",
+      "CBG-SD-10049",
+      "CBG-SD-10131"
+    ]
+  },
+  {
+    "id": "CBG-SD-10193",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0001,
+    "y": 43.7028,
+    "infraWeight": 0.39472215397686805,
+    "population": 809,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10044",
+      "CBG-SD-10267",
+      "CBG-SD-10025",
+      "CBG-SD-10436",
+      "CBG-SD-10324"
+    ]
+  },
+  {
+    "id": "CBG-SD-10194",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.4406,
+    "y": 45.2787,
+    "infraWeight": 0.4842742680203524,
+    "population": 1030,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10219",
+      "CBG-SD-10474",
+      "CBG-SD-10124",
+      "CBG-SD-10470",
+      "CBG-SD-10205"
+    ]
+  },
+  {
+    "id": "CBG-SD-10195",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5249,
+    "y": 45.5744,
+    "infraWeight": 0.5230528314637533,
+    "population": 890,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10038",
+      "CBG-SD-10382",
+      "CBG-SD-10434",
+      "CBG-SD-10320",
+      "CBG-SD-10137"
+    ]
+  },
+  {
+    "id": "CBG-SD-10196",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9804,
+    "y": 43.7098,
+    "infraWeight": 0.956083794430467,
+    "population": 1905,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10113",
+      "CBG-SD-10301",
+      "CBG-SD-10287",
+      "CBG-SD-10088",
+      "CBG-SD-10158"
+    ]
+  },
+  {
+    "id": "CBG-SD-10197",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8569,
+    "y": 44.5051,
+    "infraWeight": 0.8946059280219156,
+    "population": 1515,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10054",
+      "CBG-SD-10384",
+      "CBG-SD-10042",
+      "CBG-SD-10270",
+      "CBG-SD-10162"
+    ]
+  },
+  {
+    "id": "CBG-SD-10198",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2574,
+    "y": 45.4719,
+    "infraWeight": 0.5765804301368627,
+    "population": 1189,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10186",
+      "CBG-SD-10262",
+      "CBG-SD-10145",
+      "CBG-SD-10081",
+      "CBG-SD-10391"
+    ]
+  },
+  {
+    "id": "CBG-SD-10199",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0659,
+    "y": 44.0439,
+    "infraWeight": 0.358393798062814,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10166",
+      "CBG-SD-10182",
+      "CBG-SD-10389",
+      "CBG-SD-10297",
+      "CBG-SD-10153"
+    ]
+  },
+  {
+    "id": "CBG-SD-10200",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.792,
+    "y": 45.7719,
+    "infraWeight": 0.30781331183628413,
+    "population": 615,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10076",
+      "CBG-SD-10022",
+      "CBG-SD-10139",
+      "CBG-SD-10374",
+      "CBG-SD-10147"
+    ]
+  },
+  {
+    "id": "CBG-SD-10201",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.1307,
+    "y": 44.5475,
+    "infraWeight": 1.1074248446849373,
+    "population": 2034,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10093",
+      "CBG-SD-10280",
+      "CBG-SD-10128",
+      "CBG-SD-10106",
+      "CBG-SD-10215"
+    ]
+  },
+  {
+    "id": "CBG-SD-10202",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3362,
+    "y": 42.4984,
+    "infraWeight": 0.33090121646078785,
+    "population": 648,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10164",
+      "CBG-SD-10154",
+      "CBG-SD-10010",
+      "CBG-SD-10362",
+      "CBG-SD-10227"
+    ]
+  },
+  {
+    "id": "CBG-SD-10203",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0978,
+    "y": 43.4599,
+    "infraWeight": 0.3539699651925774,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10233",
+      "CBG-SD-10192",
+      "CBG-SD-10207",
+      "CBG-SD-10049",
+      "CBG-SD-10297"
+    ]
+  },
+  {
+    "id": "CBG-SD-10204",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.923,
+    "y": 44.6259,
+    "infraWeight": 0.4463947248590028,
+    "population": 796,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10378",
+      "CBG-SD-10416",
+      "CBG-SD-10053",
+      "CBG-SD-10114",
+      "CBG-SD-10208"
+    ]
+  },
+  {
+    "id": "CBG-SD-10205",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.715,
+    "y": 45.3263,
+    "infraWeight": 0.5183273120649035,
+    "population": 981,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10121",
+      "CBG-SD-10474",
+      "CBG-SD-10311",
+      "CBG-SD-10332",
+      "CBG-SD-10229"
+    ]
+  },
+  {
+    "id": "CBG-SD-10206",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.347,
+    "y": 44.116,
+    "infraWeight": 1.3167714625519091,
+    "population": 2329,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10417",
+      "CBG-SD-10128",
+      "CBG-SD-10133",
+      "CBG-SD-10380",
+      "CBG-SD-10088"
+    ]
+  },
+  {
+    "id": "CBG-SD-10207",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.9997,
+    "y": 43.3179,
+    "infraWeight": 0.34340363229354953,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10192",
+      "CBG-SD-10203",
+      "CBG-SD-10233",
+      "CBG-SD-10252",
+      "CBG-SD-10049"
+    ]
+  },
+  {
+    "id": "CBG-SD-10208",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.1788,
+    "y": 44.386,
+    "infraWeight": 0.48777507306366313,
+    "population": 818,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10150",
+      "CBG-SD-10213",
+      "CBG-SD-10378",
+      "CBG-SD-10416",
+      "CBG-SD-10204"
+    ]
+  },
+  {
+    "id": "CBG-SD-10209",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0468,
+    "y": 44.0501,
+    "infraWeight": 0.3942477557042151,
+    "population": 643,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10315",
+      "CBG-SD-10110",
+      "CBG-SD-10344",
+      "CBG-SD-10226",
+      "CBG-SD-10436"
+    ]
+  },
+  {
+    "id": "CBG-SD-10210",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.879,
+    "y": 45.6207,
+    "infraWeight": 0.6108959630050477,
+    "population": 1012,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10430",
+      "CBG-SD-10007",
+      "CBG-SD-10336",
+      "CBG-SD-10440",
+      "CBG-SD-10312"
+    ]
+  },
+  {
+    "id": "CBG-SD-10211",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.7642,
+    "y": 44.913,
+    "infraWeight": 0.4151563770728564,
+    "population": 739,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10089",
+      "CBG-SD-10302",
+      "CBG-SD-10046",
+      "CBG-SD-10073",
+      "CBG-SD-10338"
+    ]
+  },
+  {
+    "id": "CBG-SD-10212",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.6617,
+    "y": 43.4028,
+    "infraWeight": 0.40443451109040274,
+    "population": 678,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10423",
+      "CBG-SD-10467",
+      "CBG-SD-10175",
+      "CBG-SD-10291",
+      "CBG-SD-10365"
+    ]
+  },
+  {
+    "id": "CBG-SD-10213",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9268,
+    "y": 44.2057,
+    "infraWeight": 0.45180706832398326,
+    "population": 936,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10223",
+      "CBG-SD-10222",
+      "CBG-SD-10050",
+      "CBG-SD-10208",
+      "CBG-SD-10150"
+    ]
+  },
+  {
+    "id": "CBG-SD-10214",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.4807,
+    "y": 43.0202,
+    "infraWeight": 0.3030134848762557,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10322",
+      "CBG-SD-10411",
+      "CBG-SD-10131",
+      "CBG-SD-10159",
+      "CBG-SD-10379"
+    ]
+  },
+  {
+    "id": "CBG-SD-10215",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5166,
+    "y": 44.6192,
+    "infraWeight": 1.0080040252812041,
+    "population": 1833,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10258",
+      "CBG-SD-10299",
+      "CBG-SD-10264",
+      "CBG-SD-10368",
+      "CBG-SD-10280"
+    ]
+  },
+  {
+    "id": "CBG-SD-10216",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8407,
+    "y": 43.2929,
+    "infraWeight": 0.3997761409922267,
+    "population": 700,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10298",
+      "CBG-SD-10348",
+      "CBG-SD-10324",
+      "CBG-SD-10135",
+      "CBG-SD-10140"
+    ]
+  },
+  {
+    "id": "CBG-SD-10217",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0703,
+    "y": 45.1604,
+    "infraWeight": 0.49096680812646354,
+    "population": 889,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10189",
+      "CBG-SD-10019",
+      "CBG-SD-10249",
+      "CBG-SD-10057",
+      "CBG-SD-10109"
+    ]
+  },
+  {
+    "id": "CBG-SD-10218",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9774,
+    "y": 45.8026,
+    "infraWeight": 0.44773571212392743,
+    "population": 773,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10433",
+      "CBG-SD-10334",
+      "CBG-SD-10075",
+      "CBG-SD-10037",
+      "CBG-SD-10354"
+    ]
+  },
+  {
+    "id": "CBG-SD-10219",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.4251,
+    "y": 45.4187,
+    "infraWeight": 0.4709931740978283,
+    "population": 956,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10194",
+      "CBG-SD-10474",
+      "CBG-SD-10228",
+      "CBG-SD-10470",
+      "CBG-SD-10229"
+    ]
+  },
+  {
+    "id": "CBG-SD-10220",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7217,
+    "y": 43.4489,
+    "infraWeight": 0.7898070273660529,
+    "population": 1608,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10347",
+      "CBG-SD-10026",
+      "CBG-SD-10377",
+      "CBG-SD-10313",
+      "CBG-SD-10156"
+    ]
+  },
+  {
+    "id": "CBG-SD-10221",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.2711,
+    "y": 44.1597,
+    "infraWeight": 0.7404907703681849,
+    "population": 1234,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10190",
+      "CBG-SD-10017",
+      "CBG-SD-10103",
+      "CBG-SD-10321",
+      "CBG-SD-10063"
+    ]
+  },
+  {
+    "id": "CBG-SD-10222",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7016,
+    "y": 44.065,
+    "infraWeight": 0.42260340723843953,
+    "population": 877,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10399",
+      "CBG-SD-10213",
+      "CBG-SD-10291",
+      "CBG-SD-10006",
+      "CBG-SD-10176"
+    ]
+  },
+  {
+    "id": "CBG-SD-10223",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0252,
+    "y": 44.0648,
+    "infraWeight": 0.4649111352299011,
+    "population": 875,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10050",
+      "CBG-SD-10213",
+      "CBG-SD-10222",
+      "CBG-SD-10150",
+      "CBG-SD-10208"
+    ]
+  },
+  {
+    "id": "CBG-SD-10224",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8761,
+    "y": 45.5754,
+    "infraWeight": 0.4801202190184045,
+    "population": 1014,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10320",
+      "CBG-SD-10354",
+      "CBG-SD-10434",
+      "CBG-SD-10218",
+      "CBG-SD-10334"
+    ]
+  },
+  {
+    "id": "CBG-SD-10225",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.4785,
+    "y": 44.9173,
+    "infraWeight": 0.6200559599138803,
+    "population": 1085,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10099",
+      "CBG-SD-10090",
+      "CBG-SD-10066",
+      "CBG-SD-10149",
+      "CBG-SD-10412"
+    ]
+  },
+  {
+    "id": "CBG-SD-10226",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9886,
+    "y": 44.3157,
+    "infraWeight": 0.4006590425031411,
+    "population": 748,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10035",
+      "CBG-SD-10315",
+      "CBG-SD-10355",
+      "CBG-SD-10111",
+      "CBG-SD-10209"
+    ]
+  },
+  {
+    "id": "CBG-SD-10227",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8316,
+    "y": 42.4963,
+    "infraWeight": 0.30154162285551067,
+    "population": 638,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10154",
+      "CBG-SD-10164",
+      "CBG-SD-10339",
+      "CBG-SD-10202",
+      "CBG-SD-10120"
+    ]
+  },
+  {
+    "id": "CBG-SD-10228",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.4752,
+    "y": 45.6132,
+    "infraWeight": 0.4603463414875357,
+    "population": 809,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10229",
+      "CBG-SD-10407",
+      "CBG-SD-10219",
+      "CBG-SD-10018",
+      "CBG-SD-10474"
+    ]
+  },
+  {
+    "id": "CBG-SD-10229",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6437,
+    "y": 45.5291,
+    "infraWeight": 0.4878947224793855,
+    "population": 886,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10407",
+      "CBG-SD-10284",
+      "CBG-SD-10228",
+      "CBG-SD-10205",
+      "CBG-SD-10474"
+    ]
+  },
+  {
+    "id": "CBG-SD-10230",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.4767,
+    "y": 45.5316,
+    "infraWeight": 0.6412938221134934,
+    "population": 1113,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10410",
+      "CBG-SD-10312",
+      "CBG-SD-10241",
+      "CBG-SD-10056",
+      "CBG-SD-10282"
+    ]
+  },
+  {
+    "id": "CBG-SD-10231",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8655,
+    "y": 45.6902,
+    "infraWeight": 0.37435600870141694,
+    "population": 786,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10027",
+      "CBG-SD-10279",
+      "CBG-SD-10148",
+      "CBG-SD-10422",
+      "CBG-SD-10187"
+    ]
+  },
+  {
+    "id": "CBG-SD-10232",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7826,
+    "y": 44.1187,
+    "infraWeight": 0.33060465827245406,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10253",
+      "CBG-SD-10013",
+      "CBG-SD-10034",
+      "CBG-SD-10353",
+      "CBG-SD-10240"
+    ]
+  },
+  {
+    "id": "CBG-SD-10233",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1362,
+    "y": 43.4433,
+    "infraWeight": 0.3567799310798622,
+    "population": 756,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10203",
+      "CBG-SD-10192",
+      "CBG-SD-10207",
+      "CBG-SD-10049",
+      "CBG-SD-10252"
+    ]
+  },
+  {
+    "id": "CBG-SD-10234",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.361,
+    "y": 45.0444,
+    "infraWeight": 0.45842780842071695,
+    "population": 871,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10171",
+      "CBG-SD-10104",
+      "CBG-SD-10248",
+      "CBG-SD-10338",
+      "CBG-SD-10109"
+    ]
+  },
+  {
+    "id": "CBG-SD-10235",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.1224,
+    "y": 43.6377,
+    "infraWeight": 0.46864390056775984,
+    "population": 799,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10468",
+      "CBG-SD-10250",
+      "CBG-SD-10050",
+      "CBG-SD-10175",
+      "CBG-SD-10469"
+    ]
+  },
+  {
+    "id": "CBG-SD-10236",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.0133,
+    "y": 43.9622,
+    "infraWeight": 0.6641431728958882,
+    "population": 1054,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10058",
+      "CBG-SD-10180",
+      "CBG-SD-10425",
+      "CBG-SD-10129",
+      "CBG-SD-10246"
+    ]
+  },
+  {
+    "id": "CBG-SD-10237",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5791,
+    "y": 45.3345,
+    "infraWeight": 0.3852047918415882,
+    "population": 766,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10095",
+      "CBG-SD-10067",
+      "CBG-SD-10292",
+      "CBG-SD-10462",
+      "CBG-SD-10448"
+    ]
+  },
+  {
+    "id": "CBG-SD-10238",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6029,
+    "y": 45.0523,
+    "infraWeight": 0.3363542480579349,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10051",
+      "CBG-SD-10244",
+      "CBG-SD-10268",
+      "CBG-SD-10146",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10239",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.3676,
+    "y": 42.7447,
+    "infraWeight": 0.5533098088219255,
+    "population": 934,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10465",
+      "CBG-SD-10098",
+      "CBG-SD-10319",
+      "CBG-SD-10444",
+      "CBG-SD-10108"
+    ]
+  },
+  {
+    "id": "CBG-SD-10240",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7033,
+    "y": 44.3728,
+    "infraWeight": 0.3362993763475022,
+    "population": 685,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10353",
+      "CBG-SD-10136",
+      "CBG-SD-10253",
+      "CBG-SD-10342",
+      "CBG-SD-10447"
+    ]
+  },
+  {
+    "id": "CBG-SD-10241",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7117,
+    "y": 45.74,
+    "infraWeight": 0.5776625502838965,
+    "population": 1074,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10282",
+      "CBG-SD-10056",
+      "CBG-SD-10230",
+      "CBG-SD-10450",
+      "CBG-SD-10039"
+    ]
+  },
+  {
+    "id": "CBG-SD-10242",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.4678,
+    "y": 43.1723,
+    "infraWeight": 0.3420860543283468,
+    "population": 641,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10456",
+      "CBG-SD-10466",
+      "CBG-SD-10120",
+      "CBG-SD-10362",
+      "CBG-SD-10010"
+    ]
+  },
+  {
+    "id": "CBG-SD-10243",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.028,
+    "y": 44.7999,
+    "infraWeight": 0.39035885974519574,
+    "population": 770,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10073",
+      "CBG-SD-10046",
+      "CBG-SD-10138",
+      "CBG-SD-10211",
+      "CBG-SD-10367"
+    ]
+  },
+  {
+    "id": "CBG-SD-10244",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6919,
+    "y": 45.2181,
+    "infraWeight": 0.3268727027219066,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10238",
+      "CBG-SD-10051",
+      "CBG-SD-10147",
+      "CBG-SD-10087",
+      "CBG-SD-10045"
+    ]
+  },
+  {
+    "id": "CBG-SD-10245",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8379,
+    "y": 43.0778,
+    "infraWeight": 0.314719877168834,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10445",
+      "CBG-SD-10091",
+      "CBG-SD-10120",
+      "CBG-SD-10339",
+      "CBG-SD-10456"
+    ]
+  },
+  {
+    "id": "CBG-SD-10246",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.9836,
+    "y": 44.2776,
+    "infraWeight": 0.662292971202994,
+    "population": 1278,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10142",
+      "CBG-SD-10172",
+      "CBG-SD-10129",
+      "CBG-SD-10094",
+      "CBG-SD-10236"
+    ]
+  },
+  {
+    "id": "CBG-SD-10247",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8541,
+    "y": 45.6834,
+    "infraWeight": 0.4957753282297671,
+    "population": 877,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10358",
+      "CBG-SD-10284",
+      "CBG-SD-10407",
+      "CBG-SD-10394",
+      "CBG-SD-10229"
+    ]
+  },
+  {
+    "id": "CBG-SD-10248",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3914,
+    "y": 45.1864,
+    "infraWeight": 0.4470318702923179,
+    "population": 810,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10109",
+      "CBG-SD-10234",
+      "CBG-SD-10057",
+      "CBG-SD-10338",
+      "CBG-SD-10171"
+    ]
+  },
+  {
+    "id": "CBG-SD-10249",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9925,
+    "y": 45.2981,
+    "infraWeight": 0.4908771176713064,
+    "population": 994,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10019",
+      "CBG-SD-10189",
+      "CBG-SD-10300",
+      "CBG-SD-10217",
+      "CBG-SD-10057"
+    ]
+  },
+  {
+    "id": "CBG-SD-10250",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.3456,
+    "y": 43.5569,
+    "infraWeight": 0.4981651774992341,
+    "population": 814,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10468",
+      "CBG-SD-10122",
+      "CBG-SD-10235",
+      "CBG-SD-10413",
+      "CBG-SD-10460"
+    ]
+  },
+  {
+    "id": "CBG-SD-10251",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.624,
+    "y": 45.9266,
+    "infraWeight": 0.46892513299246746,
+    "population": 758,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10137",
+      "CBG-SD-10157",
+      "CBG-SD-10354",
+      "CBG-SD-10434",
+      "CBG-SD-10075"
+    ]
+  },
+  {
+    "id": "CBG-SD-10252",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1704,
+    "y": 43.1135,
+    "infraWeight": 0.35155114261168974,
+    "population": 704,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10178",
+      "CBG-SD-10078",
+      "CBG-SD-10207",
+      "CBG-SD-10442",
+      "CBG-SD-10233"
+    ]
+  },
+  {
+    "id": "CBG-SD-10253",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.5686,
+    "y": 44.1951,
+    "infraWeight": 0.34707046971136646,
+    "population": 657,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10353",
+      "CBG-SD-10240",
+      "CBG-SD-10232",
+      "CBG-SD-10136",
+      "CBG-SD-10000"
+    ]
+  },
+  {
+    "id": "CBG-SD-10254",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.1436,
+    "y": 43.5011,
+    "infraWeight": 0.49572082006163937,
+    "population": 1000,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10329",
+      "CBG-SD-10119",
+      "CBG-SD-10061",
+      "CBG-SD-10331",
+      "CBG-SD-10014"
+    ]
+  },
+  {
+    "id": "CBG-SD-10255",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.9081,
+    "y": 44.7668,
+    "infraWeight": 0.612521852321001,
+    "population": 1056,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10281",
+      "CBG-SD-10062",
+      "CBG-SD-10289",
+      "CBG-SD-10172",
+      "CBG-SD-10094"
+    ]
+  },
+  {
+    "id": "CBG-SD-10256",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.179,
+    "y": 45.1118,
+    "infraWeight": 0.4608523152722164,
+    "population": 925,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10021",
+      "CBG-SD-10403",
+      "CBG-SD-10124",
+      "CBG-SD-10397",
+      "CBG-SD-10470"
+    ]
+  },
+  {
+    "id": "CBG-SD-10257",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5666,
+    "y": 44.5593,
+    "infraWeight": 0.850595408848651,
+    "population": 1771,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10077",
+      "CBG-SD-10419",
+      "CBG-SD-10040",
+      "CBG-SD-10392",
+      "CBG-SD-10015"
+    ]
+  },
+  {
+    "id": "CBG-SD-10258",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5863,
+    "y": 44.6184,
+    "infraWeight": 0.9808996912208887,
+    "population": 2068,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10299",
+      "CBG-SD-10215",
+      "CBG-SD-10264",
+      "CBG-SD-10368",
+      "CBG-SD-10197"
+    ]
+  },
+  {
+    "id": "CBG-SD-10259",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.3402,
+    "y": 42.7037,
+    "infraWeight": 0.4371517218118801,
+    "population": 708,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10152",
+      "CBG-SD-10029",
+      "CBG-SD-10271",
+      "CBG-SD-10457",
+      "CBG-SD-10439"
+    ]
+  },
+  {
+    "id": "CBG-SD-10260",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0301,
+    "y": 43.0123,
+    "infraWeight": 0.616462332541036,
+    "population": 991,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10065",
+      "CBG-SD-10293",
+      "CBG-SD-10008",
+      "CBG-SD-10283",
+      "CBG-SD-10123"
+    ]
+  },
+  {
+    "id": "CBG-SD-10261",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9812,
+    "y": 44.7087,
+    "infraWeight": 0.31464851925380843,
+    "population": 664,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10327",
+      "CBG-SD-10080",
+      "CBG-SD-10071",
+      "CBG-SD-10447",
+      "CBG-SD-10146"
+    ]
+  },
+  {
+    "id": "CBG-SD-10262",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2208,
+    "y": 45.6993,
+    "infraWeight": 0.5344825804643177,
+    "population": 1140,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10145",
+      "CBG-SD-10186",
+      "CBG-SD-10265",
+      "CBG-SD-10394",
+      "CBG-SD-10198"
+    ]
+  },
+  {
+    "id": "CBG-SD-10263",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.9477,
+    "y": 42.7073,
+    "infraWeight": 0.32423693608730897,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10438",
+      "CBG-SD-10078",
+      "CBG-SD-10349",
+      "CBG-SD-10322",
+      "CBG-SD-10411"
+    ]
+  },
+  {
+    "id": "CBG-SD-10264",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5659,
+    "y": 44.4789,
+    "infraWeight": 1.0595555340673724,
+    "population": 1979,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10258",
+      "CBG-SD-10215",
+      "CBG-SD-10299",
+      "CBG-SD-10280",
+      "CBG-SD-10197"
+    ]
+  },
+  {
+    "id": "CBG-SD-10265",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.1808,
+    "y": 45.8727,
+    "infraWeight": 0.5045513501303532,
+    "population": 988,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10394",
+      "CBG-SD-10145",
+      "CBG-SD-10262",
+      "CBG-SD-10186",
+      "CBG-SD-10336"
+    ]
+  },
+  {
+    "id": "CBG-SD-10266",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0078,
+    "y": 44.8823,
+    "infraWeight": 0.5200940370005289,
+    "population": 1010,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10141",
+      "CBG-SD-10005",
+      "CBG-SD-10149",
+      "CBG-SD-10217",
+      "CBG-SD-10171"
+    ]
+  },
+  {
+    "id": "CBG-SD-10267",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.828,
+    "y": 43.6212,
+    "infraWeight": 0.4111670995144445,
+    "population": 807,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10044",
+      "CBG-SD-10324",
+      "CBG-SD-10193",
+      "CBG-SD-10348",
+      "CBG-SD-10436"
+    ]
+  },
+  {
+    "id": "CBG-SD-10268",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6355,
+    "y": 44.7946,
+    "infraWeight": 0.33796074895489475,
+    "population": 702,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10097",
+      "CBG-SD-10048",
+      "CBG-SD-10343",
+      "CBG-SD-10146",
+      "CBG-SD-10238"
+    ]
+  },
+  {
+    "id": "CBG-SD-10269",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2586,
+    "y": 43.4811,
+    "infraWeight": 0.8663252311867309,
+    "population": 1757,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10113",
+      "CBG-SD-10287",
+      "CBG-SD-10347",
+      "CBG-SD-10026",
+      "CBG-SD-10196"
+    ]
+  },
+  {
+    "id": "CBG-SD-10270",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.0933,
+    "y": 44.494,
+    "infraWeight": 0.7927747619535577,
+    "population": 1635,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10042",
+      "CBG-SD-10162",
+      "CBG-SD-10384",
+      "CBG-SD-10325",
+      "CBG-SD-10197"
+    ]
+  },
+  {
+    "id": "CBG-SD-10271",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0721,
+    "y": 42.5176,
+    "infraWeight": 0.3992369019998338,
+    "population": 702,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10041",
+      "CBG-SD-10457",
+      "CBG-SD-10096",
+      "CBG-SD-10117",
+      "CBG-SD-10259"
+    ]
+  },
+  {
+    "id": "CBG-SD-10272",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.2959,
+    "y": 44.3693,
+    "infraWeight": 0.3792637619005586,
+    "population": 725,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10414",
+      "CBG-SD-10112",
+      "CBG-SD-10006",
+      "CBG-SD-10153",
+      "CBG-SD-10323"
+    ]
+  },
+  {
+    "id": "CBG-SD-10273",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3128,
+    "y": 45.1111,
+    "infraWeight": 0.3686863282159109,
+    "population": 654,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10023",
+      "CBG-SD-10405",
+      "CBG-SD-10303",
+      "CBG-SD-10393",
+      "CBG-SD-10310"
+    ]
+  },
+  {
+    "id": "CBG-SD-10274",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.5367,
+    "y": 45.0456,
+    "infraWeight": 0.3123391730149578,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10361",
+      "CBG-SD-10177",
+      "CBG-SD-10359",
+      "CBG-SD-10179",
+      "CBG-SD-10275"
+    ]
+  },
+  {
+    "id": "CBG-SD-10275",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6577,
+    "y": 45.264,
+    "infraWeight": 0.31646478721912563,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10177",
+      "CBG-SD-10361",
+      "CBG-SD-10359",
+      "CBG-SD-10370",
+      "CBG-SD-10274"
+    ]
+  },
+  {
+    "id": "CBG-SD-10276",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7076,
+    "y": 45.0018,
+    "infraWeight": 0.7837021459453162,
+    "population": 1299,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10160",
+      "CBG-SD-10368",
+      "CBG-SD-10299",
+      "CBG-SD-10028",
+      "CBG-SD-10258"
+    ]
+  },
+  {
+    "id": "CBG-SD-10277",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.0116,
+    "y": 42.6132,
+    "infraWeight": 0.5732976797501369,
+    "population": 1079,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10002",
+      "CBG-SD-10375",
+      "CBG-SD-10188",
+      "CBG-SD-10167",
+      "CBG-SD-10472"
+    ]
+  },
+  {
+    "id": "CBG-SD-10278",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.924,
+    "y": 45.7493,
+    "infraWeight": 0.32182671532153345,
+    "population": 654,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10036",
+      "CBG-SD-10070",
+      "CBG-SD-10345",
+      "CBG-SD-10170",
+      "CBG-SD-10183"
+    ]
+  },
+  {
+    "id": "CBG-SD-10279",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9866,
+    "y": 45.6565,
+    "infraWeight": 0.36611560836902773,
+    "population": 637,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10148",
+      "CBG-SD-10231",
+      "CBG-SD-10027",
+      "CBG-SD-10422",
+      "CBG-SD-10115"
+    ]
+  },
+  {
+    "id": "CBG-SD-10280",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2854,
+    "y": 44.4967,
+    "infraWeight": 1.165660930002466,
+    "population": 2115,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10093",
+      "CBG-SD-10201",
+      "CBG-SD-10128",
+      "CBG-SD-10215",
+      "CBG-SD-10264"
+    ]
+  },
+  {
+    "id": "CBG-SD-10281",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6955,
+    "y": 44.7749,
+    "infraWeight": 0.5660251674374714,
+    "population": 1012,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10458",
+      "CBG-SD-10062",
+      "CBG-SD-10255",
+      "CBG-SD-10337",
+      "CBG-SD-10471"
+    ]
+  },
+  {
+    "id": "CBG-SD-10282",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8277,
+    "y": 45.7188,
+    "infraWeight": 0.5737261030195517,
+    "population": 1215,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10241",
+      "CBG-SD-10056",
+      "CBG-SD-10163",
+      "CBG-SD-10039",
+      "CBG-SD-10450"
+    ]
+  },
+  {
+    "id": "CBG-SD-10283",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1363,
+    "y": 43.0745,
+    "infraWeight": 0.6136426478505087,
+    "population": 1055,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10065",
+      "CBG-SD-10260",
+      "CBG-SD-10366",
+      "CBG-SD-10008",
+      "CBG-SD-10293"
+    ]
+  },
+  {
+    "id": "CBG-SD-10284",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8134,
+    "y": 45.5464,
+    "infraWeight": 0.5070911534436316,
+    "population": 1064,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10358",
+      "CBG-SD-10247",
+      "CBG-SD-10407",
+      "CBG-SD-10229",
+      "CBG-SD-10205"
+    ]
+  },
+  {
+    "id": "CBG-SD-10285",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5311,
+    "y": 42.9769,
+    "infraWeight": 0.3765504443830049,
+    "population": 606,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10365",
+      "CBG-SD-10173",
+      "CBG-SD-10442",
+      "CBG-SD-10423",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10286",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5222,
+    "y": 43.0194,
+    "infraWeight": 0.5461518192810111,
+    "population": 973,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10307",
+      "CBG-SD-10306",
+      "CBG-SD-10366",
+      "CBG-SD-10168",
+      "CBG-SD-10369"
+    ]
+  },
+  {
+    "id": "CBG-SD-10287",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2765,
+    "y": 43.7903,
+    "infraWeight": 1.0539213332069455,
+    "population": 1905,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10088",
+      "CBG-SD-10356",
+      "CBG-SD-10133",
+      "CBG-SD-10417",
+      "CBG-SD-10196"
+    ]
+  },
+  {
+    "id": "CBG-SD-10288",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5792,
+    "y": 44.3948,
+    "infraWeight": 0.6396966979033111,
+    "population": 1102,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10126",
+      "CBG-SD-10063",
+      "CBG-SD-10066",
+      "CBG-SD-10004",
+      "CBG-SD-10364"
+    ]
+  },
+  {
+    "id": "CBG-SD-10289",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.9582,
+    "y": 45.0409,
+    "infraWeight": 0.5924441430348218,
+    "population": 1109,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10391",
+      "CBG-SD-10332",
+      "CBG-SD-10311",
+      "CBG-SD-10337",
+      "CBG-SD-10121"
+    ]
+  },
+  {
+    "id": "CBG-SD-10290",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7496,
+    "y": 42.6499,
+    "infraWeight": 0.5678621019821892,
+    "population": 914,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10473",
+      "CBG-SD-10418",
+      "CBG-SD-10461",
+      "CBG-SD-10174",
+      "CBG-SD-10309"
+    ]
+  },
+  {
+    "id": "CBG-SD-10291",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.6168,
+    "y": 43.7992,
+    "infraWeight": 0.4095837489133415,
+    "population": 840,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10399",
+      "CBG-SD-10176",
+      "CBG-SD-10453",
+      "CBG-SD-10175",
+      "CBG-SD-10222"
+    ]
+  },
+  {
+    "id": "CBG-SD-10292",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5678,
+    "y": 45.2549,
+    "infraWeight": 0.38713656772026933,
+    "population": 805,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10237",
+      "CBG-SD-10095",
+      "CBG-SD-10067",
+      "CBG-SD-10462",
+      "CBG-SD-10031"
+    ]
+  },
+  {
+    "id": "CBG-SD-10293",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.9389,
+    "y": 43.0344,
+    "infraWeight": 0.6338760365499908,
+    "population": 1315,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10260",
+      "CBG-SD-10123",
+      "CBG-SD-10065",
+      "CBG-SD-10008",
+      "CBG-SD-10313"
+    ]
+  },
+  {
+    "id": "CBG-SD-10294",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.006,
+    "y": 43.5758,
+    "infraWeight": 0.6264182857984841,
+    "population": 1032,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10020",
+      "CBG-SD-10058",
+      "CBG-SD-10421",
+      "CBG-SD-10180",
+      "CBG-SD-10425"
+    ]
+  },
+  {
+    "id": "CBG-SD-10295",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0524,
+    "y": 44.5583,
+    "infraWeight": 0.5284537478245869,
+    "population": 947,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10005",
+      "CBG-SD-10141",
+      "CBG-SD-10004",
+      "CBG-SD-10012",
+      "CBG-SD-10055"
+    ]
+  },
+  {
+    "id": "CBG-SD-10296",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1013,
+    "y": 45.4359,
+    "infraWeight": 0.6018514403371027,
+    "population": 1077,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10450",
+      "CBG-SD-10395",
+      "CBG-SD-10056",
+      "CBG-SD-10412",
+      "CBG-SD-10079"
+    ]
+  },
+  {
+    "id": "CBG-SD-10297",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.974,
+    "y": 43.7847,
+    "infraWeight": 0.3487890369629801,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10182",
+      "CBG-SD-10049",
+      "CBG-SD-10199",
+      "CBG-SD-10166",
+      "CBG-SD-10192"
+    ]
+  },
+  {
+    "id": "CBG-SD-10298",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8929,
+    "y": 43.3162,
+    "infraWeight": 0.3953738103518287,
+    "population": 658,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10216",
+      "CBG-SD-10348",
+      "CBG-SD-10324",
+      "CBG-SD-10140",
+      "CBG-SD-10135"
+    ]
+  },
+  {
+    "id": "CBG-SD-10299",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.6147,
+    "y": 44.6735,
+    "infraWeight": 0.9435055998966433,
+    "population": 1608,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10258",
+      "CBG-SD-10215",
+      "CBG-SD-10264",
+      "CBG-SD-10368",
+      "CBG-SD-10054"
+    ]
+  },
+  {
+    "id": "CBG-SD-10300",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8536,
+    "y": 45.2872,
+    "infraWeight": 0.5114088233545292,
+    "population": 1088,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10249",
+      "CBG-SD-10189",
+      "CBG-SD-10019",
+      "CBG-SD-10149",
+      "CBG-SD-10217"
+    ]
+  },
+  {
+    "id": "CBG-SD-10301",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.8591,
+    "y": 43.4615,
+    "infraWeight": 0.8129375404707531,
+    "population": 1665,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10113",
+      "CBG-SD-10404",
+      "CBG-SD-10196",
+      "CBG-SD-10435",
+      "CBG-SD-10386"
+    ]
+  },
+  {
+    "id": "CBG-SD-10302",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6025,
+    "y": 44.944,
+    "infraWeight": 0.4326876009861293,
+    "population": 837,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10338",
+      "CBG-SD-10089",
+      "CBG-SD-10211",
+      "CBG-SD-10104",
+      "CBG-SD-10420"
+    ]
+  },
+  {
+    "id": "CBG-SD-10303",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1231,
+    "y": 45.2669,
+    "infraWeight": 0.3490987102701166,
+    "population": 673,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10405",
+      "CBG-SD-10393",
+      "CBG-SD-10273",
+      "CBG-SD-10011",
+      "CBG-SD-10345"
+    ]
+  },
+  {
+    "id": "CBG-SD-10304",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7362,
+    "y": 45.8549,
+    "infraWeight": 0.3749948155669113,
+    "population": 693,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10191",
+      "CBG-SD-10373",
+      "CBG-SD-10016",
+      "CBG-SD-10448",
+      "CBG-SD-10318"
+    ]
+  },
+  {
+    "id": "CBG-SD-10305",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5015,
+    "y": 44.9141,
+    "infraWeight": 0.7412694755515683,
+    "population": 1236,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10024",
+      "CBG-SD-10451",
+      "CBG-SD-10077",
+      "CBG-SD-10326",
+      "CBG-SD-10464"
+    ]
+  },
+  {
+    "id": "CBG-SD-10306",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5067,
+    "y": 42.7448,
+    "infraWeight": 0.5111926635368017,
+    "population": 1086,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10369",
+      "CBG-SD-10371",
+      "CBG-SD-10307",
+      "CBG-SD-10043",
+      "CBG-SD-10286"
+    ]
+  },
+  {
+    "id": "CBG-SD-10307",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5632,
+    "y": 42.936,
+    "infraWeight": 0.5293422567350232,
+    "population": 1103,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10286",
+      "CBG-SD-10306",
+      "CBG-SD-10369",
+      "CBG-SD-10168",
+      "CBG-SD-10366"
+    ]
+  },
+  {
+    "id": "CBG-SD-10308",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.6884,
+    "y": 44.1584,
+    "infraWeight": 1.0380841143978408,
+    "population": 1897,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10380",
+      "CBG-SD-10417",
+      "CBG-SD-10264",
+      "CBG-SD-10206",
+      "CBG-SD-10156"
+    ]
+  },
+  {
+    "id": "CBG-SD-10309",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8401,
+    "y": 42.8459,
+    "infraWeight": 0.602438841642673,
+    "population": 1020,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10123",
+      "CBG-SD-10418",
+      "CBG-SD-10008",
+      "CBG-SD-10293",
+      "CBG-SD-10290"
+    ]
+  },
+  {
+    "id": "CBG-SD-10310",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.542,
+    "y": 44.9515,
+    "infraWeight": 0.3943320730979844,
+    "population": 804,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10437",
+      "CBG-SD-10031",
+      "CBG-SD-10023",
+      "CBG-SD-10273",
+      "CBG-SD-10292"
+    ]
+  },
+  {
+    "id": "CBG-SD-10311",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8079,
+    "y": 45.2285,
+    "infraWeight": 0.5432048569730129,
+    "population": 871,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10121",
+      "CBG-SD-10332",
+      "CBG-SD-10205",
+      "CBG-SD-10471",
+      "CBG-SD-10337"
+    ]
+  },
+  {
+    "id": "CBG-SD-10312",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2368,
+    "y": 45.3398,
+    "infraWeight": 0.705089053070806,
+    "population": 1311,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10410",
+      "CBG-SD-10003",
+      "CBG-SD-10127",
+      "CBG-SD-10230",
+      "CBG-SD-10360"
+    ]
+  },
+  {
+    "id": "CBG-SD-10313",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.7765,
+    "y": 43.1212,
+    "infraWeight": 0.6777876033370164,
+    "population": 1209,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10377",
+      "CBG-SD-10293",
+      "CBG-SD-10123",
+      "CBG-SD-10047",
+      "CBG-SD-10260"
+    ]
+  },
+  {
+    "id": "CBG-SD-10314",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.953,
+    "y": 45.069,
+    "infraWeight": 0.7872020479278105,
+    "population": 1287,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10388",
+      "CBG-SD-10360",
+      "CBG-SD-10184",
+      "CBG-SD-10003",
+      "CBG-SD-10326"
+    ]
+  },
+  {
+    "id": "CBG-SD-10315",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9788,
+    "y": 44.2012,
+    "infraWeight": 0.401919833753658,
+    "population": 722,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10226",
+      "CBG-SD-10035",
+      "CBG-SD-10209",
+      "CBG-SD-10344",
+      "CBG-SD-10449"
+    ]
+  },
+  {
+    "id": "CBG-SD-10316",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3564,
+    "y": 45.445,
+    "infraWeight": 0.43562835248767906,
+    "population": 703,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10402",
+      "CBG-SD-10455",
+      "CBG-SD-10057",
+      "CBG-SD-10248",
+      "CBG-SD-10109"
+    ]
+  },
+  {
+    "id": "CBG-SD-10317",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6483,
+    "y": 43.9855,
+    "infraWeight": 0.5737348943595565,
+    "population": 1149,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10129",
+      "CBG-SD-10425",
+      "CBG-SD-10100",
+      "CBG-SD-10074",
+      "CBG-SD-10460"
+    ]
+  },
+  {
+    "id": "CBG-SD-10318",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0568,
+    "y": 45.6739,
+    "infraWeight": 0.4129011467668399,
+    "population": 727,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10132",
+      "CBG-SD-10191",
+      "CBG-SD-10018",
+      "CBG-SD-10470",
+      "CBG-SD-10304"
+    ]
+  },
+  {
+    "id": "CBG-SD-10319",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2444,
+    "y": 42.7071,
+    "infraWeight": 0.5340850962346857,
+    "population": 964,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10465",
+      "CBG-SD-10239",
+      "CBG-SD-10444",
+      "CBG-SD-10098",
+      "CBG-SD-10108"
+    ]
+  },
+  {
+    "id": "CBG-SD-10320",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7334,
+    "y": 45.6748,
+    "infraWeight": 0.48617140074351534,
+    "population": 936,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10434",
+      "CBG-SD-10354",
+      "CBG-SD-10224",
+      "CBG-SD-10334",
+      "CBG-SD-10075"
+    ]
+  },
+  {
+    "id": "CBG-SD-10321",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.3758,
+    "y": 43.988,
+    "infraWeight": 0.6972990290060243,
+    "population": 1439,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10103",
+      "CBG-SD-10190",
+      "CBG-SD-10431",
+      "CBG-SD-10105",
+      "CBG-SD-10221"
+    ]
+  },
+  {
+    "id": "CBG-SD-10322",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6896,
+    "y": 42.8253,
+    "infraWeight": 0.311328952100295,
+    "population": 611,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10411",
+      "CBG-SD-10263",
+      "CBG-SD-10214",
+      "CBG-SD-10078",
+      "CBG-SD-10438"
+    ]
+  },
+  {
+    "id": "CBG-SD-10323",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3785,
+    "y": 44.621,
+    "infraWeight": 0.38489345284491705,
+    "population": 691,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10059",
+      "CBG-SD-10414",
+      "CBG-SD-10272",
+      "CBG-SD-10006",
+      "CBG-SD-10310"
+    ]
+  },
+  {
+    "id": "CBG-SD-10324",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8904,
+    "y": 43.4683,
+    "infraWeight": 0.40038623215825947,
+    "population": 665,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10348",
+      "CBG-SD-10044",
+      "CBG-SD-10298",
+      "CBG-SD-10267",
+      "CBG-SD-10216"
+    ]
+  },
+  {
+    "id": "CBG-SD-10325",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1976,
+    "y": 44.4722,
+    "infraWeight": 0.7554052028804114,
+    "population": 1560,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10162",
+      "CBG-SD-10270",
+      "CBG-SD-10042",
+      "CBG-SD-10384",
+      "CBG-SD-10063"
+    ]
+  },
+  {
+    "id": "CBG-SD-10326",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.7917,
+    "y": 44.9581,
+    "infraWeight": 0.8006436569235654,
+    "population": 1511,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10388",
+      "CBG-SD-10314",
+      "CBG-SD-10024",
+      "CBG-SD-10184",
+      "CBG-SD-10440"
+    ]
+  },
+  {
+    "id": "CBG-SD-10327",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9237,
+    "y": 44.7223,
+    "infraWeight": 0.31832573765730837,
+    "population": 629,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10261",
+      "CBG-SD-10080",
+      "CBG-SD-10071",
+      "CBG-SD-10146",
+      "CBG-SD-10447"
+    ]
+  },
+  {
+    "id": "CBG-SD-10328",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9289,
+    "y": 42.683,
+    "infraWeight": 0.4582140328908496,
+    "population": 784,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10390",
+      "CBG-SD-10357",
+      "CBG-SD-10052",
+      "CBG-SD-10072",
+      "CBG-SD-10102"
+    ]
+  },
+  {
+    "id": "CBG-SD-10329",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.961,
+    "y": 43.4544,
+    "infraWeight": 0.5218398206220923,
+    "population": 999,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10254",
+      "CBG-SD-10331",
+      "CBG-SD-10427",
+      "CBG-SD-10119",
+      "CBG-SD-10463"
+    ]
+  },
+  {
+    "id": "CBG-SD-10330",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.6205,
+    "y": 43.786,
+    "infraWeight": 0.3408632414494653,
+    "population": 640,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10143",
+      "CBG-SD-10000",
+      "CBG-SD-10101",
+      "CBG-SD-10429",
+      "CBG-SD-10034"
+    ]
+  },
+  {
+    "id": "CBG-SD-10331",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9035,
+    "y": 43.6917,
+    "infraWeight": 0.5481035543447184,
+    "population": 1135,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10014",
+      "CBG-SD-10463",
+      "CBG-SD-10119",
+      "CBG-SD-10107",
+      "CBG-SD-10329"
+    ]
+  },
+  {
+    "id": "CBG-SD-10332",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.8584,
+    "y": 45.1929,
+    "infraWeight": 0.5556305488592307,
+    "population": 948,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10311",
+      "CBG-SD-10121",
+      "CBG-SD-10391",
+      "CBG-SD-10289",
+      "CBG-SD-10205"
+    ]
+  },
+  {
+    "id": "CBG-SD-10333",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0086,
+    "y": 44.5267,
+    "infraWeight": 0.3526646041371319,
+    "population": 756,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10125",
+      "CBG-SD-10153",
+      "CBG-SD-10400",
+      "CBG-SD-10376",
+      "CBG-SD-10272"
+    ]
+  },
+  {
+    "id": "CBG-SD-10334",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8473,
+    "y": 45.8483,
+    "infraWeight": 0.4561204014372901,
+    "population": 895,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10075",
+      "CBG-SD-10354",
+      "CBG-SD-10218",
+      "CBG-SD-10433",
+      "CBG-SD-10320"
+    ]
+  },
+  {
+    "id": "CBG-SD-10335",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7859,
+    "y": 42.7564,
+    "infraWeight": 0.3886621315890708,
+    "population": 681,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10117",
+      "CBG-SD-10096",
+      "CBG-SD-10041",
+      "CBG-SD-10457",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10336",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.5301,
+    "y": 45.8218,
+    "infraWeight": 0.5431518296933486,
+    "population": 1031,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10009",
+      "CBG-SD-10145",
+      "CBG-SD-10007",
+      "CBG-SD-10262",
+      "CBG-SD-10265"
+    ]
+  },
+  {
+    "id": "CBG-SD-10337",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7033,
+    "y": 45.0468,
+    "infraWeight": 0.5445595326224646,
+    "population": 923,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10471",
+      "CBG-SD-10311",
+      "CBG-SD-10332",
+      "CBG-SD-10289",
+      "CBG-SD-10121"
+    ]
+  },
+  {
+    "id": "CBG-SD-10338",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.516,
+    "y": 45.0188,
+    "infraWeight": 0.4401073589977914,
+    "population": 767,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10302",
+      "CBG-SD-10104",
+      "CBG-SD-10234",
+      "CBG-SD-10248",
+      "CBG-SD-10420"
+    ]
+  },
+  {
+    "id": "CBG-SD-10339",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8144,
+    "y": 42.8065,
+    "infraWeight": 0.31025614821077896,
+    "population": 626,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10164",
+      "CBG-SD-10154",
+      "CBG-SD-10120",
+      "CBG-SD-10245",
+      "CBG-SD-10227"
+    ]
+  },
+  {
+    "id": "CBG-SD-10340",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.9153,
+    "y": 43.2001,
+    "infraWeight": 0.5612553465355041,
+    "population": 1200,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10001",
+      "CBG-SD-10421",
+      "CBG-SD-10441",
+      "CBG-SD-10294",
+      "CBG-SD-10452"
+    ]
+  },
+  {
+    "id": "CBG-SD-10341",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.0522,
+    "y": 43.0708,
+    "infraWeight": 0.6950396601376918,
+    "population": 1240,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10435",
+      "CBG-SD-10167",
+      "CBG-SD-10352",
+      "CBG-SD-10188",
+      "CBG-SD-10375"
+    ]
+  },
+  {
+    "id": "CBG-SD-10342",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9274,
+    "y": 44.3839,
+    "infraWeight": 0.3201952459496633,
+    "population": 635,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10409",
+      "CBG-SD-10013",
+      "CBG-SD-10447",
+      "CBG-SD-10353",
+      "CBG-SD-10240"
+    ]
+  },
+  {
+    "id": "CBG-SD-10343",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.7148,
+    "y": 44.6616,
+    "infraWeight": 0.3335530438547187,
+    "population": 647,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10048",
+      "CBG-SD-10097",
+      "CBG-SD-10268",
+      "CBG-SD-10146",
+      "CBG-SD-10447"
+    ]
+  },
+  {
+    "id": "CBG-SD-10344",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8406,
+    "y": 44.0634,
+    "infraWeight": 0.416885243119181,
+    "population": 763,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10449",
+      "CBG-SD-10436",
+      "CBG-SD-10161",
+      "CBG-SD-10315",
+      "CBG-SD-10209"
+    ]
+  },
+  {
+    "id": "CBG-SD-10345",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0564,
+    "y": 45.5489,
+    "infraWeight": 0.3364042298754728,
+    "population": 648,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10011",
+      "CBG-SD-10278",
+      "CBG-SD-10405",
+      "CBG-SD-10303",
+      "CBG-SD-10183"
+    ]
+  },
+  {
+    "id": "CBG-SD-10346",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.1029,
+    "y": 45.0945,
+    "infraWeight": 0.3760088014676815,
+    "population": 620,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10367",
+      "CBG-SD-10138",
+      "CBG-SD-10187",
+      "CBG-SD-10046",
+      "CBG-SD-10073"
+    ]
+  },
+  {
+    "id": "CBG-SD-10347",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5839,
+    "y": 43.4937,
+    "infraWeight": 0.8361396506643698,
+    "population": 1665,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10220",
+      "CBG-SD-10026",
+      "CBG-SD-10377",
+      "CBG-SD-10356",
+      "CBG-SD-10269"
+    ]
+  },
+  {
+    "id": "CBG-SD-10348",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9188,
+    "y": 43.4188,
+    "infraWeight": 0.39604467812077726,
+    "population": 767,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10324",
+      "CBG-SD-10298",
+      "CBG-SD-10216",
+      "CBG-SD-10025",
+      "CBG-SD-10044"
+    ]
+  },
+  {
+    "id": "CBG-SD-10349",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1798,
+    "y": 42.767,
+    "infraWeight": 0.34164191489276147,
+    "population": 681,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10438",
+      "CBG-SD-10078",
+      "CBG-SD-10263",
+      "CBG-SD-10064",
+      "CBG-SD-10185"
+    ]
+  },
+  {
+    "id": "CBG-SD-10350",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7161,
+    "y": 42.9808,
+    "infraWeight": 0.3932387588786969,
+    "population": 773,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10467",
+      "CBG-SD-10365",
+      "CBG-SD-10423",
+      "CBG-SD-10285",
+      "CBG-SD-10173"
+    ]
+  },
+  {
+    "id": "CBG-SD-10351",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.4189,
+    "y": 42.7116,
+    "infraWeight": 0.4120562255593813,
+    "population": 738,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10446",
+      "CBG-SD-10424",
+      "CBG-SD-10169",
+      "CBG-SD-10406",
+      "CBG-SD-10030"
+    ]
+  },
+  {
+    "id": "CBG-SD-10352",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.2287,
+    "y": 42.9611,
+    "infraWeight": 0.6662140693219352,
+    "population": 1210,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10341",
+      "CBG-SD-10047",
+      "CBG-SD-10435",
+      "CBG-SD-10167",
+      "CBG-SD-10188"
+    ]
+  },
+  {
+    "id": "CBG-SD-10353",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.705,
+    "y": 44.3689,
+    "infraWeight": 0.3361875093979773,
+    "population": 618,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10240",
+      "CBG-SD-10136",
+      "CBG-SD-10253",
+      "CBG-SD-10342",
+      "CBG-SD-10232"
+    ]
+  },
+  {
+    "id": "CBG-SD-10354",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7484,
+    "y": 45.7873,
+    "infraWeight": 0.4722856769186003,
+    "population": 961,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10434",
+      "CBG-SD-10320",
+      "CBG-SD-10334",
+      "CBG-SD-10075",
+      "CBG-SD-10251"
+    ]
+  },
+  {
+    "id": "CBG-SD-10355",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.9465,
+    "y": 44.4676,
+    "infraWeight": 0.40411669485090185,
+    "population": 694,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10035",
+      "CBG-SD-10226",
+      "CBG-SD-10315",
+      "CBG-SD-10408",
+      "CBG-SD-10111"
+    ]
+  },
+  {
+    "id": "CBG-SD-10356",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5289,
+    "y": 43.8137,
+    "infraWeight": 1.007692124564017,
+    "population": 2158,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10380",
+      "CBG-SD-10156",
+      "CBG-SD-10088",
+      "CBG-SD-10287",
+      "CBG-SD-10417"
+    ]
+  },
+  {
+    "id": "CBG-SD-10357",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8476,
+    "y": 42.5979,
+    "infraWeight": 0.45820085254113996,
+    "population": 961,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10328",
+      "CBG-SD-10390",
+      "CBG-SD-10043",
+      "CBG-SD-10371",
+      "CBG-SD-10052"
+    ]
+  },
+  {
+    "id": "CBG-SD-10358",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.861,
+    "y": 45.6315,
+    "infraWeight": 0.5027880561641774,
+    "population": 1043,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10247",
+      "CBG-SD-10284",
+      "CBG-SD-10407",
+      "CBG-SD-10229",
+      "CBG-SD-10394"
+    ]
+  },
+  {
+    "id": "CBG-SD-10359",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.4741,
+    "y": 45.2254,
+    "infraWeight": 0.30573322435701866,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10177",
+      "CBG-SD-10275",
+      "CBG-SD-10274",
+      "CBG-SD-10361",
+      "CBG-SD-10084"
+    ]
+  },
+  {
+    "id": "CBG-SD-10360",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.0608,
+    "y": 45.0846,
+    "infraWeight": 0.7929199350120772,
+    "population": 1630,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10003",
+      "CBG-SD-10184",
+      "CBG-SD-10314",
+      "CBG-SD-10388",
+      "CBG-SD-10127"
+    ]
+  },
+  {
+    "id": "CBG-SD-10361",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6466,
+    "y": 45.1234,
+    "infraWeight": 0.3182292251655261,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10177",
+      "CBG-SD-10274",
+      "CBG-SD-10275",
+      "CBG-SD-10370",
+      "CBG-SD-10359"
+    ]
+  },
+  {
+    "id": "CBG-SD-10362",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3414,
+    "y": 42.9511,
+    "infraWeight": 0.3454778125256574,
+    "population": 703,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10010",
+      "CBG-SD-10242",
+      "CBG-SD-10120",
+      "CBG-SD-10144",
+      "CBG-SD-10456"
+    ]
+  },
+  {
+    "id": "CBG-SD-10363",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.2408,
+    "y": 45.8512,
+    "infraWeight": 0.33909439981192874,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10183",
+      "CBG-SD-10016",
+      "CBG-SD-10278",
+      "CBG-SD-10345",
+      "CBG-SD-10373"
+    ]
+  },
+  {
+    "id": "CBG-SD-10364",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8049,
+    "y": 44.1922,
+    "infraWeight": 0.5863248866545197,
+    "population": 1257,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10428",
+      "CBG-SD-10012",
+      "CBG-SD-10288",
+      "CBG-SD-10004",
+      "CBG-SD-10107"
+    ]
+  },
+  {
+    "id": "CBG-SD-10365",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.553,
+    "y": 43.003,
+    "infraWeight": 0.3794747433035861,
+    "population": 648,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10285",
+      "CBG-SD-10423",
+      "CBG-SD-10442",
+      "CBG-SD-10173",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10366",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.2353,
+    "y": 42.9471,
+    "infraWeight": 0.5756466558516019,
+    "population": 913,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10283",
+      "CBG-SD-10065",
+      "CBG-SD-10260",
+      "CBG-SD-10008",
+      "CBG-SD-10286"
+    ]
+  },
+  {
+    "id": "CBG-SD-10367",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.0232,
+    "y": 45.0965,
+    "infraWeight": 0.38326067335265757,
+    "population": 777,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10138",
+      "CBG-SD-10346",
+      "CBG-SD-10046",
+      "CBG-SD-10187",
+      "CBG-SD-10073"
+    ]
+  },
+  {
+    "id": "CBG-SD-10368",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.4661,
+    "y": 44.8393,
+    "infraWeight": 0.9014119358039667,
+    "population": 1836,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10299",
+      "CBG-SD-10215",
+      "CBG-SD-10258",
+      "CBG-SD-10276",
+      "CBG-SD-10127"
+    ]
+  },
+  {
+    "id": "CBG-SD-10369",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5207,
+    "y": 42.6849,
+    "infraWeight": 0.5018203652002159,
+    "population": 955,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10306",
+      "CBG-SD-10371",
+      "CBG-SD-10043",
+      "CBG-SD-10307",
+      "CBG-SD-10286"
+    ]
+  },
+  {
+    "id": "CBG-SD-10370",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.8291,
+    "y": 45.1626,
+    "infraWeight": 0.3298710415696985,
+    "population": 631,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10361",
+      "CBG-SD-10275",
+      "CBG-SD-10177",
+      "CBG-SD-10393",
+      "CBG-SD-10060"
+    ]
+  },
+  {
+    "id": "CBG-SD-10371",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5755,
+    "y": 42.5749,
+    "infraWeight": 0.48249720212999925,
+    "population": 877,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10043",
+      "CBG-SD-10369",
+      "CBG-SD-10306",
+      "CBG-SD-10357",
+      "CBG-SD-10307"
+    ]
+  },
+  {
+    "id": "CBG-SD-10372",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2401,
+    "y": 44.2108,
+    "infraWeight": 0.5011029136022527,
+    "population": 1003,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10012",
+      "CBG-SD-10165",
+      "CBG-SD-10055",
+      "CBG-SD-10385",
+      "CBG-SD-10107"
+    ]
+  },
+  {
+    "id": "CBG-SD-10373",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5396,
+    "y": 45.6325,
+    "infraWeight": 0.3697365949999401,
+    "population": 600,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10016",
+      "CBG-SD-10462",
+      "CBG-SD-10448",
+      "CBG-SD-10095",
+      "CBG-SD-10067"
+    ]
+  },
+  {
+    "id": "CBG-SD-10374",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.4889,
+    "y": 45.7007,
+    "infraWeight": 0.32841862414421114,
+    "population": 600,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10076",
+      "CBG-SD-10200",
+      "CBG-SD-10115",
+      "CBG-SD-10147",
+      "CBG-SD-10087"
+    ]
+  },
+  {
+    "id": "CBG-SD-10375",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.7641,
+    "y": 42.8367,
+    "infraWeight": 0.6102498979444292,
+    "population": 1197,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10002",
+      "CBG-SD-10188",
+      "CBG-SD-10472",
+      "CBG-SD-10167",
+      "CBG-SD-10386"
+    ]
+  },
+  {
+    "id": "CBG-SD-10376",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.7115,
+    "y": 44.5324,
+    "infraWeight": 0.32968898095209104,
+    "population": 692,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10400",
+      "CBG-SD-10333",
+      "CBG-SD-10454",
+      "CBG-SD-10125",
+      "CBG-SD-10179"
+    ]
+  },
+  {
+    "id": "CBG-SD-10377",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.608,
+    "y": 43.1844,
+    "infraWeight": 0.7177907811035296,
+    "population": 1237,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10026",
+      "CBG-SD-10047",
+      "CBG-SD-10313",
+      "CBG-SD-10220",
+      "CBG-SD-10347"
+    ]
+  },
+  {
+    "id": "CBG-SD-10378",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9839,
+    "y": 44.6453,
+    "infraWeight": 0.454012364010083,
+    "population": 722,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10053",
+      "CBG-SD-10204",
+      "CBG-SD-10416",
+      "CBG-SD-10114",
+      "CBG-SD-10208"
+    ]
+  },
+  {
+    "id": "CBG-SD-10379",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.6208,
+    "y": 43.5306,
+    "infraWeight": 0.31986388629175116,
+    "population": 602,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10159",
+      "CBG-SD-10131",
+      "CBG-SD-10049",
+      "CBG-SD-10192",
+      "CBG-SD-10207"
+    ]
+  },
+  {
+    "id": "CBG-SD-10380",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.5707,
+    "y": 43.9798,
+    "infraWeight": 1.072330241938143,
+    "population": 1881,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10356",
+      "CBG-SD-10308",
+      "CBG-SD-10417",
+      "CBG-SD-10156",
+      "CBG-SD-10206"
+    ]
+  },
+  {
+    "id": "CBG-SD-10381",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1017,
+    "y": 42.4826,
+    "infraWeight": 0.5120062166885421,
+    "population": 895,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10118",
+      "CBG-SD-10174",
+      "CBG-SD-10418",
+      "CBG-SD-10290",
+      "CBG-SD-10461"
+    ]
+  },
+  {
+    "id": "CBG-SD-10382",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.4616,
+    "y": 45.7541,
+    "infraWeight": 0.5062913623165566,
+    "population": 1072,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10157",
+      "CBG-SD-10137",
+      "CBG-SD-10195",
+      "CBG-SD-10079",
+      "CBG-SD-10434"
+    ]
+  },
+  {
+    "id": "CBG-SD-10383",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.49,
+    "y": 43.0849,
+    "infraWeight": 0.6361391538604375,
+    "population": 1160,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10181",
+      "CBG-SD-10108",
+      "CBG-SD-10386",
+      "CBG-SD-10452",
+      "CBG-SD-10098"
+    ]
+  },
+  {
+    "id": "CBG-SD-10384",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.066,
+    "y": 44.4206,
+    "infraWeight": 0.8128912153774229,
+    "population": 1306,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10042",
+      "CBG-SD-10270",
+      "CBG-SD-10162",
+      "CBG-SD-10325",
+      "CBG-SD-10197"
+    ]
+  },
+  {
+    "id": "CBG-SD-10385",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.5429,
+    "y": 44.0281,
+    "infraWeight": 0.45406247588991044,
+    "population": 953,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10161",
+      "CBG-SD-10449",
+      "CBG-SD-10344",
+      "CBG-SD-10436",
+      "CBG-SD-10165"
+    ]
+  },
+  {
+    "id": "CBG-SD-10386",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.664,
+    "y": 43.1219,
+    "infraWeight": 0.6706725551435125,
+    "population": 1364,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10181",
+      "CBG-SD-10383",
+      "CBG-SD-10108",
+      "CBG-SD-10188",
+      "CBG-SD-10167"
+    ]
+  },
+  {
+    "id": "CBG-SD-10387",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.9988,
+    "y": 43.3182,
+    "infraWeight": 0.30882460998782685,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10091",
+      "CBG-SD-10445",
+      "CBG-SD-10245",
+      "CBG-SD-10085",
+      "CBG-SD-10429"
+    ]
+  },
+  {
+    "id": "CBG-SD-10388",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9496,
+    "y": 45.0547,
+    "infraWeight": 0.7923538777151483,
+    "population": 1382,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10314",
+      "CBG-SD-10184",
+      "CBG-SD-10360",
+      "CBG-SD-10003",
+      "CBG-SD-10326"
+    ]
+  },
+  {
+    "id": "CBG-SD-10389",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.2531,
+    "y": 43.9555,
+    "infraWeight": 0.3745671973868817,
+    "population": 725,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10166",
+      "CBG-SD-10182",
+      "CBG-SD-10199",
+      "CBG-SD-10112",
+      "CBG-SD-10453"
+    ]
+  },
+  {
+    "id": "CBG-SD-10390",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.9919,
+    "y": 42.7168,
+    "infraWeight": 0.4547615418955084,
+    "population": 793,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10328",
+      "CBG-SD-10052",
+      "CBG-SD-10072",
+      "CBG-SD-10357",
+      "CBG-SD-10102"
+    ]
+  },
+  {
+    "id": "CBG-SD-10391",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.028,
+    "y": 45.193,
+    "infraWeight": 0.5849820789266698,
+    "population": 1203,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10081",
+      "CBG-SD-10289",
+      "CBG-SD-10332",
+      "CBG-SD-10121",
+      "CBG-SD-10311"
+    ]
+  },
+  {
+    "id": "CBG-SD-10392",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2369,
+    "y": 44.6151,
+    "infraWeight": 0.7186687886726729,
+    "population": 1542,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10015",
+      "CBG-SD-10094",
+      "CBG-SD-10040",
+      "CBG-SD-10077",
+      "CBG-SD-10257"
+    ]
+  },
+  {
+    "id": "CBG-SD-10393",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0739,
+    "y": 45.1803,
+    "infraWeight": 0.34744703225755635,
+    "population": 690,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10303",
+      "CBG-SD-10405",
+      "CBG-SD-10370",
+      "CBG-SD-10273",
+      "CBG-SD-10023"
+    ]
+  },
+  {
+    "id": "CBG-SD-10394",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.0682,
+    "y": 45.8034,
+    "infraWeight": 0.5033721759404916,
+    "population": 814,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10265",
+      "CBG-SD-10262",
+      "CBG-SD-10145",
+      "CBG-SD-10247",
+      "CBG-SD-10186"
+    ]
+  },
+  {
+    "id": "CBG-SD-10395",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.191,
+    "y": 45.2852,
+    "infraWeight": 0.6175104248349043,
+    "population": 1276,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10296",
+      "CBG-SD-10412",
+      "CBG-SD-10415",
+      "CBG-SD-10450",
+      "CBG-SD-10038"
+    ]
+  },
+  {
+    "id": "CBG-SD-10396",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.3437,
+    "y": 43.901,
+    "infraWeight": 0.7671756021549445,
+    "population": 1638,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10180",
+      "CBG-SD-10058",
+      "CBG-SD-10236",
+      "CBG-SD-10294",
+      "CBG-SD-10404"
+    ]
+  },
+  {
+    "id": "CBG-SD-10397",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9674,
+    "y": 45.2307,
+    "infraWeight": 0.4290126510320138,
+    "population": 844,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10021",
+      "CBG-SD-10256",
+      "CBG-SD-10470",
+      "CBG-SD-10031",
+      "CBG-SD-10403"
+    ]
+  },
+  {
+    "id": "CBG-SD-10398",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6064,
+    "y": 44.4505,
+    "infraWeight": 0.564438118958263,
+    "population": 1008,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10062",
+      "CBG-SD-10142",
+      "CBG-SD-10172",
+      "CBG-SD-10281",
+      "CBG-SD-10129"
+    ]
+  },
+  {
+    "id": "CBG-SD-10399",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.6571,
+    "y": 43.8262,
+    "infraWeight": 0.4145647932866728,
+    "population": 720,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10291",
+      "CBG-SD-10176",
+      "CBG-SD-10175",
+      "CBG-SD-10453",
+      "CBG-SD-10222"
+    ]
+  },
+  {
+    "id": "CBG-SD-10400",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.8799,
+    "y": 44.3356,
+    "infraWeight": 0.34331884964705583,
+    "population": 659,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10125",
+      "CBG-SD-10153",
+      "CBG-SD-10333",
+      "CBG-SD-10376",
+      "CBG-SD-10116"
+    ]
+  },
+  {
+    "id": "CBG-SD-10401",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.5026,
+    "y": 43.1193,
+    "infraWeight": 0.4904501550068516,
+    "population": 829,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10122",
+      "CBG-SD-10439",
+      "CBG-SD-10441",
+      "CBG-SD-10001",
+      "CBG-SD-10152"
+    ]
+  },
+  {
+    "id": "CBG-SD-10402",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3023,
+    "y": 45.4897,
+    "infraWeight": 0.43858820556463934,
+    "population": 786,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10316",
+      "CBG-SD-10455",
+      "CBG-SD-10057",
+      "CBG-SD-10109",
+      "CBG-SD-10019"
+    ]
+  },
+  {
+    "id": "CBG-SD-10403",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.1471,
+    "y": 44.9765,
+    "infraWeight": 0.4637804184674637,
+    "population": 807,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10256",
+      "CBG-SD-10021",
+      "CBG-SD-10114",
+      "CBG-SD-10086",
+      "CBG-SD-10124"
+    ]
+  },
+  {
+    "id": "CBG-SD-10404",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.6335,
+    "y": 43.4708,
+    "infraWeight": 0.7643728518326885,
+    "population": 1500,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10301",
+      "CBG-SD-10113",
+      "CBG-SD-10386",
+      "CBG-SD-10181",
+      "CBG-SD-10383"
+    ]
+  },
+  {
+    "id": "CBG-SD-10405",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.1533,
+    "y": 45.2881,
+    "infraWeight": 0.35087109208097456,
+    "population": 616,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10303",
+      "CBG-SD-10393",
+      "CBG-SD-10273",
+      "CBG-SD-10345",
+      "CBG-SD-10011"
+    ]
+  },
+  {
+    "id": "CBG-SD-10406",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.4046,
+    "y": 42.9355,
+    "infraWeight": 0.42767091181201766,
+    "population": 842,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10030",
+      "CBG-SD-10351",
+      "CBG-SD-10102",
+      "CBG-SD-10072",
+      "CBG-SD-10424"
+    ]
+  },
+  {
+    "id": "CBG-SD-10407",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6593,
+    "y": 45.5719,
+    "infraWeight": 0.48544680453244743,
+    "population": 936,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10229",
+      "CBG-SD-10284",
+      "CBG-SD-10228",
+      "CBG-SD-10358",
+      "CBG-SD-10247"
+    ]
+  },
+  {
+    "id": "CBG-SD-10408",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6474,
+    "y": 44.4569,
+    "infraWeight": 0.4394936746841463,
+    "population": 724,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10082",
+      "CBG-SD-10161",
+      "CBG-SD-10055",
+      "CBG-SD-10355",
+      "CBG-SD-10449"
+    ]
+  },
+  {
+    "id": "CBG-SD-10409",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -104.043,
+    "y": 44.3798,
+    "infraWeight": 0.31250742668800574,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10342",
+      "CBG-SD-10013",
+      "CBG-SD-10447",
+      "CBG-SD-10261",
+      "CBG-SD-10353"
+    ]
+  },
+  {
+    "id": "CBG-SD-10410",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.3539,
+    "y": 45.4632,
+    "infraWeight": 0.6650983769361398,
+    "population": 1212,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10230",
+      "CBG-SD-10312",
+      "CBG-SD-10003",
+      "CBG-SD-10127",
+      "CBG-SD-10241"
+    ]
+  },
+  {
+    "id": "CBG-SD-10411",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.5853,
+    "y": 42.7367,
+    "infraWeight": 0.30317244616602734,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10322",
+      "CBG-SD-10214",
+      "CBG-SD-10263",
+      "CBG-SD-10078",
+      "CBG-SD-10438"
+    ]
+  },
+  {
+    "id": "CBG-SD-10412",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1845,
+    "y": 45.1088,
+    "infraWeight": 0.652961998233365,
+    "population": 1098,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10415",
+      "CBG-SD-10395",
+      "CBG-SD-10028",
+      "CBG-SD-10296",
+      "CBG-SD-10225"
+    ]
+  },
+  {
+    "id": "CBG-SD-10413",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6108,
+    "y": 43.6307,
+    "infraWeight": 0.5481718249024053,
+    "population": 971,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10460",
+      "CBG-SD-10100",
+      "CBG-SD-10020",
+      "CBG-SD-10425",
+      "CBG-SD-10250"
+    ]
+  },
+  {
+    "id": "CBG-SD-10414",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.3685,
+    "y": 44.4619,
+    "infraWeight": 0.3857020601746616,
+    "population": 799,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10272",
+      "CBG-SD-10323",
+      "CBG-SD-10006",
+      "CBG-SD-10059",
+      "CBG-SD-10112"
+    ]
+  },
+  {
+    "id": "CBG-SD-10415",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.1457,
+    "y": 45.0357,
+    "infraWeight": 0.6760191199904506,
+    "population": 1102,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10412",
+      "CBG-SD-10028",
+      "CBG-SD-10395",
+      "CBG-SD-10160",
+      "CBG-SD-10225"
+    ]
+  },
+  {
+    "id": "CBG-SD-10416",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.8818,
+    "y": 44.5644,
+    "infraWeight": 0.4423548046545175,
+    "population": 890,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10204",
+      "CBG-SD-10378",
+      "CBG-SD-10053",
+      "CBG-SD-10114",
+      "CBG-SD-10208"
+    ]
+  },
+  {
+    "id": "CBG-SD-10417",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.3589,
+    "y": 44.0801,
+    "infraWeight": 1.2782280054923754,
+    "population": 2489,
+    "microDistrictId": "SD-MD-1",
+    "neighbors": [
+      "CBG-SD-10206",
+      "CBG-SD-10133",
+      "CBG-SD-10128",
+      "CBG-SD-10380",
+      "CBG-SD-10088"
+    ]
+  },
+  {
+    "id": "CBG-SD-10418",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.8436,
+    "y": 42.7363,
+    "infraWeight": 0.5786322558101451,
+    "population": 932,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10309",
+      "CBG-SD-10290",
+      "CBG-SD-10123",
+      "CBG-SD-10174",
+      "CBG-SD-10118"
+    ]
+  },
+  {
+    "id": "CBG-SD-10419",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.6259,
+    "y": 44.4574,
+    "infraWeight": 0.8995829960213511,
+    "population": 1845,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10257",
+      "CBG-SD-10077",
+      "CBG-SD-10040",
+      "CBG-SD-10106",
+      "CBG-SD-10015"
+    ]
+  },
+  {
+    "id": "CBG-SD-10420",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6629,
+    "y": 45.1799,
+    "infraWeight": 0.416359352625626,
+    "population": 855,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10338",
+      "CBG-SD-10302",
+      "CBG-SD-10248",
+      "CBG-SD-10211",
+      "CBG-SD-10089"
+    ]
+  },
+  {
+    "id": "CBG-SD-10421",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7855,
+    "y": 43.3459,
+    "infraWeight": 0.5557792987335485,
+    "population": 1142,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10001",
+      "CBG-SD-10441",
+      "CBG-SD-10340",
+      "CBG-SD-10020",
+      "CBG-SD-10294"
+    ]
+  },
+  {
+    "id": "CBG-SD-10422",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.6691,
+    "y": 45.775,
+    "infraWeight": 0.38634476951116986,
+    "population": 826,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10027",
+      "CBG-SD-10231",
+      "CBG-SD-10092",
+      "CBG-SD-10279",
+      "CBG-SD-10148"
+    ]
+  },
+  {
+    "id": "CBG-SD-10423",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5978,
+    "y": 43.1044,
+    "infraWeight": 0.3874630571212844,
+    "population": 672,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10365",
+      "CBG-SD-10467",
+      "CBG-SD-10285",
+      "CBG-SD-10350",
+      "CBG-SD-10442"
+    ]
+  },
+  {
+    "id": "CBG-SD-10424",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3157,
+    "y": 42.598,
+    "infraWeight": 0.41386282780320777,
+    "population": 658,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10169",
+      "CBG-SD-10446",
+      "CBG-SD-10443",
+      "CBG-SD-10351",
+      "CBG-SD-10052"
+    ]
+  },
+  {
+    "id": "CBG-SD-10425",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.7836,
+    "y": 43.8381,
+    "infraWeight": 0.5975330923941472,
+    "population": 1231,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10100",
+      "CBG-SD-10317",
+      "CBG-SD-10460",
+      "CBG-SD-10020",
+      "CBG-SD-10236"
+    ]
+  },
+  {
+    "id": "CBG-SD-10426",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0105,
+    "y": 43.0923,
+    "infraWeight": 0.4284289584687043,
+    "population": 763,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10469",
+      "CBG-SD-10439",
+      "CBG-SD-10467",
+      "CBG-SD-10457",
+      "CBG-SD-10350"
+    ]
+  },
+  {
+    "id": "CBG-SD-10427",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7879,
+    "y": 43.2259,
+    "infraWeight": 0.5300571754487117,
+    "population": 1104,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10168",
+      "CBG-SD-10329",
+      "CBG-SD-10286",
+      "CBG-SD-10307",
+      "CBG-SD-10254"
+    ]
+  },
+  {
+    "id": "CBG-SD-10428",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.8643,
+    "y": 44.0334,
+    "infraWeight": 0.5709031073172821,
+    "population": 1201,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10364",
+      "CBG-SD-10107",
+      "CBG-SD-10014",
+      "CBG-SD-10012",
+      "CBG-SD-10105"
+    ]
+  },
+  {
+    "id": "CBG-SD-10429",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.91,
+    "y": 43.7293,
+    "infraWeight": 0.3194937912198894,
+    "population": 603,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10034",
+      "CBG-SD-10143",
+      "CBG-SD-10101",
+      "CBG-SD-10330",
+      "CBG-SD-10232"
+    ]
+  },
+  {
+    "id": "CBG-SD-10430",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.8352,
+    "y": 45.5098,
+    "infraWeight": 0.6353110345475101,
+    "population": 1118,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10210",
+      "CBG-SD-10440",
+      "CBG-SD-10007",
+      "CBG-SD-10464",
+      "CBG-SD-10003"
+    ]
+  },
+  {
+    "id": "CBG-SD-10431",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.5043,
+    "y": 43.8924,
+    "infraWeight": 0.6528432517298718,
+    "population": 1255,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10105",
+      "CBG-SD-10432",
+      "CBG-SD-10321",
+      "CBG-SD-10103",
+      "CBG-SD-10190"
+    ]
+  },
+  {
+    "id": "CBG-SD-10432",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.4978,
+    "y": 43.7499,
+    "infraWeight": 0.6427266962666246,
+    "population": 1183,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10431",
+      "CBG-SD-10105",
+      "CBG-SD-10463",
+      "CBG-SD-10321",
+      "CBG-SD-10130"
+    ]
+  },
+  {
+    "id": "CBG-SD-10433",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.0224,
+    "y": 45.8124,
+    "infraWeight": 0.4424578529901038,
+    "population": 906,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10218",
+      "CBG-SD-10037",
+      "CBG-SD-10334",
+      "CBG-SD-10075",
+      "CBG-SD-10354"
+    ]
+  },
+  {
+    "id": "CBG-SD-10434",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.6746,
+    "y": 45.7203,
+    "infraWeight": 0.48755300627242726,
+    "population": 841,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10320",
+      "CBG-SD-10354",
+      "CBG-SD-10137",
+      "CBG-SD-10195",
+      "CBG-SD-10251"
+    ]
+  },
+  {
+    "id": "CBG-SD-10435",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.9896,
+    "y": 43.1447,
+    "infraWeight": 0.7148517933772964,
+    "population": 1518,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10341",
+      "CBG-SD-10167",
+      "CBG-SD-10188",
+      "CBG-SD-10352",
+      "CBG-SD-10386"
+    ]
+  },
+  {
+    "id": "CBG-SD-10436",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.8111,
+    "y": 43.8797,
+    "infraWeight": 0.4183136531899807,
+    "population": 835,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10344",
+      "CBG-SD-10193",
+      "CBG-SD-10267",
+      "CBG-SD-10044",
+      "CBG-SD-10449"
+    ]
+  },
+  {
+    "id": "CBG-SD-10437",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.6021,
+    "y": 44.9823,
+    "infraWeight": 0.3995285114841567,
+    "population": 687,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10310",
+      "CBG-SD-10031",
+      "CBG-SD-10292",
+      "CBG-SD-10023",
+      "CBG-SD-10273"
+    ]
+  },
+  {
+    "id": "CBG-SD-10438",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.0883,
+    "y": 42.7598,
+    "infraWeight": 0.3350838610636019,
+    "population": 688,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10349",
+      "CBG-SD-10263",
+      "CBG-SD-10078",
+      "CBG-SD-10064",
+      "CBG-SD-10185"
+    ]
+  },
+  {
+    "id": "CBG-SD-10439",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.2253,
+    "y": 43.106,
+    "infraWeight": 0.4539291327964214,
+    "population": 771,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10469",
+      "CBG-SD-10426",
+      "CBG-SD-10152",
+      "CBG-SD-10401",
+      "CBG-SD-10122"
+    ]
+  },
+  {
+    "id": "CBG-SD-10440",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.8211,
+    "y": 45.2154,
+    "infraWeight": 0.7178680632265851,
+    "population": 1178,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10464",
+      "CBG-SD-10314",
+      "CBG-SD-10388",
+      "CBG-SD-10003",
+      "CBG-SD-10326"
+    ]
+  },
+  {
+    "id": "CBG-SD-10441",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6783,
+    "y": 43.3592,
+    "infraWeight": 0.5384856506390984,
+    "population": 939,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10421",
+      "CBG-SD-10001",
+      "CBG-SD-10122",
+      "CBG-SD-10413",
+      "CBG-SD-10340"
+    ]
+  },
+  {
+    "id": "CBG-SD-10442",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.4264,
+    "y": 43.0338,
+    "infraWeight": 0.36975317339802805,
+    "population": 762,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10285",
+      "CBG-SD-10178",
+      "CBG-SD-10365",
+      "CBG-SD-10423",
+      "CBG-SD-10173"
+    ]
+  },
+  {
+    "id": "CBG-SD-10443",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2171,
+    "y": 42.5194,
+    "infraWeight": 0.4169150215705302,
+    "population": 789,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10169",
+      "CBG-SD-10424",
+      "CBG-SD-10446",
+      "CBG-SD-10052",
+      "CBG-SD-10102"
+    ]
+  },
+  {
+    "id": "CBG-SD-10444",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2479,
+    "y": 42.8855,
+    "infraWeight": 0.5637143911111495,
+    "population": 988,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10465",
+      "CBG-SD-10098",
+      "CBG-SD-10319",
+      "CBG-SD-10239",
+      "CBG-SD-10452"
+    ]
+  },
+  {
+    "id": "CBG-SD-10445",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.775,
+    "y": 43.16,
+    "infraWeight": 0.32038205777363216,
+    "population": 644,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10245",
+      "CBG-SD-10456",
+      "CBG-SD-10120",
+      "CBG-SD-10091",
+      "CBG-SD-10085"
+    ]
+  },
+  {
+    "id": "CBG-SD-10446",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.3906,
+    "y": 42.5683,
+    "infraWeight": 0.40521526841873795,
+    "population": 852,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10424",
+      "CBG-SD-10169",
+      "CBG-SD-10351",
+      "CBG-SD-10443",
+      "CBG-SD-10052"
+    ]
+  },
+  {
+    "id": "CBG-SD-10447",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.8608,
+    "y": 44.5821,
+    "infraWeight": 0.3237723413732285,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10327",
+      "CBG-SD-10048",
+      "CBG-SD-10343",
+      "CBG-SD-10261",
+      "CBG-SD-10097"
+    ]
+  },
+  {
+    "id": "CBG-SD-10448",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7117,
+    "y": 45.4999,
+    "infraWeight": 0.39029505186450164,
+    "population": 703,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10462",
+      "CBG-SD-10095",
+      "CBG-SD-10237",
+      "CBG-SD-10373",
+      "CBG-SD-10191"
+    ]
+  },
+  {
+    "id": "CBG-SD-10449",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.75,
+    "y": 44.148,
+    "infraWeight": 0.42807459997313163,
+    "population": 864,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10161",
+      "CBG-SD-10344",
+      "CBG-SD-10315",
+      "CBG-SD-10385",
+      "CBG-SD-10436"
+    ]
+  },
+  {
+    "id": "CBG-SD-10450",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.9337,
+    "y": 45.4622,
+    "infraWeight": 0.618296566144091,
+    "population": 1134,
+    "microDistrictId": "SD-MD-3",
+    "neighbors": [
+      "CBG-SD-10056",
+      "CBG-SD-10296",
+      "CBG-SD-10282",
+      "CBG-SD-10395",
+      "CBG-SD-10241"
+    ]
+  },
+  {
+    "id": "CBG-SD-10451",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.465,
+    "y": 45.1272,
+    "infraWeight": 0.6808051752277688,
+    "population": 1109,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10024",
+      "CBG-SD-10305",
+      "CBG-SD-10464",
+      "CBG-SD-10440",
+      "CBG-SD-10326"
+    ]
+  },
+  {
+    "id": "CBG-SD-10452",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.3005,
+    "y": 43.1162,
+    "infraWeight": 0.6126847844854487,
+    "population": 1007,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10383",
+      "CBG-SD-10108",
+      "CBG-SD-10444",
+      "CBG-SD-10181",
+      "CBG-SD-10098"
+    ]
+  },
+  {
+    "id": "CBG-SD-10453",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.4636,
+    "y": 43.856,
+    "infraWeight": 0.3941254044330971,
+    "population": 796,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10176",
+      "CBG-SD-10291",
+      "CBG-SD-10399",
+      "CBG-SD-10389",
+      "CBG-SD-10112"
+    ]
+  },
+  {
+    "id": "CBG-SD-10454",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -96.4999,
+    "y": 44.7684,
+    "infraWeight": 0.31329538072351987,
+    "population": 600,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10179",
+      "CBG-SD-10274",
+      "CBG-SD-10376",
+      "CBG-SD-10060",
+      "CBG-SD-10361"
+    ]
+  },
+  {
+    "id": "CBG-SD-10455",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -102.2935,
+    "y": 45.6047,
+    "infraWeight": 0.4316066463448803,
+    "population": 707,
+    "microDistrictId": "SD-MD-10",
+    "neighbors": [
+      "CBG-SD-10402",
+      "CBG-SD-10316",
+      "CBG-SD-10092",
+      "CBG-SD-10037",
+      "CBG-SD-10433"
+    ]
+  },
+  {
+    "id": "CBG-SD-10456",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.5817,
+    "y": 43.1829,
+    "infraWeight": 0.33405633904933957,
+    "population": 600,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10242",
+      "CBG-SD-10445",
+      "CBG-SD-10120",
+      "CBG-SD-10085",
+      "CBG-SD-10466"
+    ]
+  },
+  {
+    "id": "CBG-SD-10457",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.9782,
+    "y": 42.7793,
+    "infraWeight": 0.4072344182932515,
+    "population": 816,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10117",
+      "CBG-SD-10096",
+      "CBG-SD-10335",
+      "CBG-SD-10041",
+      "CBG-SD-10271"
+    ]
+  },
+  {
+    "id": "CBG-SD-10458",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.5295,
+    "y": 44.8127,
+    "infraWeight": 0.5320789585724501,
+    "population": 937,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10281",
+      "CBG-SD-10086",
+      "CBG-SD-10337",
+      "CBG-SD-10471",
+      "CBG-SD-10062"
+    ]
+  },
+  {
+    "id": "CBG-SD-10459",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.5246,
+    "y": 42.6038,
+    "infraWeight": 0.3604041700967636,
+    "population": 676,
+    "microDistrictId": "SD-MD-14",
+    "neighbors": [
+      "CBG-SD-10185",
+      "CBG-SD-10064",
+      "CBG-SD-10173",
+      "CBG-SD-10041",
+      "CBG-SD-10335"
+    ]
+  },
+  {
+    "id": "CBG-SD-10460",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6039,
+    "y": 43.7406,
+    "infraWeight": 0.553650890193895,
+    "population": 1112,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10100",
+      "CBG-SD-10413",
+      "CBG-SD-10425",
+      "CBG-SD-10020",
+      "CBG-SD-10317"
+    ]
+  },
+  {
+    "id": "CBG-SD-10461",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.697,
+    "y": 42.5113,
+    "infraWeight": 0.5435156154018301,
+    "population": 1118,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10473",
+      "CBG-SD-10290",
+      "CBG-SD-10174",
+      "CBG-SD-10418",
+      "CBG-SD-10118"
+    ]
+  },
+  {
+    "id": "CBG-SD-10462",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.6678,
+    "y": 45.4673,
+    "infraWeight": 0.38779760086507525,
+    "population": 812,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10448",
+      "CBG-SD-10095",
+      "CBG-SD-10237",
+      "CBG-SD-10067",
+      "CBG-SD-10373"
+    ]
+  },
+  {
+    "id": "CBG-SD-10463",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -101.7562,
+    "y": 43.7031,
+    "infraWeight": 0.5784639721256813,
+    "population": 1175,
+    "microDistrictId": "SD-MD-6",
+    "neighbors": [
+      "CBG-SD-10331",
+      "CBG-SD-10014",
+      "CBG-SD-10432",
+      "CBG-SD-10105",
+      "CBG-SD-10119"
+    ]
+  },
+  {
+    "id": "CBG-SD-10464",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.7009,
+    "y": 45.2015,
+    "infraWeight": 0.7043435405349546,
+    "population": 1214,
+    "microDistrictId": "SD-MD-2",
+    "neighbors": [
+      "CBG-SD-10440",
+      "CBG-SD-10024",
+      "CBG-SD-10451",
+      "CBG-SD-10326",
+      "CBG-SD-10314"
+    ]
+  },
+  {
+    "id": "CBG-SD-10465",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.2633,
+    "y": 42.726,
+    "infraWeight": 0.5391059236840103,
+    "population": 1040,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10319",
+      "CBG-SD-10239",
+      "CBG-SD-10444",
+      "CBG-SD-10098",
+      "CBG-SD-10108"
+    ]
+  },
+  {
+    "id": "CBG-SD-10466",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -103.3891,
+    "y": 43.3606,
+    "infraWeight": 0.35246204674097453,
+    "population": 742,
+    "microDistrictId": "SD-MD-15",
+    "neighbors": [
+      "CBG-SD-10069",
+      "CBG-SD-10242",
+      "CBG-SD-10456",
+      "CBG-SD-10085",
+      "CBG-SD-10025"
+    ]
+  },
+  {
+    "id": "CBG-SD-10467",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -97.7297,
+    "y": 43.0772,
+    "infraWeight": 0.3988085978164994,
+    "population": 696,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10350",
+      "CBG-SD-10423",
+      "CBG-SD-10365",
+      "CBG-SD-10285",
+      "CBG-SD-10173"
+    ]
+  },
+  {
+    "id": "CBG-SD-10468",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.1901,
+    "y": 43.4886,
+    "infraWeight": 0.4716564249842168,
+    "population": 816,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10235",
+      "CBG-SD-10250",
+      "CBG-SD-10122",
+      "CBG-SD-10469",
+      "CBG-SD-10439"
+    ]
+  },
+  {
+    "id": "CBG-SD-10469",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.0997,
+    "y": 43.2027,
+    "infraWeight": 0.44475907404935827,
+    "population": 917,
+    "microDistrictId": "SD-MD-5",
+    "neighbors": [
+      "CBG-SD-10426",
+      "CBG-SD-10439",
+      "CBG-SD-10468",
+      "CBG-SD-10122",
+      "CBG-SD-10467"
+    ]
+  },
+  {
+    "id": "CBG-SD-10470",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.2087,
+    "y": 45.3747,
+    "infraWeight": 0.4482824160164916,
+    "population": 889,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10219",
+      "CBG-SD-10021",
+      "CBG-SD-10194",
+      "CBG-SD-10124",
+      "CBG-SD-10256"
+    ]
+  },
+  {
+    "id": "CBG-SD-10471",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.6708,
+    "y": 45.0847,
+    "infraWeight": 0.5354830696953582,
+    "population": 963,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10337",
+      "CBG-SD-10311",
+      "CBG-SD-10332",
+      "CBG-SD-10205",
+      "CBG-SD-10121"
+    ]
+  },
+  {
+    "id": "CBG-SD-10472",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -99.6694,
+    "y": 42.7747,
+    "infraWeight": 0.5883836942225827,
+    "population": 962,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10375",
+      "CBG-SD-10002",
+      "CBG-SD-10188",
+      "CBG-SD-10098",
+      "CBG-SD-10239"
+    ]
+  },
+  {
+    "id": "CBG-SD-10473",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -100.6596,
+    "y": 42.5682,
+    "infraWeight": 0.5565252127615552,
+    "population": 888,
+    "microDistrictId": "SD-MD-4",
+    "neighbors": [
+      "CBG-SD-10461",
+      "CBG-SD-10290",
+      "CBG-SD-10418",
+      "CBG-SD-10174",
+      "CBG-SD-10309"
+    ]
+  },
+  {
+    "id": "CBG-SD-10474",
+    "parentZip": "90210",
+    "state": "SD",
+    "x": -98.5809,
+    "y": 45.323,
+    "infraWeight": 0.49966278959061505,
+    "population": 963,
+    "microDistrictId": "SD-MD-8",
+    "neighbors": [
+      "CBG-SD-10205",
+      "CBG-SD-10194",
+      "CBG-SD-10219",
+      "CBG-SD-10229",
+      "CBG-SD-10311"
+    ]
+  }
+]

@@ -1,0 +1,6377 @@
+[
+  {
+    "id": "CBG-DC-10000",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0446,
+    "y": 38.9525,
+    "infraWeight": 1.4070070217209845,
+    "population": 2566,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10374",
+      "CBG-DC-10280",
+      "CBG-DC-10227",
+      "CBG-DC-10123",
+      "CBG-DC-10318"
+    ]
+  },
+  {
+    "id": "CBG-DC-10001",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9271,
+    "y": 38.992,
+    "infraWeight": 1.3253679503768823,
+    "population": 2595,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10121",
+      "CBG-DC-10017",
+      "CBG-DC-10258",
+      "CBG-DC-10008",
+      "CBG-DC-10111"
+    ]
+  },
+  {
+    "id": "CBG-DC-10002",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.027,
+    "y": 38.8791,
+    "infraWeight": 1.4719267246872882,
+    "population": 2885,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10167",
+      "CBG-DC-10189",
+      "CBG-DC-10293",
+      "CBG-DC-10243",
+      "CBG-DC-10296"
+    ]
+  },
+  {
+    "id": "CBG-DC-10003",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0302,
+    "y": 38.8166,
+    "infraWeight": 1.3908609741052314,
+    "population": 2307,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10054",
+      "CBG-DC-10184",
+      "CBG-DC-10226",
+      "CBG-DC-10164",
+      "CBG-DC-10013"
+    ]
+  },
+  {
+    "id": "CBG-DC-10004",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9228,
+    "y": 38.8766,
+    "infraWeight": 1.3718820441631592,
+    "population": 2767,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10119",
+      "CBG-DC-10222",
+      "CBG-DC-10069",
+      "CBG-DC-10088",
+      "CBG-DC-10048"
+    ]
+  },
+  {
+    "id": "CBG-DC-10005",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1068,
+    "y": 38.9671,
+    "infraWeight": 1.3418126438122777,
+    "population": 2314,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10059",
+      "CBG-DC-10031",
+      "CBG-DC-10138",
+      "CBG-DC-10211",
+      "CBG-DC-10202"
+    ]
+  },
+  {
+    "id": "CBG-DC-10006",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9524,
+    "y": 38.9302,
+    "infraWeight": 1.3989975454758297,
+    "population": 2749,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10217",
+      "CBG-DC-10096",
+      "CBG-DC-10172",
+      "CBG-DC-10040",
+      "CBG-DC-10100"
+    ]
+  },
+  {
+    "id": "CBG-DC-10007",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0728,
+    "y": 38.8329,
+    "infraWeight": 1.383711666732837,
+    "population": 2889,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10273",
+      "CBG-DC-10365",
+      "CBG-DC-10062",
+      "CBG-DC-10079",
+      "CBG-DC-10070"
+    ]
+  },
+  {
+    "id": "CBG-DC-10008",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9138,
+    "y": 38.9754,
+    "infraWeight": 1.327555550233972,
+    "population": 2699,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10111",
+      "CBG-DC-10121",
+      "CBG-DC-10224",
+      "CBG-DC-10001",
+      "CBG-DC-10017"
+    ]
+  },
+  {
+    "id": "CBG-DC-10009",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.07,
+    "y": 38.9653,
+    "infraWeight": 1.375304420042537,
+    "population": 2780,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10034",
+      "CBG-DC-10194",
+      "CBG-DC-10115",
+      "CBG-DC-10173",
+      "CBG-DC-10244"
+    ]
+  },
+  {
+    "id": "CBG-DC-10010",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1022,
+    "y": 38.8662,
+    "infraWeight": 1.373848790344319,
+    "population": 2887,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10020",
+      "CBG-DC-10024",
+      "CBG-DC-10144",
+      "CBG-DC-10339",
+      "CBG-DC-10358"
+    ]
+  },
+  {
+    "id": "CBG-DC-10011",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0009,
+    "y": 38.9902,
+    "infraWeight": 1.3665953105605961,
+    "population": 2852,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10133",
+      "CBG-DC-10356",
+      "CBG-DC-10049",
+      "CBG-DC-10300",
+      "CBG-DC-10201"
+    ]
+  },
+  {
+    "id": "CBG-DC-10012",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.06,
+    "y": 38.9294,
+    "infraWeight": 1.4179838673575704,
+    "population": 2832,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10253",
+      "CBG-DC-10190",
+      "CBG-DC-10260",
+      "CBG-DC-10160",
+      "CBG-DC-10099"
+    ]
+  },
+  {
+    "id": "CBG-DC-10013",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0375,
+    "y": 38.8083,
+    "infraWeight": 1.3782985844361018,
+    "population": 2274,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10174",
+      "CBG-DC-10035",
+      "CBG-DC-10156",
+      "CBG-DC-10054",
+      "CBG-DC-10367"
+    ]
+  },
+  {
+    "id": "CBG-DC-10014",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0802,
+    "y": 38.7998,
+    "infraWeight": 1.3459781888350058,
+    "population": 2155,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10187",
+      "CBG-DC-10018",
+      "CBG-DC-10277",
+      "CBG-DC-10266",
+      "CBG-DC-10073"
+    ]
+  },
+  {
+    "id": "CBG-DC-10015",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0442,
+    "y": 38.863,
+    "infraWeight": 1.438752570446362,
+    "population": 2982,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10289",
+      "CBG-DC-10086",
+      "CBG-DC-10361",
+      "CBG-DC-10074",
+      "CBG-DC-10036"
+    ]
+  },
+  {
+    "id": "CBG-DC-10016",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1032,
+    "y": 38.9066,
+    "infraWeight": 1.3767511513758182,
+    "population": 2449,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10309",
+      "CBG-DC-10281",
+      "CBG-DC-10146",
+      "CBG-DC-10306",
+      "CBG-DC-10256"
+    ]
+  },
+  {
+    "id": "CBG-DC-10017",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9351,
+    "y": 38.9736,
+    "infraWeight": 1.3478856056269453,
+    "population": 2234,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10335",
+      "CBG-DC-10258",
+      "CBG-DC-10206",
+      "CBG-DC-10228",
+      "CBG-DC-10286"
+    ]
+  },
+  {
+    "id": "CBG-DC-10018",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0861,
+    "y": 38.8085,
+    "infraWeight": 1.3499721481662859,
+    "population": 2453,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10277",
+      "CBG-DC-10014",
+      "CBG-DC-10279",
+      "CBG-DC-10068",
+      "CBG-DC-10073"
+    ]
+  },
+  {
+    "id": "CBG-DC-10019",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0837,
+    "y": 38.9301,
+    "infraWeight": 1.3912916599095961,
+    "population": 2297,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10233",
+      "CBG-DC-10145",
+      "CBG-DC-10327",
+      "CBG-DC-10210",
+      "CBG-DC-10099"
+    ]
+  },
+  {
+    "id": "CBG-DC-10020",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1057,
+    "y": 38.8664,
+    "infraWeight": 1.3698384172130234,
+    "population": 2653,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10010",
+      "CBG-DC-10339",
+      "CBG-DC-10024",
+      "CBG-DC-10124",
+      "CBG-DC-10081"
+    ]
+  },
+  {
+    "id": "CBG-DC-10021",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1039,
+    "y": 38.8467,
+    "infraWeight": 1.362640694516843,
+    "population": 2252,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10129",
+      "CBG-DC-10125",
+      "CBG-DC-10044",
+      "CBG-DC-10303",
+      "CBG-DC-10230"
+    ]
+  },
+  {
+    "id": "CBG-DC-10022",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9126,
+    "y": 38.7975,
+    "infraWeight": 1.3157177350939857,
+    "population": 2489,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10058",
+      "CBG-DC-10338",
+      "CBG-DC-10087",
+      "CBG-DC-10039",
+      "CBG-DC-10370"
+    ]
+  },
+  {
+    "id": "CBG-DC-10023",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9192,
+    "y": 38.8889,
+    "infraWeight": 1.3692108234401743,
+    "population": 2178,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10085",
+      "CBG-DC-10312",
+      "CBG-DC-10030",
+      "CBG-DC-10119",
+      "CBG-DC-10051"
+    ]
+  },
+  {
+    "id": "CBG-DC-10024",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0924,
+    "y": 38.8694,
+    "infraWeight": 1.3870554338789187,
+    "population": 2529,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10358",
+      "CBG-DC-10144",
+      "CBG-DC-10055",
+      "CBG-DC-10010",
+      "CBG-DC-10343"
+    ]
+  },
+  {
+    "id": "CBG-DC-10025",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9494,
+    "y": 38.9708,
+    "infraWeight": 1.3623261713538335,
+    "population": 2132,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10286",
+      "CBG-DC-10335",
+      "CBG-DC-10228",
+      "CBG-DC-10258",
+      "CBG-DC-10181"
+    ]
+  },
+  {
+    "id": "CBG-DC-10026",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0629,
+    "y": 38.947,
+    "infraWeight": 1.3991951049031646,
+    "population": 2530,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10349",
+      "CBG-DC-10337",
+      "CBG-DC-10260",
+      "CBG-DC-10160",
+      "CBG-DC-10098"
+    ]
+  },
+  {
+    "id": "CBG-DC-10027",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9295,
+    "y": 38.8464,
+    "infraWeight": 1.3669951852021514,
+    "population": 2866,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10371",
+      "CBG-DC-10092",
+      "CBG-DC-10157",
+      "CBG-DC-10163",
+      "CBG-DC-10269"
+    ]
+  },
+  {
+    "id": "CBG-DC-10028",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0327,
+    "y": 38.8292,
+    "infraWeight": 1.406047967599815,
+    "population": 2410,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10131",
+      "CBG-DC-10184",
+      "CBG-DC-10287",
+      "CBG-DC-10054",
+      "CBG-DC-10003"
+    ]
+  },
+  {
+    "id": "CBG-DC-10029",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9987,
+    "y": 38.7993,
+    "infraWeight": 1.369103584095223,
+    "population": 2676,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10259",
+      "CBG-DC-10271",
+      "CBG-DC-10198",
+      "CBG-DC-10114",
+      "CBG-DC-10242"
+    ]
+  },
+  {
+    "id": "CBG-DC-10030",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9252,
+    "y": 38.8911,
+    "infraWeight": 1.3768031440889976,
+    "population": 2521,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10312",
+      "CBG-DC-10085",
+      "CBG-DC-10023",
+      "CBG-DC-10051",
+      "CBG-DC-10360"
+    ]
+  },
+  {
+    "id": "CBG-DC-10031",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1036,
+    "y": 38.973,
+    "infraWeight": 1.3401269021387034,
+    "population": 2681,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10059",
+      "CBG-DC-10005",
+      "CBG-DC-10211",
+      "CBG-DC-10138",
+      "CBG-DC-10208"
+    ]
+  },
+  {
+    "id": "CBG-DC-10032",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0114,
+    "y": 38.8437,
+    "infraWeight": 1.428657122469442,
+    "population": 2726,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10161",
+      "CBG-DC-10331",
+      "CBG-DC-10314",
+      "CBG-DC-10315",
+      "CBG-DC-10372"
+    ]
+  },
+  {
+    "id": "CBG-DC-10033",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9818,
+    "y": 38.9055,
+    "infraWeight": 1.4494462540774016,
+    "population": 2902,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10109",
+      "CBG-DC-10185",
+      "CBG-DC-10060",
+      "CBG-DC-10065",
+      "CBG-DC-10255"
+    ]
+  },
+  {
+    "id": "CBG-DC-10034",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0709,
+    "y": 38.9607,
+    "infraWeight": 1.3791834573065178,
+    "population": 2816,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10009",
+      "CBG-DC-10194",
+      "CBG-DC-10173",
+      "CBG-DC-10349",
+      "CBG-DC-10115"
+    ]
+  },
+  {
+    "id": "CBG-DC-10035",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0424,
+    "y": 38.8066,
+    "infraWeight": 1.3745478341187949,
+    "population": 2793,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10174",
+      "CBG-DC-10013",
+      "CBG-DC-10122",
+      "CBG-DC-10156",
+      "CBG-DC-10367"
+    ]
+  },
+  {
+    "id": "CBG-DC-10036",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0533,
+    "y": 38.8496,
+    "infraWeight": 1.4170435638549417,
+    "population": 2761,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10232",
+      "CBG-DC-10132",
+      "CBG-DC-10361",
+      "CBG-DC-10070",
+      "CBG-DC-10086"
+    ]
+  },
+  {
+    "id": "CBG-DC-10037",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.925,
+    "y": 38.905,
+    "infraWeight": 1.3757705001701046,
+    "population": 2350,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10043",
+      "CBG-DC-10360",
+      "CBG-DC-10030",
+      "CBG-DC-10312",
+      "CBG-DC-10023"
+    ]
+  },
+  {
+    "id": "CBG-DC-10038",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0488,
+    "y": 38.9878,
+    "infraWeight": 1.363307386019275,
+    "population": 2186,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10333",
+      "CBG-DC-10046",
+      "CBG-DC-10071",
+      "CBG-DC-10179",
+      "CBG-DC-10250"
+    ]
+  },
+  {
+    "id": "CBG-DC-10039",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9096,
+    "y": 38.8071,
+    "infraWeight": 1.3203958206723594,
+    "population": 2673,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10022",
+      "CBG-DC-10058",
+      "CBG-DC-10338",
+      "CBG-DC-10087",
+      "CBG-DC-10275"
+    ]
+  },
+  {
+    "id": "CBG-DC-10040",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9371,
+    "y": 38.93,
+    "infraWeight": 1.3817004576391239,
+    "population": 2280,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10096",
+      "CBG-DC-10172",
+      "CBG-DC-10220",
+      "CBG-DC-10217",
+      "CBG-DC-10006"
+    ]
+  },
+  {
+    "id": "CBG-DC-10041",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9794,
+    "y": 38.9139,
+    "infraWeight": 1.441409158802911,
+    "population": 2343,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10065",
+      "CBG-DC-10033",
+      "CBG-DC-10084",
+      "CBG-DC-10109",
+      "CBG-DC-10185"
+    ]
+  },
+  {
+    "id": "CBG-DC-10042",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9631,
+    "y": 38.8743,
+    "infraWeight": 1.421791025047588,
+    "population": 2363,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10182",
+      "CBG-DC-10209",
+      "CBG-DC-10137",
+      "CBG-DC-10345",
+      "CBG-DC-10186"
+    ]
+  },
+  {
+    "id": "CBG-DC-10043",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9314,
+    "y": 38.912,
+    "infraWeight": 1.3822711106466692,
+    "population": 2374,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10037",
+      "CBG-DC-10220",
+      "CBG-DC-10360",
+      "CBG-DC-10249",
+      "CBG-DC-10096"
+    ]
+  },
+  {
+    "id": "CBG-DC-10044",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1126,
+    "y": 38.8441,
+    "infraWeight": 1.351644863006866,
+    "population": 2675,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10153",
+      "CBG-DC-10129",
+      "CBG-DC-10230",
+      "CBG-DC-10021",
+      "CBG-DC-10125"
+    ]
+  },
+  {
+    "id": "CBG-DC-10045",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1045,
+    "y": 38.9416,
+    "infraWeight": 1.3612786326757862,
+    "population": 2649,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10261",
+      "CBG-DC-10216",
+      "CBG-DC-10080",
+      "CBG-DC-10359",
+      "CBG-DC-10233"
+    ]
+  },
+  {
+    "id": "CBG-DC-10046",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0419,
+    "y": 38.9945,
+    "infraWeight": 1.357971889173199,
+    "population": 2136,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10071",
+      "CBG-DC-10179",
+      "CBG-DC-10038",
+      "CBG-DC-10333",
+      "CBG-DC-10102"
+    ]
+  },
+  {
+    "id": "CBG-DC-10047",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0116,
+    "y": 38.9718,
+    "infraWeight": 1.3910844684144987,
+    "population": 2340,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10201",
+      "CBG-DC-10213",
+      "CBG-DC-10107",
+      "CBG-DC-10150",
+      "CBG-DC-10368"
+    ]
+  },
+  {
+    "id": "CBG-DC-10048",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9328,
+    "y": 38.8735,
+    "infraWeight": 1.3834672731094166,
+    "population": 2165,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10268",
+      "CBG-DC-10069",
+      "CBG-DC-10350",
+      "CBG-DC-10088",
+      "CBG-DC-10269"
+    ]
+  },
+  {
+    "id": "CBG-DC-10049",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9956,
+    "y": 38.9797,
+    "infraWeight": 1.3783773419653833,
+    "population": 2610,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10300",
+      "CBG-DC-10072",
+      "CBG-DC-10052",
+      "CBG-DC-10188",
+      "CBG-DC-10356"
+    ]
+  },
+  {
+    "id": "CBG-DC-10050",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9155,
+    "y": 38.9232,
+    "infraWeight": 1.3594369718124497,
+    "population": 2635,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10236",
+      "CBG-DC-10249",
+      "CBG-DC-10220",
+      "CBG-DC-10267",
+      "CBG-DC-10043"
+    ]
+  },
+  {
+    "id": "CBG-DC-10051",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9314,
+    "y": 38.8869,
+    "infraWeight": 1.384454515585985,
+    "population": 2802,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10030",
+      "CBG-DC-10350",
+      "CBG-DC-10312",
+      "CBG-DC-10069",
+      "CBG-DC-10085"
+    ]
+  },
+  {
+    "id": "CBG-DC-10052",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9905,
+    "y": 38.9725,
+    "infraWeight": 1.385564664482399,
+    "population": 2338,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10188",
+      "CBG-DC-10072",
+      "CBG-DC-10300",
+      "CBG-DC-10218",
+      "CBG-DC-10049"
+    ]
+  },
+  {
+    "id": "CBG-DC-10053",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0047,
+    "y": 38.8631,
+    "infraWeight": 1.4534689560157883,
+    "population": 2508,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10064",
+      "CBG-DC-10077",
+      "CBG-DC-10328",
+      "CBG-DC-10231",
+      "CBG-DC-10063"
+    ]
+  },
+  {
+    "id": "CBG-DC-10054",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0345,
+    "y": 38.8178,
+    "infraWeight": 1.391046228379363,
+    "population": 2471,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10003",
+      "CBG-DC-10184",
+      "CBG-DC-10013",
+      "CBG-DC-10174",
+      "CBG-DC-10287"
+    ]
+  },
+  {
+    "id": "CBG-DC-10055",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0862,
+    "y": 38.8741,
+    "infraWeight": 1.396385236490911,
+    "population": 2434,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10358",
+      "CBG-DC-10343",
+      "CBG-DC-10024",
+      "CBG-DC-10144",
+      "CBG-DC-10089"
+    ]
+  },
+  {
+    "id": "CBG-DC-10056",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9495,
+    "y": 38.8925,
+    "infraWeight": 1.408263031965435,
+    "population": 2784,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10235",
+      "CBG-DC-10106",
+      "CBG-DC-10345",
+      "CBG-DC-10323",
+      "CBG-DC-10274"
+    ]
+  },
+  {
+    "id": "CBG-DC-10057",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0139,
+    "y": 38.8172,
+    "infraWeight": 1.3936192862180914,
+    "population": 2829,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10226",
+      "CBG-DC-10164",
+      "CBG-DC-10263",
+      "CBG-DC-10114",
+      "CBG-DC-10193"
+    ]
+  },
+  {
+    "id": "CBG-DC-10058",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9159,
+    "y": 38.7984,
+    "infraWeight": 1.319210402064865,
+    "population": 2416,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10022",
+      "CBG-DC-10338",
+      "CBG-DC-10087",
+      "CBG-DC-10039",
+      "CBG-DC-10275"
+    ]
+  },
+  {
+    "id": "CBG-DC-10059",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1035,
+    "y": 38.9686,
+    "infraWeight": 1.3436593343092917,
+    "population": 2555,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10005",
+      "CBG-DC-10031",
+      "CBG-DC-10138",
+      "CBG-DC-10211",
+      "CBG-DC-10208"
+    ]
+  },
+  {
+    "id": "CBG-DC-10060",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9802,
+    "y": 38.8993,
+    "infraWeight": 1.449507625352096,
+    "population": 2341,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10255",
+      "CBG-DC-10109",
+      "CBG-DC-10185",
+      "CBG-DC-10033",
+      "CBG-DC-10061"
+    ]
+  },
+  {
+    "id": "CBG-DC-10061",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9785,
+    "y": 38.8892,
+    "infraWeight": 1.4473304735949932,
+    "population": 2903,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10104",
+      "CBG-DC-10186",
+      "CBG-DC-10137",
+      "CBG-DC-10255",
+      "CBG-DC-10060"
+    ]
+  },
+  {
+    "id": "CBG-DC-10062",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0761,
+    "y": 38.8452,
+    "infraWeight": 1.3911970903563269,
+    "population": 2552,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10180",
+      "CBG-DC-10142",
+      "CBG-DC-10007",
+      "CBG-DC-10175",
+      "CBG-DC-10070"
+    ]
+  },
+  {
+    "id": "CBG-DC-10063",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.01,
+    "y": 38.8764,
+    "infraWeight": 1.473835567897078,
+    "population": 2872,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10328",
+      "CBG-DC-10064",
+      "CBG-DC-10077",
+      "CBG-DC-10053",
+      "CBG-DC-10296"
+    ]
+  },
+  {
+    "id": "CBG-DC-10064",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0064,
+    "y": 38.867,
+    "infraWeight": 1.4594413717505446,
+    "population": 2731,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10328",
+      "CBG-DC-10053",
+      "CBG-DC-10077",
+      "CBG-DC-10063",
+      "CBG-DC-10231"
+    ]
+  },
+  {
+    "id": "CBG-DC-10065",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9862,
+    "y": 38.911,
+    "infraWeight": 1.45156986677421,
+    "population": 2532,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10033",
+      "CBG-DC-10041",
+      "CBG-DC-10185",
+      "CBG-DC-10109",
+      "CBG-DC-10084"
+    ]
+  },
+  {
+    "id": "CBG-DC-10066",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9848,
+    "y": 38.864,
+    "infraWeight": 1.4396481577275082,
+    "population": 2253,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10295",
+      "CBG-DC-10077",
+      "CBG-DC-10209",
+      "CBG-DC-10186",
+      "CBG-DC-10053"
+    ]
+  },
+  {
+    "id": "CBG-DC-10067",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9883,
+    "y": 38.8862,
+    "infraWeight": 1.4601499054663465,
+    "population": 2618,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10186",
+      "CBG-DC-10061",
+      "CBG-DC-10104",
+      "CBG-DC-10255",
+      "CBG-DC-10192"
+    ]
+  },
+  {
+    "id": "CBG-DC-10068",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0959,
+    "y": 38.8169,
+    "infraWeight": 1.3492239467900733,
+    "population": 2260,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10101",
+      "CBG-DC-10279",
+      "CBG-DC-10362",
+      "CBG-DC-10311",
+      "CBG-DC-10177"
+    ]
+  },
+  {
+    "id": "CBG-DC-10069",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9289,
+    "y": 38.8793,
+    "infraWeight": 1.3800444086961434,
+    "population": 2592,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10350",
+      "CBG-DC-10119",
+      "CBG-DC-10004",
+      "CBG-DC-10048",
+      "CBG-DC-10051"
+    ]
+  },
+  {
+    "id": "CBG-DC-10070",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0621,
+    "y": 38.8456,
+    "infraWeight": 1.4051248922306783,
+    "population": 2388,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10232",
+      "CBG-DC-10036",
+      "CBG-DC-10132",
+      "CBG-DC-10062",
+      "CBG-DC-10007"
+    ]
+  },
+  {
+    "id": "CBG-DC-10071",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0385,
+    "y": 38.9898,
+    "infraWeight": 1.364658272861877,
+    "population": 2192,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10179",
+      "CBG-DC-10046",
+      "CBG-DC-10038",
+      "CBG-DC-10102",
+      "CBG-DC-10333"
+    ]
+  },
+  {
+    "id": "CBG-DC-10072",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9948,
+    "y": 38.9717,
+    "infraWeight": 1.3881353959698226,
+    "population": 2258,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10188",
+      "CBG-DC-10300",
+      "CBG-DC-10052",
+      "CBG-DC-10082",
+      "CBG-DC-10297"
+    ]
+  },
+  {
+    "id": "CBG-DC-10073",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1003,
+    "y": 38.8058,
+    "infraWeight": 1.3361212616652836,
+    "population": 2556,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10334",
+      "CBG-DC-10090",
+      "CBG-DC-10177",
+      "CBG-DC-10068",
+      "CBG-DC-10183"
+    ]
+  },
+  {
+    "id": "CBG-DC-10074",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0407,
+    "y": 38.8755,
+    "infraWeight": 1.4539281369044634,
+    "population": 2885,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10167",
+      "CBG-DC-10289",
+      "CBG-DC-10015",
+      "CBG-DC-10002",
+      "CBG-DC-10326"
+    ]
+  },
+  {
+    "id": "CBG-DC-10075",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9693,
+    "y": 38.9355,
+    "infraWeight": 1.4128388934024099,
+    "population": 2420,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10354",
+      "CBG-DC-10265",
+      "CBG-DC-10100",
+      "CBG-DC-10006",
+      "CBG-DC-10084"
+    ]
+  },
+  {
+    "id": "CBG-DC-10076",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9163,
+    "y": 38.9487,
+    "infraWeight": 1.3480269755889895,
+    "population": 2759,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10347",
+      "CBG-DC-10224",
+      "CBG-DC-10223",
+      "CBG-DC-10252",
+      "CBG-DC-10267"
+    ]
+  },
+  {
+    "id": "CBG-DC-10077",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0021,
+    "y": 38.867,
+    "infraWeight": 1.4572720525923684,
+    "population": 2286,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10064",
+      "CBG-DC-10053",
+      "CBG-DC-10328",
+      "CBG-DC-10063",
+      "CBG-DC-10231"
+    ]
+  },
+  {
+    "id": "CBG-DC-10078",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9533,
+    "y": 38.8038,
+    "infraWeight": 1.3529170999074693,
+    "population": 2710,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10355",
+      "CBG-DC-10285",
+      "CBG-DC-10207",
+      "CBG-DC-10120",
+      "CBG-DC-10264"
+    ]
+  },
+  {
+    "id": "CBG-DC-10079",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0855,
+    "y": 38.8244,
+    "infraWeight": 1.3648305558795428,
+    "population": 2834,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10311",
+      "CBG-DC-10273",
+      "CBG-DC-10279",
+      "CBG-DC-10068",
+      "CBG-DC-10277"
+    ]
+  },
+  {
+    "id": "CBG-DC-10080",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1174,
+    "y": 38.9442,
+    "infraWeight": 1.3457961873131128,
+    "population": 2677,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10261",
+      "CBG-DC-10216",
+      "CBG-DC-10045",
+      "CBG-DC-10202",
+      "CBG-DC-10152"
+    ]
+  },
+  {
+    "id": "CBG-DC-10081",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1061,
+    "y": 38.8809,
+    "infraWeight": 1.373145864600966,
+    "population": 2813,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10221",
+      "CBG-DC-10251",
+      "CBG-DC-10155",
+      "CBG-DC-10256",
+      "CBG-DC-10306"
+    ]
+  },
+  {
+    "id": "CBG-DC-10082",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9981,
+    "y": 38.9678,
+    "infraWeight": 1.3939166487586694,
+    "population": 2571,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10297",
+      "CBG-DC-10072",
+      "CBG-DC-10188",
+      "CBG-DC-10107",
+      "CBG-DC-10300"
+    ]
+  },
+  {
+    "id": "CBG-DC-10083",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0595,
+    "y": 38.7943,
+    "infraWeight": 1.3526957027687767,
+    "population": 2317,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10266",
+      "CBG-DC-10156",
+      "CBG-DC-10122",
+      "CBG-DC-10035",
+      "CBG-DC-10014"
+    ]
+  },
+  {
+    "id": "CBG-DC-10084",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9834,
+    "y": 38.9222,
+    "infraWeight": 1.4391016618036583,
+    "population": 2321,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10041",
+      "CBG-DC-10065",
+      "CBG-DC-10199",
+      "CBG-DC-10191",
+      "CBG-DC-10265"
+    ]
+  },
+  {
+    "id": "CBG-DC-10085",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9205,
+    "y": 38.8879,
+    "infraWeight": 1.3707834144533577,
+    "population": 2286,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10023",
+      "CBG-DC-10312",
+      "CBG-DC-10030",
+      "CBG-DC-10119",
+      "CBG-DC-10051"
+    ]
+  },
+  {
+    "id": "CBG-DC-10086",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0483,
+    "y": 38.8583,
+    "infraWeight": 1.4301779145555988,
+    "population": 2968,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10361",
+      "CBG-DC-10015",
+      "CBG-DC-10036",
+      "CBG-DC-10289",
+      "CBG-DC-10132"
+    ]
+  },
+  {
+    "id": "CBG-DC-10087",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9226,
+    "y": 38.7979,
+    "infraWeight": 1.3243200319767017,
+    "population": 2405,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10058",
+      "CBG-DC-10338",
+      "CBG-DC-10022",
+      "CBG-DC-10039",
+      "CBG-DC-10370"
+    ]
+  },
+  {
+    "id": "CBG-DC-10088",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.926,
+    "y": 38.868,
+    "infraWeight": 1.3733908638083425,
+    "population": 2533,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10222",
+      "CBG-DC-10048",
+      "CBG-DC-10004",
+      "CBG-DC-10269",
+      "CBG-DC-10371"
+    ]
+  },
+  {
+    "id": "CBG-DC-10089",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0847,
+    "y": 38.8618,
+    "infraWeight": 1.3928309043834959,
+    "population": 2366,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10144",
+      "CBG-DC-10128",
+      "CBG-DC-10332",
+      "CBG-DC-10343",
+      "CBG-DC-10142"
+    ]
+  },
+  {
+    "id": "CBG-DC-10090",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.109,
+    "y": 38.8017,
+    "infraWeight": 1.3253696002350592,
+    "population": 2241,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10334",
+      "CBG-DC-10183",
+      "CBG-DC-10073",
+      "CBG-DC-10177",
+      "CBG-DC-10165"
+    ]
+  },
+  {
+    "id": "CBG-DC-10091",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0935,
+    "y": 38.8937,
+    "infraWeight": 1.3903348429372442,
+    "population": 2203,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10305",
+      "CBG-DC-10146",
+      "CBG-DC-10309",
+      "CBG-DC-10251",
+      "CBG-DC-10306"
+    ]
+  },
+  {
+    "id": "CBG-DC-10092",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9425,
+    "y": 38.8418,
+    "infraWeight": 1.3777600603559705,
+    "population": 2893,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10308",
+      "CBG-DC-10027",
+      "CBG-DC-10346",
+      "CBG-DC-10330",
+      "CBG-DC-10371"
+    ]
+  },
+  {
+    "id": "CBG-DC-10093",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0515,
+    "y": 38.9583,
+    "infraWeight": 1.3959419502192745,
+    "population": 2683,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10320",
+      "CBG-DC-10123",
+      "CBG-DC-10374",
+      "CBG-DC-10280",
+      "CBG-DC-10000"
+    ]
+  },
+  {
+    "id": "CBG-DC-10094",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9828,
+    "y": 38.8301,
+    "infraWeight": 1.4005772743756824,
+    "population": 2747,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10105",
+      "CBG-DC-10295",
+      "CBG-DC-10324",
+      "CBG-DC-10254",
+      "CBG-DC-10196"
+    ]
+  },
+  {
+    "id": "CBG-DC-10095",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.034,
+    "y": 38.957,
+    "infraWeight": 1.4066760319006628,
+    "population": 2518,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10318",
+      "CBG-DC-10248",
+      "CBG-DC-10227",
+      "CBG-DC-10373",
+      "CBG-DC-10234"
+    ]
+  },
+  {
+    "id": "CBG-DC-10096",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9389,
+    "y": 38.9271,
+    "infraWeight": 1.385245659044737,
+    "population": 2558,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10040",
+      "CBG-DC-10172",
+      "CBG-DC-10217",
+      "CBG-DC-10220",
+      "CBG-DC-10006"
+    ]
+  },
+  {
+    "id": "CBG-DC-10097",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0452,
+    "y": 38.9324,
+    "infraWeight": 1.429317648236995,
+    "population": 2943,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10148",
+      "CBG-DC-10116",
+      "CBG-DC-10292",
+      "CBG-DC-10344",
+      "CBG-DC-10098"
+    ]
+  },
+  {
+    "id": "CBG-DC-10098",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0565,
+    "y": 38.9377,
+    "infraWeight": 1.413915481259378,
+    "population": 2518,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10160",
+      "CBG-DC-10260",
+      "CBG-DC-10292",
+      "CBG-DC-10012",
+      "CBG-DC-10148"
+    ]
+  },
+  {
+    "id": "CBG-DC-10099",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0681,
+    "y": 38.932,
+    "infraWeight": 1.4072171418067916,
+    "population": 2201,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10210",
+      "CBG-DC-10190",
+      "CBG-DC-10253",
+      "CBG-DC-10260",
+      "CBG-DC-10012"
+    ]
+  },
+  {
+    "id": "CBG-DC-10100",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9674,
+    "y": 38.9244,
+    "infraWeight": 1.419928828704398,
+    "population": 2891,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10075",
+      "CBG-DC-10354",
+      "CBG-DC-10041",
+      "CBG-DC-10006",
+      "CBG-DC-10084"
+    ]
+  },
+  {
+    "id": "CBG-DC-10101",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0988,
+    "y": 38.8191,
+    "infraWeight": 1.3484510339142983,
+    "population": 2688,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10068",
+      "CBG-DC-10362",
+      "CBG-DC-10279",
+      "CBG-DC-10311",
+      "CBG-DC-10353"
+    ]
+  },
+  {
+    "id": "CBG-DC-10102",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0383,
+    "y": 38.9756,
+    "infraWeight": 1.3819805747644234,
+    "population": 2874,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10141",
+      "CBG-DC-10127",
+      "CBG-DC-10250",
+      "CBG-DC-10179",
+      "CBG-DC-10071"
+    ]
+  },
+  {
+    "id": "CBG-DC-10103",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0083,
+    "y": 38.9004,
+    "infraWeight": 1.486161579312396,
+    "population": 2905,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10342",
+      "CBG-DC-10192",
+      "CBG-DC-10158",
+      "CBG-DC-10278",
+      "CBG-DC-10283"
+    ]
+  },
+  {
+    "id": "CBG-DC-10104",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9753,
+    "y": 38.8895,
+    "infraWeight": 1.443029527026886,
+    "population": 2485,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10061",
+      "CBG-DC-10137",
+      "CBG-DC-10186",
+      "CBG-DC-10255",
+      "CBG-DC-10060"
+    ]
+  },
+  {
+    "id": "CBG-DC-10105",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9779,
+    "y": 38.8341,
+    "infraWeight": 1.40208051413949,
+    "population": 2351,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10094",
+      "CBG-DC-10295",
+      "CBG-DC-10324",
+      "CBG-DC-10330",
+      "CBG-DC-10346"
+    ]
+  },
+  {
+    "id": "CBG-DC-10106",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9436,
+    "y": 38.8924,
+    "infraWeight": 1.4005850159548088,
+    "population": 2880,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10056",
+      "CBG-DC-10235",
+      "CBG-DC-10345",
+      "CBG-DC-10360",
+      "CBG-DC-10051"
+    ]
+  },
+  {
+    "id": "CBG-DC-10107",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0045,
+    "y": 38.9685,
+    "infraWeight": 1.3945475601697668,
+    "population": 2249,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10201",
+      "CBG-DC-10150",
+      "CBG-DC-10082",
+      "CBG-DC-10047",
+      "CBG-DC-10297"
+    ]
+  },
+  {
+    "id": "CBG-DC-10108",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0425,
+    "y": 38.8413,
+    "infraWeight": 1.4160479054918074,
+    "population": 2729,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10132",
+      "CBG-DC-10036",
+      "CBG-DC-10131",
+      "CBG-DC-10361",
+      "CBG-DC-10287"
+    ]
+  },
+  {
+    "id": "CBG-DC-10109",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9802,
+    "y": 38.9023,
+    "infraWeight": 1.4486112016044659,
+    "population": 2939,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10060",
+      "CBG-DC-10033",
+      "CBG-DC-10255",
+      "CBG-DC-10185",
+      "CBG-DC-10065"
+    ]
+  },
+  {
+    "id": "CBG-DC-10110",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9902,
+    "y": 38.8107,
+    "infraWeight": 1.3807392771151736,
+    "population": 2703,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10254",
+      "CBG-DC-10348",
+      "CBG-DC-10198",
+      "CBG-DC-10029",
+      "CBG-DC-10307"
+    ]
+  },
+  {
+    "id": "CBG-DC-10111",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9218,
+    "y": 38.9713,
+    "infraWeight": 1.338065326653365,
+    "population": 2176,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10008",
+      "CBG-DC-10017",
+      "CBG-DC-10224",
+      "CBG-DC-10299",
+      "CBG-DC-10335"
+    ]
+  },
+  {
+    "id": "CBG-DC-10112",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0262,
+    "y": 38.7925,
+    "infraWeight": 1.3615209114860585,
+    "population": 2832,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10143",
+      "CBG-DC-10178",
+      "CBG-DC-10203",
+      "CBG-DC-10195",
+      "CBG-DC-10156"
+    ]
+  },
+  {
+    "id": "CBG-DC-10113",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0227,
+    "y": 38.9147,
+    "infraWeight": 1.4668395159103917,
+    "population": 2955,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10238",
+      "CBG-DC-10342",
+      "CBG-DC-10319",
+      "CBG-DC-10294",
+      "CBG-DC-10140"
+    ]
+  },
+  {
+    "id": "CBG-DC-10114",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0071,
+    "y": 38.8072,
+    "infraWeight": 1.3804012881446257,
+    "population": 2184,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10271",
+      "CBG-DC-10259",
+      "CBG-DC-10029",
+      "CBG-DC-10057",
+      "CBG-DC-10263"
+    ]
+  },
+  {
+    "id": "CBG-DC-10115",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0797,
+    "y": 38.9729,
+    "infraWeight": 1.3604112497675034,
+    "population": 2427,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10215",
+      "CBG-DC-10162",
+      "CBG-DC-10009",
+      "CBG-DC-10229",
+      "CBG-DC-10176"
+    ]
+  },
+  {
+    "id": "CBG-DC-10116",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.043,
+    "y": 38.9264,
+    "infraWeight": 1.4375377853059703,
+    "population": 2528,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10097",
+      "CBG-DC-10140",
+      "CBG-DC-10148",
+      "CBG-DC-10344",
+      "CBG-DC-10292"
+    ]
+  },
+  {
+    "id": "CBG-DC-10117",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1114,
+    "y": 38.8198,
+    "infraWeight": 1.337281923152067,
+    "population": 2522,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10165",
+      "CBG-DC-10353",
+      "CBG-DC-10177",
+      "CBG-DC-10183",
+      "CBG-DC-10362"
+    ]
+  },
+  {
+    "id": "CBG-DC-10118",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0648,
+    "y": 38.8663,
+    "infraWeight": 1.4189627461990113,
+    "population": 2726,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10288",
+      "CBG-DC-10352",
+      "CBG-DC-10291",
+      "CBG-DC-10290",
+      "CBG-DC-10142"
+    ]
+  },
+  {
+    "id": "CBG-DC-10119",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9224,
+    "y": 38.8797,
+    "infraWeight": 1.3720364183559217,
+    "population": 2721,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10004",
+      "CBG-DC-10069",
+      "CBG-DC-10222",
+      "CBG-DC-10085",
+      "CBG-DC-10312"
+    ]
+  },
+  {
+    "id": "CBG-DC-10120",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9472,
+    "y": 38.8092,
+    "infraWeight": 1.3537975387599885,
+    "population": 2558,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10325",
+      "CBG-DC-10078",
+      "CBG-DC-10264",
+      "CBG-DC-10285",
+      "CBG-DC-10275"
+    ]
+  },
+  {
+    "id": "CBG-DC-10121",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9138,
+    "y": 38.9949,
+    "infraWeight": 1.3123949927429024,
+    "population": 2440,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10001",
+      "CBG-DC-10008",
+      "CBG-DC-10111",
+      "CBG-DC-10017",
+      "CBG-DC-10258"
+    ]
+  },
+  {
+    "id": "CBG-DC-10122",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0481,
+    "y": 38.8111,
+    "infraWeight": 1.3774311466242959,
+    "population": 2583,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10367",
+      "CBG-DC-10035",
+      "CBG-DC-10357",
+      "CBG-DC-10174",
+      "CBG-DC-10013"
+    ]
+  },
+  {
+    "id": "CBG-DC-10123",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0476,
+    "y": 38.9595,
+    "infraWeight": 1.3969590791054798,
+    "population": 2307,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10280",
+      "CBG-DC-10093",
+      "CBG-DC-10374",
+      "CBG-DC-10227",
+      "CBG-DC-10320"
+    ]
+  },
+  {
+    "id": "CBG-DC-10124",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1183,
+    "y": 38.8723,
+    "infraWeight": 1.3563668214751217,
+    "population": 2680,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10339",
+      "CBG-DC-10155",
+      "CBG-DC-10221",
+      "CBG-DC-10020",
+      "CBG-DC-10081"
+    ]
+  },
+  {
+    "id": "CBG-DC-10125",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0985,
+    "y": 38.8471,
+    "infraWeight": 1.368688692838306,
+    "population": 2564,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10021",
+      "CBG-DC-10129",
+      "CBG-DC-10175",
+      "CBG-DC-10303",
+      "CBG-DC-10332"
+    ]
+  },
+  {
+    "id": "CBG-DC-10126",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9505,
+    "y": 38.9545,
+    "infraWeight": 1.3781745744911627,
+    "population": 2196,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10363",
+      "CBG-DC-10313",
+      "CBG-DC-10228",
+      "CBG-DC-10206",
+      "CBG-DC-10286"
+    ]
+  },
+  {
+    "id": "CBG-DC-10127",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0289,
+    "y": 38.9735,
+    "infraWeight": 1.387266884789866,
+    "population": 2257,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10102",
+      "CBG-DC-10141",
+      "CBG-DC-10272",
+      "CBG-DC-10179",
+      "CBG-DC-10095"
+    ]
+  },
+  {
+    "id": "CBG-DC-10128",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0896,
+    "y": 38.8593,
+    "infraWeight": 1.3857579177784658,
+    "population": 2182,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10144",
+      "CBG-DC-10089",
+      "CBG-DC-10332",
+      "CBG-DC-10024",
+      "CBG-DC-10175"
+    ]
+  },
+  {
+    "id": "CBG-DC-10129",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1053,
+    "y": 38.8438,
+    "infraWeight": 1.3594393492043486,
+    "population": 2403,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10021",
+      "CBG-DC-10044",
+      "CBG-DC-10125",
+      "CBG-DC-10303",
+      "CBG-DC-10230"
+    ]
+  },
+  {
+    "id": "CBG-DC-10130",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0466,
+    "y": 38.8953,
+    "infraWeight": 1.4534837863980972,
+    "population": 2894,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10310",
+      "CBG-DC-10326",
+      "CBG-DC-10282",
+      "CBG-DC-10159",
+      "CBG-DC-10149"
+    ]
+  },
+  {
+    "id": "CBG-DC-10131",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0336,
+    "y": 38.8305,
+    "infraWeight": 1.407386939000093,
+    "population": 2245,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10028",
+      "CBG-DC-10287",
+      "CBG-DC-10184",
+      "CBG-DC-10054",
+      "CBG-DC-10108"
+    ]
+  },
+  {
+    "id": "CBG-DC-10132",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0489,
+    "y": 38.8436,
+    "infraWeight": 1.4142624419936616,
+    "population": 2866,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10108",
+      "CBG-DC-10036",
+      "CBG-DC-10361",
+      "CBG-DC-10232",
+      "CBG-DC-10070"
+    ]
+  },
+  {
+    "id": "CBG-DC-10133",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0038,
+    "y": 38.9952,
+    "infraWeight": 1.3609402835666848,
+    "population": 2481,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10011",
+      "CBG-DC-10356",
+      "CBG-DC-10049",
+      "CBG-DC-10272",
+      "CBG-DC-10300"
+    ]
+  },
+  {
+    "id": "CBG-DC-10134",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9978,
+    "y": 38.9548,
+    "infraWeight": 1.410455179179749,
+    "population": 2595,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10225",
+      "CBG-DC-10297",
+      "CBG-DC-10147",
+      "CBG-DC-10082",
+      "CBG-DC-10150"
+    ]
+  },
+  {
+    "id": "CBG-DC-10135",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0969,
+    "y": 38.985,
+    "infraWeight": 1.3356868377008162,
+    "population": 2398,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10208",
+      "CBG-DC-10211",
+      "CBG-DC-10317",
+      "CBG-DC-10031",
+      "CBG-DC-10151"
+    ]
+  },
+  {
+    "id": "CBG-DC-10136",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9713,
+    "y": 38.9647,
+    "infraWeight": 1.3846194702407324,
+    "population": 2904,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10171",
+      "CBG-DC-10240",
+      "CBG-DC-10313",
+      "CBG-DC-10363",
+      "CBG-DC-10218"
+    ]
+  },
+  {
+    "id": "CBG-DC-10137",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.97,
+    "y": 38.8855,
+    "infraWeight": 1.4349312133587249,
+    "population": 2290,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10104",
+      "CBG-DC-10186",
+      "CBG-DC-10061",
+      "CBG-DC-10042",
+      "CBG-DC-10345"
+    ]
+  },
+  {
+    "id": "CBG-DC-10138",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0965,
+    "y": 38.9636,
+    "infraWeight": 1.35406370171276,
+    "population": 2498,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10059",
+      "CBG-DC-10229",
+      "CBG-DC-10005",
+      "CBG-DC-10031",
+      "CBG-DC-10215"
+    ]
+  },
+  {
+    "id": "CBG-DC-10139",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1184,
+    "y": 38.926,
+    "infraWeight": 1.352885446996657,
+    "population": 2133,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10152",
+      "CBG-DC-10246",
+      "CBG-DC-10359",
+      "CBG-DC-10080",
+      "CBG-DC-10261"
+    ]
+  },
+  {
+    "id": "CBG-DC-10140",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0371,
+    "y": 38.9211,
+    "infraWeight": 1.4484884846383177,
+    "population": 2624,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10116",
+      "CBG-DC-10097",
+      "CBG-DC-10344",
+      "CBG-DC-10113",
+      "CBG-DC-10148"
+    ]
+  },
+  {
+    "id": "CBG-DC-10141",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0396,
+    "y": 38.9681,
+    "infraWeight": 1.3906438954707445,
+    "population": 2506,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10102",
+      "CBG-DC-10248",
+      "CBG-DC-10250",
+      "CBG-DC-10227",
+      "CBG-DC-10318"
+    ]
+  },
+  {
+    "id": "CBG-DC-10142",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0761,
+    "y": 38.8556,
+    "infraWeight": 1.3989695189758302,
+    "population": 2258,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10180",
+      "CBG-DC-10290",
+      "CBG-DC-10352",
+      "CBG-DC-10291",
+      "CBG-DC-10062"
+    ]
+  },
+  {
+    "id": "CBG-DC-10143",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0198,
+    "y": 38.7938,
+    "infraWeight": 1.3638178627908761,
+    "population": 2846,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10178",
+      "CBG-DC-10112",
+      "CBG-DC-10195",
+      "CBG-DC-10203",
+      "CBG-DC-10263"
+    ]
+  },
+  {
+    "id": "CBG-DC-10144",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0894,
+    "y": 38.8635,
+    "infraWeight": 1.388126728205337,
+    "population": 2559,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10128",
+      "CBG-DC-10089",
+      "CBG-DC-10024",
+      "CBG-DC-10358",
+      "CBG-DC-10332"
+    ]
+  },
+  {
+    "id": "CBG-DC-10145",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0828,
+    "y": 38.934,
+    "infraWeight": 1.3898490691450935,
+    "population": 2717,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10019",
+      "CBG-DC-10233",
+      "CBG-DC-10327",
+      "CBG-DC-10099",
+      "CBG-DC-10210"
+    ]
+  },
+  {
+    "id": "CBG-DC-10146",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0994,
+    "y": 38.8961,
+    "infraWeight": 1.3826440925062866,
+    "population": 2779,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10305",
+      "CBG-DC-10309",
+      "CBG-DC-10091",
+      "CBG-DC-10306",
+      "CBG-DC-10256"
+    ]
+  },
+  {
+    "id": "CBG-DC-10147",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0061,
+    "y": 38.946,
+    "infraWeight": 1.4242893239600631,
+    "population": 2687,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10341",
+      "CBG-DC-10225",
+      "CBG-DC-10134",
+      "CBG-DC-10322",
+      "CBG-DC-10368"
+    ]
+  },
+  {
+    "id": "CBG-DC-10148",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0488,
+    "y": 38.9326,
+    "infraWeight": 1.4259707072177814,
+    "population": 2378,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10097",
+      "CBG-DC-10292",
+      "CBG-DC-10116",
+      "CBG-DC-10098",
+      "CBG-DC-10160"
+    ]
+  },
+  {
+    "id": "CBG-DC-10149",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0597,
+    "y": 38.8928,
+    "infraWeight": 1.4353078156966552,
+    "population": 2492,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10336",
+      "CBG-DC-10247",
+      "CBG-DC-10205",
+      "CBG-DC-10276",
+      "CBG-DC-10130"
+    ]
+  },
+  {
+    "id": "CBG-DC-10150",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0081,
+    "y": 38.9643,
+    "infraWeight": 1.4004397233276564,
+    "population": 2661,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10368",
+      "CBG-DC-10107",
+      "CBG-DC-10213",
+      "CBG-DC-10047",
+      "CBG-DC-10201"
+    ]
+  },
+  {
+    "id": "CBG-DC-10151",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0827,
+    "y": 38.9902,
+    "infraWeight": 1.3414150634634896,
+    "population": 2212,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10176",
+      "CBG-DC-10162",
+      "CBG-DC-10304",
+      "CBG-DC-10317",
+      "CBG-DC-10135"
+    ]
+  },
+  {
+    "id": "CBG-DC-10152",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1181,
+    "y": 38.9262,
+    "infraWeight": 1.3531928808033293,
+    "population": 2508,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10139",
+      "CBG-DC-10246",
+      "CBG-DC-10359",
+      "CBG-DC-10080",
+      "CBG-DC-10261"
+    ]
+  },
+  {
+    "id": "CBG-DC-10153",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1156,
+    "y": 38.838,
+    "infraWeight": 1.3449900475275325,
+    "population": 2419,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10044",
+      "CBG-DC-10129",
+      "CBG-DC-10021",
+      "CBG-DC-10230",
+      "CBG-DC-10303"
+    ]
+  },
+  {
+    "id": "CBG-DC-10154",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0821,
+    "y": 38.9073,
+    "infraWeight": 1.4033730361021048,
+    "population": 2226,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10340",
+      "CBG-DC-10369",
+      "CBG-DC-10204",
+      "CBG-DC-10309",
+      "CBG-DC-10327"
+    ]
+  },
+  {
+    "id": "CBG-DC-10155",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1164,
+    "y": 38.8777,
+    "infraWeight": 1.359927740912501,
+    "population": 2652,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10124",
+      "CBG-DC-10221",
+      "CBG-DC-10339",
+      "CBG-DC-10081",
+      "CBG-DC-10257"
+    ]
+  },
+  {
+    "id": "CBG-DC-10156",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0402,
+    "y": 38.7988,
+    "infraWeight": 1.3658956623043783,
+    "population": 2136,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10203",
+      "CBG-DC-10035",
+      "CBG-DC-10174",
+      "CBG-DC-10013",
+      "CBG-DC-10122"
+    ]
+  },
+  {
+    "id": "CBG-DC-10157",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9215,
+    "y": 38.8313,
+    "infraWeight": 1.3488967475881268,
+    "population": 2190,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10163",
+      "CBG-DC-10237",
+      "CBG-DC-10027",
+      "CBG-DC-10166",
+      "CBG-DC-10092"
+    ]
+  },
+  {
+    "id": "CBG-DC-10158",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0008,
+    "y": 38.9098,
+    "infraWeight": 1.4686937328938836,
+    "population": 2505,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10278",
+      "CBG-DC-10283",
+      "CBG-DC-10103",
+      "CBG-DC-10192",
+      "CBG-DC-10065"
+    ]
+  },
+  {
+    "id": "CBG-DC-10159",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0363,
+    "y": 38.8957,
+    "infraWeight": 1.4680412384509478,
+    "population": 2995,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10243",
+      "CBG-DC-10326",
+      "CBG-DC-10310",
+      "CBG-DC-10189",
+      "CBG-DC-10130"
+    ]
+  },
+  {
+    "id": "CBG-DC-10160",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0578,
+    "y": 38.9376,
+    "infraWeight": 1.4128499709055378,
+    "population": 2656,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10098",
+      "CBG-DC-10260",
+      "CBG-DC-10292",
+      "CBG-DC-10012",
+      "CBG-DC-10253"
+    ]
+  },
+  {
+    "id": "CBG-DC-10161",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0155,
+    "y": 38.8406,
+    "infraWeight": 1.4245747744809245,
+    "population": 2753,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10331",
+      "CBG-DC-10032",
+      "CBG-DC-10314",
+      "CBG-DC-10315",
+      "CBG-DC-10193"
+    ]
+  },
+  {
+    "id": "CBG-DC-10162",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0809,
+    "y": 38.9847,
+    "infraWeight": 1.348035352003662,
+    "population": 2172,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10176",
+      "CBG-DC-10151",
+      "CBG-DC-10304",
+      "CBG-DC-10115",
+      "CBG-DC-10317"
+    ]
+  },
+  {
+    "id": "CBG-DC-10163",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9165,
+    "y": 38.8347,
+    "infraWeight": 1.3459731025036001,
+    "population": 2112,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10157",
+      "CBG-DC-10027",
+      "CBG-DC-10237",
+      "CBG-DC-10262",
+      "CBG-DC-10239"
+    ]
+  },
+  {
+    "id": "CBG-DC-10164",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0206,
+    "y": 38.8125,
+    "infraWeight": 1.3872483531091282,
+    "population": 2220,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10263",
+      "CBG-DC-10226",
+      "CBG-DC-10057",
+      "CBG-DC-10195",
+      "CBG-DC-10003"
+    ]
+  },
+  {
+    "id": "CBG-DC-10165",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.11,
+    "y": 38.8159,
+    "infraWeight": 1.3356661007023798,
+    "population": 2089,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10177",
+      "CBG-DC-10117",
+      "CBG-DC-10183",
+      "CBG-DC-10353",
+      "CBG-DC-10362"
+    ]
+  },
+  {
+    "id": "CBG-DC-10166",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.94,
+    "y": 38.8184,
+    "infraWeight": 1.3563946199366625,
+    "population": 2710,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10275",
+      "CBG-DC-10237",
+      "CBG-DC-10120",
+      "CBG-DC-10325",
+      "CBG-DC-10078"
+    ]
+  },
+  {
+    "id": "CBG-DC-10167",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0334,
+    "y": 38.8798,
+    "infraWeight": 1.4658592978168763,
+    "population": 2358,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10002",
+      "CBG-DC-10074",
+      "CBG-DC-10189",
+      "CBG-DC-10243",
+      "CBG-DC-10326"
+    ]
+  },
+  {
+    "id": "CBG-DC-10168",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0211,
+    "y": 38.9501,
+    "infraWeight": 1.419223527431375,
+    "population": 2524,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10234",
+      "CBG-DC-10322",
+      "CBG-DC-10373",
+      "CBG-DC-10316",
+      "CBG-DC-10368"
+    ]
+  },
+  {
+    "id": "CBG-DC-10169",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.008,
+    "y": 38.9253,
+    "infraWeight": 1.4528690194043568,
+    "population": 2751,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10284",
+      "CBG-DC-10238",
+      "CBG-DC-10366",
+      "CBG-DC-10283",
+      "CBG-DC-10278"
+    ]
+  },
+  {
+    "id": "CBG-DC-10170",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0076,
+    "y": 38.829,
+    "infraWeight": 1.408585180765958,
+    "population": 2487,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10193",
+      "CBG-DC-10196",
+      "CBG-DC-10315",
+      "CBG-DC-10331",
+      "CBG-DC-10057"
+    ]
+  },
+  {
+    "id": "CBG-DC-10171",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9652,
+    "y": 38.9602,
+    "infraWeight": 1.3850562073718156,
+    "population": 2261,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10136",
+      "CBG-DC-10313",
+      "CBG-DC-10363",
+      "CBG-DC-10126",
+      "CBG-DC-10025"
+    ]
+  },
+  {
+    "id": "CBG-DC-10172",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9382,
+    "y": 38.9337,
+    "infraWeight": 1.3807706070540207,
+    "population": 2710,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10040",
+      "CBG-DC-10096",
+      "CBG-DC-10217",
+      "CBG-DC-10006",
+      "CBG-DC-10220"
+    ]
+  },
+  {
+    "id": "CBG-DC-10173",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0759,
+    "y": 38.9524,
+    "infraWeight": 1.3825511465119456,
+    "population": 2412,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10194",
+      "CBG-DC-10349",
+      "CBG-DC-10337",
+      "CBG-DC-10034",
+      "CBG-DC-10026"
+    ]
+  },
+  {
+    "id": "CBG-DC-10174",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0393,
+    "y": 38.8083,
+    "infraWeight": 1.3777723456468065,
+    "population": 2623,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10013",
+      "CBG-DC-10035",
+      "CBG-DC-10367",
+      "CBG-DC-10122",
+      "CBG-DC-10156"
+    ]
+  },
+  {
+    "id": "CBG-DC-10175",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0895,
+    "y": 38.8481,
+    "infraWeight": 1.3791853101027098,
+    "population": 2685,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10332",
+      "CBG-DC-10125",
+      "CBG-DC-10180",
+      "CBG-DC-10128",
+      "CBG-DC-10303"
+    ]
+  },
+  {
+    "id": "CBG-DC-10176",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0801,
+    "y": 38.9866,
+    "infraWeight": 1.346701319260731,
+    "population": 2292,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10162",
+      "CBG-DC-10151",
+      "CBG-DC-10304",
+      "CBG-DC-10317",
+      "CBG-DC-10115"
+    ]
+  },
+  {
+    "id": "CBG-DC-10177",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1064,
+    "y": 38.8148,
+    "infraWeight": 1.33819447375497,
+    "population": 2274,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10165",
+      "CBG-DC-10117",
+      "CBG-DC-10183",
+      "CBG-DC-10101",
+      "CBG-DC-10353"
+    ]
+  },
+  {
+    "id": "CBG-DC-10178",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0202,
+    "y": 38.7966,
+    "infraWeight": 1.3671858422264456,
+    "population": 2439,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10143",
+      "CBG-DC-10112",
+      "CBG-DC-10195",
+      "CBG-DC-10263",
+      "CBG-DC-10203"
+    ]
+  },
+  {
+    "id": "CBG-DC-10179",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0375,
+    "y": 38.9882,
+    "infraWeight": 1.3668706395544141,
+    "population": 2303,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10071",
+      "CBG-DC-10046",
+      "CBG-DC-10038",
+      "CBG-DC-10102",
+      "CBG-DC-10272"
+    ]
+  },
+  {
+    "id": "CBG-DC-10180",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0801,
+    "y": 38.8512,
+    "infraWeight": 1.3914920375932631,
+    "population": 2783,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10142",
+      "CBG-DC-10062",
+      "CBG-DC-10332",
+      "CBG-DC-10175",
+      "CBG-DC-10089"
+    ]
+  },
+  {
+    "id": "CBG-DC-10181",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9501,
+    "y": 38.9807,
+    "infraWeight": 1.3533075281068074,
+    "population": 2413,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10258",
+      "CBG-DC-10025",
+      "CBG-DC-10335",
+      "CBG-DC-10286",
+      "CBG-DC-10017"
+    ]
+  },
+  {
+    "id": "CBG-DC-10182",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9622,
+    "y": 38.8686,
+    "infraWeight": 1.417687011496066,
+    "population": 2635,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10042",
+      "CBG-DC-10209",
+      "CBG-DC-10137",
+      "CBG-DC-10186",
+      "CBG-DC-10345"
+    ]
+  },
+  {
+    "id": "CBG-DC-10183",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1123,
+    "y": 38.8086,
+    "infraWeight": 1.3280514536027506,
+    "population": 2274,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10090",
+      "CBG-DC-10165",
+      "CBG-DC-10177",
+      "CBG-DC-10334",
+      "CBG-DC-10117"
+    ]
+  },
+  {
+    "id": "CBG-DC-10184",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0306,
+    "y": 38.8217,
+    "infraWeight": 1.3971074249287398,
+    "population": 2361,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10003",
+      "CBG-DC-10054",
+      "CBG-DC-10028",
+      "CBG-DC-10131",
+      "CBG-DC-10226"
+    ]
+  },
+  {
+    "id": "CBG-DC-10185",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9854,
+    "y": 38.9013,
+    "infraWeight": 1.4559683405902188,
+    "population": 2978,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10255",
+      "CBG-DC-10109",
+      "CBG-DC-10033",
+      "CBG-DC-10060",
+      "CBG-DC-10065"
+    ]
+  },
+  {
+    "id": "CBG-DC-10186",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9787,
+    "y": 38.8829,
+    "infraWeight": 1.445916243764032,
+    "population": 3000,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10061",
+      "CBG-DC-10104",
+      "CBG-DC-10137",
+      "CBG-DC-10067",
+      "CBG-DC-10255"
+    ]
+  },
+  {
+    "id": "CBG-DC-10187",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0883,
+    "y": 38.7932,
+    "infraWeight": 1.3338959775124626,
+    "population": 2350,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10014",
+      "CBG-DC-10018",
+      "CBG-DC-10073",
+      "CBG-DC-10334",
+      "CBG-DC-10277"
+    ]
+  },
+  {
+    "id": "CBG-DC-10188",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9926,
+    "y": 38.9705,
+    "infraWeight": 1.3888285452201397,
+    "population": 2517,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10072",
+      "CBG-DC-10052",
+      "CBG-DC-10300",
+      "CBG-DC-10082",
+      "CBG-DC-10297"
+    ]
+  },
+  {
+    "id": "CBG-DC-10189",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0286,
+    "y": 38.8889,
+    "infraWeight": 1.478150180124447,
+    "population": 2851,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10243",
+      "CBG-DC-10002",
+      "CBG-DC-10159",
+      "CBG-DC-10167",
+      "CBG-DC-10326"
+    ]
+  },
+  {
+    "id": "CBG-DC-10190",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0643,
+    "y": 38.9283,
+    "infraWeight": 1.4142341725528436,
+    "population": 2936,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10253",
+      "CBG-DC-10012",
+      "CBG-DC-10210",
+      "CBG-DC-10099",
+      "CBG-DC-10260"
+    ]
+  },
+  {
+    "id": "CBG-DC-10191",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.993,
+    "y": 38.9312,
+    "infraWeight": 1.4375843767924217,
+    "population": 2290,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10199",
+      "CBG-DC-10366",
+      "CBG-DC-10084",
+      "CBG-DC-10284",
+      "CBG-DC-10265"
+    ]
+  },
+  {
+    "id": "CBG-DC-10192",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.999,
+    "y": 38.8954,
+    "infraWeight": 1.4768134476974804,
+    "population": 3000,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10103",
+      "CBG-DC-10067",
+      "CBG-DC-10158",
+      "CBG-DC-10185",
+      "CBG-DC-10255"
+    ]
+  },
+  {
+    "id": "CBG-DC-10193",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0172,
+    "y": 38.8294,
+    "infraWeight": 1.4094483483757665,
+    "population": 2624,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10315",
+      "CBG-DC-10170",
+      "CBG-DC-10226",
+      "CBG-DC-10331",
+      "CBG-DC-10161"
+    ]
+  },
+  {
+    "id": "CBG-DC-10194",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0731,
+    "y": 38.9537,
+    "infraWeight": 1.3839249191091045,
+    "population": 2521,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10173",
+      "CBG-DC-10034",
+      "CBG-DC-10349",
+      "CBG-DC-10337",
+      "CBG-DC-10009"
+    ]
+  },
+  {
+    "id": "CBG-DC-10195",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.022,
+    "y": 38.8042,
+    "infraWeight": 1.3765876695271404,
+    "population": 2208,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10263",
+      "CBG-DC-10178",
+      "CBG-DC-10164",
+      "CBG-DC-10143",
+      "CBG-DC-10112"
+    ]
+  },
+  {
+    "id": "CBG-DC-10196",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0008,
+    "y": 38.8362,
+    "infraWeight": 1.4164060707036756,
+    "population": 2819,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10372",
+      "CBG-DC-10170",
+      "CBG-DC-10032",
+      "CBG-DC-10331",
+      "CBG-DC-10161"
+    ]
+  },
+  {
+    "id": "CBG-DC-10197",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9691,
+    "y": 38.811,
+    "infraWeight": 1.370752624197276,
+    "population": 2817,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10298",
+      "CBG-DC-10324",
+      "CBG-DC-10207",
+      "CBG-DC-10348",
+      "CBG-DC-10254"
+    ]
+  },
+  {
+    "id": "CBG-DC-10198",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9898,
+    "y": 38.7985,
+    "infraWeight": 1.3658756032838613,
+    "population": 2714,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10245",
+      "CBG-DC-10242",
+      "CBG-DC-10029",
+      "CBG-DC-10307",
+      "CBG-DC-10110"
+    ]
+  },
+  {
+    "id": "CBG-DC-10199",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9905,
+    "y": 38.9323,
+    "infraWeight": 1.4344561242942027,
+    "population": 2659,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10191",
+      "CBG-DC-10265",
+      "CBG-DC-10084",
+      "CBG-DC-10366",
+      "CBG-DC-10354"
+    ]
+  },
+  {
+    "id": "CBG-DC-10200",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0517,
+    "y": 38.9127,
+    "infraWeight": 1.4398659521144312,
+    "population": 3000,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10282",
+      "CBG-DC-10241",
+      "CBG-DC-10276",
+      "CBG-DC-10270",
+      "CBG-DC-10116"
+    ]
+  },
+  {
+    "id": "CBG-DC-10201",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0064,
+    "y": 38.9732,
+    "infraWeight": 1.3887822539309977,
+    "population": 2683,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10107",
+      "CBG-DC-10047",
+      "CBG-DC-10150",
+      "CBG-DC-10356",
+      "CBG-DC-10082"
+    ]
+  },
+  {
+    "id": "CBG-DC-10202",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1196,
+    "y": 38.958,
+    "infraWeight": 1.335523340901074,
+    "population": 2368,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10080",
+      "CBG-DC-10216",
+      "CBG-DC-10005",
+      "CBG-DC-10261",
+      "CBG-DC-10059"
+    ]
+  },
+  {
+    "id": "CBG-DC-10203",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0335,
+    "y": 38.7966,
+    "infraWeight": 1.3651251942916272,
+    "population": 2660,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10156",
+      "CBG-DC-10112",
+      "CBG-DC-10013",
+      "CBG-DC-10174",
+      "CBG-DC-10178"
+    ]
+  },
+  {
+    "id": "CBG-DC-10204",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0774,
+    "y": 38.895,
+    "infraWeight": 1.4113030482561106,
+    "population": 2350,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10154",
+      "CBG-DC-10205",
+      "CBG-DC-10247",
+      "CBG-DC-10214",
+      "CBG-DC-10091"
+    ]
+  },
+  {
+    "id": "CBG-DC-10205",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0629,
+    "y": 38.8974,
+    "infraWeight": 1.430645532384342,
+    "population": 2639,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10276",
+      "CBG-DC-10149",
+      "CBG-DC-10247",
+      "CBG-DC-10336",
+      "CBG-DC-10270"
+    ]
+  },
+  {
+    "id": "CBG-DC-10206",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9411,
+    "y": 38.9645,
+    "infraWeight": 1.3609505349593294,
+    "population": 2790,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10228",
+      "CBG-DC-10286",
+      "CBG-DC-10299",
+      "CBG-DC-10335",
+      "CBG-DC-10025"
+    ]
+  },
+  {
+    "id": "CBG-DC-10207",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9609,
+    "y": 38.8034,
+    "infraWeight": 1.3575961065570992,
+    "population": 2406,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10078",
+      "CBG-DC-10355",
+      "CBG-DC-10285",
+      "CBG-DC-10197",
+      "CBG-DC-10298"
+    ]
+  },
+  {
+    "id": "CBG-DC-10208",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0989,
+    "y": 38.9845,
+    "infraWeight": 1.3344570550039268,
+    "population": 2111,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10135",
+      "CBG-DC-10211",
+      "CBG-DC-10317",
+      "CBG-DC-10031",
+      "CBG-DC-10059"
+    ]
+  },
+  {
+    "id": "CBG-DC-10209",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9666,
+    "y": 38.8645,
+    "infraWeight": 1.4203276566927103,
+    "population": 2913,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10182",
+      "CBG-DC-10042",
+      "CBG-DC-10066",
+      "CBG-DC-10137",
+      "CBG-DC-10186"
+    ]
+  },
+  {
+    "id": "CBG-DC-10210",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0693,
+    "y": 38.9278,
+    "infraWeight": 1.4091323305246108,
+    "population": 2469,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10099",
+      "CBG-DC-10190",
+      "CBG-DC-10253",
+      "CBG-DC-10302",
+      "CBG-DC-10012"
+    ]
+  },
+  {
+    "id": "CBG-DC-10211",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0986,
+    "y": 38.9785,
+    "infraWeight": 1.339926546380458,
+    "population": 2558,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10208",
+      "CBG-DC-10135",
+      "CBG-DC-10031",
+      "CBG-DC-10059",
+      "CBG-DC-10317"
+    ]
+  },
+  {
+    "id": "CBG-DC-10212",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9636,
+    "y": 38.9058,
+    "infraWeight": 1.4252645248804667,
+    "population": 2630,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10321",
+      "CBG-DC-10274",
+      "CBG-DC-10323",
+      "CBG-DC-10235",
+      "CBG-DC-10109"
+    ]
+  },
+  {
+    "id": "CBG-DC-10213",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0138,
+    "y": 38.9646,
+    "infraWeight": 1.4004300434667274,
+    "population": 2854,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10368",
+      "CBG-DC-10150",
+      "CBG-DC-10047",
+      "CBG-DC-10322",
+      "CBG-DC-10107"
+    ]
+  },
+  {
+    "id": "CBG-DC-10214",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0725,
+    "y": 38.8802,
+    "infraWeight": 1.4158308629202538,
+    "population": 2243,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10343",
+      "CBG-DC-10247",
+      "CBG-DC-10288",
+      "CBG-DC-10055",
+      "CBG-DC-10204"
+    ]
+  },
+  {
+    "id": "CBG-DC-10215",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0847,
+    "y": 38.972,
+    "infraWeight": 1.3572199069573612,
+    "population": 2796,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10115",
+      "CBG-DC-10229",
+      "CBG-DC-10162",
+      "CBG-DC-10138",
+      "CBG-DC-10176"
+    ]
+  },
+  {
+    "id": "CBG-DC-10216",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1077,
+    "y": 38.9498,
+    "infraWeight": 1.352811193256472,
+    "population": 2644,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10261",
+      "CBG-DC-10045",
+      "CBG-DC-10080",
+      "CBG-DC-10202",
+      "CBG-DC-10005"
+    ]
+  },
+  {
+    "id": "CBG-DC-10217",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9507,
+    "y": 38.9272,
+    "infraWeight": 1.3989644030752806,
+    "population": 2923,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10006",
+      "CBG-DC-10096",
+      "CBG-DC-10040",
+      "CBG-DC-10172",
+      "CBG-DC-10100"
+    ]
+  },
+  {
+    "id": "CBG-DC-10218",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9853,
+    "y": 38.9759,
+    "infraWeight": 1.3794922555317142,
+    "population": 2164,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10052",
+      "CBG-DC-10240",
+      "CBG-DC-10188",
+      "CBG-DC-10300",
+      "CBG-DC-10072"
+    ]
+  },
+  {
+    "id": "CBG-DC-10219",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0269,
+    "y": 38.8512,
+    "infraWeight": 1.4366274048614025,
+    "population": 2742,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10314",
+      "CBG-DC-10329",
+      "CBG-DC-10231",
+      "CBG-DC-10161",
+      "CBG-DC-10293"
+    ]
+  },
+  {
+    "id": "CBG-DC-10220",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.927,
+    "y": 38.9228,
+    "infraWeight": 1.373139586722358,
+    "population": 2708,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10249",
+      "CBG-DC-10236",
+      "CBG-DC-10050",
+      "CBG-DC-10043",
+      "CBG-DC-10040"
+    ]
+  },
+  {
+    "id": "CBG-DC-10221",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.112,
+    "y": 38.882,
+    "infraWeight": 1.3660298201404026,
+    "population": 2804,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10081",
+      "CBG-DC-10155",
+      "CBG-DC-10257",
+      "CBG-DC-10124",
+      "CBG-DC-10256"
+    ]
+  },
+  {
+    "id": "CBG-DC-10222",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9213,
+    "y": 38.8722,
+    "infraWeight": 1.3689601977336694,
+    "population": 2422,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10004",
+      "CBG-DC-10088",
+      "CBG-DC-10119",
+      "CBG-DC-10069",
+      "CBG-DC-10048"
+    ]
+  },
+  {
+    "id": "CBG-DC-10223",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9284,
+    "y": 38.9473,
+    "infraWeight": 1.3616605846603094,
+    "population": 2325,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10252",
+      "CBG-DC-10076",
+      "CBG-DC-10224",
+      "CBG-DC-10299",
+      "CBG-DC-10267"
+    ]
+  },
+  {
+    "id": "CBG-DC-10224",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9189,
+    "y": 38.9555,
+    "infraWeight": 1.3464834608150704,
+    "population": 2677,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10076",
+      "CBG-DC-10347",
+      "CBG-DC-10223",
+      "CBG-DC-10252",
+      "CBG-DC-10111"
+    ]
+  },
+  {
+    "id": "CBG-DC-10225",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9957,
+    "y": 38.9489,
+    "infraWeight": 1.4171742075929963,
+    "population": 2704,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10134",
+      "CBG-DC-10147",
+      "CBG-DC-10341",
+      "CBG-DC-10297",
+      "CBG-DC-10199"
+    ]
+  },
+  {
+    "id": "CBG-DC-10226",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0209,
+    "y": 38.8203,
+    "infraWeight": 1.3972363652773607,
+    "population": 2308,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10057",
+      "CBG-DC-10164",
+      "CBG-DC-10184",
+      "CBG-DC-10193",
+      "CBG-DC-10003"
+    ]
+  },
+  {
+    "id": "CBG-DC-10227",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0412,
+    "y": 38.9578,
+    "infraWeight": 1.402493385680766,
+    "population": 2769,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10318",
+      "CBG-DC-10248",
+      "CBG-DC-10280",
+      "CBG-DC-10000",
+      "CBG-DC-10374"
+    ]
+  },
+  {
+    "id": "CBG-DC-10228",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9426,
+    "y": 38.9651,
+    "infraWeight": 1.3617960432268201,
+    "population": 2179,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10206",
+      "CBG-DC-10286",
+      "CBG-DC-10025",
+      "CBG-DC-10335",
+      "CBG-DC-10299"
+    ]
+  },
+  {
+    "id": "CBG-DC-10229",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0874,
+    "y": 38.9629,
+    "infraWeight": 1.36294504542674,
+    "population": 2177,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10138",
+      "CBG-DC-10215",
+      "CBG-DC-10115",
+      "CBG-DC-10173",
+      "CBG-DC-10034"
+    ]
+  },
+  {
+    "id": "CBG-DC-10230",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1124,
+    "y": 38.8531,
+    "infraWeight": 1.3564096723099826,
+    "population": 2805,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10044",
+      "CBG-DC-10021",
+      "CBG-DC-10129",
+      "CBG-DC-10020",
+      "CBG-DC-10125"
+    ]
+  },
+  {
+    "id": "CBG-DC-10231",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0187,
+    "y": 38.8626,
+    "infraWeight": 1.454582724569958,
+    "population": 3000,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10329",
+      "CBG-DC-10296",
+      "CBG-DC-10293",
+      "CBG-DC-10328",
+      "CBG-DC-10064"
+    ]
+  },
+  {
+    "id": "CBG-DC-10232",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0604,
+    "y": 38.8485,
+    "infraWeight": 1.4094128539598698,
+    "population": 2434,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10070",
+      "CBG-DC-10036",
+      "CBG-DC-10132",
+      "CBG-DC-10361",
+      "CBG-DC-10086"
+    ]
+  },
+  {
+    "id": "CBG-DC-10233",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0874,
+    "y": 38.9305,
+    "infraWeight": 1.3868180910789283,
+    "population": 2737,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10019",
+      "CBG-DC-10145",
+      "CBG-DC-10327",
+      "CBG-DC-10210",
+      "CBG-DC-10359"
+    ]
+  },
+  {
+    "id": "CBG-DC-10234",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0255,
+    "y": 38.9535,
+    "infraWeight": 1.4138786638124383,
+    "population": 2786,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10168",
+      "CBG-DC-10373",
+      "CBG-DC-10322",
+      "CBG-DC-10095",
+      "CBG-DC-10318"
+    ]
+  },
+  {
+    "id": "CBG-DC-10235",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9537,
+    "y": 38.896,
+    "infraWeight": 1.4138956533294667,
+    "population": 2529,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10056",
+      "CBG-DC-10323",
+      "CBG-DC-10345",
+      "CBG-DC-10274",
+      "CBG-DC-10106"
+    ]
+  },
+  {
+    "id": "CBG-DC-10236",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9163,
+    "y": 38.9237,
+    "infraWeight": 1.3601355570604454,
+    "population": 2631,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10050",
+      "CBG-DC-10249",
+      "CBG-DC-10220",
+      "CBG-DC-10267",
+      "CBG-DC-10043"
+    ]
+  },
+  {
+    "id": "CBG-DC-10237",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.932,
+    "y": 38.824,
+    "infraWeight": 1.3538539378282342,
+    "population": 2168,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10166",
+      "CBG-DC-10157",
+      "CBG-DC-10275",
+      "CBG-DC-10163",
+      "CBG-DC-10092"
+    ]
+  },
+  {
+    "id": "CBG-DC-10238",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0137,
+    "y": 38.9249,
+    "infraWeight": 1.454367298606677,
+    "population": 2282,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10169",
+      "CBG-DC-10284",
+      "CBG-DC-10319",
+      "CBG-DC-10294",
+      "CBG-DC-10283"
+    ]
+  },
+  {
+    "id": "CBG-DC-10239",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9162,
+    "y": 38.861,
+    "infraWeight": 1.3591768287231314,
+    "population": 2260,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10262",
+      "CBG-DC-10088",
+      "CBG-DC-10222",
+      "CBG-DC-10371",
+      "CBG-DC-10004"
+    ]
+  },
+  {
+    "id": "CBG-DC-10240",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.977,
+    "y": 38.9772,
+    "infraWeight": 1.3740081961359942,
+    "population": 2563,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10218",
+      "CBG-DC-10136",
+      "CBG-DC-10052",
+      "CBG-DC-10188",
+      "CBG-DC-10300"
+    ]
+  },
+  {
+    "id": "CBG-DC-10241",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0654,
+    "y": 38.9114,
+    "infraWeight": 1.4233383401442692,
+    "population": 3000,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10270",
+      "CBG-DC-10369",
+      "CBG-DC-10302",
+      "CBG-DC-10276",
+      "CBG-DC-10200"
+    ]
+  },
+  {
+    "id": "CBG-DC-10242",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9878,
+    "y": 38.7923,
+    "infraWeight": 1.3578435582973112,
+    "population": 2800,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10245",
+      "CBG-DC-10198",
+      "CBG-DC-10307",
+      "CBG-DC-10029",
+      "CBG-DC-10259"
+    ]
+  },
+  {
+    "id": "CBG-DC-10243",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0328,
+    "y": 38.8909,
+    "infraWeight": 1.4729301134141575,
+    "population": 2325,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10189",
+      "CBG-DC-10159",
+      "CBG-DC-10326",
+      "CBG-DC-10310",
+      "CBG-DC-10167"
+    ]
+  },
+  {
+    "id": "CBG-DC-10244",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0561,
+    "y": 38.9692,
+    "infraWeight": 1.3808714450222717,
+    "population": 2432,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10250",
+      "CBG-DC-10320",
+      "CBG-DC-10093",
+      "CBG-DC-10123",
+      "CBG-DC-10009"
+    ]
+  },
+  {
+    "id": "CBG-DC-10245",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9865,
+    "y": 38.7929,
+    "infraWeight": 1.358037167319036,
+    "population": 2646,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10242",
+      "CBG-DC-10198",
+      "CBG-DC-10307",
+      "CBG-DC-10029",
+      "CBG-DC-10348"
+    ]
+  },
+  {
+    "id": "CBG-DC-10246",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1197,
+    "y": 38.9248,
+    "infraWeight": 1.3517596689533555,
+    "population": 2542,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10139",
+      "CBG-DC-10152",
+      "CBG-DC-10359",
+      "CBG-DC-10080",
+      "CBG-DC-10261"
+    ]
+  },
+  {
+    "id": "CBG-DC-10247",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0633,
+    "y": 38.8901,
+    "infraWeight": 1.430168407749671,
+    "population": 2631,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10336",
+      "CBG-DC-10149",
+      "CBG-DC-10205",
+      "CBG-DC-10276",
+      "CBG-DC-10214"
+    ]
+  },
+  {
+    "id": "CBG-DC-10248",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0383,
+    "y": 38.9587,
+    "infraWeight": 1.4027603197585217,
+    "population": 2511,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10318",
+      "CBG-DC-10227",
+      "CBG-DC-10095",
+      "CBG-DC-10280",
+      "CBG-DC-10000"
+    ]
+  },
+  {
+    "id": "CBG-DC-10249",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9174,
+    "y": 38.9208,
+    "infraWeight": 1.3624119853688095,
+    "population": 2604,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10050",
+      "CBG-DC-10236",
+      "CBG-DC-10220",
+      "CBG-DC-10267",
+      "CBG-DC-10043"
+    ]
+  },
+  {
+    "id": "CBG-DC-10250",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.049,
+    "y": 38.9721,
+    "infraWeight": 1.3815208040341038,
+    "population": 2287,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10244",
+      "CBG-DC-10141",
+      "CBG-DC-10102",
+      "CBG-DC-10123",
+      "CBG-DC-10093"
+    ]
+  },
+  {
+    "id": "CBG-DC-10251",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0976,
+    "y": 38.8822,
+    "infraWeight": 1.384006426039613,
+    "population": 2364,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10081",
+      "CBG-DC-10358",
+      "CBG-DC-10091",
+      "CBG-DC-10305",
+      "CBG-DC-10024"
+    ]
+  },
+  {
+    "id": "CBG-DC-10252",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9294,
+    "y": 38.9485,
+    "infraWeight": 1.3619517712875342,
+    "population": 2219,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10223",
+      "CBG-DC-10299",
+      "CBG-DC-10224",
+      "CBG-DC-10076",
+      "CBG-DC-10347"
+    ]
+  },
+  {
+    "id": "CBG-DC-10253",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0632,
+    "y": 38.9291,
+    "infraWeight": 1.4147632067231792,
+    "population": 2308,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10190",
+      "CBG-DC-10012",
+      "CBG-DC-10099",
+      "CBG-DC-10210",
+      "CBG-DC-10260"
+    ]
+  },
+  {
+    "id": "CBG-DC-10254",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9828,
+    "y": 38.8128,
+    "infraWeight": 1.3802377209648617,
+    "population": 2438,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10348",
+      "CBG-DC-10110",
+      "CBG-DC-10298",
+      "CBG-DC-10324",
+      "CBG-DC-10307"
+    ]
+  },
+  {
+    "id": "CBG-DC-10255",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9815,
+    "y": 38.8981,
+    "infraWeight": 1.4514881156596013,
+    "population": 2433,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10060",
+      "CBG-DC-10109",
+      "CBG-DC-10185",
+      "CBG-DC-10033",
+      "CBG-DC-10061"
+    ]
+  },
+  {
+    "id": "CBG-DC-10256",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1089,
+    "y": 38.8936,
+    "infraWeight": 1.3707377084452275,
+    "population": 2718,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10306",
+      "CBG-DC-10257",
+      "CBG-DC-10301",
+      "CBG-DC-10146",
+      "CBG-DC-10281"
+    ]
+  },
+  {
+    "id": "CBG-DC-10257",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1121,
+    "y": 38.8926,
+    "infraWeight": 1.3667321712161002,
+    "population": 2293,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10256",
+      "CBG-DC-10306",
+      "CBG-DC-10301",
+      "CBG-DC-10221",
+      "CBG-DC-10281"
+    ]
+  },
+  {
+    "id": "CBG-DC-10258",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9416,
+    "y": 38.9766,
+    "infraWeight": 1.3506800082213375,
+    "population": 2194,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10335",
+      "CBG-DC-10017",
+      "CBG-DC-10286",
+      "CBG-DC-10181",
+      "CBG-DC-10025"
+    ]
+  },
+  {
+    "id": "CBG-DC-10259",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0028,
+    "y": 38.7968,
+    "infraWeight": 1.366833260721969,
+    "population": 2170,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10271",
+      "CBG-DC-10029",
+      "CBG-DC-10114",
+      "CBG-DC-10198",
+      "CBG-DC-10242"
+    ]
+  },
+  {
+    "id": "CBG-DC-10260",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0617,
+    "y": 38.9371,
+    "infraWeight": 1.4095744531687298,
+    "population": 2923,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10160",
+      "CBG-DC-10098",
+      "CBG-DC-10012",
+      "CBG-DC-10253",
+      "CBG-DC-10099"
+    ]
+  },
+  {
+    "id": "CBG-DC-10261",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1117,
+    "y": 38.9432,
+    "infraWeight": 1.352453102929633,
+    "population": 2556,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10080",
+      "CBG-DC-10045",
+      "CBG-DC-10216",
+      "CBG-DC-10202",
+      "CBG-DC-10152"
+    ]
+  },
+  {
+    "id": "CBG-DC-10262",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9121,
+    "y": 38.8598,
+    "infraWeight": 1.3538718963522147,
+    "population": 2425,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10239",
+      "CBG-DC-10222",
+      "CBG-DC-10088",
+      "CBG-DC-10371",
+      "CBG-DC-10004"
+    ]
+  },
+  {
+    "id": "CBG-DC-10263",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0197,
+    "y": 38.8097,
+    "infraWeight": 1.383802817696885,
+    "population": 2173,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10164",
+      "CBG-DC-10195",
+      "CBG-DC-10057",
+      "CBG-DC-10226",
+      "CBG-DC-10003"
+    ]
+  },
+  {
+    "id": "CBG-DC-10264",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9466,
+    "y": 38.799,
+    "infraWeight": 1.3434875006253817,
+    "population": 2120,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10285",
+      "CBG-DC-10355",
+      "CBG-DC-10078",
+      "CBG-DC-10370",
+      "CBG-DC-10120"
+    ]
+  },
+  {
+    "id": "CBG-DC-10265",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9791,
+    "y": 38.9363,
+    "infraWeight": 1.4210492230676084,
+    "population": 2842,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10354",
+      "CBG-DC-10075",
+      "CBG-DC-10199",
+      "CBG-DC-10084",
+      "CBG-DC-10191"
+    ]
+  },
+  {
+    "id": "CBG-DC-10266",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0694,
+    "y": 38.811,
+    "infraWeight": 1.3647606441541715,
+    "population": 2356,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10365",
+      "CBG-DC-10277",
+      "CBG-DC-10014",
+      "CBG-DC-10018",
+      "CBG-DC-10083"
+    ]
+  },
+  {
+    "id": "CBG-DC-10267",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9186,
+    "y": 38.9348,
+    "infraWeight": 1.3581149637345236,
+    "population": 2335,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10236",
+      "CBG-DC-10050",
+      "CBG-DC-10249",
+      "CBG-DC-10076",
+      "CBG-DC-10220"
+    ]
+  },
+  {
+    "id": "CBG-DC-10268",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9367,
+    "y": 38.873,
+    "infraWeight": 1.3881366708424183,
+    "population": 2336,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10048",
+      "CBG-DC-10350",
+      "CBG-DC-10269",
+      "CBG-DC-10069",
+      "CBG-DC-10088"
+    ]
+  },
+  {
+    "id": "CBG-DC-10269",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9357,
+    "y": 38.8646,
+    "infraWeight": 1.383665625621411,
+    "population": 2744,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10268",
+      "CBG-DC-10371",
+      "CBG-DC-10048",
+      "CBG-DC-10088",
+      "CBG-DC-10350"
+    ]
+  },
+  {
+    "id": "CBG-DC-10270",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0661,
+    "y": 38.91,
+    "infraWeight": 1.4231081779299846,
+    "population": 2575,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10241",
+      "CBG-DC-10369",
+      "CBG-DC-10276",
+      "CBG-DC-10302",
+      "CBG-DC-10205"
+    ]
+  },
+  {
+    "id": "CBG-DC-10271",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0039,
+    "y": 38.7991,
+    "infraWeight": 1.3697359541977705,
+    "population": 2781,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10259",
+      "CBG-DC-10029",
+      "CBG-DC-10114",
+      "CBG-DC-10198",
+      "CBG-DC-10178"
+    ]
+  },
+  {
+    "id": "CBG-DC-10272",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.022,
+    "y": 38.9841,
+    "infraWeight": 1.3750117419449486,
+    "population": 2428,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10127",
+      "CBG-DC-10179",
+      "CBG-DC-10047",
+      "CBG-DC-10356",
+      "CBG-DC-10071"
+    ]
+  },
+  {
+    "id": "CBG-DC-10273",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0828,
+    "y": 38.8319,
+    "infraWeight": 1.3737267390015235,
+    "population": 2619,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10079",
+      "CBG-DC-10007",
+      "CBG-DC-10311",
+      "CBG-DC-10062",
+      "CBG-DC-10279"
+    ]
+  },
+  {
+    "id": "CBG-DC-10274",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9575,
+    "y": 38.9053,
+    "infraWeight": 1.4174398528830194,
+    "population": 2914,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10323",
+      "CBG-DC-10212",
+      "CBG-DC-10321",
+      "CBG-DC-10235",
+      "CBG-DC-10345"
+    ]
+  },
+  {
+    "id": "CBG-DC-10275",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9363,
+    "y": 38.8102,
+    "infraWeight": 1.3460258149307975,
+    "population": 2293,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10166",
+      "CBG-DC-10120",
+      "CBG-DC-10325",
+      "CBG-DC-10237",
+      "CBG-DC-10264"
+    ]
+  },
+  {
+    "id": "CBG-DC-10276",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.061,
+    "y": 38.9018,
+    "infraWeight": 1.4325459836531855,
+    "population": 2892,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10205",
+      "CBG-DC-10149",
+      "CBG-DC-10270",
+      "CBG-DC-10241",
+      "CBG-DC-10247"
+    ]
+  },
+  {
+    "id": "CBG-DC-10277",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0804,
+    "y": 38.8126,
+    "infraWeight": 1.3583536516884878,
+    "population": 2150,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10018",
+      "CBG-DC-10266",
+      "CBG-DC-10014",
+      "CBG-DC-10079",
+      "CBG-DC-10279"
+    ]
+  },
+  {
+    "id": "CBG-DC-10278",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0027,
+    "y": 38.9149,
+    "infraWeight": 1.4641706920201347,
+    "population": 2409,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10283",
+      "CBG-DC-10158",
+      "CBG-DC-10169",
+      "CBG-DC-10284",
+      "CBG-DC-10238"
+    ]
+  },
+  {
+    "id": "CBG-DC-10279",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0917,
+    "y": 38.8191,
+    "infraWeight": 1.3548338354147338,
+    "population": 2157,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10068",
+      "CBG-DC-10311",
+      "CBG-DC-10101",
+      "CBG-DC-10079",
+      "CBG-DC-10362"
+    ]
+  },
+  {
+    "id": "CBG-DC-10280",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0453,
+    "y": 38.9567,
+    "infraWeight": 1.4015615887023105,
+    "population": 2655,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10374",
+      "CBG-DC-10123",
+      "CBG-DC-10227",
+      "CBG-DC-10000",
+      "CBG-DC-10093"
+    ]
+  },
+  {
+    "id": "CBG-DC-10281",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1123,
+    "y": 38.9047,
+    "infraWeight": 1.3657349129215386,
+    "population": 2811,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10016",
+      "CBG-DC-10256",
+      "CBG-DC-10306",
+      "CBG-DC-10257",
+      "CBG-DC-10301"
+    ]
+  },
+  {
+    "id": "CBG-DC-10282",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.044,
+    "y": 38.9046,
+    "infraWeight": 1.454315139404069,
+    "population": 2863,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10130",
+      "CBG-DC-10200",
+      "CBG-DC-10159",
+      "CBG-DC-10310",
+      "CBG-DC-10326"
+    ]
+  },
+  {
+    "id": "CBG-DC-10283",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0068,
+    "y": 38.9162,
+    "infraWeight": 1.4649514802947825,
+    "population": 2541,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10278",
+      "CBG-DC-10158",
+      "CBG-DC-10169",
+      "CBG-DC-10238",
+      "CBG-DC-10284"
+    ]
+  },
+  {
+    "id": "CBG-DC-10284",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0063,
+    "y": 38.9284,
+    "infraWeight": 1.4481525374250288,
+    "population": 2421,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10169",
+      "CBG-DC-10366",
+      "CBG-DC-10238",
+      "CBG-DC-10283",
+      "CBG-DC-10341"
+    ]
+  },
+  {
+    "id": "CBG-DC-10285",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9529,
+    "y": 38.8,
+    "infraWeight": 1.3488457693065643,
+    "population": 2598,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10355",
+      "CBG-DC-10078",
+      "CBG-DC-10264",
+      "CBG-DC-10207",
+      "CBG-DC-10120"
+    ]
+  },
+  {
+    "id": "CBG-DC-10286",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.946,
+    "y": 38.9684,
+    "infraWeight": 1.3617567269238393,
+    "population": 2712,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10025",
+      "CBG-DC-10228",
+      "CBG-DC-10206",
+      "CBG-DC-10335",
+      "CBG-DC-10258"
+    ]
+  },
+  {
+    "id": "CBG-DC-10287",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0402,
+    "y": 38.827,
+    "infraWeight": 1.4001956334156087,
+    "population": 2383,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10131",
+      "CBG-DC-10028",
+      "CBG-DC-10054",
+      "CBG-DC-10184",
+      "CBG-DC-10357"
+    ]
+  },
+  {
+    "id": "CBG-DC-10288",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0672,
+    "y": 38.8677,
+    "infraWeight": 1.4169435949445546,
+    "population": 2676,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10118",
+      "CBG-DC-10291",
+      "CBG-DC-10352",
+      "CBG-DC-10290",
+      "CBG-DC-10214"
+    ]
+  },
+  {
+    "id": "CBG-DC-10289",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.04,
+    "y": 38.8661,
+    "infraWeight": 1.4459382439758965,
+    "population": 3000,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10015",
+      "CBG-DC-10074",
+      "CBG-DC-10086",
+      "CBG-DC-10361",
+      "CBG-DC-10293"
+    ]
+  },
+  {
+    "id": "CBG-DC-10290",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0709,
+    "y": 38.862,
+    "infraWeight": 1.409073955237715,
+    "population": 2322,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10352",
+      "CBG-DC-10291",
+      "CBG-DC-10288",
+      "CBG-DC-10118",
+      "CBG-DC-10142"
+    ]
+  },
+  {
+    "id": "CBG-DC-10291",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0717,
+    "y": 38.8643,
+    "infraWeight": 1.4095478816882898,
+    "population": 2827,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10290",
+      "CBG-DC-10352",
+      "CBG-DC-10288",
+      "CBG-DC-10118",
+      "CBG-DC-10142"
+    ]
+  },
+  {
+    "id": "CBG-DC-10292",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0511,
+    "y": 38.9377,
+    "infraWeight": 1.418756057003267,
+    "population": 2609,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10098",
+      "CBG-DC-10148",
+      "CBG-DC-10160",
+      "CBG-DC-10097",
+      "CBG-DC-10260"
+    ]
+  },
+  {
+    "id": "CBG-DC-10293",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0259,
+    "y": 38.8673,
+    "infraWeight": 1.4582791393902474,
+    "population": 2701,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10296",
+      "CBG-DC-10231",
+      "CBG-DC-10329",
+      "CBG-DC-10002",
+      "CBG-DC-10289"
+    ]
+  },
+  {
+    "id": "CBG-DC-10294",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0229,
+    "y": 38.9302,
+    "infraWeight": 1.445620763087471,
+    "population": 2949,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10319",
+      "CBG-DC-10316",
+      "CBG-DC-10238",
+      "CBG-DC-10344",
+      "CBG-DC-10113"
+    ]
+  },
+  {
+    "id": "CBG-DC-10295",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9859,
+    "y": 38.8467,
+    "infraWeight": 1.4219179210236865,
+    "population": 2621,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10372",
+      "CBG-DC-10105",
+      "CBG-DC-10094",
+      "CBG-DC-10066",
+      "CBG-DC-10196"
+    ]
+  },
+  {
+    "id": "CBG-DC-10296",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0205,
+    "y": 38.8666,
+    "infraWeight": 1.4596783269073779,
+    "population": 2590,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10231",
+      "CBG-DC-10293",
+      "CBG-DC-10329",
+      "CBG-DC-10328",
+      "CBG-DC-10002"
+    ]
+  },
+  {
+    "id": "CBG-DC-10297",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9971,
+    "y": 38.9657,
+    "infraWeight": 1.3963631150422031,
+    "population": 2365,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10082",
+      "CBG-DC-10072",
+      "CBG-DC-10188",
+      "CBG-DC-10107",
+      "CBG-DC-10052"
+    ]
+  },
+  {
+    "id": "CBG-DC-10298",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9724,
+    "y": 38.8103,
+    "infraWeight": 1.3719910160146032,
+    "population": 2418,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10197",
+      "CBG-DC-10324",
+      "CBG-DC-10348",
+      "CBG-DC-10254",
+      "CBG-DC-10307"
+    ]
+  },
+  {
+    "id": "CBG-DC-10299",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.936,
+    "y": 38.9581,
+    "infraWeight": 1.361550864814353,
+    "population": 2436,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10206",
+      "CBG-DC-10228",
+      "CBG-DC-10252",
+      "CBG-DC-10223",
+      "CBG-DC-10286"
+    ]
+  },
+  {
+    "id": "CBG-DC-10300",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9945,
+    "y": 38.9756,
+    "infraWeight": 1.3832066737162916,
+    "population": 2215,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10072",
+      "CBG-DC-10049",
+      "CBG-DC-10052",
+      "CBG-DC-10188",
+      "CBG-DC-10082"
+    ]
+  },
+  {
+    "id": "CBG-DC-10301",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1187,
+    "y": 38.8938,
+    "infraWeight": 1.3585979383935916,
+    "population": 2804,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10257",
+      "CBG-DC-10256",
+      "CBG-DC-10306",
+      "CBG-DC-10281",
+      "CBG-DC-10221"
+    ]
+  },
+  {
+    "id": "CBG-DC-10302",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0701,
+    "y": 38.9204,
+    "infraWeight": 1.4129168924459332,
+    "population": 2386,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10210",
+      "CBG-DC-10190",
+      "CBG-DC-10241",
+      "CBG-DC-10369",
+      "CBG-DC-10253"
+    ]
+  },
+  {
+    "id": "CBG-DC-10303",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0986,
+    "y": 38.838,
+    "infraWeight": 1.3627835410472118,
+    "population": 2529,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10129",
+      "CBG-DC-10125",
+      "CBG-DC-10021",
+      "CBG-DC-10175",
+      "CBG-DC-10311"
+    ]
+  },
+  {
+    "id": "CBG-DC-10304",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0783,
+    "y": 38.9944,
+    "infraWeight": 1.3401677611929934,
+    "population": 2205,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10151",
+      "CBG-DC-10176",
+      "CBG-DC-10162",
+      "CBG-DC-10317",
+      "CBG-DC-10135"
+    ]
+  },
+  {
+    "id": "CBG-DC-10305",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0939,
+    "y": 38.8954,
+    "infraWeight": 1.3897913082909616,
+    "population": 2514,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10091",
+      "CBG-DC-10146",
+      "CBG-DC-10309",
+      "CBG-DC-10306",
+      "CBG-DC-10251"
+    ]
+  },
+  {
+    "id": "CBG-DC-10306",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1072,
+    "y": 38.8939,
+    "infraWeight": 1.3728884331816364,
+    "population": 2146,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10256",
+      "CBG-DC-10257",
+      "CBG-DC-10146",
+      "CBG-DC-10301",
+      "CBG-DC-10281"
+    ]
+  },
+  {
+    "id": "CBG-DC-10307",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.978,
+    "y": 38.7999,
+    "infraWeight": 1.3629557559051013,
+    "population": 2353,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10348",
+      "CBG-DC-10245",
+      "CBG-DC-10298",
+      "CBG-DC-10198",
+      "CBG-DC-10242"
+    ]
+  },
+  {
+    "id": "CBG-DC-10308",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9503,
+    "y": 38.8489,
+    "infraWeight": 1.3911100992888839,
+    "population": 2652,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10092",
+      "CBG-DC-10346",
+      "CBG-DC-10330",
+      "CBG-DC-10027",
+      "CBG-DC-10269"
+    ]
+  },
+  {
+    "id": "CBG-DC-10309",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0964,
+    "y": 38.9012,
+    "infraWeight": 1.3861316651409976,
+    "population": 2237,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10146",
+      "CBG-DC-10305",
+      "CBG-DC-10091",
+      "CBG-DC-10016",
+      "CBG-DC-10306"
+    ]
+  },
+  {
+    "id": "CBG-DC-10310",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0428,
+    "y": 38.891,
+    "infraWeight": 1.4587053948620388,
+    "population": 2414,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10326",
+      "CBG-DC-10130",
+      "CBG-DC-10159",
+      "CBG-DC-10243",
+      "CBG-DC-10282"
+    ]
+  },
+  {
+    "id": "CBG-DC-10311",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0924,
+    "y": 38.8243,
+    "infraWeight": 1.3585672546014436,
+    "population": 2204,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10279",
+      "CBG-DC-10079",
+      "CBG-DC-10068",
+      "CBG-DC-10362",
+      "CBG-DC-10101"
+    ]
+  },
+  {
+    "id": "CBG-DC-10312",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9238,
+    "y": 38.889,
+    "infraWeight": 1.3749622383756408,
+    "population": 2176,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10030",
+      "CBG-DC-10085",
+      "CBG-DC-10023",
+      "CBG-DC-10051",
+      "CBG-DC-10119"
+    ]
+  },
+  {
+    "id": "CBG-DC-10313",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9599,
+    "y": 38.954,
+    "infraWeight": 1.3869242990106385,
+    "population": 2708,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10171",
+      "CBG-DC-10363",
+      "CBG-DC-10126",
+      "CBG-DC-10136",
+      "CBG-DC-10025"
+    ]
+  },
+  {
+    "id": "CBG-DC-10314",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0188,
+    "y": 38.8457,
+    "infraWeight": 1.4311949888048534,
+    "population": 2855,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10161",
+      "CBG-DC-10331",
+      "CBG-DC-10032",
+      "CBG-DC-10219",
+      "CBG-DC-10315"
+    ]
+  },
+  {
+    "id": "CBG-DC-10315",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0176,
+    "y": 38.8334,
+    "infraWeight": 1.4147463988134623,
+    "population": 2874,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10193",
+      "CBG-DC-10331",
+      "CBG-DC-10161",
+      "CBG-DC-10170",
+      "CBG-DC-10032"
+    ]
+  },
+  {
+    "id": "CBG-DC-10316",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0225,
+    "y": 38.9394,
+    "infraWeight": 1.4332941945794424,
+    "population": 2517,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10294",
+      "CBG-DC-10319",
+      "CBG-DC-10168",
+      "CBG-DC-10344",
+      "CBG-DC-10373"
+    ]
+  },
+  {
+    "id": "CBG-DC-10317",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0924,
+    "y": 38.9904,
+    "infraWeight": 1.3342567614644816,
+    "population": 2471,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10135",
+      "CBG-DC-10208",
+      "CBG-DC-10151",
+      "CBG-DC-10162",
+      "CBG-DC-10176"
+    ]
+  },
+  {
+    "id": "CBG-DC-10318",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0386,
+    "y": 38.9573,
+    "infraWeight": 1.4043469574250629,
+    "population": 2948,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10248",
+      "CBG-DC-10227",
+      "CBG-DC-10095",
+      "CBG-DC-10280",
+      "CBG-DC-10000"
+    ]
+  },
+  {
+    "id": "CBG-DC-10319",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0209,
+    "y": 38.9293,
+    "infraWeight": 1.4474884562495478,
+    "population": 2933,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10294",
+      "CBG-DC-10238",
+      "CBG-DC-10316",
+      "CBG-DC-10169",
+      "CBG-DC-10344"
+    ]
+  },
+  {
+    "id": "CBG-DC-10320",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0548,
+    "y": 38.9575,
+    "infraWeight": 1.394675493098296,
+    "population": 2680,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10093",
+      "CBG-DC-10123",
+      "CBG-DC-10374",
+      "CBG-DC-10280",
+      "CBG-DC-10000"
+    ]
+  },
+  {
+    "id": "CBG-DC-10321",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9671,
+    "y": 38.9057,
+    "infraWeight": 1.429936305143942,
+    "population": 2580,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10212",
+      "CBG-DC-10274",
+      "CBG-DC-10323",
+      "CBG-DC-10109",
+      "CBG-DC-10060"
+    ]
+  },
+  {
+    "id": "CBG-DC-10322",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0171,
+    "y": 38.9565,
+    "infraWeight": 1.4111270023329385,
+    "population": 2879,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10368",
+      "CBG-DC-10168",
+      "CBG-DC-10213",
+      "CBG-DC-10234",
+      "CBG-DC-10150"
+    ]
+  },
+  {
+    "id": "CBG-DC-10323",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9547,
+    "y": 38.9018,
+    "infraWeight": 1.4144229958030077,
+    "population": 2252,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10274",
+      "CBG-DC-10235",
+      "CBG-DC-10212",
+      "CBG-DC-10056",
+      "CBG-DC-10345"
+    ]
+  },
+  {
+    "id": "CBG-DC-10324",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9704,
+    "y": 38.8182,
+    "infraWeight": 1.3794812834043062,
+    "population": 2495,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10197",
+      "CBG-DC-10298",
+      "CBG-DC-10254",
+      "CBG-DC-10348",
+      "CBG-DC-10094"
+    ]
+  },
+  {
+    "id": "CBG-DC-10325",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9502,
+    "y": 38.8122,
+    "infraWeight": 1.3590470089991706,
+    "population": 2814,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10120",
+      "CBG-DC-10078",
+      "CBG-DC-10166",
+      "CBG-DC-10355",
+      "CBG-DC-10285"
+    ]
+  },
+  {
+    "id": "CBG-DC-10326",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0406,
+    "y": 38.8897,
+    "infraWeight": 1.4615825038329553,
+    "population": 2742,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10310",
+      "CBG-DC-10159",
+      "CBG-DC-10243",
+      "CBG-DC-10130",
+      "CBG-DC-10189"
+    ]
+  },
+  {
+    "id": "CBG-DC-10327",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0845,
+    "y": 38.9231,
+    "infraWeight": 1.3941668078816756,
+    "population": 2654,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10019",
+      "CBG-DC-10233",
+      "CBG-DC-10145",
+      "CBG-DC-10340",
+      "CBG-DC-10369"
+    ]
+  },
+  {
+    "id": "CBG-DC-10328",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0105,
+    "y": 38.867,
+    "infraWeight": 1.460811022070404,
+    "population": 2422,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10064",
+      "CBG-DC-10053",
+      "CBG-DC-10077",
+      "CBG-DC-10231",
+      "CBG-DC-10063"
+    ]
+  },
+  {
+    "id": "CBG-DC-10329",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.02,
+    "y": 38.8588,
+    "infraWeight": 1.4490286557972687,
+    "population": 2668,
+    "microDistrictId": "DC-MD-3",
+    "neighbors": [
+      "CBG-DC-10231",
+      "CBG-DC-10296",
+      "CBG-DC-10219",
+      "CBG-DC-10293",
+      "CBG-DC-10328"
+    ]
+  },
+  {
+    "id": "CBG-DC-10330",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9609,
+    "y": 38.8396,
+    "infraWeight": 1.3938597690148142,
+    "population": 2183,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10346",
+      "CBG-DC-10308",
+      "CBG-DC-10105",
+      "CBG-DC-10092",
+      "CBG-DC-10324"
+    ]
+  },
+  {
+    "id": "CBG-DC-10331",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0146,
+    "y": 38.8396,
+    "infraWeight": 1.4232475721229598,
+    "population": 2798,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10161",
+      "CBG-DC-10032",
+      "CBG-DC-10315",
+      "CBG-DC-10314",
+      "CBG-DC-10193"
+    ]
+  },
+  {
+    "id": "CBG-DC-10332",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0889,
+    "y": 38.8525,
+    "infraWeight": 1.3826973528051412,
+    "population": 2870,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10175",
+      "CBG-DC-10128",
+      "CBG-DC-10180",
+      "CBG-DC-10089",
+      "CBG-DC-10144"
+    ]
+  },
+  {
+    "id": "CBG-DC-10333",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0555,
+    "y": 38.9903,
+    "infraWeight": 1.3573733616183694,
+    "population": 2382,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10038",
+      "CBG-DC-10046",
+      "CBG-DC-10071",
+      "CBG-DC-10179",
+      "CBG-DC-10250"
+    ]
+  },
+  {
+    "id": "CBG-DC-10334",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1044,
+    "y": 38.8039,
+    "infraWeight": 1.3311329283493865,
+    "population": 2314,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10073",
+      "CBG-DC-10090",
+      "CBG-DC-10183",
+      "CBG-DC-10177",
+      "CBG-DC-10165"
+    ]
+  },
+  {
+    "id": "CBG-DC-10335",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9414,
+    "y": 38.9739,
+    "infraWeight": 1.3528726610112156,
+    "population": 2749,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10258",
+      "CBG-DC-10017",
+      "CBG-DC-10286",
+      "CBG-DC-10025",
+      "CBG-DC-10228"
+    ]
+  },
+  {
+    "id": "CBG-DC-10336",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0591,
+    "y": 38.8899,
+    "infraWeight": 1.4359377219220026,
+    "population": 2335,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10149",
+      "CBG-DC-10247",
+      "CBG-DC-10205",
+      "CBG-DC-10276",
+      "CBG-DC-10130"
+    ]
+  },
+  {
+    "id": "CBG-DC-10337",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0713,
+    "y": 38.9442,
+    "infraWeight": 1.393977793211396,
+    "population": 2567,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10349",
+      "CBG-DC-10026",
+      "CBG-DC-10173",
+      "CBG-DC-10194",
+      "CBG-DC-10260"
+    ]
+  },
+  {
+    "id": "CBG-DC-10338",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9158,
+    "y": 38.7949,
+    "infraWeight": 1.3162612973982466,
+    "population": 2248,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10058",
+      "CBG-DC-10022",
+      "CBG-DC-10087",
+      "CBG-DC-10039",
+      "CBG-DC-10370"
+    ]
+  },
+  {
+    "id": "CBG-DC-10339",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1154,
+    "y": 38.8696,
+    "infraWeight": 1.3591800801070737,
+    "population": 2300,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10124",
+      "CBG-DC-10155",
+      "CBG-DC-10020",
+      "CBG-DC-10221",
+      "CBG-DC-10010"
+    ]
+  },
+  {
+    "id": "CBG-DC-10340",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0871,
+    "y": 38.9115,
+    "infraWeight": 1.3957915419736413,
+    "population": 2726,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10154",
+      "CBG-DC-10369",
+      "CBG-DC-10327",
+      "CBG-DC-10309",
+      "CBG-DC-10016"
+    ]
+  },
+  {
+    "id": "CBG-DC-10341",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0088,
+    "y": 38.9412,
+    "infraWeight": 1.43124474425084,
+    "population": 2434,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10147",
+      "CBG-DC-10366",
+      "CBG-DC-10284",
+      "CBG-DC-10316",
+      "CBG-DC-10168"
+    ]
+  },
+  {
+    "id": "CBG-DC-10342",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0183,
+    "y": 38.9009,
+    "infraWeight": 1.4877464124941577,
+    "population": 2701,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10103",
+      "CBG-DC-10113",
+      "CBG-DC-10189",
+      "CBG-DC-10243",
+      "CBG-DC-10159"
+    ]
+  },
+  {
+    "id": "CBG-DC-10343",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0823,
+    "y": 38.872,
+    "infraWeight": 1.4004876289707209,
+    "population": 2331,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10055",
+      "CBG-DC-10358",
+      "CBG-DC-10024",
+      "CBG-DC-10089",
+      "CBG-DC-10144"
+    ]
+  },
+  {
+    "id": "CBG-DC-10344",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0338,
+    "y": 38.9351,
+    "infraWeight": 1.434292078309741,
+    "population": 2585,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10097",
+      "CBG-DC-10294",
+      "CBG-DC-10316",
+      "CBG-DC-10116",
+      "CBG-DC-10319"
+    ]
+  },
+  {
+    "id": "CBG-DC-10345",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9558,
+    "y": 38.8905,
+    "infraWeight": 1.416609453666105,
+    "population": 2726,
+    "microDistrictId": "DC-MD-1",
+    "neighbors": [
+      "CBG-DC-10235",
+      "CBG-DC-10056",
+      "CBG-DC-10323",
+      "CBG-DC-10106",
+      "CBG-DC-10274"
+    ]
+  },
+  {
+    "id": "CBG-DC-10346",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9593,
+    "y": 38.8419,
+    "infraWeight": 1.3944334969864831,
+    "population": 2247,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10330",
+      "CBG-DC-10308",
+      "CBG-DC-10092",
+      "CBG-DC-10105",
+      "CBG-DC-10209"
+    ]
+  },
+  {
+    "id": "CBG-DC-10347",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9125,
+    "y": 38.9517,
+    "infraWeight": 1.3422439139812368,
+    "population": 2766,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10076",
+      "CBG-DC-10224",
+      "CBG-DC-10223",
+      "CBG-DC-10252",
+      "CBG-DC-10267"
+    ]
+  },
+  {
+    "id": "CBG-DC-10348",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9827,
+    "y": 38.8089,
+    "infraWeight": 1.3755109963824375,
+    "population": 2694,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10254",
+      "CBG-DC-10110",
+      "CBG-DC-10307",
+      "CBG-DC-10298",
+      "CBG-DC-10198"
+    ]
+  },
+  {
+    "id": "CBG-DC-10349",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0679,
+    "y": 38.9479,
+    "infraWeight": 1.3938758890684937,
+    "population": 2410,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10337",
+      "CBG-DC-10026",
+      "CBG-DC-10194",
+      "CBG-DC-10173",
+      "CBG-DC-10260"
+    ]
+  },
+  {
+    "id": "CBG-DC-10350",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.935,
+    "y": 38.8802,
+    "infraWeight": 1.3880296590570445,
+    "population": 2414,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10069",
+      "CBG-DC-10048",
+      "CBG-DC-10268",
+      "CBG-DC-10051",
+      "CBG-DC-10119"
+    ]
+  },
+  {
+    "id": "CBG-DC-10351",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1193,
+    "y": 38.986,
+    "infraWeight": 1.3161647677048498,
+    "population": 2252,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10031",
+      "CBG-DC-10208",
+      "CBG-DC-10211",
+      "CBG-DC-10135",
+      "CBG-DC-10005"
+    ]
+  },
+  {
+    "id": "CBG-DC-10352",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0693,
+    "y": 38.862,
+    "infraWeight": 1.4109557296429218,
+    "population": 2850,
+    "microDistrictId": "DC-MD-17",
+    "neighbors": [
+      "CBG-DC-10290",
+      "CBG-DC-10291",
+      "CBG-DC-10288",
+      "CBG-DC-10118",
+      "CBG-DC-10142"
+    ]
+  },
+  {
+    "id": "CBG-DC-10353",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1057,
+    "y": 38.8239,
+    "infraWeight": 1.345722628362703,
+    "population": 2326,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10362",
+      "CBG-DC-10117",
+      "CBG-DC-10101",
+      "CBG-DC-10165",
+      "CBG-DC-10177"
+    ]
+  },
+  {
+    "id": "CBG-DC-10354",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9764,
+    "y": 38.9364,
+    "infraWeight": 1.418620226381759,
+    "population": 2789,
+    "microDistrictId": "DC-MD-8",
+    "neighbors": [
+      "CBG-DC-10265",
+      "CBG-DC-10075",
+      "CBG-DC-10199",
+      "CBG-DC-10100",
+      "CBG-DC-10084"
+    ]
+  },
+  {
+    "id": "CBG-DC-10355",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9536,
+    "y": 38.8002,
+    "infraWeight": 1.3494643853890211,
+    "population": 2726,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10285",
+      "CBG-DC-10078",
+      "CBG-DC-10264",
+      "CBG-DC-10207",
+      "CBG-DC-10120"
+    ]
+  },
+  {
+    "id": "CBG-DC-10356",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0058,
+    "y": 38.9828,
+    "infraWeight": 1.3765573896270142,
+    "population": 2790,
+    "microDistrictId": "DC-MD-15",
+    "neighbors": [
+      "CBG-DC-10011",
+      "CBG-DC-10201",
+      "CBG-DC-10049",
+      "CBG-DC-10047",
+      "CBG-DC-10133"
+    ]
+  },
+  {
+    "id": "CBG-DC-10357",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0493,
+    "y": 38.8202,
+    "infraWeight": 1.3874325879457852,
+    "population": 2345,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10367",
+      "CBG-DC-10122",
+      "CBG-DC-10287",
+      "CBG-DC-10054",
+      "CBG-DC-10035"
+    ]
+  },
+  {
+    "id": "CBG-DC-10358",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0905,
+    "y": 38.8735,
+    "infraWeight": 1.3908863470896389,
+    "population": 2522,
+    "microDistrictId": "DC-MD-13",
+    "neighbors": [
+      "CBG-DC-10055",
+      "CBG-DC-10024",
+      "CBG-DC-10343",
+      "CBG-DC-10144",
+      "CBG-DC-10251"
+    ]
+  },
+  {
+    "id": "CBG-DC-10359",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.105,
+    "y": 38.9249,
+    "infraWeight": 1.3690169749267258,
+    "population": 2668,
+    "microDistrictId": "DC-MD-22",
+    "neighbors": [
+      "CBG-DC-10152",
+      "CBG-DC-10139",
+      "CBG-DC-10246",
+      "CBG-DC-10045",
+      "CBG-DC-10016"
+    ]
+  },
+  {
+    "id": "CBG-DC-10360",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9318,
+    "y": 38.8981,
+    "infraWeight": 1.3851787668805986,
+    "population": 2435,
+    "microDistrictId": "DC-MD-14",
+    "neighbors": [
+      "CBG-DC-10030",
+      "CBG-DC-10037",
+      "CBG-DC-10051",
+      "CBG-DC-10312",
+      "CBG-DC-10106"
+    ]
+  },
+  {
+    "id": "CBG-DC-10361",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0471,
+    "y": 38.8546,
+    "infraWeight": 1.4275729972779592,
+    "population": 2906,
+    "microDistrictId": "DC-MD-4",
+    "neighbors": [
+      "CBG-DC-10086",
+      "CBG-DC-10036",
+      "CBG-DC-10015",
+      "CBG-DC-10132",
+      "CBG-DC-10289"
+    ]
+  },
+  {
+    "id": "CBG-DC-10362",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.1004,
+    "y": 38.8224,
+    "infraWeight": 1.3495038105665424,
+    "population": 2570,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10101",
+      "CBG-DC-10353",
+      "CBG-DC-10068",
+      "CBG-DC-10311",
+      "CBG-DC-10279"
+    ]
+  },
+  {
+    "id": "CBG-DC-10363",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9554,
+    "y": 38.962,
+    "infraWeight": 1.3754949630131659,
+    "population": 2411,
+    "microDistrictId": "DC-MD-11",
+    "neighbors": [
+      "CBG-DC-10126",
+      "CBG-DC-10313",
+      "CBG-DC-10171",
+      "CBG-DC-10025",
+      "CBG-DC-10286"
+    ]
+  },
+  {
+    "id": "CBG-DC-10364",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9659,
+    "y": 38.9925,
+    "infraWeight": 1.3509842807755532,
+    "population": 2614,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10240",
+      "CBG-DC-10181",
+      "CBG-DC-10218",
+      "CBG-DC-10025",
+      "CBG-DC-10136"
+    ]
+  },
+  {
+    "id": "CBG-DC-10365",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.068,
+    "y": 38.8213,
+    "infraWeight": 1.3764010131667923,
+    "population": 2908,
+    "microDistrictId": "DC-MD-10",
+    "neighbors": [
+      "CBG-DC-10266",
+      "CBG-DC-10007",
+      "CBG-DC-10277",
+      "CBG-DC-10079",
+      "CBG-DC-10273"
+    ]
+  },
+  {
+    "id": "CBG-DC-10366",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0036,
+    "y": 38.9308,
+    "infraWeight": 1.4439504568936676,
+    "population": 2342,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10284",
+      "CBG-DC-10169",
+      "CBG-DC-10191",
+      "CBG-DC-10341",
+      "CBG-DC-10238"
+    ]
+  },
+  {
+    "id": "CBG-DC-10367",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0464,
+    "y": 38.8141,
+    "infraWeight": 1.3817773920695384,
+    "population": 2661,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-DC-10122",
+      "CBG-DC-10357",
+      "CBG-DC-10035",
+      "CBG-DC-10174",
+      "CBG-DC-10013"
+    ]
+  },
+  {
+    "id": "CBG-DC-10368",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0113,
+    "y": 38.9603,
+    "infraWeight": 1.4060874753685861,
+    "population": 2665,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10213",
+      "CBG-DC-10150",
+      "CBG-DC-10322",
+      "CBG-DC-10107",
+      "CBG-DC-10047"
+    ]
+  },
+  {
+    "id": "CBG-DC-10369",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0754,
+    "y": 38.9117,
+    "infraWeight": 1.4105072695702072,
+    "population": 2443,
+    "microDistrictId": "DC-MD-2",
+    "neighbors": [
+      "CBG-DC-10154",
+      "CBG-DC-10270",
+      "CBG-DC-10241",
+      "CBG-DC-10302",
+      "CBG-DC-10340"
+    ]
+  },
+  {
+    "id": "CBG-DC-10370",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9388,
+    "y": 38.7926,
+    "infraWeight": 1.3318808326458087,
+    "population": 2459,
+    "microDistrictId": "DC-MD-19",
+    "neighbors": [
+      "CBG-DC-10264",
+      "CBG-DC-10285",
+      "CBG-DC-10355",
+      "CBG-DC-10087",
+      "CBG-DC-10275"
+    ]
+  },
+  {
+    "id": "CBG-DC-10371",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.9303,
+    "y": 38.8575,
+    "infraWeight": 1.3740302035160272,
+    "population": 2516,
+    "microDistrictId": "DC-MD-12",
+    "neighbors": [
+      "CBG-DC-10269",
+      "CBG-DC-10027",
+      "CBG-DC-10088",
+      "CBG-DC-10239",
+      "CBG-DC-10048"
+    ]
+  },
+  {
+    "id": "CBG-DC-10372",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -76.999,
+    "y": 38.8402,
+    "infraWeight": 1.4210100830385264,
+    "population": 2602,
+    "microDistrictId": "DC-MD-16",
+    "neighbors": [
+      "CBG-DC-10196",
+      "CBG-DC-10032",
+      "CBG-DC-10170",
+      "CBG-DC-10295",
+      "CBG-DC-10331"
+    ]
+  },
+  {
+    "id": "CBG-DC-10373",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0305,
+    "y": 38.9498,
+    "infraWeight": 1.4171833243921934,
+    "population": 2366,
+    "microDistrictId": "DC-MD-5",
+    "neighbors": [
+      "CBG-DC-10234",
+      "CBG-DC-10095",
+      "CBG-DC-10168",
+      "CBG-DC-10318",
+      "CBG-DC-10248"
+    ]
+  },
+  {
+    "id": "CBG-DC-10374",
+    "parentZip": "90210",
+    "state": "DC",
+    "x": -77.0472,
+    "y": 38.955,
+    "infraWeight": 1.402433141777823,
+    "population": 2432,
+    "microDistrictId": "DC-MD-6",
+    "neighbors": [
+      "CBG-DC-10280",
+      "CBG-DC-10000",
+      "CBG-DC-10123",
+      "CBG-DC-10093",
+      "CBG-DC-10227"
+    ]
+  }
+]

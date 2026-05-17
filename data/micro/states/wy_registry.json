@@ -1,0 +1,5102 @@
+[
+  {
+    "id": "CBG-WY-10000",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.535,
+    "y": 44.483,
+    "infraWeight": 0.5358369931111637,
+    "population": 1122,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10244",
+      "CBG-WY-10216",
+      "CBG-WY-10296",
+      "CBG-WY-10133",
+      "CBG-WY-10288"
+    ]
+  },
+  {
+    "id": "CBG-WY-10001",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.0036,
+    "y": 41.6211,
+    "infraWeight": 0.6035883688936915,
+    "population": 1191,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10173",
+      "CBG-WY-10166",
+      "CBG-WY-10245",
+      "CBG-WY-10093",
+      "CBG-WY-10230"
+    ]
+  },
+  {
+    "id": "CBG-WY-10002",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.2023,
+    "y": 44.9426,
+    "infraWeight": 0.3703323548454946,
+    "population": 653,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10283",
+      "CBG-WY-10016",
+      "CBG-WY-10010",
+      "CBG-WY-10062",
+      "CBG-WY-10143"
+    ]
+  },
+  {
+    "id": "CBG-WY-10003",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.9665,
+    "y": 42.5907,
+    "infraWeight": 0.41434169701850937,
+    "population": 785,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10241",
+      "CBG-WY-10274",
+      "CBG-WY-10047",
+      "CBG-WY-10121",
+      "CBG-WY-10158"
+    ]
+  },
+  {
+    "id": "CBG-WY-10004",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.679,
+    "y": 44.7531,
+    "infraWeight": 0.4205161583924565,
+    "population": 835,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10143",
+      "CBG-WY-10007",
+      "CBG-WY-10299",
+      "CBG-WY-10062",
+      "CBG-WY-10010"
+    ]
+  },
+  {
+    "id": "CBG-WY-10005",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.849,
+    "y": 44.9413,
+    "infraWeight": 0.37448941966424437,
+    "population": 656,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10146",
+      "CBG-WY-10059",
+      "CBG-WY-10237",
+      "CBG-WY-10017",
+      "CBG-WY-10184"
+    ]
+  },
+  {
+    "id": "CBG-WY-10006",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.1025,
+    "y": 43.9965,
+    "infraWeight": 0.4113363592220348,
+    "population": 853,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10137",
+      "CBG-WY-10221",
+      "CBG-WY-10290",
+      "CBG-WY-10031",
+      "CBG-WY-10176"
+    ]
+  },
+  {
+    "id": "CBG-WY-10007",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.6081,
+    "y": 44.668,
+    "infraWeight": 0.42098202376744476,
+    "population": 857,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10143",
+      "CBG-WY-10004",
+      "CBG-WY-10299",
+      "CBG-WY-10010",
+      "CBG-WY-10285"
+    ]
+  },
+  {
+    "id": "CBG-WY-10008",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.5885,
+    "y": 44.2744,
+    "infraWeight": 0.34959500429884666,
+    "population": 691,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10226",
+      "CBG-WY-10268",
+      "CBG-WY-10100",
+      "CBG-WY-10284",
+      "CBG-WY-10223"
+    ]
+  },
+  {
+    "id": "CBG-WY-10009",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.6269,
+    "y": 41.0083,
+    "infraWeight": 0.3976740032410742,
+    "population": 731,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10185",
+      "CBG-WY-10259",
+      "CBG-WY-10032",
+      "CBG-WY-10098",
+      "CBG-WY-10104"
+    ]
+  },
+  {
+    "id": "CBG-WY-10010",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.4087,
+    "y": 44.7386,
+    "infraWeight": 0.3987738314031264,
+    "population": 830,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10143",
+      "CBG-WY-10007",
+      "CBG-WY-10004",
+      "CBG-WY-10002",
+      "CBG-WY-10283"
+    ]
+  },
+  {
+    "id": "CBG-WY-10011",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2048,
+    "y": 44.2241,
+    "infraWeight": 0.3284984350550835,
+    "population": 638,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10044",
+      "CBG-WY-10272",
+      "CBG-WY-10108",
+      "CBG-WY-10253",
+      "CBG-WY-10084"
+    ]
+  },
+  {
+    "id": "CBG-WY-10012",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.1264,
+    "y": 42.1127,
+    "infraWeight": 0.5594084364813333,
+    "population": 1135,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10188",
+      "CBG-WY-10202",
+      "CBG-WY-10118",
+      "CBG-WY-10063",
+      "CBG-WY-10056"
+    ]
+  },
+  {
+    "id": "CBG-WY-10013",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.3302,
+    "y": 43.5124,
+    "infraWeight": 0.5266656875534471,
+    "population": 992,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10101",
+      "CBG-WY-10096",
+      "CBG-WY-10045",
+      "CBG-WY-10164",
+      "CBG-WY-10160"
+    ]
+  },
+  {
+    "id": "CBG-WY-10014",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.5446,
+    "y": 43.6741,
+    "infraWeight": 0.4807986874939968,
+    "population": 786,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10180",
+      "CBG-WY-10119",
+      "CBG-WY-10176",
+      "CBG-WY-10106",
+      "CBG-WY-10135"
+    ]
+  },
+  {
+    "id": "CBG-WY-10015",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.829,
+    "y": 43.2559,
+    "infraWeight": 0.6521859852117826,
+    "population": 1348,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10019",
+      "CBG-WY-10045",
+      "CBG-WY-10096",
+      "CBG-WY-10068",
+      "CBG-WY-10129"
+    ]
+  },
+  {
+    "id": "CBG-WY-10016",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.0641,
+    "y": 44.8126,
+    "infraWeight": 0.367650241077866,
+    "population": 616,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10283",
+      "CBG-WY-10002",
+      "CBG-WY-10297",
+      "CBG-WY-10010",
+      "CBG-WY-10143"
+    ]
+  },
+  {
+    "id": "CBG-WY-10017",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.4758,
+    "y": 44.7263,
+    "infraWeight": 0.4186743753076864,
+    "population": 814,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10237",
+      "CBG-WY-10059",
+      "CBG-WY-10167",
+      "CBG-WY-10116",
+      "CBG-WY-10033"
+    ]
+  },
+  {
+    "id": "CBG-WY-10018",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.9927,
+    "y": 43.1019,
+    "infraWeight": 0.5847937880932179,
+    "population": 1283,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10276",
+      "CBG-WY-10291",
+      "CBG-WY-10209",
+      "CBG-WY-10135",
+      "CBG-WY-10131"
+    ]
+  },
+  {
+    "id": "CBG-WY-10019",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.7462,
+    "y": 43.2154,
+    "infraWeight": 0.6784299000559038,
+    "population": 1121,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10015",
+      "CBG-WY-10129",
+      "CBG-WY-10068",
+      "CBG-WY-10258",
+      "CBG-WY-10045"
+    ]
+  },
+  {
+    "id": "CBG-WY-10020",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2022,
+    "y": 41.5409,
+    "infraWeight": 0.3221525920462105,
+    "population": 704,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10065",
+      "CBG-WY-10147",
+      "CBG-WY-10083",
+      "CBG-WY-10156",
+      "CBG-WY-10088"
+    ]
+  },
+  {
+    "id": "CBG-WY-10021",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.6555,
+    "y": 43.036,
+    "infraWeight": 0.36574502806791015,
+    "population": 614,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10041",
+      "CBG-WY-10264",
+      "CBG-WY-10261",
+      "CBG-WY-10078",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10022",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.9405,
+    "y": 44.404,
+    "infraWeight": 0.39805896263799856,
+    "population": 680,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10184",
+      "CBG-WY-10115",
+      "CBG-WY-10181",
+      "CBG-WY-10033",
+      "CBG-WY-10229"
+    ]
+  },
+  {
+    "id": "CBG-WY-10023",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.7187,
+    "y": 41.1073,
+    "infraWeight": 0.3200171991306275,
+    "population": 600,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10169",
+      "CBG-WY-10054",
+      "CBG-WY-10090",
+      "CBG-WY-10149",
+      "CBG-WY-10163"
+    ]
+  },
+  {
+    "id": "CBG-WY-10024",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.0991,
+    "y": 43.545,
+    "infraWeight": 0.8473134887676782,
+    "population": 1708,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10236",
+      "CBG-WY-10103",
+      "CBG-WY-10258",
+      "CBG-WY-10246",
+      "CBG-WY-10094"
+    ]
+  },
+  {
+    "id": "CBG-WY-10025",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.3795,
+    "y": 44.3482,
+    "infraWeight": 0.421493354444293,
+    "population": 797,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10275",
+      "CBG-WY-10285",
+      "CBG-WY-10290",
+      "CBG-WY-10137",
+      "CBG-WY-10176"
+    ]
+  },
+  {
+    "id": "CBG-WY-10026",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.6541,
+    "y": 42.3668,
+    "infraWeight": 0.9139285300775474,
+    "population": 1844,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10269",
+      "CBG-WY-10179",
+      "CBG-WY-10217",
+      "CBG-WY-10142",
+      "CBG-WY-10266"
+    ]
+  },
+  {
+    "id": "CBG-WY-10027",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.6926,
+    "y": 42.6198,
+    "infraWeight": 0.47292869557362194,
+    "population": 926,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10029",
+      "CBG-WY-10182",
+      "CBG-WY-10281",
+      "CBG-WY-10228",
+      "CBG-WY-10034"
+    ]
+  },
+  {
+    "id": "CBG-WY-10028",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5701,
+    "y": 43.7927,
+    "infraWeight": 0.6555562642059443,
+    "population": 1428,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10094",
+      "CBG-WY-10150",
+      "CBG-WY-10074",
+      "CBG-WY-10145",
+      "CBG-WY-10260"
+    ]
+  },
+  {
+    "id": "CBG-WY-10029",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.5269,
+    "y": 42.75,
+    "infraWeight": 0.5019603269161496,
+    "population": 950,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10034",
+      "CBG-WY-10027",
+      "CBG-WY-10130",
+      "CBG-WY-10281",
+      "CBG-WY-10182"
+    ]
+  },
+  {
+    "id": "CBG-WY-10030",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.1414,
+    "y": 43.5889,
+    "infraWeight": 0.5927064129895729,
+    "population": 1004,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10079",
+      "CBG-WY-10170",
+      "CBG-WY-10135",
+      "CBG-WY-10112",
+      "CBG-WY-10180"
+    ]
+  },
+  {
+    "id": "CBG-WY-10031",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.0269,
+    "y": 43.7145,
+    "infraWeight": 0.4136166477999552,
+    "population": 883,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10006",
+      "CBG-WY-10221",
+      "CBG-WY-10106",
+      "CBG-WY-10134",
+      "CBG-WY-10137"
+    ]
+  },
+  {
+    "id": "CBG-WY-10032",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.5939,
+    "y": 41.5962,
+    "infraWeight": 0.4396914865295162,
+    "population": 820,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10259",
+      "CBG-WY-10098",
+      "CBG-WY-10063",
+      "CBG-WY-10202",
+      "CBG-WY-10185"
+    ]
+  },
+  {
+    "id": "CBG-WY-10033",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7185,
+    "y": 44.416,
+    "infraWeight": 0.4183010133973207,
+    "population": 880,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10181",
+      "CBG-WY-10229",
+      "CBG-WY-10184",
+      "CBG-WY-10167",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10034",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.4339,
+    "y": 42.9059,
+    "infraWeight": 0.5205082525792626,
+    "population": 889,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10029",
+      "CBG-WY-10211",
+      "CBG-WY-10130",
+      "CBG-WY-10027",
+      "CBG-WY-10281"
+    ]
+  },
+  {
+    "id": "CBG-WY-10035",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.823,
+    "y": 40.9956,
+    "infraWeight": 0.4447891618026857,
+    "population": 853,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10189",
+      "CBG-WY-10075",
+      "CBG-WY-10072",
+      "CBG-WY-10125",
+      "CBG-WY-10219"
+    ]
+  },
+  {
+    "id": "CBG-WY-10036",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.4917,
+    "y": 41.7143,
+    "infraWeight": 0.3565923592549817,
+    "population": 617,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10077",
+      "CBG-WY-10085",
+      "CBG-WY-10255",
+      "CBG-WY-10233",
+      "CBG-WY-10113"
+    ]
+  },
+  {
+    "id": "CBG-WY-10037",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4421,
+    "y": 43.448,
+    "infraWeight": 0.36193529295225046,
+    "population": 689,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10040",
+      "CBG-WY-10134",
+      "CBG-WY-10076",
+      "CBG-WY-10205",
+      "CBG-WY-10105"
+    ]
+  },
+  {
+    "id": "CBG-WY-10038",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.7842,
+    "y": 42.6104,
+    "infraWeight": 0.6549877817466165,
+    "population": 1086,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10092",
+      "CBG-WY-10069",
+      "CBG-WY-10068",
+      "CBG-WY-10153",
+      "CBG-WY-10294"
+    ]
+  },
+  {
+    "id": "CBG-WY-10039",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.3478,
+    "y": 41.3896,
+    "infraWeight": 0.43981169740238585,
+    "population": 768,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10199",
+      "CBG-WY-10110",
+      "CBG-WY-10189",
+      "CBG-WY-10219",
+      "CBG-WY-10087"
+    ]
+  },
+  {
+    "id": "CBG-WY-10040",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4767,
+    "y": 43.3448,
+    "infraWeight": 0.3661200136670081,
+    "population": 764,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10076",
+      "CBG-WY-10205",
+      "CBG-WY-10037",
+      "CBG-WY-10134",
+      "CBG-WY-10105"
+    ]
+  },
+  {
+    "id": "CBG-WY-10041",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.4828,
+    "y": 43.2129,
+    "infraWeight": 0.3810895052386424,
+    "population": 674,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10021",
+      "CBG-WY-10261",
+      "CBG-WY-10264",
+      "CBG-WY-10123",
+      "CBG-WY-10078"
+    ]
+  },
+  {
+    "id": "CBG-WY-10042",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.5842,
+    "y": 45.0048,
+    "infraWeight": 0.49920637278677743,
+    "population": 1017,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10172",
+      "CBG-WY-10126",
+      "CBG-WY-10208",
+      "CBG-WY-10122",
+      "CBG-WY-10128"
+    ]
+  },
+  {
+    "id": "CBG-WY-10043",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8147,
+    "y": 41.5624,
+    "infraWeight": 0.366379248424355,
+    "population": 653,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10071",
+      "CBG-WY-10204",
+      "CBG-WY-10089",
+      "CBG-WY-10140",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10044",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.294,
+    "y": 44.1446,
+    "infraWeight": 0.3366677517982093,
+    "population": 700,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10272",
+      "CBG-WY-10011",
+      "CBG-WY-10108",
+      "CBG-WY-10253",
+      "CBG-WY-10084"
+    ]
+  },
+  {
+    "id": "CBG-WY-10045",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1729,
+    "y": 43.3425,
+    "infraWeight": 0.5651272524028637,
+    "population": 1226,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10096",
+      "CBG-WY-10013",
+      "CBG-WY-10015",
+      "CBG-WY-10211",
+      "CBG-WY-10101"
+    ]
+  },
+  {
+    "id": "CBG-WY-10046",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.9761,
+    "y": 42.9244,
+    "infraWeight": 0.9474092135635104,
+    "population": 1790,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10239",
+      "CBG-WY-10107",
+      "CBG-WY-10051",
+      "CBG-WY-10206",
+      "CBG-WY-10254"
+    ]
+  },
+  {
+    "id": "CBG-WY-10047",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8512,
+    "y": 42.7964,
+    "infraWeight": 0.40421234101068765,
+    "population": 720,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10003",
+      "CBG-WY-10274",
+      "CBG-WY-10158",
+      "CBG-WY-10263",
+      "CBG-WY-10241"
+    ]
+  },
+  {
+    "id": "CBG-WY-10048",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -111.0542,
+    "y": 43.8692,
+    "infraWeight": 0.32566244166349106,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10193",
+      "CBG-WY-10268",
+      "CBG-WY-10099",
+      "CBG-WY-10284",
+      "CBG-WY-10008"
+    ]
+  },
+  {
+    "id": "CBG-WY-10049",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.7118,
+    "y": 42.194,
+    "infraWeight": 0.49811544481394493,
+    "population": 1086,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10277",
+      "CBG-WY-10063",
+      "CBG-WY-10091",
+      "CBG-WY-10202",
+      "CBG-WY-10012"
+    ]
+  },
+  {
+    "id": "CBG-WY-10050",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2977,
+    "y": 41.3843,
+    "infraWeight": 0.4922622273686823,
+    "population": 856,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10270",
+      "CBG-WY-10212",
+      "CBG-WY-10197",
+      "CBG-WY-10177",
+      "CBG-WY-10166"
+    ]
+  },
+  {
+    "id": "CBG-WY-10051",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.0317,
+    "y": 42.5185,
+    "infraWeight": 0.8767210938397167,
+    "population": 1821,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10254",
+      "CBG-WY-10289",
+      "CBG-WY-10161",
+      "CBG-WY-10239",
+      "CBG-WY-10109"
+    ]
+  },
+  {
+    "id": "CBG-WY-10052",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.1266,
+    "y": 42.5467,
+    "infraWeight": 0.41530363451732005,
+    "population": 710,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10249",
+      "CBG-WY-10182",
+      "CBG-WY-10228",
+      "CBG-WY-10123",
+      "CBG-WY-10027"
+    ]
+  },
+  {
+    "id": "CBG-WY-10053",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.1689,
+    "y": 41.964,
+    "infraWeight": 0.39345948178956297,
+    "population": 845,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10233",
+      "CBG-WY-10247",
+      "CBG-WY-10255",
+      "CBG-WY-10036",
+      "CBG-WY-10195"
+    ]
+  },
+  {
+    "id": "CBG-WY-10054",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.4272,
+    "y": 40.9969,
+    "infraWeight": 0.33316042639660937,
+    "population": 600,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10163",
+      "CBG-WY-10250",
+      "CBG-WY-10169",
+      "CBG-WY-10023",
+      "CBG-WY-10061"
+    ]
+  },
+  {
+    "id": "CBG-WY-10055",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1506,
+    "y": 41.2699,
+    "infraWeight": 0.31130604379610444,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10147",
+      "CBG-WY-10065",
+      "CBG-WY-10020",
+      "CBG-WY-10114",
+      "CBG-WY-10083"
+    ]
+  },
+  {
+    "id": "CBG-WY-10056",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.5057,
+    "y": 42.2243,
+    "infraWeight": 0.6508571842416588,
+    "population": 1096,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10243",
+      "CBG-WY-10109",
+      "CBG-WY-10118",
+      "CBG-WY-10230",
+      "CBG-WY-10012"
+    ]
+  },
+  {
+    "id": "CBG-WY-10057",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3505,
+    "y": 43.806,
+    "infraWeight": 0.819186486224338,
+    "population": 1517,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10220",
+      "CBG-WY-10265",
+      "CBG-WY-10210",
+      "CBG-WY-10097",
+      "CBG-WY-10201"
+    ]
+  },
+  {
+    "id": "CBG-WY-10058",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3333,
+    "y": 41.3923,
+    "infraWeight": 0.5382724783746069,
+    "population": 1171,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10292",
+      "CBG-WY-10125",
+      "CBG-WY-10231",
+      "CBG-WY-10232",
+      "CBG-WY-10095"
+    ]
+  },
+  {
+    "id": "CBG-WY-10059",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.6612,
+    "y": 44.7459,
+    "infraWeight": 0.4015054352554199,
+    "population": 882,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10237",
+      "CBG-WY-10017",
+      "CBG-WY-10146",
+      "CBG-WY-10005",
+      "CBG-WY-10033"
+    ]
+  },
+  {
+    "id": "CBG-WY-10060",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.5487,
+    "y": 44.6849,
+    "infraWeight": 0.33817285187593954,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10223",
+      "CBG-WY-10251",
+      "CBG-WY-10100",
+      "CBG-WY-10226",
+      "CBG-WY-10008"
+    ]
+  },
+  {
+    "id": "CBG-WY-10061",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.0798,
+    "y": 41.0793,
+    "infraWeight": 0.3594567402792341,
+    "population": 742,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10138",
+      "CBG-WY-10250",
+      "CBG-WY-10163",
+      "CBG-WY-10054",
+      "CBG-WY-10169"
+    ]
+  },
+  {
+    "id": "CBG-WY-10062",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.607,
+    "y": 44.9899,
+    "infraWeight": 0.39639265169467885,
+    "population": 816,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10004",
+      "CBG-WY-10143",
+      "CBG-WY-10010",
+      "CBG-WY-10007",
+      "CBG-WY-10299"
+    ]
+  },
+  {
+    "id": "CBG-WY-10063",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.8618,
+    "y": 42.0043,
+    "infraWeight": 0.506082935380165,
+    "population": 906,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10202",
+      "CBG-WY-10188",
+      "CBG-WY-10049",
+      "CBG-WY-10012",
+      "CBG-WY-10277"
+    ]
+  },
+  {
+    "id": "CBG-WY-10064",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.0611,
+    "y": 41.7992,
+    "infraWeight": 0.31954924172855165,
+    "population": 608,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10088",
+      "CBG-WY-10083",
+      "CBG-WY-10278",
+      "CBG-WY-10156",
+      "CBG-WY-10020"
+    ]
+  },
+  {
+    "id": "CBG-WY-10065",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1035,
+    "y": 41.5055,
+    "infraWeight": 0.31507345636009737,
+    "population": 609,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10020",
+      "CBG-WY-10147",
+      "CBG-WY-10083",
+      "CBG-WY-10055",
+      "CBG-WY-10088"
+    ]
+  },
+  {
+    "id": "CBG-WY-10066",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.5609,
+    "y": 41.7648,
+    "infraWeight": 0.670992806618342,
+    "population": 1461,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10266",
+      "CBG-WY-10245",
+      "CBG-WY-10142",
+      "CBG-WY-10124",
+      "CBG-WY-10093"
+    ]
+  },
+  {
+    "id": "CBG-WY-10067",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.6212,
+    "y": 44.0741,
+    "infraWeight": 0.3637622221647242,
+    "population": 787,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10221",
+      "CBG-WY-10108",
+      "CBG-WY-10084",
+      "CBG-WY-10272",
+      "CBG-WY-10044"
+    ]
+  },
+  {
+    "id": "CBG-WY-10068",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.7566,
+    "y": 42.8452,
+    "infraWeight": 0.6780987036107102,
+    "population": 1193,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10092",
+      "CBG-WY-10038",
+      "CBG-WY-10129",
+      "CBG-WY-10019",
+      "CBG-WY-10015"
+    ]
+  },
+  {
+    "id": "CBG-WY-10069",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.8702,
+    "y": 42.4025,
+    "infraWeight": 0.6134471606585561,
+    "population": 1108,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10153",
+      "CBG-WY-10294",
+      "CBG-WY-10038",
+      "CBG-WY-10092",
+      "CBG-WY-10068"
+    ]
+  },
+  {
+    "id": "CBG-WY-10070",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.1762,
+    "y": 44.2139,
+    "infraWeight": 0.5288259295636364,
+    "population": 913,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10235",
+      "CBG-WY-10112",
+      "CBG-WY-10288",
+      "CBG-WY-10144",
+      "CBG-WY-10187"
+    ]
+  },
+  {
+    "id": "CBG-WY-10071",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8059,
+    "y": 41.639,
+    "infraWeight": 0.36880509194626404,
+    "population": 741,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10043",
+      "CBG-WY-10204",
+      "CBG-WY-10089",
+      "CBG-WY-10140",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10072",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9506,
+    "y": 41.4369,
+    "infraWeight": 0.484480531087322,
+    "population": 862,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10075",
+      "CBG-WY-10219",
+      "CBG-WY-10189",
+      "CBG-WY-10087",
+      "CBG-WY-10232"
+    ]
+  },
+  {
+    "id": "CBG-WY-10073",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.8494,
+    "y": 42.0493,
+    "infraWeight": 0.3386438204338251,
+    "population": 695,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10113",
+      "CBG-WY-10111",
+      "CBG-WY-10196",
+      "CBG-WY-10256",
+      "CBG-WY-10242"
+    ]
+  },
+  {
+    "id": "CBG-WY-10074",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.8206,
+    "y": 43.7018,
+    "infraWeight": 0.6128746875617079,
+    "population": 1218,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10150",
+      "CBG-WY-10145",
+      "CBG-WY-10028",
+      "CBG-WY-10094",
+      "CBG-WY-10096"
+    ]
+  },
+  {
+    "id": "CBG-WY-10075",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9122,
+    "y": 41.398,
+    "infraWeight": 0.4838402381504579,
+    "population": 916,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10072",
+      "CBG-WY-10219",
+      "CBG-WY-10189",
+      "CBG-WY-10232",
+      "CBG-WY-10087"
+    ]
+  },
+  {
+    "id": "CBG-WY-10076",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4881,
+    "y": 43.2883,
+    "infraWeight": 0.36765856760793253,
+    "population": 607,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10205",
+      "CBG-WY-10040",
+      "CBG-WY-10037",
+      "CBG-WY-10134",
+      "CBG-WY-10105"
+    ]
+  },
+  {
+    "id": "CBG-WY-10077",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.4811,
+    "y": 41.6487,
+    "infraWeight": 0.35514340870078365,
+    "population": 751,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10036",
+      "CBG-WY-10085",
+      "CBG-WY-10255",
+      "CBG-WY-10149",
+      "CBG-WY-10233"
+    ]
+  },
+  {
+    "id": "CBG-WY-10078",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -111.0183,
+    "y": 42.9909,
+    "infraWeight": 0.33602898992893154,
+    "population": 600,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10264",
+      "CBG-WY-10261",
+      "CBG-WY-10287",
+      "CBG-WY-10021",
+      "CBG-WY-10242"
+    ]
+  },
+  {
+    "id": "CBG-WY-10079",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.3652,
+    "y": 43.4906,
+    "infraWeight": 0.6560698155533908,
+    "population": 1167,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10170",
+      "CBG-WY-10030",
+      "CBG-WY-10174",
+      "CBG-WY-10187",
+      "CBG-WY-10112"
+    ]
+  },
+  {
+    "id": "CBG-WY-10080",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5858,
+    "y": 44.8147,
+    "infraWeight": 0.4859045491884115,
+    "population": 973,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10175",
+      "CBG-WY-10200",
+      "CBG-WY-10082",
+      "CBG-WY-10192",
+      "CBG-WY-10155"
+    ]
+  },
+  {
+    "id": "CBG-WY-10081",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.8916,
+    "y": 44.7556,
+    "infraWeight": 0.5215031825164412,
+    "population": 1134,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10132",
+      "CBG-WY-10122",
+      "CBG-WY-10208",
+      "CBG-WY-10086",
+      "CBG-WY-10133"
+    ]
+  },
+  {
+    "id": "CBG-WY-10082",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.4319,
+    "y": 44.4409,
+    "infraWeight": 0.5582957126911868,
+    "population": 1197,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10192",
+      "CBG-WY-10200",
+      "CBG-WY-10260",
+      "CBG-WY-10080",
+      "CBG-WY-10280"
+    ]
+  },
+  {
+    "id": "CBG-WY-10083",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1122,
+    "y": 41.6968,
+    "infraWeight": 0.3204577692295278,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10088",
+      "CBG-WY-10064",
+      "CBG-WY-10020",
+      "CBG-WY-10065",
+      "CBG-WY-10156"
+    ]
+  },
+  {
+    "id": "CBG-WY-10084",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4849,
+    "y": 44.3459,
+    "infraWeight": 0.3447052704365865,
+    "population": 716,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10253",
+      "CBG-WY-10108",
+      "CBG-WY-10044",
+      "CBG-WY-10067",
+      "CBG-WY-10011"
+    ]
+  },
+  {
+    "id": "CBG-WY-10085",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.3995,
+    "y": 41.5782,
+    "infraWeight": 0.35879463399420736,
+    "population": 640,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10255",
+      "CBG-WY-10077",
+      "CBG-WY-10036",
+      "CBG-WY-10247",
+      "CBG-WY-10233"
+    ]
+  },
+  {
+    "id": "CBG-WY-10086",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.5903,
+    "y": 44.8643,
+    "infraWeight": 0.4840892613930594,
+    "population": 955,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10222",
+      "CBG-WY-10296",
+      "CBG-WY-10081",
+      "CBG-WY-10244",
+      "CBG-WY-10000"
+    ]
+  },
+  {
+    "id": "CBG-WY-10087",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1711,
+    "y": 41.6394,
+    "infraWeight": 0.4818255380218609,
+    "population": 820,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10248",
+      "CBG-WY-10191",
+      "CBG-WY-10219",
+      "CBG-WY-10072",
+      "CBG-WY-10039"
+    ]
+  },
+  {
+    "id": "CBG-WY-10088",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1159,
+    "y": 41.7816,
+    "infraWeight": 0.322711980756344,
+    "population": 653,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10064",
+      "CBG-WY-10083",
+      "CBG-WY-10278",
+      "CBG-WY-10156",
+      "CBG-WY-10020"
+    ]
+  },
+  {
+    "id": "CBG-WY-10089",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.6544,
+    "y": 41.7387,
+    "infraWeight": 0.3603527033995672,
+    "population": 762,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10071",
+      "CBG-WY-10140",
+      "CBG-WY-10204",
+      "CBG-WY-10043",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10090",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.8551,
+    "y": 41.4092,
+    "infraWeight": 0.3216029130320141,
+    "population": 600,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10149",
+      "CBG-WY-10023",
+      "CBG-WY-10169",
+      "CBG-WY-10113",
+      "CBG-WY-10077"
+    ]
+  },
+  {
+    "id": "CBG-WY-10091",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.8484,
+    "y": 42.4284,
+    "infraWeight": 0.5358433625367568,
+    "population": 974,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10257",
+      "CBG-WY-10139",
+      "CBG-WY-10049",
+      "CBG-WY-10277",
+      "CBG-WY-10279"
+    ]
+  },
+  {
+    "id": "CBG-WY-10092",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9272,
+    "y": 42.7002,
+    "infraWeight": 0.6236522695687192,
+    "population": 1219,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10038",
+      "CBG-WY-10068",
+      "CBG-WY-10153",
+      "CBG-WY-10130",
+      "CBG-WY-10069"
+    ]
+  },
+  {
+    "id": "CBG-WY-10093",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3971,
+    "y": 41.3675,
+    "infraWeight": 0.568113206356963,
+    "population": 1003,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10245",
+      "CBG-WY-10162",
+      "CBG-WY-10124",
+      "CBG-WY-10066",
+      "CBG-WY-10001"
+    ]
+  },
+  {
+    "id": "CBG-WY-10094",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5029,
+    "y": 43.6472,
+    "infraWeight": 0.698311684808908,
+    "population": 1295,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10028",
+      "CBG-WY-10258",
+      "CBG-WY-10150",
+      "CBG-WY-10074",
+      "CBG-WY-10103"
+    ]
+  },
+  {
+    "id": "CBG-WY-10095",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.6001,
+    "y": 41.6469,
+    "infraWeight": 0.553442802782928,
+    "population": 1205,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10231",
+      "CBG-WY-10232",
+      "CBG-WY-10058",
+      "CBG-WY-10273",
+      "CBG-WY-10075"
+    ]
+  },
+  {
+    "id": "CBG-WY-10096",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1207,
+    "y": 43.496,
+    "infraWeight": 0.5675739840240434,
+    "population": 1183,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10045",
+      "CBG-WY-10013",
+      "CBG-WY-10145",
+      "CBG-WY-10074",
+      "CBG-WY-10015"
+    ]
+  },
+  {
+    "id": "CBG-WY-10097",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.628,
+    "y": 43.774,
+    "infraWeight": 0.8440187103718951,
+    "population": 1573,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10201",
+      "CBG-WY-10210",
+      "CBG-WY-10220",
+      "CBG-WY-10057",
+      "CBG-WY-10265"
+    ]
+  },
+  {
+    "id": "CBG-WY-10098",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.8734,
+    "y": 41.6147,
+    "infraWeight": 0.4719174666023564,
+    "population": 1036,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10259",
+      "CBG-WY-10032",
+      "CBG-WY-10202",
+      "CBG-WY-10063",
+      "CBG-WY-10188"
+    ]
+  },
+  {
+    "id": "CBG-WY-10099",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.5,
+    "y": 43.8955,
+    "infraWeight": 0.3677743425892511,
+    "population": 655,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10284",
+      "CBG-WY-10268",
+      "CBG-WY-10008",
+      "CBG-WY-10252",
+      "CBG-WY-10226"
+    ]
+  },
+  {
+    "id": "CBG-WY-10100",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.3989,
+    "y": 44.4396,
+    "infraWeight": 0.3581795630570628,
+    "population": 750,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10226",
+      "CBG-WY-10251",
+      "CBG-WY-10008",
+      "CBG-WY-10060",
+      "CBG-WY-10223"
+    ]
+  },
+  {
+    "id": "CBG-WY-10101",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.4772,
+    "y": 43.6245,
+    "infraWeight": 0.4964345983792178,
+    "population": 878,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10164",
+      "CBG-WY-10013",
+      "CBG-WY-10160",
+      "CBG-WY-10096",
+      "CBG-WY-10148"
+    ]
+  },
+  {
+    "id": "CBG-WY-10102",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.9252,
+    "y": 41.08,
+    "infraWeight": 0.3524595554605449,
+    "population": 692,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10104",
+      "CBG-WY-10185",
+      "CBG-WY-10043",
+      "CBG-WY-10071",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10103",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.2493,
+    "y": 43.4386,
+    "infraWeight": 0.8234876248198753,
+    "population": 1464,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10236",
+      "CBG-WY-10258",
+      "CBG-WY-10024",
+      "CBG-WY-10094",
+      "CBG-WY-10246"
+    ]
+  },
+  {
+    "id": "CBG-WY-10104",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.0153,
+    "y": 41.2776,
+    "infraWeight": 0.36869887393442746,
+    "population": 621,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10185",
+      "CBG-WY-10102",
+      "CBG-WY-10043",
+      "CBG-WY-10071",
+      "CBG-WY-10204"
+    ]
+  },
+  {
+    "id": "CBG-WY-10105",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2016,
+    "y": 43.489,
+    "infraWeight": 0.3418218517570882,
+    "population": 649,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10165",
+      "CBG-WY-10037",
+      "CBG-WY-10040",
+      "CBG-WY-10076",
+      "CBG-WY-10127"
+    ]
+  },
+  {
+    "id": "CBG-WY-10106",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.2652,
+    "y": 43.4242,
+    "infraWeight": 0.4507005374171774,
+    "population": 936,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10014",
+      "CBG-WY-10031",
+      "CBG-WY-10180",
+      "CBG-WY-10194",
+      "CBG-WY-10135"
+    ]
+  },
+  {
+    "id": "CBG-WY-10107",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.2614,
+    "y": 42.8837,
+    "infraWeight": 1.140346178367151,
+    "population": 2473,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10206",
+      "CBG-WY-10239",
+      "CBG-WY-10198",
+      "CBG-WY-10046",
+      "CBG-WY-10178"
+    ]
+  },
+  {
+    "id": "CBG-WY-10108",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4644,
+    "y": 44.2519,
+    "infraWeight": 0.3461105702362156,
+    "population": 719,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10084",
+      "CBG-WY-10253",
+      "CBG-WY-10044",
+      "CBG-WY-10067",
+      "CBG-WY-10272"
+    ]
+  },
+  {
+    "id": "CBG-WY-10109",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6801,
+    "y": 42.3563,
+    "infraWeight": 0.7190933872119463,
+    "population": 1487,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10243",
+      "CBG-WY-10254",
+      "CBG-WY-10289",
+      "CBG-WY-10056",
+      "CBG-WY-10161"
+    ]
+  },
+  {
+    "id": "CBG-WY-10110",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.5601,
+    "y": 41.3626,
+    "infraWeight": 0.41790149134927096,
+    "population": 910,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10199",
+      "CBG-WY-10039",
+      "CBG-WY-10189",
+      "CBG-WY-10087",
+      "CBG-WY-10138"
+    ]
+  },
+  {
+    "id": "CBG-WY-10111",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.8054,
+    "y": 42.324,
+    "infraWeight": 0.34717443377307605,
+    "population": 680,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10196",
+      "CBG-WY-10256",
+      "CBG-WY-10242",
+      "CBG-WY-10271",
+      "CBG-WY-10073"
+    ]
+  },
+  {
+    "id": "CBG-WY-10112",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2453,
+    "y": 43.9784,
+    "infraWeight": 0.5694381281178326,
+    "population": 1081,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10235",
+      "CBG-WY-10187",
+      "CBG-WY-10070",
+      "CBG-WY-10288",
+      "CBG-WY-10030"
+    ]
+  },
+  {
+    "id": "CBG-WY-10113",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.7489,
+    "y": 41.7974,
+    "infraWeight": 0.33986923248303336,
+    "population": 633,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10149",
+      "CBG-WY-10036",
+      "CBG-WY-10073",
+      "CBG-WY-10077",
+      "CBG-WY-10233"
+    ]
+  },
+  {
+    "id": "CBG-WY-10114",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.5144,
+    "y": 41.4884,
+    "infraWeight": 0.3412791370065841,
+    "population": 628,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10089",
+      "CBG-WY-10043",
+      "CBG-WY-10020",
+      "CBG-WY-10156",
+      "CBG-WY-10071"
+    ]
+  },
+  {
+    "id": "CBG-WY-10115",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.9261,
+    "y": 44.2991,
+    "infraWeight": 0.4049685150973239,
+    "population": 675,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10022",
+      "CBG-WY-10181",
+      "CBG-WY-10229",
+      "CBG-WY-10171",
+      "CBG-WY-10184"
+    ]
+  },
+  {
+    "id": "CBG-WY-10116",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1908,
+    "y": 44.8663,
+    "infraWeight": 0.4308082415783518,
+    "population": 806,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10155",
+      "CBG-WY-10017",
+      "CBG-WY-10175",
+      "CBG-WY-10237",
+      "CBG-WY-10059"
+    ]
+  },
+  {
+    "id": "CBG-WY-10117",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.2717,
+    "y": 44.1126,
+    "infraWeight": 0.6984430216223695,
+    "population": 1504,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10220",
+      "CBG-WY-10210",
+      "CBG-WY-10057",
+      "CBG-WY-10213",
+      "CBG-WY-10152"
+    ]
+  },
+  {
+    "id": "CBG-WY-10118",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2561,
+    "y": 42.285,
+    "infraWeight": 0.6042510597531398,
+    "population": 1149,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10012",
+      "CBG-WY-10056",
+      "CBG-WY-10243",
+      "CBG-WY-10188",
+      "CBG-WY-10257"
+    ]
+  },
+  {
+    "id": "CBG-WY-10119",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.6457,
+    "y": 43.9921,
+    "infraWeight": 0.4760330981022546,
+    "population": 914,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10176",
+      "CBG-WY-10014",
+      "CBG-WY-10137",
+      "CBG-WY-10180",
+      "CBG-WY-10275"
+    ]
+  },
+  {
+    "id": "CBG-WY-10120",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6552,
+    "y": 43.9621,
+    "infraWeight": 0.6474639802406987,
+    "population": 1198,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10187",
+      "CBG-WY-10183",
+      "CBG-WY-10216",
+      "CBG-WY-10235",
+      "CBG-WY-10288"
+    ]
+  },
+  {
+    "id": "CBG-WY-10121",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.3033,
+    "y": 42.5816,
+    "infraWeight": 0.45595774754822954,
+    "population": 872,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10158",
+      "CBG-WY-10241",
+      "CBG-WY-10003",
+      "CBG-WY-10194",
+      "CBG-WY-10279"
+    ]
+  },
+  {
+    "id": "CBG-WY-10122",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.1565,
+    "y": 44.7198,
+    "infraWeight": 0.5425125106232895,
+    "population": 961,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10208",
+      "CBG-WY-10213",
+      "CBG-WY-10081",
+      "CBG-WY-10172",
+      "CBG-WY-10132"
+    ]
+  },
+  {
+    "id": "CBG-WY-10123",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.1045,
+    "y": 42.9178,
+    "infraWeight": 0.42237336813530235,
+    "population": 896,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10228",
+      "CBG-WY-10182",
+      "CBG-WY-10052",
+      "CBG-WY-10249",
+      "CBG-WY-10041"
+    ]
+  },
+  {
+    "id": "CBG-WY-10124",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.7231,
+    "y": 41.4404,
+    "infraWeight": 0.5838924046098168,
+    "population": 1247,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10162",
+      "CBG-WY-10093",
+      "CBG-WY-10066",
+      "CBG-WY-10245",
+      "CBG-WY-10266"
+    ]
+  },
+  {
+    "id": "CBG-WY-10125",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.4299,
+    "y": 41.2753,
+    "infraWeight": 0.5111628920916658,
+    "population": 895,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10292",
+      "CBG-WY-10058",
+      "CBG-WY-10232",
+      "CBG-WY-10231",
+      "CBG-WY-10095"
+    ]
+  },
+  {
+    "id": "CBG-WY-10126",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.9744,
+    "y": 44.8216,
+    "infraWeight": 0.5228132839324802,
+    "population": 1074,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10280",
+      "CBG-WY-10128",
+      "CBG-WY-10042",
+      "CBG-WY-10154",
+      "CBG-WY-10172"
+    ]
+  },
+  {
+    "id": "CBG-WY-10127",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1359,
+    "y": 43.8686,
+    "infraWeight": 0.33133930319914384,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10186",
+      "CBG-WY-10272",
+      "CBG-WY-10044",
+      "CBG-WY-10165",
+      "CBG-WY-10011"
+    ]
+  },
+  {
+    "id": "CBG-WY-10128",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.924,
+    "y": 44.5887,
+    "infraWeight": 0.570170367328758,
+    "population": 1122,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10280",
+      "CBG-WY-10126",
+      "CBG-WY-10154",
+      "CBG-WY-10152",
+      "CBG-WY-10141"
+    ]
+  },
+  {
+    "id": "CBG-WY-10129",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5443,
+    "y": 42.9503,
+    "infraWeight": 0.753334016820923,
+    "population": 1255,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10068",
+      "CBG-WY-10019",
+      "CBG-WY-10262",
+      "CBG-WY-10038",
+      "CBG-WY-10015"
+    ]
+  },
+  {
+    "id": "CBG-WY-10130",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.2244,
+    "y": 42.7488,
+    "infraWeight": 0.5578723734771855,
+    "population": 1161,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10034",
+      "CBG-WY-10092",
+      "CBG-WY-10029",
+      "CBG-WY-10281",
+      "CBG-WY-10153"
+    ]
+  },
+  {
+    "id": "CBG-WY-10131",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2178,
+    "y": 42.7547,
+    "infraWeight": 0.6358661625874359,
+    "population": 1112,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10267",
+      "CBG-WY-10139",
+      "CBG-WY-10257",
+      "CBG-WY-10291",
+      "CBG-WY-10276"
+    ]
+  },
+  {
+    "id": "CBG-WY-10132",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.8425,
+    "y": 44.5339,
+    "infraWeight": 0.5574451180567234,
+    "population": 1167,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10133",
+      "CBG-WY-10081",
+      "CBG-WY-10000",
+      "CBG-WY-10216",
+      "CBG-WY-10213"
+    ]
+  },
+  {
+    "id": "CBG-WY-10133",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.739,
+    "y": 44.4062,
+    "infraWeight": 0.5713704254173142,
+    "population": 1219,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10216",
+      "CBG-WY-10132",
+      "CBG-WY-10000",
+      "CBG-WY-10183",
+      "CBG-WY-10244"
+    ]
+  },
+  {
+    "id": "CBG-WY-10134",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.5957,
+    "y": 43.483,
+    "infraWeight": 0.3752044534797796,
+    "population": 643,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10037",
+      "CBG-WY-10040",
+      "CBG-WY-10205",
+      "CBG-WY-10076",
+      "CBG-WY-10165"
+    ]
+  },
+  {
+    "id": "CBG-WY-10135",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.7991,
+    "y": 43.3827,
+    "infraWeight": 0.5363871755421412,
+    "population": 884,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10209",
+      "CBG-WY-10180",
+      "CBG-WY-10018",
+      "CBG-WY-10014",
+      "CBG-WY-10030"
+    ]
+  },
+  {
+    "id": "CBG-WY-10136",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.9993,
+    "y": 41.1025,
+    "infraWeight": 0.5038009862214036,
+    "population": 896,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10166",
+      "CBG-WY-10093",
+      "CBG-WY-10001",
+      "CBG-WY-10197",
+      "CBG-WY-10173"
+    ]
+  },
+  {
+    "id": "CBG-WY-10137",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.2926,
+    "y": 44.1471,
+    "infraWeight": 0.4242103675572333,
+    "population": 886,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10290",
+      "CBG-WY-10025",
+      "CBG-WY-10006",
+      "CBG-WY-10176",
+      "CBG-WY-10275"
+    ]
+  },
+  {
+    "id": "CBG-WY-10138",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.0163,
+    "y": 41.1829,
+    "infraWeight": 0.3694525332603158,
+    "population": 687,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10061",
+      "CBG-WY-10250",
+      "CBG-WY-10163",
+      "CBG-WY-10054",
+      "CBG-WY-10110"
+    ]
+  },
+  {
+    "id": "CBG-WY-10139",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.0199,
+    "y": 42.583,
+    "infraWeight": 0.5790881577509737,
+    "population": 1221,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10257",
+      "CBG-WY-10091",
+      "CBG-WY-10131",
+      "CBG-WY-10267",
+      "CBG-WY-10279"
+    ]
+  },
+  {
+    "id": "CBG-WY-10140",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8173,
+    "y": 41.8212,
+    "infraWeight": 0.3768539892851982,
+    "population": 680,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10204",
+      "CBG-WY-10071",
+      "CBG-WY-10089",
+      "CBG-WY-10043",
+      "CBG-WY-10218"
+    ]
+  },
+  {
+    "id": "CBG-WY-10141",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.7461,
+    "y": 44.1757,
+    "infraWeight": 0.6846358261019495,
+    "population": 1379,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10154",
+      "CBG-WY-10210",
+      "CBG-WY-10152",
+      "CBG-WY-10220",
+      "CBG-WY-10201"
+    ]
+  },
+  {
+    "id": "CBG-WY-10142",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3568,
+    "y": 42.0431,
+    "infraWeight": 0.7585809886313696,
+    "population": 1432,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10266",
+      "CBG-WY-10179",
+      "CBG-WY-10066",
+      "CBG-WY-10026",
+      "CBG-WY-10245"
+    ]
+  },
+  {
+    "id": "CBG-WY-10143",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.597,
+    "y": 44.6787,
+    "infraWeight": 0.41916474492168737,
+    "population": 838,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10007",
+      "CBG-WY-10004",
+      "CBG-WY-10010",
+      "CBG-WY-10299",
+      "CBG-WY-10285"
+    ]
+  },
+  {
+    "id": "CBG-WY-10144",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.0624,
+    "y": 44.5629,
+    "infraWeight": 0.47460321890111595,
+    "population": 968,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10159",
+      "CBG-WY-10295",
+      "CBG-WY-10190",
+      "CBG-WY-10299",
+      "CBG-WY-10070"
+    ]
+  },
+  {
+    "id": "CBG-WY-10145",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.8872,
+    "y": 43.7557,
+    "infraWeight": 0.5924224602881729,
+    "population": 1198,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10074",
+      "CBG-WY-10150",
+      "CBG-WY-10028",
+      "CBG-WY-10096",
+      "CBG-WY-10148"
+    ]
+  },
+  {
+    "id": "CBG-WY-10146",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.896,
+    "y": 44.8026,
+    "infraWeight": 0.37928135043053407,
+    "population": 780,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10005",
+      "CBG-WY-10059",
+      "CBG-WY-10184",
+      "CBG-WY-10237",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10147",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1518,
+    "y": 41.3792,
+    "infraWeight": 0.3145272342633547,
+    "population": 600,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10055",
+      "CBG-WY-10065",
+      "CBG-WY-10020",
+      "CBG-WY-10083",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10148",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1986,
+    "y": 43.9185,
+    "infraWeight": 0.5202639394366932,
+    "population": 947,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10286",
+      "CBG-WY-10145",
+      "CBG-WY-10101",
+      "CBG-WY-10013",
+      "CBG-WY-10096"
+    ]
+  },
+  {
+    "id": "CBG-WY-10149",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.749,
+    "y": 41.5378,
+    "infraWeight": 0.33234402466965624,
+    "population": 654,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10090",
+      "CBG-WY-10113",
+      "CBG-WY-10077",
+      "CBG-WY-10036",
+      "CBG-WY-10085"
+    ]
+  },
+  {
+    "id": "CBG-WY-10150",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.7945,
+    "y": 43.7325,
+    "infraWeight": 0.6147454103534907,
+    "population": 1119,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10074",
+      "CBG-WY-10145",
+      "CBG-WY-10028",
+      "CBG-WY-10094",
+      "CBG-WY-10096"
+    ]
+  },
+  {
+    "id": "CBG-WY-10151",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.8902,
+    "y": 42.9464,
+    "infraWeight": 1.119336639475881,
+    "population": 1908,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10298",
+      "CBG-WY-10246",
+      "CBG-WY-10178",
+      "CBG-WY-10198",
+      "CBG-WY-10206"
+    ]
+  },
+  {
+    "id": "CBG-WY-10152",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.5626,
+    "y": 44.4048,
+    "infraWeight": 0.6238153744729894,
+    "population": 1084,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10154",
+      "CBG-WY-10141",
+      "CBG-WY-10172",
+      "CBG-WY-10213",
+      "CBG-WY-10128"
+    ]
+  },
+  {
+    "id": "CBG-WY-10153",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9587,
+    "y": 42.4315,
+    "infraWeight": 0.5964053353089563,
+    "population": 1312,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10069",
+      "CBG-WY-10294",
+      "CBG-WY-10038",
+      "CBG-WY-10092",
+      "CBG-WY-10130"
+    ]
+  },
+  {
+    "id": "CBG-WY-10154",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.7086,
+    "y": 44.4277,
+    "infraWeight": 0.6158492785810322,
+    "population": 1170,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10152",
+      "CBG-WY-10141",
+      "CBG-WY-10128",
+      "CBG-WY-10280",
+      "CBG-WY-10172"
+    ]
+  },
+  {
+    "id": "CBG-WY-10155",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.0465,
+    "y": 44.9244,
+    "infraWeight": 0.4367003488318808,
+    "population": 736,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10116",
+      "CBG-WY-10175",
+      "CBG-WY-10017",
+      "CBG-WY-10080",
+      "CBG-WY-10200"
+    ]
+  },
+  {
+    "id": "CBG-WY-10156",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.3191,
+    "y": 41.7461,
+    "infraWeight": 0.33557301210986645,
+    "population": 657,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10278",
+      "CBG-WY-10088",
+      "CBG-WY-10083",
+      "CBG-WY-10020",
+      "CBG-WY-10064"
+    ]
+  },
+  {
+    "id": "CBG-WY-10157",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.3634,
+    "y": 44.7086,
+    "infraWeight": 0.32470858217183024,
+    "population": 680,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10207",
+      "CBG-WY-10253",
+      "CBG-WY-10084",
+      "CBG-WY-10108",
+      "CBG-WY-10011"
+    ]
+  },
+  {
+    "id": "CBG-WY-10158",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.251,
+    "y": 42.7784,
+    "infraWeight": 0.4526129373369513,
+    "population": 766,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10121",
+      "CBG-WY-10194",
+      "CBG-WY-10003",
+      "CBG-WY-10241",
+      "CBG-WY-10047"
+    ]
+  },
+  {
+    "id": "CBG-WY-10159",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.9032,
+    "y": 44.5775,
+    "infraWeight": 0.45683382387633586,
+    "population": 873,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10190",
+      "CBG-WY-10299",
+      "CBG-WY-10144",
+      "CBG-WY-10004",
+      "CBG-WY-10007"
+    ]
+  },
+  {
+    "id": "CBG-WY-10160",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7299,
+    "y": 43.5665,
+    "infraWeight": 0.46184046530486517,
+    "population": 807,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10164",
+      "CBG-WY-10101",
+      "CBG-WY-10013",
+      "CBG-WY-10211",
+      "CBG-WY-10252"
+    ]
+  },
+  {
+    "id": "CBG-WY-10161",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.9286,
+    "y": 42.3202,
+    "infraWeight": 0.7795150007708581,
+    "population": 1334,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10289",
+      "CBG-WY-10254",
+      "CBG-WY-10051",
+      "CBG-WY-10109",
+      "CBG-WY-10243"
+    ]
+  },
+  {
+    "id": "CBG-WY-10162",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.6537,
+    "y": 41.2888,
+    "infraWeight": 0.5526222989554809,
+    "population": 1063,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10124",
+      "CBG-WY-10093",
+      "CBG-WY-10245",
+      "CBG-WY-10066",
+      "CBG-WY-10292"
+    ]
+  },
+  {
+    "id": "CBG-WY-10163",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.2712,
+    "y": 41.0341,
+    "infraWeight": 0.34454362906759656,
+    "population": 721,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10250",
+      "CBG-WY-10054",
+      "CBG-WY-10061",
+      "CBG-WY-10138",
+      "CBG-WY-10169"
+    ]
+  },
+  {
+    "id": "CBG-WY-10164",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.5467,
+    "y": 43.6654,
+    "infraWeight": 0.48381537582440337,
+    "population": 1047,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10101",
+      "CBG-WY-10160",
+      "CBG-WY-10013",
+      "CBG-WY-10148",
+      "CBG-WY-10096"
+    ]
+  },
+  {
+    "id": "CBG-WY-10165",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2044,
+    "y": 43.5137,
+    "infraWeight": 0.3417538066657194,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10105",
+      "CBG-WY-10037",
+      "CBG-WY-10040",
+      "CBG-WY-10127",
+      "CBG-WY-10076"
+    ]
+  },
+  {
+    "id": "CBG-WY-10166",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.7291,
+    "y": 41.4481,
+    "infraWeight": 0.543872862191775,
+    "population": 1122,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10173",
+      "CBG-WY-10197",
+      "CBG-WY-10001",
+      "CBG-WY-10212",
+      "CBG-WY-10177"
+    ]
+  },
+  {
+    "id": "CBG-WY-10167",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.5119,
+    "y": 44.4335,
+    "infraWeight": 0.4378222420656525,
+    "population": 914,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10033",
+      "CBG-WY-10237",
+      "CBG-WY-10017",
+      "CBG-WY-10181",
+      "CBG-WY-10229"
+    ]
+  },
+  {
+    "id": "CBG-WY-10168",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.9356,
+    "y": 43.6752,
+    "infraWeight": 0.7830106691793179,
+    "population": 1388,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10240",
+      "CBG-WY-10174",
+      "CBG-WY-10120",
+      "CBG-WY-10214",
+      "CBG-WY-10057"
+    ]
+  },
+  {
+    "id": "CBG-WY-10169",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.572,
+    "y": 41.1605,
+    "infraWeight": 0.33081874038307485,
+    "population": 710,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10023",
+      "CBG-WY-10054",
+      "CBG-WY-10163",
+      "CBG-WY-10250",
+      "CBG-WY-10090"
+    ]
+  },
+  {
+    "id": "CBG-WY-10170",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4571,
+    "y": 43.4241,
+    "infraWeight": 0.6892296709472002,
+    "population": 1155,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10079",
+      "CBG-WY-10174",
+      "CBG-WY-10030",
+      "CBG-WY-10276",
+      "CBG-WY-10168"
+    ]
+  },
+  {
+    "id": "CBG-WY-10171",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.775,
+    "y": 44.1992,
+    "infraWeight": 0.4257099590735653,
+    "population": 879,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10229",
+      "CBG-WY-10181",
+      "CBG-WY-10115",
+      "CBG-WY-10033",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10172",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.497,
+    "y": 44.777,
+    "infraWeight": 0.5400370092061498,
+    "population": 1139,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10042",
+      "CBG-WY-10122",
+      "CBG-WY-10152",
+      "CBG-WY-10208",
+      "CBG-WY-10154"
+    ]
+  },
+  {
+    "id": "CBG-WY-10173",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.761,
+    "y": 41.6362,
+    "infraWeight": 0.5818233699252905,
+    "population": 1106,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10166",
+      "CBG-WY-10001",
+      "CBG-WY-10177",
+      "CBG-WY-10230",
+      "CBG-WY-10197"
+    ]
+  },
+  {
+    "id": "CBG-WY-10174",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6674,
+    "y": 43.4522,
+    "infraWeight": 0.7516821940877002,
+    "population": 1419,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10170",
+      "CBG-WY-10079",
+      "CBG-WY-10168",
+      "CBG-WY-10240",
+      "CBG-WY-10120"
+    ]
+  },
+  {
+    "id": "CBG-WY-10175",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.8005,
+    "y": 44.8998,
+    "infraWeight": 0.4584722528406261,
+    "population": 755,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10080",
+      "CBG-WY-10155",
+      "CBG-WY-10116",
+      "CBG-WY-10200",
+      "CBG-WY-10082"
+    ]
+  },
+  {
+    "id": "CBG-WY-10176",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.5041,
+    "y": 44.0188,
+    "infraWeight": 0.45601651999959353,
+    "population": 886,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10119",
+      "CBG-WY-10137",
+      "CBG-WY-10014",
+      "CBG-WY-10290",
+      "CBG-WY-10275"
+    ]
+  },
+  {
+    "id": "CBG-WY-10177",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4648,
+    "y": 41.7252,
+    "infraWeight": 0.560283194076519,
+    "population": 1169,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10230",
+      "CBG-WY-10270",
+      "CBG-WY-10173",
+      "CBG-WY-10197",
+      "CBG-WY-10050"
+    ]
+  },
+  {
+    "id": "CBG-WY-10178",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.4535,
+    "y": 43.1109,
+    "infraWeight": 1.3046406490231393,
+    "population": 2548,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10198",
+      "CBG-WY-10206",
+      "CBG-WY-10107",
+      "CBG-WY-10293",
+      "CBG-WY-10214"
+    ]
+  },
+  {
+    "id": "CBG-WY-10179",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3363,
+    "y": 42.2536,
+    "infraWeight": 0.8436951550339485,
+    "population": 1582,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10142",
+      "CBG-WY-10266",
+      "CBG-WY-10026",
+      "CBG-WY-10051",
+      "CBG-WY-10161"
+    ]
+  },
+  {
+    "id": "CBG-WY-10180",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.6932,
+    "y": 43.5821,
+    "infraWeight": 0.5084615831376893,
+    "population": 868,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10014",
+      "CBG-WY-10135",
+      "CBG-WY-10209",
+      "CBG-WY-10119",
+      "CBG-WY-10030"
+    ]
+  },
+  {
+    "id": "CBG-WY-10181",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7861,
+    "y": 44.316,
+    "infraWeight": 0.4177486752515452,
+    "population": 876,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10229",
+      "CBG-WY-10171",
+      "CBG-WY-10033",
+      "CBG-WY-10115",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10182",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.9135,
+    "y": 42.7454,
+    "infraWeight": 0.44474184398208005,
+    "population": 819,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10228",
+      "CBG-WY-10027",
+      "CBG-WY-10123",
+      "CBG-WY-10052",
+      "CBG-WY-10249"
+    ]
+  },
+  {
+    "id": "CBG-WY-10183",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.7701,
+    "y": 44.1514,
+    "infraWeight": 0.6268519158584647,
+    "population": 1373,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10120",
+      "CBG-WY-10216",
+      "CBG-WY-10133",
+      "CBG-WY-10288",
+      "CBG-WY-10187"
+    ]
+  },
+  {
+    "id": "CBG-WY-10184",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.9071,
+    "y": 44.4932,
+    "infraWeight": 0.39616165926881697,
+    "population": 819,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10022",
+      "CBG-WY-10115",
+      "CBG-WY-10033",
+      "CBG-WY-10181",
+      "CBG-WY-10229"
+    ]
+  },
+  {
+    "id": "CBG-WY-10185",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.1236,
+    "y": 41.2571,
+    "infraWeight": 0.3758171608344264,
+    "population": 687,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10104",
+      "CBG-WY-10102",
+      "CBG-WY-10043",
+      "CBG-WY-10071",
+      "CBG-WY-10009"
+    ]
+  },
+  {
+    "id": "CBG-WY-10186",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.121,
+    "y": 43.9079,
+    "infraWeight": 0.32956681269123606,
+    "population": 690,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10127",
+      "CBG-WY-10272",
+      "CBG-WY-10044",
+      "CBG-WY-10011",
+      "CBG-WY-10165"
+    ]
+  },
+  {
+    "id": "CBG-WY-10187",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4673,
+    "y": 43.9796,
+    "infraWeight": 0.6089783970357067,
+    "population": 1098,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10120",
+      "CBG-WY-10235",
+      "CBG-WY-10112",
+      "CBG-WY-10288",
+      "CBG-WY-10183"
+    ]
+  },
+  {
+    "id": "CBG-WY-10188",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.0776,
+    "y": 41.9719,
+    "infraWeight": 0.5357771298419374,
+    "population": 1149,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10202",
+      "CBG-WY-10012",
+      "CBG-WY-10063",
+      "CBG-WY-10118",
+      "CBG-WY-10098"
+    ]
+  },
+  {
+    "id": "CBG-WY-10189",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.0985,
+    "y": 41.2497,
+    "infraWeight": 0.449885918633619,
+    "population": 872,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10219",
+      "CBG-WY-10075",
+      "CBG-WY-10072",
+      "CBG-WY-10039",
+      "CBG-WY-10199"
+    ]
+  },
+  {
+    "id": "CBG-WY-10190",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.8448,
+    "y": 44.4598,
+    "infraWeight": 0.4618338407421436,
+    "population": 834,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10159",
+      "CBG-WY-10299",
+      "CBG-WY-10144",
+      "CBG-WY-10007",
+      "CBG-WY-10285"
+    ]
+  },
+  {
+    "id": "CBG-WY-10191",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.059,
+    "y": 41.8186,
+    "infraWeight": 0.5149087892965194,
+    "population": 949,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10248",
+      "CBG-WY-10087",
+      "CBG-WY-10219",
+      "CBG-WY-10072",
+      "CBG-WY-10075"
+    ]
+  },
+  {
+    "id": "CBG-WY-10192",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3621,
+    "y": 44.4396,
+    "infraWeight": 0.5659389256844652,
+    "population": 1062,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10082",
+      "CBG-WY-10260",
+      "CBG-WY-10200",
+      "CBG-WY-10280",
+      "CBG-WY-10080"
+    ]
+  },
+  {
+    "id": "CBG-WY-10193",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -111.0124,
+    "y": 44.0782,
+    "infraWeight": 0.32452997507979164,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10048",
+      "CBG-WY-10268",
+      "CBG-WY-10008",
+      "CBG-WY-10223",
+      "CBG-WY-10099"
+    ]
+  },
+  {
+    "id": "CBG-WY-10194",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.4022,
+    "y": 42.9372,
+    "infraWeight": 0.4757157254277112,
+    "population": 777,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10158",
+      "CBG-WY-10121",
+      "CBG-WY-10279",
+      "CBG-WY-10106",
+      "CBG-WY-10209"
+    ]
+  },
+  {
+    "id": "CBG-WY-10195",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7475,
+    "y": 41.8917,
+    "infraWeight": 0.4338589165451534,
+    "population": 778,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10234",
+      "CBG-WY-10282",
+      "CBG-WY-10247",
+      "CBG-WY-10053",
+      "CBG-WY-10110"
+    ]
+  },
+  {
+    "id": "CBG-WY-10196",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.7839,
+    "y": 42.3818,
+    "infraWeight": 0.3497982002457512,
+    "population": 657,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10111",
+      "CBG-WY-10256",
+      "CBG-WY-10271",
+      "CBG-WY-10242",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10197",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4902,
+    "y": 41.3813,
+    "infraWeight": 0.5106520957230449,
+    "population": 1107,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10212",
+      "CBG-WY-10050",
+      "CBG-WY-10270",
+      "CBG-WY-10166",
+      "CBG-WY-10177"
+    ]
+  },
+  {
+    "id": "CBG-WY-10198",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.4403,
+    "y": 43.1064,
+    "infraWeight": 1.2977226523341931,
+    "population": 2707,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10178",
+      "CBG-WY-10206",
+      "CBG-WY-10107",
+      "CBG-WY-10293",
+      "CBG-WY-10214"
+    ]
+  },
+  {
+    "id": "CBG-WY-10199",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.4101,
+    "y": 41.4276,
+    "infraWeight": 0.4370022210463923,
+    "population": 830,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10039",
+      "CBG-WY-10110",
+      "CBG-WY-10087",
+      "CBG-WY-10219",
+      "CBG-WY-10189"
+    ]
+  },
+  {
+    "id": "CBG-WY-10200",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.7509,
+    "y": 44.4704,
+    "infraWeight": 0.5180586769994246,
+    "population": 916,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10225",
+      "CBG-WY-10082",
+      "CBG-WY-10080",
+      "CBG-WY-10192",
+      "CBG-WY-10260"
+    ]
+  },
+  {
+    "id": "CBG-WY-10201",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.6496,
+    "y": 43.7936,
+    "infraWeight": 0.8338233684210266,
+    "population": 1787,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10097",
+      "CBG-WY-10210",
+      "CBG-WY-10220",
+      "CBG-WY-10057",
+      "CBG-WY-10265"
+    ]
+  },
+  {
+    "id": "CBG-WY-10202",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.0381,
+    "y": 41.9333,
+    "infraWeight": 0.5255503529012193,
+    "population": 1021,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10188",
+      "CBG-WY-10063",
+      "CBG-WY-10012",
+      "CBG-WY-10098",
+      "CBG-WY-10118"
+    ]
+  },
+  {
+    "id": "CBG-WY-10203",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.1987,
+    "y": 42.9066,
+    "infraWeight": 0.34426591502786613,
+    "population": 600,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10215",
+      "CBG-WY-10238",
+      "CBG-WY-10263",
+      "CBG-WY-10076",
+      "CBG-WY-10205"
+    ]
+  },
+  {
+    "id": "CBG-WY-10204",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8594,
+    "y": 41.7732,
+    "infraWeight": 0.3786650087175939,
+    "population": 778,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10140",
+      "CBG-WY-10071",
+      "CBG-WY-10089",
+      "CBG-WY-10043",
+      "CBG-WY-10114"
+    ]
+  },
+  {
+    "id": "CBG-WY-10205",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.5447,
+    "y": 43.2844,
+    "infraWeight": 0.372845680107512,
+    "population": 805,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10076",
+      "CBG-WY-10040",
+      "CBG-WY-10037",
+      "CBG-WY-10134",
+      "CBG-WY-10105"
+    ]
+  },
+  {
+    "id": "CBG-WY-10206",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3994,
+    "y": 42.911,
+    "infraWeight": 1.272357152975221,
+    "population": 2622,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10107",
+      "CBG-WY-10198",
+      "CBG-WY-10178",
+      "CBG-WY-10239",
+      "CBG-WY-10046"
+    ]
+  },
+  {
+    "id": "CBG-WY-10207",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.3892,
+    "y": 44.9138,
+    "infraWeight": 0.319238369125655,
+    "population": 676,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10157",
+      "CBG-WY-10253",
+      "CBG-WY-10084",
+      "CBG-WY-10297",
+      "CBG-WY-10108"
+    ]
+  },
+  {
+    "id": "CBG-WY-10208",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.1364,
+    "y": 44.9417,
+    "infraWeight": 0.5023638088426811,
+    "population": 1075,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10122",
+      "CBG-WY-10081",
+      "CBG-WY-10172",
+      "CBG-WY-10042",
+      "CBG-WY-10213"
+    ]
+  },
+  {
+    "id": "CBG-WY-10209",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.7801,
+    "y": 43.2766,
+    "infraWeight": 0.5365331475771291,
+    "population": 1045,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10135",
+      "CBG-WY-10018",
+      "CBG-WY-10180",
+      "CBG-WY-10291",
+      "CBG-WY-10276"
+    ]
+  },
+  {
+    "id": "CBG-WY-10210",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.5548,
+    "y": 43.9895,
+    "infraWeight": 0.7540716183805463,
+    "population": 1329,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10220",
+      "CBG-WY-10201",
+      "CBG-WY-10097",
+      "CBG-WY-10141",
+      "CBG-WY-10057"
+    ]
+  },
+  {
+    "id": "CBG-WY-10211",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.5063,
+    "y": 43.1466,
+    "infraWeight": 0.5072074914940976,
+    "population": 849,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10034",
+      "CBG-WY-10045",
+      "CBG-WY-10029",
+      "CBG-WY-10013",
+      "CBG-WY-10160"
+    ]
+  },
+  {
+    "id": "CBG-WY-10212",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.3953,
+    "y": 41.2986,
+    "infraWeight": 0.49035514593050944,
+    "population": 908,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10197",
+      "CBG-WY-10050",
+      "CBG-WY-10270",
+      "CBG-WY-10166",
+      "CBG-WY-10177"
+    ]
+  },
+  {
+    "id": "CBG-WY-10213",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.1797,
+    "y": 44.4878,
+    "infraWeight": 0.5919613563675111,
+    "population": 1259,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10122",
+      "CBG-WY-10132",
+      "CBG-WY-10117",
+      "CBG-WY-10152",
+      "CBG-WY-10081"
+    ]
+  },
+  {
+    "id": "CBG-WY-10214",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.2552,
+    "y": 43.4218,
+    "infraWeight": 0.9888178014459074,
+    "population": 1661,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10224",
+      "CBG-WY-10265",
+      "CBG-WY-10240",
+      "CBG-WY-10293",
+      "CBG-WY-10198"
+    ]
+  },
+  {
+    "id": "CBG-WY-10215",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.0702,
+    "y": 42.966,
+    "infraWeight": 0.3344936791259057,
+    "population": 731,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10203",
+      "CBG-WY-10238",
+      "CBG-WY-10263",
+      "CBG-WY-10076",
+      "CBG-WY-10105"
+    ]
+  },
+  {
+    "id": "CBG-WY-10216",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6068,
+    "y": 44.3159,
+    "infraWeight": 0.5722189886809286,
+    "population": 1137,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10288",
+      "CBG-WY-10133",
+      "CBG-WY-10000",
+      "CBG-WY-10183",
+      "CBG-WY-10244"
+    ]
+  },
+  {
+    "id": "CBG-WY-10217",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.0332,
+    "y": 42.3606,
+    "infraWeight": 0.8337928195543959,
+    "population": 1762,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10269",
+      "CBG-WY-10026",
+      "CBG-WY-10262",
+      "CBG-WY-10273",
+      "CBG-WY-10151"
+    ]
+  },
+  {
+    "id": "CBG-WY-10218",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4966,
+    "y": 42.0584,
+    "infraWeight": 0.35717290193243334,
+    "population": 674,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10278",
+      "CBG-WY-10089",
+      "CBG-WY-10227",
+      "CBG-WY-10156",
+      "CBG-WY-10140"
+    ]
+  },
+  {
+    "id": "CBG-WY-10219",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.0565,
+    "y": 41.4593,
+    "infraWeight": 0.4758982482670946,
+    "population": 825,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10072",
+      "CBG-WY-10075",
+      "CBG-WY-10087",
+      "CBG-WY-10189",
+      "CBG-WY-10039"
+    ]
+  },
+  {
+    "id": "CBG-WY-10220",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.449,
+    "y": 43.9609,
+    "infraWeight": 0.7628425894839134,
+    "population": 1346,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10210",
+      "CBG-WY-10057",
+      "CBG-WY-10117",
+      "CBG-WY-10097",
+      "CBG-WY-10201"
+    ]
+  },
+  {
+    "id": "CBG-WY-10221",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.8433,
+    "y": 44.0302,
+    "infraWeight": 0.384599978324162,
+    "population": 797,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10067",
+      "CBG-WY-10006",
+      "CBG-WY-10031",
+      "CBG-WY-10290",
+      "CBG-WY-10108"
+    ]
+  },
+  {
+    "id": "CBG-WY-10222",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4453,
+    "y": 44.9074,
+    "infraWeight": 0.4678460846765379,
+    "population": 922,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10086",
+      "CBG-WY-10296",
+      "CBG-WY-10295",
+      "CBG-WY-10244",
+      "CBG-WY-10000"
+    ]
+  },
+  {
+    "id": "CBG-WY-10223",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.7722,
+    "y": 44.5386,
+    "infraWeight": 0.3284778347732866,
+    "population": 608,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10060",
+      "CBG-WY-10008",
+      "CBG-WY-10100",
+      "CBG-WY-10226",
+      "CBG-WY-10251"
+    ]
+  },
+  {
+    "id": "CBG-WY-10224",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3889,
+    "y": 43.4805,
+    "infraWeight": 0.9947668559083858,
+    "population": 1990,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10265",
+      "CBG-WY-10214",
+      "CBG-WY-10293",
+      "CBG-WY-10057",
+      "CBG-WY-10240"
+    ]
+  },
+  {
+    "id": "CBG-WY-10225",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9604,
+    "y": 44.327,
+    "infraWeight": 0.5114050124055957,
+    "population": 864,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10286",
+      "CBG-WY-10200",
+      "CBG-WY-10260",
+      "CBG-WY-10148",
+      "CBG-WY-10082"
+    ]
+  },
+  {
+    "id": "CBG-WY-10226",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.402,
+    "y": 44.385,
+    "infraWeight": 0.360026855961495,
+    "population": 713,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10100",
+      "CBG-WY-10008",
+      "CBG-WY-10251",
+      "CBG-WY-10060",
+      "CBG-WY-10284"
+    ]
+  },
+  {
+    "id": "CBG-WY-10227",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.794,
+    "y": 42.2567,
+    "infraWeight": 0.38871767196788337,
+    "population": 719,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10274",
+      "CBG-WY-10218",
+      "CBG-WY-10003",
+      "CBG-WY-10241",
+      "CBG-WY-10140"
+    ]
+  },
+  {
+    "id": "CBG-WY-10228",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.9371,
+    "y": 42.8584,
+    "infraWeight": 0.44288470168960226,
+    "population": 926,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10182",
+      "CBG-WY-10123",
+      "CBG-WY-10027",
+      "CBG-WY-10052",
+      "CBG-WY-10249"
+    ]
+  },
+  {
+    "id": "CBG-WY-10229",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7696,
+    "y": 44.2327,
+    "infraWeight": 0.42434489841650275,
+    "population": 809,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10171",
+      "CBG-WY-10181",
+      "CBG-WY-10115",
+      "CBG-WY-10033",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10230",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6075,
+    "y": 41.9121,
+    "infraWeight": 0.6141325973286507,
+    "population": 1040,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10177",
+      "CBG-WY-10173",
+      "CBG-WY-10056",
+      "CBG-WY-10109",
+      "CBG-WY-10243"
+    ]
+  },
+  {
+    "id": "CBG-WY-10231",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5068,
+    "y": 41.6445,
+    "infraWeight": 0.5645832012118801,
+    "population": 942,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10095",
+      "CBG-WY-10232",
+      "CBG-WY-10058",
+      "CBG-WY-10273",
+      "CBG-WY-10125"
+    ]
+  },
+  {
+    "id": "CBG-WY-10232",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.6571,
+    "y": 41.5172,
+    "infraWeight": 0.5266680777778429,
+    "population": 1054,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10095",
+      "CBG-WY-10231",
+      "CBG-WY-10075",
+      "CBG-WY-10072",
+      "CBG-WY-10125"
+    ]
+  },
+  {
+    "id": "CBG-WY-10233",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.3671,
+    "y": 41.9185,
+    "infraWeight": 0.37374022864138934,
+    "population": 661,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10053",
+      "CBG-WY-10036",
+      "CBG-WY-10077",
+      "CBG-WY-10247",
+      "CBG-WY-10255"
+    ]
+  },
+  {
+    "id": "CBG-WY-10234",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.7156,
+    "y": 41.9935,
+    "infraWeight": 0.4432408051478461,
+    "population": 922,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10195",
+      "CBG-WY-10282",
+      "CBG-WY-10053",
+      "CBG-WY-10247",
+      "CBG-WY-10281"
+    ]
+  },
+  {
+    "id": "CBG-WY-10235",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.3249,
+    "y": 44.1258,
+    "infraWeight": 0.5624508079849011,
+    "population": 1042,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10112",
+      "CBG-WY-10070",
+      "CBG-WY-10288",
+      "CBG-WY-10187",
+      "CBG-WY-10216"
+    ]
+  },
+  {
+    "id": "CBG-WY-10236",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.1765,
+    "y": 43.4986,
+    "infraWeight": 0.8347054503624948,
+    "population": 1466,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10024",
+      "CBG-WY-10103",
+      "CBG-WY-10258",
+      "CBG-WY-10094",
+      "CBG-WY-10246"
+    ]
+  },
+  {
+    "id": "CBG-WY-10237",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.578,
+    "y": 44.7111,
+    "infraWeight": 0.41098070829449196,
+    "population": 779,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10059",
+      "CBG-WY-10017",
+      "CBG-WY-10167",
+      "CBG-WY-10033",
+      "CBG-WY-10146"
+    ]
+  },
+  {
+    "id": "CBG-WY-10238",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2444,
+    "y": 42.7027,
+    "infraWeight": 0.34694758029621664,
+    "population": 760,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10203",
+      "CBG-WY-10263",
+      "CBG-WY-10215",
+      "CBG-WY-10274",
+      "CBG-WY-10047"
+    ]
+  },
+  {
+    "id": "CBG-WY-10239",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.9984,
+    "y": 42.7973,
+    "infraWeight": 0.9422517136750767,
+    "population": 1913,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10046",
+      "CBG-WY-10107",
+      "CBG-WY-10051",
+      "CBG-WY-10254",
+      "CBG-WY-10289"
+    ]
+  },
+  {
+    "id": "CBG-WY-10240",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.0671,
+    "y": 43.5721,
+    "infraWeight": 0.8564930723345339,
+    "population": 1869,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10168",
+      "CBG-WY-10214",
+      "CBG-WY-10265",
+      "CBG-WY-10224",
+      "CBG-WY-10057"
+    ]
+  },
+  {
+    "id": "CBG-WY-10241",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.1217,
+    "y": 42.4506,
+    "infraWeight": 0.42929067853363245,
+    "population": 797,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10003",
+      "CBG-WY-10121",
+      "CBG-WY-10158",
+      "CBG-WY-10274",
+      "CBG-WY-10227"
+    ]
+  },
+  {
+    "id": "CBG-WY-10242",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.9683,
+    "y": 42.5143,
+    "infraWeight": 0.3372128245598248,
+    "population": 740,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10287",
+      "CBG-WY-10256",
+      "CBG-WY-10196",
+      "CBG-WY-10111",
+      "CBG-WY-10271"
+    ]
+  },
+  {
+    "id": "CBG-WY-10243",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.6075,
+    "y": 42.3641,
+    "infraWeight": 0.700677509184643,
+    "population": 1216,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10109",
+      "CBG-WY-10056",
+      "CBG-WY-10254",
+      "CBG-WY-10289",
+      "CBG-WY-10161"
+    ]
+  },
+  {
+    "id": "CBG-WY-10244",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4537,
+    "y": 44.5146,
+    "infraWeight": 0.52227093760256,
+    "population": 925,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10000",
+      "CBG-WY-10296",
+      "CBG-WY-10295",
+      "CBG-WY-10288",
+      "CBG-WY-10216"
+    ]
+  },
+  {
+    "id": "CBG-WY-10245",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3782,
+    "y": 41.5855,
+    "infraWeight": 0.6183785466599376,
+    "population": 1069,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10093",
+      "CBG-WY-10066",
+      "CBG-WY-10124",
+      "CBG-WY-10001",
+      "CBG-WY-10266"
+    ]
+  },
+  {
+    "id": "CBG-WY-10246",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.8225,
+    "y": 43.3745,
+    "infraWeight": 1.0271969982003684,
+    "population": 1767,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10293",
+      "CBG-WY-10024",
+      "CBG-WY-10236",
+      "CBG-WY-10103",
+      "CBG-WY-10151"
+    ]
+  },
+  {
+    "id": "CBG-WY-10247",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.1318,
+    "y": 41.7076,
+    "infraWeight": 0.3862622988065792,
+    "population": 765,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10255",
+      "CBG-WY-10053",
+      "CBG-WY-10085",
+      "CBG-WY-10233",
+      "CBG-WY-10077"
+    ]
+  },
+  {
+    "id": "CBG-WY-10248",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1102,
+    "y": 41.7868,
+    "infraWeight": 0.5045288190027649,
+    "population": 935,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10191",
+      "CBG-WY-10087",
+      "CBG-WY-10219",
+      "CBG-WY-10072",
+      "CBG-WY-10075"
+    ]
+  },
+  {
+    "id": "CBG-WY-10249",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.0874,
+    "y": 42.4685,
+    "infraWeight": 0.4180379589283744,
+    "population": 820,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10052",
+      "CBG-WY-10182",
+      "CBG-WY-10228",
+      "CBG-WY-10027",
+      "CBG-WY-10123"
+    ]
+  },
+  {
+    "id": "CBG-WY-10250",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.2595,
+    "y": 41.0511,
+    "infraWeight": 0.34608492943054375,
+    "population": 632,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10163",
+      "CBG-WY-10054",
+      "CBG-WY-10061",
+      "CBG-WY-10138",
+      "CBG-WY-10169"
+    ]
+  },
+  {
+    "id": "CBG-WY-10251",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.2936,
+    "y": 44.588,
+    "infraWeight": 0.36005465419936145,
+    "population": 732,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10100",
+      "CBG-WY-10226",
+      "CBG-WY-10060",
+      "CBG-WY-10184",
+      "CBG-WY-10022"
+    ]
+  },
+  {
+    "id": "CBG-WY-10252",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.1041,
+    "y": 44.0084,
+    "infraWeight": 0.4008873098494016,
+    "population": 812,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10115",
+      "CBG-WY-10284",
+      "CBG-WY-10171",
+      "CBG-WY-10229",
+      "CBG-WY-10099"
+    ]
+  },
+  {
+    "id": "CBG-WY-10253",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4536,
+    "y": 44.3675,
+    "infraWeight": 0.3417739363099096,
+    "population": 605,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10084",
+      "CBG-WY-10108",
+      "CBG-WY-10044",
+      "CBG-WY-10011",
+      "CBG-WY-10067"
+    ]
+  },
+  {
+    "id": "CBG-WY-10254",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.87,
+    "y": 42.4544,
+    "infraWeight": 0.7997761748715218,
+    "population": 1383,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10289",
+      "CBG-WY-10161",
+      "CBG-WY-10051",
+      "CBG-WY-10109",
+      "CBG-WY-10243"
+    ]
+  },
+  {
+    "id": "CBG-WY-10255",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.3374,
+    "y": 41.6019,
+    "infraWeight": 0.364559917096254,
+    "population": 770,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10085",
+      "CBG-WY-10077",
+      "CBG-WY-10036",
+      "CBG-WY-10247",
+      "CBG-WY-10233"
+    ]
+  },
+  {
+    "id": "CBG-WY-10256",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.7697,
+    "y": 42.5014,
+    "infraWeight": 0.3526357036673458,
+    "population": 776,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10196",
+      "CBG-WY-10271",
+      "CBG-WY-10111",
+      "CBG-WY-10242",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10257",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.0147,
+    "y": 42.578,
+    "infraWeight": 0.5776842885466167,
+    "population": 1035,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10139",
+      "CBG-WY-10091",
+      "CBG-WY-10131",
+      "CBG-WY-10267",
+      "CBG-WY-10279"
+    ]
+  },
+  {
+    "id": "CBG-WY-10258",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3663,
+    "y": 43.384,
+    "infraWeight": 0.790316558887071,
+    "population": 1592,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10103",
+      "CBG-WY-10236",
+      "CBG-WY-10094",
+      "CBG-WY-10024",
+      "CBG-WY-10019"
+    ]
+  },
+  {
+    "id": "CBG-WY-10259",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.7375,
+    "y": 41.578,
+    "infraWeight": 0.4535285206652759,
+    "population": 946,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10098",
+      "CBG-WY-10032",
+      "CBG-WY-10063",
+      "CBG-WY-10202",
+      "CBG-WY-10188"
+    ]
+  },
+  {
+    "id": "CBG-WY-10260",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.5513,
+    "y": 44.1218,
+    "infraWeight": 0.5998759824055105,
+    "population": 1320,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10028",
+      "CBG-WY-10082",
+      "CBG-WY-10192",
+      "CBG-WY-10200",
+      "CBG-WY-10225"
+    ]
+  },
+  {
+    "id": "CBG-WY-10261",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.8292,
+    "y": 43.2471,
+    "infraWeight": 0.35013513923247136,
+    "population": 640,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10264",
+      "CBG-WY-10021",
+      "CBG-WY-10078",
+      "CBG-WY-10041",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10262",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3483,
+    "y": 42.6242,
+    "infraWeight": 0.7985329076574644,
+    "population": 1489,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10129",
+      "CBG-WY-10217",
+      "CBG-WY-10298",
+      "CBG-WY-10038",
+      "CBG-WY-10068"
+    ]
+  },
+  {
+    "id": "CBG-WY-10263",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.4445,
+    "y": 42.8543,
+    "infraWeight": 0.3646661289752793,
+    "population": 676,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10238",
+      "CBG-WY-10203",
+      "CBG-WY-10215",
+      "CBG-WY-10047",
+      "CBG-WY-10076"
+    ]
+  },
+  {
+    "id": "CBG-WY-10264",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.8919,
+    "y": 43.1111,
+    "infraWeight": 0.34567801396566755,
+    "population": 616,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10261",
+      "CBG-WY-10078",
+      "CBG-WY-10021",
+      "CBG-WY-10041",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10265",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.3887,
+    "y": 43.5518,
+    "infraWeight": 0.9518538578720993,
+    "population": 1761,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10224",
+      "CBG-WY-10214",
+      "CBG-WY-10293",
+      "CBG-WY-10057",
+      "CBG-WY-10240"
+    ]
+  },
+  {
+    "id": "CBG-WY-10266",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.4399,
+    "y": 41.9663,
+    "infraWeight": 0.7351811061027169,
+    "population": 1366,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10142",
+      "CBG-WY-10066",
+      "CBG-WY-10179",
+      "CBG-WY-10245",
+      "CBG-WY-10026"
+    ]
+  },
+  {
+    "id": "CBG-WY-10267",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2433,
+    "y": 42.7464,
+    "infraWeight": 0.6422649015699681,
+    "population": 1310,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10131",
+      "CBG-WY-10139",
+      "CBG-WY-10257",
+      "CBG-WY-10291",
+      "CBG-WY-10276"
+    ]
+  },
+  {
+    "id": "CBG-WY-10268",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.6143,
+    "y": 44.0523,
+    "infraWeight": 0.3541408275067916,
+    "population": 655,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10284",
+      "CBG-WY-10099",
+      "CBG-WY-10008",
+      "CBG-WY-10226",
+      "CBG-WY-10193"
+    ]
+  },
+  {
+    "id": "CBG-WY-10269",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.7646,
+    "y": 42.3095,
+    "infraWeight": 0.8710578864532545,
+    "population": 1636,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10026",
+      "CBG-WY-10217",
+      "CBG-WY-10179",
+      "CBG-WY-10266",
+      "CBG-WY-10142"
+    ]
+  },
+  {
+    "id": "CBG-WY-10270",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.2718,
+    "y": 41.4915,
+    "infraWeight": 0.5033028433839383,
+    "population": 882,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10050",
+      "CBG-WY-10212",
+      "CBG-WY-10197",
+      "CBG-WY-10177",
+      "CBG-WY-10098"
+    ]
+  },
+  {
+    "id": "CBG-WY-10271",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.618,
+    "y": 42.5059,
+    "infraWeight": 0.36556621232568964,
+    "population": 600,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10256",
+      "CBG-WY-10196",
+      "CBG-WY-10111",
+      "CBG-WY-10242",
+      "CBG-WY-10287"
+    ]
+  },
+  {
+    "id": "CBG-WY-10272",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2969,
+    "y": 44.061,
+    "infraWeight": 0.33891375893558806,
+    "population": 606,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10044",
+      "CBG-WY-10011",
+      "CBG-WY-10186",
+      "CBG-WY-10127",
+      "CBG-WY-10108"
+    ]
+  },
+  {
+    "id": "CBG-WY-10273",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3972,
+    "y": 41.9828,
+    "infraWeight": 0.6462156992777839,
+    "population": 1191,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10231",
+      "CBG-WY-10095",
+      "CBG-WY-10217",
+      "CBG-WY-10232",
+      "CBG-WY-10058"
+    ]
+  },
+  {
+    "id": "CBG-WY-10274",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.7482,
+    "y": 42.5062,
+    "infraWeight": 0.3896712623806213,
+    "population": 718,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10003",
+      "CBG-WY-10227",
+      "CBG-WY-10047",
+      "CBG-WY-10241",
+      "CBG-WY-10263"
+    ]
+  },
+  {
+    "id": "CBG-WY-10275",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.4763,
+    "y": 44.3686,
+    "infraWeight": 0.43002703429102906,
+    "population": 858,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10285",
+      "CBG-WY-10025",
+      "CBG-WY-10290",
+      "CBG-WY-10137",
+      "CBG-WY-10007"
+    ]
+  },
+  {
+    "id": "CBG-WY-10276",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.1022,
+    "y": 43.0352,
+    "infraWeight": 0.6115833443816773,
+    "population": 1288,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10291",
+      "CBG-WY-10018",
+      "CBG-WY-10131",
+      "CBG-WY-10267",
+      "CBG-WY-10209"
+    ]
+  },
+  {
+    "id": "CBG-WY-10277",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.6463,
+    "y": 42.205,
+    "infraWeight": 0.4890404677664475,
+    "population": 867,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10049",
+      "CBG-WY-10063",
+      "CBG-WY-10091",
+      "CBG-WY-10202",
+      "CBG-WY-10012"
+    ]
+  },
+  {
+    "id": "CBG-WY-10278",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.2604,
+    "y": 41.8987,
+    "infraWeight": 0.335314406464663,
+    "population": 600,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10156",
+      "CBG-WY-10088",
+      "CBG-WY-10064",
+      "CBG-WY-10083",
+      "CBG-WY-10218"
+    ]
+  },
+  {
+    "id": "CBG-WY-10279",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.7367,
+    "y": 42.7717,
+    "infraWeight": 0.5296418536575068,
+    "population": 943,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10291",
+      "CBG-WY-10257",
+      "CBG-WY-10139",
+      "CBG-WY-10091",
+      "CBG-WY-10194"
+    ]
+  },
+  {
+    "id": "CBG-WY-10280",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.0267,
+    "y": 44.6564,
+    "infraWeight": 0.5510448775759387,
+    "population": 1092,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10128",
+      "CBG-WY-10126",
+      "CBG-WY-10154",
+      "CBG-WY-10192",
+      "CBG-WY-10082"
+    ]
+  },
+  {
+    "id": "CBG-WY-10281",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.4399,
+    "y": 42.4461,
+    "infraWeight": 0.5058593117285614,
+    "population": 873,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10282",
+      "CBG-WY-10027",
+      "CBG-WY-10029",
+      "CBG-WY-10130",
+      "CBG-WY-10034"
+    ]
+  },
+  {
+    "id": "CBG-WY-10282",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.6288,
+    "y": 42.2169,
+    "infraWeight": 0.46623132085704366,
+    "population": 772,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10234",
+      "CBG-WY-10281",
+      "CBG-WY-10195",
+      "CBG-WY-10027",
+      "CBG-WY-10249"
+    ]
+  },
+  {
+    "id": "CBG-WY-10283",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.1621,
+    "y": 44.9142,
+    "infraWeight": 0.3691239299241811,
+    "population": 650,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10002",
+      "CBG-WY-10016",
+      "CBG-WY-10010",
+      "CBG-WY-10297",
+      "CBG-WY-10062"
+    ]
+  },
+  {
+    "id": "CBG-WY-10284",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.4578,
+    "y": 44.0246,
+    "infraWeight": 0.36776442168538354,
+    "population": 618,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10099",
+      "CBG-WY-10268",
+      "CBG-WY-10008",
+      "CBG-WY-10252",
+      "CBG-WY-10226"
+    ]
+  },
+  {
+    "id": "CBG-WY-10285",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.5214,
+    "y": 44.4182,
+    "infraWeight": 0.43120030003806975,
+    "population": 730,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10275",
+      "CBG-WY-10025",
+      "CBG-WY-10007",
+      "CBG-WY-10143",
+      "CBG-WY-10190"
+    ]
+  },
+  {
+    "id": "CBG-WY-10286",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -109.1427,
+    "y": 44.2342,
+    "infraWeight": 0.4981339814727064,
+    "population": 816,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10225",
+      "CBG-WY-10148",
+      "CBG-WY-10167",
+      "CBG-WY-10200",
+      "CBG-WY-10145"
+    ]
+  },
+  {
+    "id": "CBG-WY-10287",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -110.9388,
+    "y": 42.6613,
+    "infraWeight": 0.3408124534921119,
+    "population": 656,
+    "microDistrictId": "WY-MD-8",
+    "neighbors": [
+      "CBG-WY-10242",
+      "CBG-WY-10256",
+      "CBG-WY-10196",
+      "CBG-WY-10078",
+      "CBG-WY-10271"
+    ]
+  },
+  {
+    "id": "CBG-WY-10288",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4523,
+    "y": 44.2793,
+    "infraWeight": 0.557962409547498,
+    "population": 913,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10216",
+      "CBG-WY-10235",
+      "CBG-WY-10000",
+      "CBG-WY-10244",
+      "CBG-WY-10070"
+    ]
+  },
+  {
+    "id": "CBG-WY-10289",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.8907,
+    "y": 42.396,
+    "infraWeight": 0.7904412503283699,
+    "population": 1687,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10254",
+      "CBG-WY-10161",
+      "CBG-WY-10051",
+      "CBG-WY-10109",
+      "CBG-WY-10243"
+    ]
+  },
+  {
+    "id": "CBG-WY-10290",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.2316,
+    "y": 44.2347,
+    "infraWeight": 0.41316655779802797,
+    "population": 880,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10137",
+      "CBG-WY-10025",
+      "CBG-WY-10006",
+      "CBG-WY-10275",
+      "CBG-WY-10285"
+    ]
+  },
+  {
+    "id": "CBG-WY-10291",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.021,
+    "y": 42.9559,
+    "infraWeight": 0.5919188670481307,
+    "population": 1227,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10276",
+      "CBG-WY-10018",
+      "CBG-WY-10131",
+      "CBG-WY-10267",
+      "CBG-WY-10279"
+    ]
+  },
+  {
+    "id": "CBG-WY-10292",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.3325,
+    "y": 41.3094,
+    "infraWeight": 0.5242304144481289,
+    "population": 984,
+    "microDistrictId": "WY-MD-5",
+    "neighbors": [
+      "CBG-WY-10058",
+      "CBG-WY-10125",
+      "CBG-WY-10231",
+      "CBG-WY-10232",
+      "CBG-WY-10095"
+    ]
+  },
+  {
+    "id": "CBG-WY-10293",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -107.5667,
+    "y": 43.4157,
+    "infraWeight": 1.0596711466993698,
+    "population": 1928,
+    "microDistrictId": "WY-MD-1",
+    "neighbors": [
+      "CBG-WY-10224",
+      "CBG-WY-10265",
+      "CBG-WY-10246",
+      "CBG-WY-10214",
+      "CBG-WY-10178"
+    ]
+  },
+  {
+    "id": "CBG-WY-10294",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.9323,
+    "y": 42.2741,
+    "infraWeight": 0.586509046830012,
+    "population": 1015,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10069",
+      "CBG-WY-10153",
+      "CBG-WY-10038",
+      "CBG-WY-10092",
+      "CBG-WY-10191"
+    ]
+  },
+  {
+    "id": "CBG-WY-10295",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.289,
+    "y": 44.5775,
+    "infraWeight": 0.4963410085599121,
+    "population": 886,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10244",
+      "CBG-WY-10296",
+      "CBG-WY-10144",
+      "CBG-WY-10000",
+      "CBG-WY-10288"
+    ]
+  },
+  {
+    "id": "CBG-WY-10296",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -106.4571,
+    "y": 44.6715,
+    "infraWeight": 0.5001193850321443,
+    "population": 1085,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10244",
+      "CBG-WY-10295",
+      "CBG-WY-10000",
+      "CBG-WY-10086",
+      "CBG-WY-10222"
+    ]
+  },
+  {
+    "id": "CBG-WY-10297",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -104.921,
+    "y": 44.5579,
+    "infraWeight": 0.3694915894646122,
+    "population": 759,
+    "microDistrictId": 1,
+    "neighbors": [
+      "CBG-WY-10016",
+      "CBG-WY-10283",
+      "CBG-WY-10290",
+      "CBG-WY-10002",
+      "CBG-WY-10084"
+    ]
+  },
+  {
+    "id": "CBG-WY-10298",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -108.1134,
+    "y": 42.9737,
+    "infraWeight": 0.9617746969599178,
+    "population": 1903,
+    "microDistrictId": "WY-MD-2",
+    "neighbors": [
+      "CBG-WY-10151",
+      "CBG-WY-10262",
+      "CBG-WY-10129",
+      "CBG-WY-10258",
+      "CBG-WY-10103"
+    ]
+  },
+  {
+    "id": "CBG-WY-10299",
+    "parentZip": "90210",
+    "state": "WY",
+    "x": -105.795,
+    "y": 44.6702,
+    "infraWeight": 0.4378686645295944,
+    "population": 951,
+    "microDistrictId": "WY-MD-4",
+    "neighbors": [
+      "CBG-WY-10159",
+      "CBG-WY-10004",
+      "CBG-WY-10007",
+      "CBG-WY-10143",
+      "CBG-WY-10190"
+    ]
+  }
+]
