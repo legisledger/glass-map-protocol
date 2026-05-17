@@ -1,0 +1,55 @@
+name: GMP State Synthesis Validation
+
+on:
+  push:
+    branches:
+      - 'feature/foc-pipeline-synthesis'
+    paths:
+      - 'tools/synthesize_registry.js'
+      - 'test/pipeline.test.js'
+      - 'data/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/synthesize_registry.js'
+      - 'test/pipeline.test.js'
+  workflow_dispatch:
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm' # Automagically handles caching based on your package-lock.json
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Execute Glass Map Registry Synthesis
+        run: node tools/synthesize_registry.js
+
+      - name: Run Verification Pipeline Audit
+        run: node test/pipeline.test.js
+
+      - name: Export Audit Artifacts for UI
+        if: success()
+        run: |
+          mkdir -p public/districts
+          # Copy your final compiled results and summary into the public folder
+          cp -r data/compiled_registry.json public/districts/registry.json || true
+          cp -r test/audit_summary.json public/districts/audit.json || true
+
+      # This step integrates with your existing GitHub Pages deployment setup
+      - name: Upload Artifact for Deployment
+        if: success()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'public'
